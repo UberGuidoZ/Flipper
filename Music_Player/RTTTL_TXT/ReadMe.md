@@ -3,3 +3,5 @@ If you've flashed firmware that doesn't seem to include the Music Player (but se
 ![Music_Player](https://user-images.githubusercontent.com/57457139/167557437-bb79bdfa-db4c-4964-ac4a-e09cb24f9d71.png)
 
 **NOTE: Make sure to put the TXT And FMF files in the root of the music_player folder for them to work!**
+
+Otherwise, you can access them through the file browser on later firmwares.
