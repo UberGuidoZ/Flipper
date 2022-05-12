@@ -5,3 +5,5 @@ If you've flashed firmware that doesn't seem to include the Music Player (but se
 **NOTE: Make sure to put the TXT And FMF files in the root of the music_player folder for them to work!**
 
 Otherwise, you can access them through the file browser on later firmwares.
+
+TON MORE FILES from [neverfa11ing here](https://github.com/neverfa11ing/FlipperMusicRTTTL)
