@@ -6,4 +6,4 @@ If you've flashed firmware that doesn't seem to include the Music Player (but se
 
 Otherwise, you can access them through the file browser on later firmwares.
 
-TON MORE FILES from [neverfa11ing here](https://github.com/neverfa11ing/FlipperMusicRTTTL)
+TON MORE FILES from [neverfa11ing here](https://github.com/neverfa11ing/FlipperMusicRTTTL) (unverified but likely better than nothing!)
