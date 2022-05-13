@@ -1,1 +1,1 @@
-Keeping all that in my fork of the [Flipper-IRDB](https://github.com/UberGuidoZ/Flipper-IRDB)!
+Keeping all that in my fork of the [Flipper-IRDB](https://github.com/UberGuidoZ/Flipper-IRDB)! Now updated link to a maintained one.
