@@ -17,4 +17,4 @@ The last byte in page 6 (0x04) defines what type of encoding ([data sheet](https
 
 One limitation is the URL will be truncated if it goes beyond page 11! If your URL is less than exact, pad it with 00, making sure page 12 stays as "FE 00 00 00". Note that [TinyURL](https://tinyurl.com/app) links appear to fit well and conversion/use is free. If your link doesn't launch automatically when scanned, try using a different URI identifier.
 
-Acknowledgements: RogueMaster | cyanic | Null Silvry (for discussions and testing.)
+Acknowledgements: RogueMaster | cyanic | Null Silvry (for discussions, testing, and any files.)
