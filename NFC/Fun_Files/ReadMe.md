@@ -8,7 +8,7 @@ Page 9: 2F 64 51 77 <br>
 Page 10: 34 77 39 57 <br>
 Page 11: 67 58 63 51 <br>
 
-This is simply the YouTube "share" link encoded into HEX and split into 4 byte chunks. See for yourself...
+This is simply the YouTube "[share](https://support.google.com/youtube/answer/57741)" link encoded into HEX and split into 4 byte chunks. See for yourself...
 
 HEX from above: 79 6F 75 74 75 2E 62 65 2F 64 51 77 34 77 39 57 67 58 63 51 <br>
 [Converted](https://www.binaryhexconverter.com/hex-to-ascii-text-converter): youtu.be/dQw4w9WgXcQ
