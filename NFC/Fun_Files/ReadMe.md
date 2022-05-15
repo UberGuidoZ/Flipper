@@ -1,3 +1,5 @@
+**BIG CHANGES COMING TO THIS SOON! Updated info as the below is no longer (entirely) true.**
+
 Some files that are fun to use. Starting to get a better idea on the structure (Flipper format) of NFC files and payloads.
 
 Example using the [RickRoll.nfc](https://github.com/UberGuidoZ/Flipper/blob/main/NFC/Fun_Files/RickRoll.nfc) file. Leave the data in pages 1 through 6 alone (though not always true, but it is for YouTube links.)
