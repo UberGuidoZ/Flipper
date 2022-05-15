@@ -19,4 +19,43 @@ The last byte in page 6 (0x04) defines what type of encoding ([data sheet](https
 
 One limitation is the URL will be truncated if it goes beyond page 11! If your URL is less than exact, pad it with 00, making sure page 12 stays as "FE 00 00 00". Note that [TinyURL](https://tinyurl.com/app) links appear to fit well and conversion/use is free. If your link doesn't launch automatically when scanned, try using a different URI identifier.
 
-Acknowledgements: RogueMaster | cyanic | Null Silvry (for discussions, testing, and any files.)
+Acknowledgements: RogueMaster | cyanic | Null Silvry | Equip | DDVL (for discussions, testing, and any files.)
+
+Value&nbsp;&nbsp;&nbsp;&nbsp;Protocol &nbsp;&nbsp;&nbsp;&nbsp;([SOURCE](https://learn.adafruit.com/adafruit-pn532-rfid-nfc/ndef))<br>
+------&nbsp;&nbsp;&nbsp;&nbsp;---------- <br>
+0x00&nbsp;&nbsp;&nbsp;&nbsp; No prepending is done ... the entire URI is contained in the URI Field <br>
+0x01&nbsp;&nbsp;&nbsp;&nbsp; http://www. <br>
+0x02&nbsp;&nbsp;&nbsp;&nbsp; https://www. <br>
+0x03&nbsp;&nbsp;&nbsp;&nbsp; http:// <br>
+0x04&nbsp;&nbsp;&nbsp;&nbsp; https:// <br>
+0x05&nbsp;&nbsp;&nbsp;&nbsp; tel: <br>
+0x06&nbsp;&nbsp;&nbsp;&nbsp; mailto: <br>
+0x07&nbsp;&nbsp;&nbsp;&nbsp; ftp://anonymous:anonymous@ <br>
+0x08&nbsp;&nbsp;&nbsp;&nbsp; ftp://ftp. <br>
+0x09&nbsp;&nbsp;&nbsp;&nbsp; ftps:// <br>
+0x0A&nbsp;&nbsp;&nbsp;&nbsp; sftp:// <br>
+0x0B&nbsp;&nbsp;&nbsp;&nbsp; smb:// <br>
+0x0C&nbsp;&nbsp;&nbsp;&nbsp; nfs:// <br>
+0x0D&nbsp;&nbsp;&nbsp;&nbsp; ftp:// <br>
+0x0E&nbsp;&nbsp;&nbsp;&nbsp; dav:// <br>
+0x0F&nbsp;&nbsp;&nbsp;&nbsp; news: <br>
+0x10&nbsp;&nbsp;&nbsp;&nbsp; telnet:// <br>
+0x11&nbsp;&nbsp;&nbsp;&nbsp; imap: <br>
+0x12&nbsp;&nbsp;&nbsp;&nbsp; rtsp:// <br>
+0x13&nbsp;&nbsp;&nbsp;&nbsp; urn: <br>
+0x14&nbsp;&nbsp;&nbsp;&nbsp; pop: <br>
+0x15&nbsp;&nbsp;&nbsp;&nbsp; sip: <br>
+0x16&nbsp;&nbsp;&nbsp;&nbsp; sips: <br>
+0x17&nbsp;&nbsp;&nbsp;&nbsp; tftp: <br>
+0x18&nbsp;&nbsp;&nbsp;&nbsp; btspp:// <br>
+0x19&nbsp;&nbsp;&nbsp;&nbsp; btl2cap:// <br>
+0x1A&nbsp;&nbsp;&nbsp;&nbsp; btgoep:// <br>
+0x1B&nbsp;&nbsp;&nbsp;&nbsp; tcpobex:// <br>
+0x1C&nbsp;&nbsp;&nbsp;&nbsp; irdaobex:// <br>
+0x1D&nbsp;&nbsp;&nbsp;&nbsp; file:// <br>
+0x1E&nbsp;&nbsp;&nbsp;&nbsp; urn:epc:id: <br>
+0x1F&nbsp;&nbsp;&nbsp;&nbsp; urn:epc:tag: <br>
+0x20&nbsp;&nbsp;&nbsp;&nbsp; urn:epc:pat: <br>
+0x21&nbsp;&nbsp;&nbsp;&nbsp; urn:epc:raw: <br>
+0x22&nbsp;&nbsp;&nbsp;&nbsp; urn:epc: <br>
+0x23&nbsp;&nbsp;&nbsp;&nbsp; urn:nfc: <br>
