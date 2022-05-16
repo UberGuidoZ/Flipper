@@ -21,6 +21,8 @@ One limitation is the URL will be truncated if it goes beyond page 11! If your U
 
 Acknowledgements: RogueMaster | cyanic | Null Silvry | Equip | DDVL (for discussions, testing, and any files.)
 
+![NFC_Mem_Opt](https://user-images.githubusercontent.com/57457139/168696250-31ce8633-54cb-4ed7-96fb-f71723f686dd.png)
+
 Value&nbsp;&nbsp;&nbsp;&nbsp;Protocol &nbsp;&nbsp;&nbsp;&nbsp;([SOURCE](https://learn.adafruit.com/adafruit-pn532-rfid-nfc/ndef))<br>
 ------&nbsp;&nbsp;&nbsp;&nbsp;---------- <br>
 0x00&nbsp;&nbsp;&nbsp;&nbsp; No prepending is done ... the entire URI is contained in the URI Field <br>
