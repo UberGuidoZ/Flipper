@@ -19,7 +19,9 @@ The last byte in page 6 (0x04) defines what type of encoding ([data sheet](https
 
 One limitation is the URL will be truncated if it goes beyond page 11! If your URL is less than exact, pad it with 00, making sure page 12 stays as "FE 00 00 00". Note that [TinyURL](https://tinyurl.com/app) links appear to fit well and conversion/use is free. If your link doesn't launch automatically when scanned, try using a different URI identifier.
 
-Acknowledgements: RogueMaster | cyanic | Null Silvry | Equip | DDVL (for discussions, testing, and any files.)
+Acknowledgements: [RogueMaster](https://github.com/RogueMaster/) | cyanic | Null Silvry | Equip | DDVL (for discussions, testing, and any files.)
+
+[NTAG Differences](https://www.rfidfuture.com/difference-between-ntag213-ntag215-and-ntag216.html) | [NTAG Datasheet](https://www.nxp.com/docs/en/data-sheet/NTAG213_215_216.pdf) | [ASCII to HEX](https://onlinehextools.com/convert-ascii-to-hex) | [HEX to Decimal](https://www.binaryhexconverter.com/hex-to-decimal-converter) (Other converters at both links.)
 
 ![NFC_Mem_Opt](https://user-images.githubusercontent.com/57457139/168696250-31ce8633-54cb-4ed7-96fb-f71723f686dd.png)
 
