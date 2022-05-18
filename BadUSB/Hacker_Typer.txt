@@ -1,6 +1,6 @@
-# Opens a harmless website and types like a hacker
-# By UberGuidoZ
-#
+REM Opens a harmless website and types like a hacker
+REM By UberGuidoZ
+REM
 DELAY 1500
 GUI r
 DELAY 1000
