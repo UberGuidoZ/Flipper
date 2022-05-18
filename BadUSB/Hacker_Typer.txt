@@ -1,3 +1,6 @@
+# Opens a harmless website and types like a hacker
+# By UberGuidoZ
+#
 DELAY 1500
 GUI r
 DELAY 1000
