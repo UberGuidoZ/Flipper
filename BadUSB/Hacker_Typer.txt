@@ -39,9 +39,7 @@ DELAY 1500
 STRING 9
 DELAY 1500
 STRING 8
-DELAY 1500
-STRING 0
-DELAY 3500
+DELAY 5000
 BACKSPACE
 DELAY 500
 STRING qwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiopqwertyuiop
