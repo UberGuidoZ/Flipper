@@ -2,7 +2,7 @@ Work in progress. Needs the [WAV Player application](https://github.com/flipperd
 
 Create a wav_player folder in the root of your SD card. You'll need 8-bit unsigned WAV files (try [Audacity](https://www.audacityteam.org/) for conversion.)
 
-WAV Player is apparently very particular about the format.Okay finally have some results, WavPlayer wants BitExact, NO headers, 48k PCM unsigned 8-bit stereo. Example:
+WAV Player is apparently very particular about the format. WavPlayer wants BitExact, NO headers, 48k PCM unsigned 8-bit stereo. Example:
 
 `Input #0, wav, from '.\canyon.wav':`<br>
 `  Duration: 00:02:03.38, bitrate: 768 kb/s`<br>
