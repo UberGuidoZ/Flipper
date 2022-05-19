@@ -4,7 +4,7 @@ Create a wav_player folder in the root of your SD card. You'll need 8-bit unsign
 
 WAV Player is apparently very particular about the format. WavPlayer wants BitExact, NO headers, 48k PCM unsigned 8-bit stereo. Example:
 
-`Input #0, wav, from '.\canyon.wav':`<br>
+`Input #0, wav, from '.\rickroll.wav':`<br>
 `  Duration: 00:02:03.38, bitrate: 768 kb/s`<br>
 `    Stream #0:0: Audio: pcm_u8 ([1][0][0][0] / 0x0001), 48000 Hz, stereo, u8, 768 kb/s`
 
