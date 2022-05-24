@@ -1,6 +1,6 @@
 Needs the [WAV Player application](https://github.com/flipperdevices/flipperzero-firmware/tree/zlo/wav-player/applications/wav_player) compiled into firmware. Original code from [Zlo](https://github.com/flipperdevices/flipperzero-firmware/tree/zlo/wav-player) and most files provided by [RogueMaster](https://github.com/RogueMaster).
 
-Create a wav_player folder in the root of your SD card. You'll need 8-bit unsigned WAV files (try [Audacity](https://www.audacityteam.org/) for conversion.)
+Create a wav_player folder in the root of your SD card. You'll need **8-bit, 2 channel, unsigned WAV files** (try [Audacity](https://www.audacityteam.org/) for conversion.)
 
 WAV Player is apparently very particular about the format. WavPlayer wants BitExact, NO headers, 48k PCM unsigned 8-bit stereo. Example:
 
