@@ -2,7 +2,7 @@ Needs the [WAV Player application](https://github.com/flipperdevices/flipperzero
 
 Create a wav_player folder in the root of your SD card. You'll need **8-bit, 2 channel, unsigned WAV files** (try [Audacity](https://www.audacityteam.org/) for conversion.)
 
-WAV Player is apparently very particular about the format. WavPlayer wants BitExact, NO headers, 48k PCM unsigned 8-bit stereo. Example:
+WAV Player is very particular about the format. WavPlayer needs BitExact, NO headers, 48k PCM, unsigned, 2 channel, 8-bit stereo. Example:
 
 `Input #0, wav, from '.\rickroll.wav':`<br>
 `  Duration: 00:02:03.38, bitrate: 768 kb/s`<br>
