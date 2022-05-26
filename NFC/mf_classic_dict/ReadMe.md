@@ -4,4 +4,6 @@ This has almost tripled the amount of verified keys and has been very successful
 
 To use, replace the existing file of the same name under SD -> nfc -> assets. You can rename the existing as a backup or [download it again](https://github.com/Eng1n33r/flipperzero-firmware/blob/dev/assets/resources/nfc/assets/mf_classic_dict.nfc) if ever needed.
 
-NOTE: [This has been merged into the official Unleased firmware](https://github.com/Eng1n33r/flipperzero-firmware/commit/9e9b33445f0524d6d6ef4641cfc275731d0936c4).
+![File_location](https://user-images.githubusercontent.com/57457139/170588136-dbe99587-a04f-4dfd-8032-5e84b929cf58.png)
+
+NOTE: This has been merged into the official [Unleased firmware](https://github.com/Eng1n33r/flipperzero-firmware/commit/9e9b33445f0524d6d6ef4641cfc275731d0936c4) as well as [RogueMaster's firmware](https://github.com/RogueMaster/flipperzero-firmware-wPlugins).
