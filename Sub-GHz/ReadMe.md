@@ -4,4 +4,6 @@ You can generate your own MegaCode and Firefly over at [Flipper Maker](https://f
 
 Looking to mess with garage doors? You can try the OpenSesame/deBruijn files above.
 
-Also check out [RemoteDup](https://www.ifoedit.com/RemoteDup.html) and [GarageHack](https://www.ifoedit.com/garagehack.html) Remember, Flipper works on 300-348, 387-464, 779-928 freq only (hardware limit).
+Also check out [RemoteDup](https://www.ifoedit.com/RemoteDup.html), [GarageHack](https://www.ifoedit.com/garagehack.html), and [Learn Button coding](https://support.dealer.liftmaster.com/articles/Knowledge/Determine-the-Color-of-the-Learn-Button-on-Your-Garage-Door-Opener).
+
+Remember, Flipper works on 300-348, 387-464, 779-928 freq only (hardware limit). You need an unlocked firmware to hit them all.
