@@ -1,6 +1,6 @@
 Various SUB files I've found or created. Some tested, some not.
 
-You can generate your own MegaCode and Firefly over at [Flipper Maker](https://flippermaker.github.io/).
+You can generate MANY of your own SUBs, such as MegaCode and Firefly, over at [Flipper Maker](https://flippermaker.github.io/).
 
 Looking to mess with garage doors? You can try the OpenSesame/deBruijn files above.
 
