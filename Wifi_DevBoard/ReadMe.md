@@ -1,10 +1,11 @@
-Some quick steps to get [Marauder](https://github.com/justcallmekoko/ESP32Marauder) installed:
+Some quick steps to get [Marauder](https://github.com/justcallmekoko/ESP32Marauder) installed from the dev (W**illStunForFood** on Discord):
 
 - Plug the WiFi dev board directly into your PC
 - Upload the MarauderOTA firmware from source via Arduino IDE
 - Use the MarauderOTA firmware to flash the Marauder Flipper bin over WiFi
 
-The first step in the wiki documentation [starts here](https://github.com/justcallmekoko/ESP32Marauder/wiki/flipper-zerowhile).
+The first step in the wiki documentation [starts here](https://github.com/justcallmekoko/ESP32Marauder/wiki/flipper-zerowhile).<br>
+(Then you should have the necessary links to the follow on documentation to get the firmware installed)
 
 ALSO worth mentioning...
 
