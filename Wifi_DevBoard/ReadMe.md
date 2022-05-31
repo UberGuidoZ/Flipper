@@ -14,3 +14,5 @@ The only other thing you should have to install is the boards for the ESP32 in t
 ALSO worth mentioning...
 
 ![Quick_steps](https://user-images.githubusercontent.com/57457139/171087037-6d4d80ce-9440-4cf5-9cc7-3f7b737fbd06.jpg)
+
+Commands `channel`, `scanap`, `sniffbeacon`, `sniffdeauth`, `sniffpmkid`, `stopscan`, `clearap`
