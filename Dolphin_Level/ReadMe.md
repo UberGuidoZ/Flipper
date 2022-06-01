@@ -2,6 +2,7 @@ If your flipper level is moving too slow for you, there are ways you can fix tha
 
 If you would rather just "git'r'done" then grab one of the following files depending on your need.
 
+`dolphin.state.ZERO` - Starting from scratch, just a n00b... _(DO#: 0)_<br>
 `dolphin.state.TOP1` - Next action you do upgrades to LVL 2 _(DO#: 734)_<br>
 `dolphin.state.LVL2a` - Instant LVL 2 animation on reboot _(DO#: 735)_<br>
 `dolphin.state.TOP2` - Next action you do upgrades to LVL 3 _(DO#: 2939)_<br>
