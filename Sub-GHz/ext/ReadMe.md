@@ -6,7 +6,7 @@ Officially supported frequencies are 300-348 MHz, 387-464 MHz, and 779-928 MHz (
 **NOTE: Going outside the supported frequencies may DAMAGE YOUR FLIPPER.<br>
 Please understand what you're doing if trying to break out of official frequencies.**
 
-You'll need to edit some code and recompile if you want to break outside the officially supported frequencies. ([Check here...](https://github.com/flipperdevices/flipperzero-firmware/pull/1287/files))
+You'll need to edit some code and recompile if you want to break outside the officially supported frequencies. ([Hint here...](https://github.com/flipperdevices/flipperzero-firmware/pull/1287/files))
 
 The file is found under Flipper -> ext -> subghz -> assets
 
