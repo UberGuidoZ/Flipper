@@ -1,4 +1,4 @@
-If your flipper level is moving too slow for you, there are ways you can fix that! Are you are the tinkering kind? See [DroomOne's](https://github.com/DroomOne/FlipperScripts) Python script. (Notated as DO# later.)
+If your flipper level is moving too slow for you, there are ways you can fix that! Are you are the tinkering kind? See [DroomOne's](https://github.com/DroomOne/FlipperScripts) Python script. (All the files below were made with this script. I've notated the numbers used as _DO#_ later.)
 
 If you would rather just "git'r'done" then grab one of the following files depending on your need.
 
