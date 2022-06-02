@@ -11,8 +11,8 @@ ESP32-S2 is the correct board if you are installing on the Flipper WiFi Dev Boar
 If you are using the Marauder OTA method, you shouldn't have to install any libraries. <br>
 The only other thing you should have to install is the boards for the ESP32 in the Arduino IDE and the drivers for the ESP32-S2.
 
+Commands `channel`, `scanap`, `sniffbeacon`, `sniffdeauth`, `sniffpmkid`, `stopscan`, `clearap`
+
 ALSO worth mentioning...
 
-![Quick_steps](https://user-images.githubusercontent.com/57457139/171087037-6d4d80ce-9440-4cf5-9cc7-3f7b737fbd06.jpg)
-
-Commands `channel`, `scanap`, `sniffbeacon`, `sniffdeauth`, `sniffpmkid`, `stopscan`, `clearap`
+![Quick_info](https://user-images.githubusercontent.com/57457139/171563068-4997e28d-ac75-4c22-96b3-9e21fb0cdb18.jpg)
