@@ -1,1 +1,1 @@
-Playground (and dump) of stuff I make, modify, or found for the Flipper Zero.
+Playground (and dump) of stuff I made, modified, or found for the Flipper Zero.
