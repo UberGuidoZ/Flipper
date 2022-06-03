@@ -7,3 +7,5 @@ If you've flashed firmware that doesn't seem to include the Music Player (but se
 If using subfolders, renaming TXT to RTTTL seems to work for some, though it stopped working for me. Sadly, that means no organization of music files as they all need to be in the root of the music_player folder. The various firmware devs are working on a fix. Otherwise, you can access them through the file browser on later firmwares.
 
 TON MORE FILES from [neverfa11ing here](https://github.com/neverfa11ing/FlipperMusicRTTTL) (unverified but likely better than nothing!)
+
+Also over 800 more from [Merwin's Ringtone Search](http://ringtone.vulc.in/Default.aspx) (MIDI and RTTTL)
