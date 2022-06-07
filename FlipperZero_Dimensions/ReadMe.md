@@ -1,5 +1,5 @@
-Some dimensions for cases, screen protectors, etc.
-Screen: 128 x 64 pixels
+Some dimensions for cases, screen protectors, etc.<br>
+**Screen: 128 x 64 pixels**
 
 ![FZ_Case_Dim](https://user-images.githubusercontent.com/57457139/169579332-811835d8-c525-4639-bb4c-70d769e1c909.png)
 
