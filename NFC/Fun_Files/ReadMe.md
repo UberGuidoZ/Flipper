@@ -1,4 +1,4 @@
-**BIG CHANGES COMING TO THIS SOON! Updated info as the below is no longer (entirely) true.**
+**BIG CHANGES COMING TO THIS! Need to update info as the below is no longer (entirely) true.**
 
 Some files that are fun to use. Starting to get a better idea on the structure (Flipper format) of NFC files and payloads.
 
@@ -21,7 +21,19 @@ One limitation is the URL will be truncated if it goes beyond page 11! If your U
 
 Acknowledgements: [RogueMaster](https://github.com/RogueMaster/) | cyanic | Null Silvry | Equip | DDVL (for discussions, testing, and any files.)
 
-Flipper Zero can read the following: T5777 Card Freq 125K | 125 kHz RFID MiFare Classic Card | NFC MiFare Classic Clear Tag | NFC HID Card Freq 125KHZ | 125 kHz RFID FourPoints.Com Card NFC | NFC Mifare Ultral/NTAG Gen1A 1k S50 HF RFID Card | NFC UID Freq 13.56MHZ Card | NFC Hotel KeyCards | NFC ValuProx 125kHz ISO | 125 kHz RFID
+----------------------------------------------
+
+**Flipper Zero can read the following**:
+- T5777 Card Freq 125K
+- 125 kHz RFID (MiFare Classic Card)
+- NFC MiFare Classic Clear Tag
+- NFC HID Card Freq 125KHZ
+- 125 kHz RFID FourPoints.Com Card NFC
+- NFC Mifare Ultral/NTAG Gen1A 1k S50 HF RFID Card
+- NFC UID Freq 13.56MHZ Card | NFC Hotel KeyCards
+- NFC ValuProx 125kHz ISO
+
+----------------------------------------------
 
 [NTAG Differences](https://www.rfidfuture.com/difference-between-ntag213-ntag215-and-ntag216.html) | [NTAG Datasheet](https://www.nxp.com/docs/en/data-sheet/NTAG213_215_216.pdf) | [ASCII to HEX](https://onlinehextools.com/convert-ascii-to-hex) | [HEX to Decimal](https://www.binaryhexconverter.com/hex-to-decimal-converter) (Other converters at both links.)
 
