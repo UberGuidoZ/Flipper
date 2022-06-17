@@ -3,7 +3,7 @@ Combined multiple mf_classic_dict.nfc files:
 - [Unleased firmware](https://github.com/Eng1n33r/flipperzero-firmware/blob/dev/assets/resources/nfc/assets/mf_classic_dict.nfc)
 - [MuddledBox firmware](https://github.com/MuddledBox/flipperzero-firmware/blob/dev/assets/resources/nfc/assets/mf_classic_dict.nfc)
  
-Also included all NFC keys from [Proxmark3 Iceman's dictionaries](https://github.com/RfidResearchGroup/proxmark3/tree/master/client/dictionaries) and [RFIDresearchgroup](https://github.com/RfidResearchGroup), as well as random others online, then removed all dupes. This has almost **tripled** the amount of verified keys and has been much more successful in capturing all keys under multiple tests during reads.
+Also included all NFC keys from [Proxmark3 Iceman's dictionaries](https://github.com/RfidResearchGroup/proxmark3/tree/master/client/dictionaries) and [RFIDresearchgroup](https://github.com/RfidResearchGroup), as well as random others online, then removed all dupes. This has almost **tripled** the amount of verified keys and been much more successful in capturing all keys in multiple tests during reads.
 
 To use, replace the existing file `mf_classic_dict.nfc` under SD Card -> nfc -> assets.<br>
 You can rename the existing as a backup or download it again from the links above if ever needed.
