@@ -11,4 +11,4 @@ You'll need to edit some code and recompile if you want to break outside the off
 The file is found under Flipper -> ext -> subghz -> assets
 
 # CAUTION within 402-408 range! Medical devices can operate here.<br>
-This range is purposefully not included in my files above.
+This range is purposefully not included in my file above.
