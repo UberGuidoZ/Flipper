@@ -1,0 +1,8 @@
+Filetype: Flipper SubGhz Key File
+Version: 1
+# https://www.came.com/uk/installers/solutions/road-barriers/accessories/top-86835
+Frequency: 868350000
+Preset: FuriHalSubGhzPresetOok650Async
+Protocol: CAME
+Bit: 13
+Key: 00 00 00 00 00 00 1F FF
