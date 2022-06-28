@@ -1,6 +1,6 @@
 Various SUB files I've found or created. Some tested, some not. Special thanks to [FalsePhilosopher](https://github.com/FalsePhilosopher) for organization help!
 
-NOTE: The deBruijn and OpenSesame files have moved to the [Gates subfolder](https://github.com/UberGuidoZ/Flipper/tree/main/Sub-GHz/Gates/deBruijn).
+*** NOTE: The deBruijn and OpenSesame files have moved to the [Gates subfolder](https://github.com/UberGuidoZ/Flipper/tree/main/Sub-GHz/Gates/deBruijn). ***
 
 You can generate MANY of your own SUBs, such as MegaCode and Firefly, over at [Flipper Maker](https://flippermaker.github.io/).
 
