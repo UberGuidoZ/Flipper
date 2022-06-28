@@ -1,0 +1,2 @@
+requires ndeflib
+pip install ndeflib
