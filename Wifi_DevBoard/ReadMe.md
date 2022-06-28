@@ -1,5 +1,5 @@
 # Some quick steps to get [Marauder](https://github.com/justcallmekoko/ESP32Marauder) installed<br>
-(Direct from the dev WillStunForFood on Discord):
+(Direct from the dev WillStunForFood on Discord - check out [his video walkthrough](https://www.youtube.com/watch?v=_YLTpNo5xa0) too!):
 
 - Plug the WiFi dev board directly into your PC
 - Upload the MarauderOTA firmware from source via Arduino IDE
