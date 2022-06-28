@@ -6,3 +6,5 @@ Many more should work from my other repos: [O.MG Devices](https://github.com/Ube
 Protip: Change the VID/PID to further trust of your device. [Great searchable list here](https://www.the-sz.com/products/usbid/)!
 
 Don't forget to check out some friends too! [I-Am-Jakoby](https://github.com/I-Am-Jakoby) | [Øiphori3](https://github.com/0iphor13) | [Hak5](https://hak5.org/blogs/payloads)
+
+Have an AZERTY keyboard instead of QWERTY? Check the patch from [Log-s](https://github.com/Log-s/flipperzero-contributions)!
