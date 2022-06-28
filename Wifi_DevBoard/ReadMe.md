@@ -1,4 +1,5 @@
-Some quick steps to get [Marauder](https://github.com/justcallmekoko/ESP32Marauder) installed from the dev (W**illStunForFood** on Discord):
+# Some quick steps to get [Marauder](https://github.com/justcallmekoko/ESP32Marauder) installed<br>
+(Direct from the dev WillStunForFood on Discord):
 
 - Plug the WiFi dev board directly into your PC
 - Upload the MarauderOTA firmware from source via Arduino IDE
@@ -13,6 +14,11 @@ The only other thing you should have to install is the boards for the ESP32 in t
 
 Commands `channel`, `scanap`, `sniffbeacon`, `sniffdeauth`, `sniffpmkid`, `stopscan`, `clearap`
 
-ALSO worth mentioning (thanks Rabid Root)...
+# Quick steps from Rabid Root...
 
-![Quick_info](https://user-images.githubusercontent.com/57457139/171563068-4997e28d-ac75-4c22-96b3-9e21fb0cdb18.jpg)
+![Quick_info](https://user-images.githubusercontent.com/57457139/171563068-4997e28d-ac75-4c22-96b3-9e21fb0cdb18.jpg)<br>
+![Flipper_Settings](https://user-images.githubusercontent.com/57457139/176063404-86cfaa96-4cb5-4a94-a388-f935f59ac7b2.png)
+
+# AND a great step by step from E_Surge!
+
+![More_Steps](https://user-images.githubusercontent.com/57457139/176063439-f23620ae-7985-46eb-a11e-d85d1bcc62b7.png)
