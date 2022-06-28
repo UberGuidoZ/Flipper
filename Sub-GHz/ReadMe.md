@@ -1,4 +1,4 @@
-Various SUB files I've found or created. Some tested, some not.
+Various SUB files I've found or created. Some tested, some not. Special thanks to [FalsePhilosopher](https://github.com/FalsePhilosopher) for organization help!
 
 You can generate MANY of your own SUBs, such as MegaCode and Firefly, over at [Flipper Maker](https://flippermaker.github.io/).
 
