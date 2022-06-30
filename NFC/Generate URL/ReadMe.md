@@ -3,3 +3,5 @@ This will generate a Flipper NFC file that will visit a URL when scanned. This i
 Use: `python3 gen_url_nfc.py https://youtu.be/dQw4w9WgXcQ "Rick Roll". > rickroll.nfc`
     
 Requires: `ndeflib` with `pip install ndeflib`
+
+Credit: evilpete https://gist.github.com/evilpete/52e5437f8152af3d20e997b86c03af6d
