@@ -1,3 +1,6 @@
+NO this WILL NOT open a lexus, you CAN NOT "troll" lexus owners and don't be that dick anyway.
+This is for somebody to decode a protocol to bruteforce them.
+
 FCC ID: HYQ14FBA
 https://fccid.io/HYQ14FBA
 
