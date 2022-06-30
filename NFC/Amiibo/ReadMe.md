@@ -1,1 +1,1 @@
-Download Amiibos for use or use the script to build your own!
+Download Amiibos for quick access or use the script to build your own!
