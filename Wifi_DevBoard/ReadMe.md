@@ -1,3 +1,7 @@
+# Official info
+
+The Wifi devboard ships with Blackmagic firmware installed. [The official documentation is here](https://docs.flipperzero.one/gpio-and-modules/wifi-debugger-module).
+
 # Some quick steps to get [Marauder](https://github.com/justcallmekoko/ESP32Marauder) installed<br>
 (Direct from the dev WillStunForFood on Discord - check out [his video walkthrough](https://www.youtube.com/watch?v=_YLTpNo5xa0) too!):
 
