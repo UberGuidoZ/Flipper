@@ -1,6 +1,3 @@
 [submodule "flipper_toolbox"]
 	path = flipper_toolbox
 	url = https://github.com/evilpete/flipper_toolbox
-[submodule "Flipper_Zero_Badusb_hack5_payloads"]
-	path = Flipper_Zero_Badusb_hack5_payloads
-	url = https://github.com/nocomp/Flipper_Zero_Badusb_hack5_payloads
