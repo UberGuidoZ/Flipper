@@ -1,5 +1,4 @@
-BadUSB scripts I've created, converted, or collected.<br>
-Proper credit is always provided; I simply request the same.
+BadUSB scripts I've created, converted, or collected. Proper credit is always provided; I simply request the same.
 
 Many more should work from my other repos: [O.MG Devices](https://github.com/UberGuidoZ/Hak5-OMG-Payloads) and [Hak5](https://github.com/UberGuidoZ/Hak5-USBRubberducky-Payloads)<br>
 <b>Some have been converted to work for the Flipper already! Check out [nocomp](https://github.com/nocomp/Flipper_Zero_Badusb_hack5_payloads)'s repo.</b>
