@@ -1,6 +1,8 @@
 # flipperzero-lrs-pagers
 FlipperZero Brute force of LRS Pager System from [JimiLinuxGuy](https://github.com/jimilinuxguy/flipperzero-lrs-pagers)
 
+*note* only the 433 version currently works, wait patiently for an updated 467 version.
+
 This should brute force all resturaunt IDs and pager ids and alert/beep each one for 30s.
 
 Verified that this works at Chilis.
