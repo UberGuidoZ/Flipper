@@ -4,6 +4,9 @@ Version: 1
 # Add Standard frequencies for your region
 add_standard_frequencies: false
 #
+# Whether to ignore the default TX region settings
+ignore_default_tx_region: true
+#
 # Default Frequency: used as default for "Read" and "Read Raw"
 default_frequency: 433920000
 #
