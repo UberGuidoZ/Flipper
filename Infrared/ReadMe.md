@@ -6,7 +6,8 @@ Looking for an updated [tv.ir](https://github.com/UberGuidoZ/Flipper/blob/main/I
 ***Now with Channel/Volume controls too!*** Compiled by [Hyper_Mash](https://discord.com/channels/740930220399525928/954422774141710366/994121751023853668) with support/testing from UberGuidoZ!<br>
 This has now been [merged into Unleashed](https://github.com/Eng1n33r/flipperzero-firmware/pull/27) and [RogueMaster](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/releases/tag/0.61.2-0706-RMv2), currently pending [merge into Offical](https://github.com/flipperdevices/flipperzero-firmware/pull/1377) firmware.
 
-**You might need to also place the Manifest file into the root of your SD card if you have issues with the new IR file!**
+**You might need to also place the Manifest file into the root of your SD card if you have issues with the new IR file!**<br>
+*Tested with RogueMaster's build.*
 
 NOTE: Long pauses are normal, including 10-15 seconds of no apparent activity. It's just skipping through the "other" buttons.
 
