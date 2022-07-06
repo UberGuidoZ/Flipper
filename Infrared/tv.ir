@@ -1,6 +1,11 @@
 Filetype: IR library file
 Version: 1
 # 
+# Recompiled Universal Remote for ALL buttons!
+# (Now includes Volume and Channel brute forcing)
+#
+# Compiled by Hyper_Mash with support/testing from UberGuidoZ
+#
 name: POWER
 type: parsed
 protocol: SIRC
