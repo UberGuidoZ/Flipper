@@ -3,7 +3,8 @@ Keeping all the IR files in my fork of the [Flipper-IRDB](https://github.com/Ube
 Did you know you can quickly generate your own IR files on the go at [Flipper Maker](https://flippermaker.github.io/)?
 
 Looking for an updated [tv.ir](https://github.com/UberGuidoZ/Flipper/blob/main/Infrared/tv.ir) (Universal Remote)? Download it with a right-click and save [from here](https://github.com/UberGuidoZ/Flipper/blob/main/Infrared/tv.ir) like this:<br>
-***Now with Channel/Volume controls too!*** Compiled by [Hyper_Mash](https://discord.com/channels/740930220399525928/954422774141710366/994121751023853668) with support/testing from UberGuidoZ!
+***Now with Channel/Volume controls too!*** Compiled by [Hyper_Mash](https://discord.com/channels/740930220399525928/954422774141710366/994121751023853668) with support/testing from UberGuidoZ!<br>
+This has now been [merged into Unleashed](https://github.com/Eng1n33r/flipperzero-firmware/pull/27)
 
 NOTE: Long pauses are normal, including 10-15 seconds of no apparent activity. It's just skipping through the "other" buttons.
 
