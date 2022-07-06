@@ -1,4 +1,4 @@
-Some changes I made to the frequency scanner settings. The file is found here:
+Some changes I made to the available frequency settings (including unlocking them all). The file is found here:
 
 ![Sub-Ghz_Changes](https://user-images.githubusercontent.com/57457139/174948988-f6955976-2318-4e3e-b658-93f0465bb22e.png)
 
