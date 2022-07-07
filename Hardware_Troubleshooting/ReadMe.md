@@ -1,6 +1,6 @@
 If your flipper is having issues, such as the common battery issue (only works when plugged in), here are some guides to assist.
 
-[iFixIt Disassembly Guide](https://www.ifixit.com/Guide/Flipper+Zero+Disassembly/151331). Great steps, pictures, and tool recommendations.
+[iFixIt Disassembly Guide](https://www.ifixit.com/Guide/Flipper+Zero+Disassembly/151455). Great steps, pictures, and tool recommendations.
 
 [Video teardown of the Flipper](https://www.youtube.com/watch?v=38pHe7M4vl8). Easy to follow and good visuals.
 
