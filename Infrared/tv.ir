@@ -6,6 +6,8 @@ Version: 1
 #
 # Compiled by Hyper_Mash with support/testing from UberGuidoZ
 #
+Filetype: IR library file
+# 
 name: POWER
 type: parsed
 protocol: SIRC
@@ -1662,12 +1664,6 @@ protocol: NECext
 address: 86 05 00 00
 command: 0E F1 00 00
 # 
-name: CH-
-type: parsed
-protocol: NECext
-address: 86 05 00 00
-command: 0B F4 00 00
-# 
 name: POWER
 type: parsed
 protocol: NECext
@@ -1919,12 +1915,6 @@ type: parsed
 protocol: NEC
 address: 50 00 00 00
 command: 18 00 00 00
-# 
-name: VOL-
-type: parsed
-protocol: NEC
-address: 04 00 00 00
-command: 03 00 00 00
 # 
 name: POWER
 type: parsed
@@ -2290,12 +2280,6 @@ name: POWER
 type: parsed
 protocol: Samsung32
 address: 07 00 00 00
-command: E6 00 00 00
-# 
-name: POWER
-type: parsed
-protocol: Samsung32
-address: 07 00 00 00
 command: e6 00 00 00
 # 
 name: POWER
@@ -2417,12 +2401,6 @@ protocol: NEC
 address: 02 00 00 00
 command: 1C 00 00 00
 # 
-name: VOL-
-type: parsed
-protocol: NECext
-address: EA C7 00 00
-command: 10 EF 00 00
-# 
 name: POWER
 type: raw
 frequency: 38000
@@ -2483,24 +2461,6 @@ protocol: NEC
 address: 40 00 00 00
 command: 1F 00 00 00
 # 
-name: MUTE
-type: parsed
-protocol: NEC
-address: 40 00 00 00
-command: 10 00 00 00
-# 
-name: POWER
-type: parsed
-protocol: NECext
-address: 02 7D 00 00
-command: 46 B9 00 00
-# 
-name: CH-
-type: parsed
-protocol: NEC
-address: 04 00 00 00
-command: 1A 00 00 00
-# 
 name: CH-
 type: parsed
 protocol: NEC
@@ -2512,9 +2472,3 @@ type: parsed
 protocol: NECext
 address: 02 7D 00 00
 command: 0C F3 00 00
-# 
-name: CH-
-type: parsed
-protocol: NECext
-address: 02 7D 00 00
-command: 5A A5 00 00
