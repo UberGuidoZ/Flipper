@@ -5,6 +5,7 @@ Version: 1
 # (Now includes Volume and Channel brute forcing)
 #
 # Compiled by Hyper_Mash with support/testing from UberGuidoZ
+# Thank you to ChaoticDynamic aka c-nagy for cleanup
 #
 name: POWER
 type: parsed
