@@ -301,12 +301,6 @@ address: 00 00 00 00
 command: 01 00 00 00
 # 
 name: POWER
-type: parsed
-protocol: NEC
-address: 00 00 00 00
-command: 01 00 00 00
-# 
-name: POWER
 type: raw
 frequency: 38000
 duty_cycle: 0.33
@@ -1589,7 +1583,7 @@ type: raw
 frequency: 38000
 duty_cycle: 0.33
 data: 7847 3931 470 1448 467 495 472 1443 472 490 467 1451 464 491 466 499 468 491 466 4413 467 1455 470 486 471 1449 466 495 472 1441 464 501 466 492 465 494 463 22093 7851 3934 467 1454 471 490 467 1446 469 496 471 1446 469 489 468 494 473 484 473 4410 470 1449 466 489 468 1455 470 489 468 1449 466 496 471 486 471 490 467
-#
+# 
 name: POWER
 type: parsed
 protocol: NECext
@@ -1671,43 +1665,6 @@ command: 0E F1 00 00
 name: POWER
 type: parsed
 protocol: NECext
-address: 86 05 00 00
-command: 0F F0 00 00
-# 
-name: MUTE
-type: parsed
-protocol: NECext
-address: 86 05 00 00
-command: 0E F1 00 00
-# 
-name: VOL+
-type: parsed
-protocol: NECext
-address: 86 05 00 00
-command: 0C F3 00 00
-# 
-name: VOL-
-type: parsed
-protocol: NECext
-address: 86 05 00 00
-command: 0D F2 00 00
-# 
-name: CH+
-type: parsed
-protocol: NECext
-address: 86 05 00 00
-command: 0A F5 00 00
-# 
-name: CH-
-type: parsed
-protocol: NECext
-address: 86 05 00 00
-command: 0B F4 00 00
-# 
-#
-name: POWER
-type: parsed
-protocol: NECext
 address: 02 7D 00 00
 command: 46 B9 00 00
 # 
@@ -1747,47 +1704,11 @@ protocol: NECext
 address: 02 7D 00 00
 command: 41 BE 00 00
 # 
-name: POWER
-type: parsed
-protocol: NECext
-address: 02 7D 00 00
-command: 46 B9 00 00
-# 
-name: MUTE
-type: parsed
-protocol: NECext
-address: 02 7D 00 00
-command: 4C B3 00 00
-# 
 name: VOL-
 type: parsed
 protocol: NECext
 address: 02 7D 00 00
 command: 42 BD 00 00
-# 
-name: VOL+
-type: parsed
-protocol: NECext
-address: 02 7D 00 00
-command: 0C F3 00 00
-# 
-name: VOL-
-type: parsed
-protocol: NECext
-address: 02 7D 00 00
-command: 19 E6 00 00
-# 
-name: CH+
-type: parsed
-protocol: NECext
-address: 02 7D 00 00
-command: 0F F0 00 00
-# 
-name: CH-
-type: parsed
-protocol: NECext
-address: 02 7D 00 00
-command: 5A A5 00 00
 # 
 name: CH-
 type: parsed
@@ -1801,55 +1722,12 @@ protocol: NECext
 address: 02 7D 00 00
 command: 15 EA 00 00
 # 
-name: POWER
-type: parsed
-protocol: NECext
-address: 02 7D 00 00
-command: 46 B9 00 00
-# 
-name: VOL-
-type: parsed
-protocol: NECext
-address: 02 7D 00 00
-command: 42 BD 00 00
-# 
-name: VOL+
-type: parsed
-protocol: NECext
-address: 02 7D 00 00
-command: 0C F3 00 00
-# 
-name: VOL-
-type: parsed
-protocol: NECext
-address: 02 7D 00 00
-command: 19 E6 00 00
-# 
-name: CH+
-type: parsed
-protocol: NECext
-address: 02 7D 00 00
-command: 0F F0 00 00
-# 
-name: CH-
-type: parsed
-protocol: NECext
-address: 02 7D 00 00
-command: 5A A5 00 00
-# 
-name: MUTE
-type: parsed
-protocol: NECext
-address: 02 7D 00 00
-command: 4C B3 00 00
-# 
 name: VOL-
 type: parsed
 protocol: NECext
 address: 02 7D 00 00
 command: 15 EA 00 00
 # 
-#
 name: POWER
 type: parsed
 protocol: NECext
@@ -1892,93 +1770,83 @@ protocol: NECext
 address: 84 E0 00 00
 command: 57 A8 00 00
 # 
-#
 name: POWER
 type: parsed
 protocol: NEC
 address: 6E 00 00 00
 command: 02 00 00 00
-#
+# 
 name: VOL+
 type: parsed
 protocol: NEC
 address: 6E 00 00 00
 command: 06 00 00 00
-#
+# 
 name: VOL-
 type: parsed
 protocol: NEC
 address: 6E 00 00 00
 command: 0C 00 00 00
-#
+# 
 name: CH+
 type: parsed
 protocol: NEC
 address: 6E 00 00 00
 command: 08 00 00 00
-#
+# 
 name: CH-
 type: parsed
 protocol: NEC
 address: 6E 00 00 00
 command: 0E 00 00 00
-#
+# 
 name: MUTE
 type: parsed
 protocol: NEC
 address: 6E 00 00 00
 command: 04 00 00 00
-#
 # 
-#
 name: POWER
 type: raw
 frequency: 38000
 duty_cycle: 0.330000
 data: 4000 4000 500 2000 500 2000 500 2000 500 2000 500 1000 500 1000 500 2000 500 1000 500 2000 500 1000 500 2000 500 1000 500 1000 500 1000 500 1000 500 1000 500 2000 500 2000 500 1000 500 2000 500 1000 500 2000 500 1000 500 2000 500 8500 4000 4000 500
-#
+# 
 name: MUTE
 type: raw
 frequency: 38000
 duty_cycle: 0.330000
 data: 4000 4000 500 2000 500 2000 500 2000 500 2000 500 1000 500 1000 500 2000 500 2000 500 2000 500 2000 500 2000 500 2000 500 1000 500 1000 500 1000 500 1000 500 2000 500 2000 500 1000 500 1000 500 1000 500 1000 500 1000 500 1000 500 8500 4000 4000 500
-#
+# 
 name: VOL+
 type: raw
 frequency: 38000
 duty_cycle: 0.330000
 data: 4000 4000 500 2000 500 2000 500 2000 500 2000 500 1000 500 1000 500 2000 500 1000 500 2000 500 2000 500 2000 500 2000 500 1000 500 1000 500 1000 500 1000 500 2000 500 2000 500 1000 500 2000 500 1000 500 1000 500 1000 500 1000 500 8500 4000 4000 500
-#
+# 
 name: VOL-
 type: raw
 frequency: 38000
 duty_cycle: 0.330000
 data: 4000 4000 500 2000 500 2000 500 2000 500 2000 500 1000 500 1000 500 2000 500 1000 500 2000 500 2000 500 2000 500 1000 500 1000 500 1000 500 1000 500 1000 500 2000 500 2000 500 1000 500 2000 500 1000 500 1000 500 1000 500 2000 500 8500 4000 4000 500
-#
+# 
 name: CH+
 type: raw
 frequency: 38000
 duty_cycle: 0.330000
 data: 4000 4000 500 2000 500 2000 500 2000 500 2000 500 1000 500 1000 500 2000 500 1000 500 2000 500 2000 500 1000 500 2000 500 1000 500 1000 500 1000 500 1000 500 2000 500 2000 500 1000 500 2000 500 1000 500 1000 500 2000 500 1000 500 8500 4000 4000 500
-#
+# 
 name: CH-
 type: raw
 frequency: 38000
 duty_cycle: 0.330000
 data: 4000 4000 500 2000 500 2000 500 2000 500 2000 500 1000 500 1000 500 2000 500 1000 500 2000 500 2000 500 1000 500 1000 500 1000 500 1000 500 1000 500 1000 500 2000 500 2000 500 1000 500 2000 500 1000 500 1000 500 2000 500 2000 500 8500 4000 4000 500
-#
+# 
 name: CH-
 type: raw
 frequency: 38000
 duty_cycle: 0.330000
 data: 4000 4000 500 2000 500 2000 500 2000 500 2000 500 2000 500 2000 500 1000 500 2000 500 2000 500 2000 500 2000 500 1000 500 1000 500 1000 500 1000 500 1000 500 1000 500 1000 500 2000 500 1000 500 1000 500 1000 500 1000 500 2000 500 8500 4000 4000 500
-#
-# 
-name: POWER
-type: parsed
-protocol: NEC
-address: 04 00 00 00
-command: 08 00 00 00
 # 
 name: VOL+
 type: parsed
@@ -2010,35 +1878,11 @@ protocol: NEC
 address: 04 00 00 00
 command: 01 00 00 00
 # 
-name: POWER
-type: parsed
-protocol: NECext
-address: 86 05 00 00
-command: 0F F0 00 00
-# 
 name: VOL-
 type: parsed
 protocol: NECext
 address: 86 05 00 00
 command: 0C F3 00 00
-# 
-name: VOL-
-type: parsed
-protocol: NECext
-address: 86 05 00 00
-command: 0D F2 00 00
-# 
-name: MUTE
-type: parsed
-protocol: NEC
-address: 04 00 00 00
-command: 09 00 00 00
-# 
-name: POWER
-type: parsed
-protocol: NEC
-address: 50 00 00 00
-command: 17 00 00 00
 # 
 name: MUTE
 type: parsed
@@ -2070,202 +1914,12 @@ protocol: NEC
 address: 50 00 00 00
 command: 18 00 00 00
 # 
-#
-name: POWER
-type: parsed
-protocol: NECext
-address: 86 05 00 00
-command: 0F F0 00 00
-# 
-name: CH+
-type: parsed
-protocol: NECext
-address: 86 05 00 00
-command: 0A F5 00 00
-# 
-name: CH-
-type: parsed
-protocol: NECext
-address: 86 05 00 00
-command: 0B F4 00 00
-# 
-name: VOL+
-type: parsed
-protocol: NECext
-address: 86 05 00 00
-command: 0C F3 00 00
-# 
-name: VOL-
-type: parsed
-protocol: NECext
-address: 86 05 00 00
-command: 0D F2 00 00
-# 
-name: MUTE
-type: parsed
-protocol: NECext
-address: 86 05 00 00
-command: 0E F1 00 00
-# 
-name: POWER
-type: parsed
-protocol: NEC
-address: 04 00 00 00
-command: 08 00 00 00
-# 
-name: VOL+
-type: parsed
-protocol: NEC
-address: 04 00 00 00
-command: 02 00 00 00
-# 
-name: VOL-
-type: parsed
-protocol: NEC
-address: 04 00 00 00
-command: 03 00 00 00
-# 
-name: POWER
-type: parsed
-protocol: NEC
-address: 04 00 00 00
-command: 08 00 00 00
-# 
-name: MUTE
-type: parsed
-protocol: NEC
-address: 04 00 00 00
-command: 09 00 00 00
-# 
-name: VOL-
-type: parsed
-protocol: NEC
-address: 04 00 00 00
-command: 03 00 00 00
-# 
-name: VOL+
-type: parsed
-protocol: NEC
-address: 04 00 00 00
-command: 02 00 00 00
-# 
-name: CH+
-type: parsed
-protocol: NEC
-address: 04 00 00 00
-command: 00 00 00 00
-# 
-name: CH-
-type: parsed
-protocol: NEC
-address: 04 00 00 00
-command: 01 00 00 00
-# 
-name: POWER
-type: parsed
-protocol: NEC
-address: 04 00 00 00
-command: 08 00 00 00
-# 
-name: VOL+
-type: parsed
-protocol: NEC
-address: 04 00 00 00
-command: 02 00 00 00
-# 
-name: VOL-
-type: parsed
-protocol: NEC
-address: 04 00 00 00
-command: 03 00 00 00
-# 
-name: CH+
-type: parsed
-protocol: NEC
-address: 04 00 00 00
-command: 00 00 00 00
-# 
-name: CH-
-type: parsed
-protocol: NEC
-address: 04 00 00 00
-command: 01 00 00 00
-# 
-name: MUTE
-type: parsed
-protocol: NEC
-address: 04 00 00 00
-command: 09 00 00 00
-# 
-name: POWER
-type: parsed
-protocol: NEC
-address: 04 00 00 00
-command: 08 00 00 00
-# 
-name: CH+
-type: parsed
-protocol: NEC
-address: 04 00 00 00
-command: 00 00 00 00
-# 
-name: CH-
-type: parsed
-protocol: NEC
-address: 04 00 00 00
-command: 01 00 00 00
-# 
-name: VOL+
-type: parsed
-protocol: NEC
-address: 04 00 00 00
-command: 02 00 00 00
-# 
-name: VOL-
-type: parsed
-protocol: NEC
-address: 04 00 00 00
-command: 03 00 00 00
-# 
-#
-name: POWER
-type: parsed
-protocol: NEC
-address: 04 00 00 00
-command: 08 00 00 00
-# 
-name: CH+
-type: parsed
-protocol: NEC
-address: 04 00 00 00
-command: 00 00 00 00
-# 
-name: CH-
-type: parsed
-protocol: NEC
-address: 04 00 00 00
-command: 01 00 00 00
-# 
-name: VOL+
-type: parsed
-protocol: NEC
-address: 04 00 00 00
-command: 02 00 00 00
-# 
-name: VOL-
-type: parsed
-protocol: NEC
-address: 04 00 00 00
-command: 03 00 00 00
-# 
-#
 name: POWER
 type: parsed
 protocol: NECext
 address: 85 7C 00 00
 command: 80 7F 00 00
 # 
-#
 name: VOL+
 type: parsed
 protocol: NECext
@@ -2301,8 +1955,6 @@ type: parsed
 protocol: NECext
 address: 85 7C 00 00
 command: 96 69 00 00
-Filetype: IR signals file
-Version: 1
 # 
 name: POWER
 type: raw
@@ -2460,8 +2112,6 @@ protocol: RC6
 address: 00 00 00 00
 command: 0D 00 00 00
 # 
-#
-# 
 name: POWER
 type: raw
 frequency: 38000
@@ -2497,87 +2147,78 @@ type: raw
 frequency: 38000
 duty_cycle: 0.330000
 data: 4096 3909 587 1917 592 1912 587 1917 540 1964 545 942 584 922 594 1910 589 1916 541 1963 546 1958 572 1913 586 1919 590 915 590 915 549 939 587 919 586 1918 591 1912 545 962 575 913 592 913 582 924 540 948 589 917 588 7923 4040 3964 584 1919 538 1966 543 1943 587 1917 592 914 591 915 538 1965 544 1942 588 1916 593 1911 588 1916 593 1910 589 918 546 942 595 911 594 912 541 1963 546 1939 591 915 590 916 589 916 548 940 586 920 585 920 543 7950 4097 3926 549 1955 575 1910 589 1915 594 1910 589 917 536 952 595 1909 590 1914 595 1909 590 1914 585 1920 537 1967 542 945 592 914 591 915 538 968 569 1916 593 1912 587 919 586 919 545 944 593 913 592 913 540 966 571
-Filetype: IR signals file
-Version: 1
-#
+# 
 name: CH-
 type: parsed
 protocol: RCA
 address: 0F 00 00 00
 command: 27 00 00 00
-#
+# 
 name: POWER
 type: parsed
 protocol: RCA
 address: 0F 00 00 00
 command: 2A 00 00 00
-#
+# 
 name: CH-
 type: parsed
 protocol: RCA
 address: 0F 00 00 00
 command: 2C 00 00 00
-#
+# 
 name: CH+
 type: parsed
 protocol: RCA
 address: 0F 00 00 00
 command: 2D 00 00 00
-#
+# 
 name: VOL-
 type: parsed
 protocol: RCA
 address: 0F 00 00 00
 command: 2E 00 00 00
-#
+# 
 name: VOL+
 type: parsed
 protocol: RCA
 address: 0F 00 00 00
 command: 2F 00 00 00
-#
+# 
 name: MUTE
 type: parsed
 protocol: RCA
 address: 0F 00 00 00
 command: 3F 00 00 00
-#
+# 
 name: POWER
 type: parsed
 protocol: RCA
 address: 0F 00 00 00
 command: 3A 00 00 00
-#
+# 
 name: POWER
 type: parsed
 protocol: RCA
 address: 0F 00 00 00
 command: 3B 00 00 00
-#
+# 
 name: VOL-
 type: parsed
 protocol: RCA
 address: 0F 00 00 00
 command: 64 00 00 00
-#
+# 
 name: VOL+
 type: parsed
 protocol: RCA
 address: 0F 00 00 00
 command: 65 00 00 00
-#
+# 
 name: VOL-
 type: raw
 frequency: 38381
 duty_cycle: 0.330000
 data: 8885 4455 573 573 573 1641 573 573 573 1641 573 573 573 1641 573 1641 573 1641 573 573 573 1641 573 573 573 573 573 573 573 573 573 1641 573 1641 573 1641 573 573 573 573 573 573 573 573 573 1641 573 1641 573 573 573 573 573 1641 573 1641 573 1641 573 1641 573 573 573 573 573 1641 573 38196 8885 4507 573 573 573 1641 573 573 573 1641 573 573 573 1641 573 1641 573 1641 573 573 573 1641 573 573 573 573 573 573 573 573 573 1641 573 1641 573 1641 573 573 573 573 573 573 573 573 573 1641 573 1641 573 1641 573 573 573 1641 573 1641 573 1641 573 1641 573 573 573 573 573 573 573 38196
-#
-# 
-name: POWER
-type: parsed
-protocol: Samsung32
-address: 07 00 00 00
-command: 02 00 00 00
 # 
 name: VOL+
 type: parsed
@@ -2603,24 +2244,6 @@ protocol: Samsung32
 address: 07 00 00 00
 command: E6 00 00 00
 # 
-name: MUTE
-type: parsed
-protocol: Samsung32
-address: 07 00 00 00
-command: 0F 00 00 00
-# 
-name: VOL+
-type: parsed
-protocol: Samsung32
-address: 07 00 00 00
-command: 07 00 00 00
-# 
-name: VOL-
-type: parsed
-protocol: Samsung32
-address: 07 00 00 00
-command: 0B 00 00 00
-# 
 name: CH+
 type: parsed
 protocol: Samsung32
@@ -2632,14 +2255,6 @@ type: parsed
 protocol: Samsung32
 address: 07 00 00 00
 command: 10 00 00 00
-Filetype: IR signals file
-Version: 1
-# 
-name: POWER
-type: parsed
-protocol: Samsung32
-address: 07 00 00 00
-command: 02 00 00 00
 # 
 name: POWER
 type: parsed
@@ -2659,159 +2274,6 @@ protocol: Samsung32
 address: 07 00 00 00
 command: 13 00 00 00
 # 
-name: VOL+
-type: parsed
-protocol: Samsung32
-address: 07 00 00 00
-command: 07 00 00 00
-# 
-name: VOL-
-type: parsed
-protocol: Samsung32
-address: 07 00 00 00
-command: 0B 00 00 00
-# 
-name: CH+
-type: parsed
-protocol: Samsung32
-address: 07 00 00 00
-command: 12 00 00 00
-# 
-name: CH-
-type: parsed
-protocol: Samsung32
-address: 07 00 00 00
-command: 10 00 00 00
-# 
-name: MUTE
-type: parsed
-protocol: Samsung32
-address: 07 00 00 00
-command: 0F 00 00 00
-# 
-name: POWER
-type: parsed
-protocol: Samsung32
-address: 07 00 00 00
-command: 02 00 00 00
-# 
-name: VOL+
-type: parsed
-protocol: Samsung32
-address: 07 00 00 00
-command: 07 00 00 00
-# 
-name: VOL-
-type: parsed
-protocol: Samsung32
-address: 07 00 00 00
-command: 0B 00 00 00
-# 
-name: MUTE
-type: parsed
-protocol: Samsung32
-address: 07 00 00 00
-command: 0F 00 00 00
-# 
-name: CH+
-type: parsed
-protocol: Samsung32
-address: 07 00 00 00
-command: 12 00 00 00
-# 
-name: CH-
-type: parsed
-protocol: Samsung32
-address: 07 00 00 00
-command: 10 00 00 00
-# 
-name: CH-
-type: parsed
-protocol: Samsung32
-address: 07 00 00 00
-command: 13 00 00 00
-# 
-name: POWER
-type: parsed
-protocol: Samsung32
-address: 07 00 00 00
-command: E6 00 00 00
-Filetype: IR signals file
-Version: 1
-# 
-#
-name: POWER
-type: parsed
-protocol: Samsung32
-address: 07 00 00 00
-command: 02 00 00 00
-# 
-name: CH-
-type: parsed
-protocol: Samsung32
-address: 07 00 00 00
-command: 13 00 00 00
-# 
-name: VOL+
-type: parsed
-protocol: Samsung32
-address: 07 00 00 00
-command: 07 00 00 00
-# 
-name: VOL-
-type: parsed
-protocol: Samsung32
-address: 07 00 00 00
-command: 0B 00 00 00
-# 
-name: MUTE
-type: parsed
-protocol: Samsung32
-address: 07 00 00 00
-command: 0F 00 00 00
-# 
-name: CH+
-type: parsed
-protocol: Samsung32
-address: 07 00 00 00
-command: 12 00 00 00
-# 
-name: CH-
-type: parsed
-protocol: Samsung32
-address: 07 00 00 00
-command: 10 00 00 00
-# 
-name: POWER
-type: parsed
-protocol: Samsung32
-address: 07 00 00 00
-command: E6 00 00 00
-# 
-name: MUTE
-type: parsed
-protocol: Samsung32
-address: 07 00 00 00
-command: 0F 00 00 00
-# 
-name: VOL+
-type: parsed
-protocol: Samsung32
-address: 07 00 00 00
-command: 07 00 00 00
-# 
-name: VOL-
-type: parsed
-protocol: Samsung32
-address: 07 00 00 00
-command: 0B 00 00 00
-# 
-name: POWER
-type: parsed
-protocol: Samsung32
-address: 07 00 00 00
-command: 02 00 00 00
-# 
 name: POWER
 type: parsed
 protocol: Samsung32
@@ -2824,12 +2286,6 @@ protocol: Samsung32
 address: 07 00 00 00
 command: 98 00 00 00
 # 
-name: VOL+
-type: parsed
-protocol: Samsung32
-address: 07 00 00 00
-command: 07 00 00 00
-# 
 name: VOL-
 type: parsed
 protocol: Samsung32
@@ -2841,24 +2297,6 @@ type: parsed
 protocol: Samsung32
 address: 07 00 00 00
 command: 0f 00 00 00
-# 
-name: CH+
-type: parsed
-protocol: Samsung32
-address: 07 00 00 00
-command: 12 00 00 00
-# 
-name: CH-
-type: parsed
-protocol: Samsung32
-address: 07 00 00 00
-command: 10 00 00 00
-# 
-name: POWER
-type: parsed
-protocol: SIRC
-address: 01 00 00 00
-command: 15 00 00 00
 # 
 name: VOL+
 type: parsed
@@ -2909,30 +2347,6 @@ address: 01 00 00 00
 command: 72 00 00 00
 # 
 name: POWER
-type: parsed
-protocol: NEC
-address: 04 00 00 00
-command: 08 00 00 00
-# 
-name: VOL+
-type: parsed
-protocol: NEC
-address: 04 00 00 00
-command: 02 00 00 00
-# 
-name: VOL-
-type: parsed
-protocol: NEC
-address: 04 00 00 00
-command: 03 00 00 00
-# 
-name: MUTE
-type: parsed
-protocol: NEC
-address: 04 00 00 00
-command: 09 00 00 00
-# 
-name: POWER
 type: raw
 frequency: 38000
 duty_cycle: 0.330000
@@ -2943,26 +2357,6 @@ type: raw
 frequency: 38000
 duty_cycle: 0.330000
 data: 254 1721 360 681 354 738 308 706 329 711 355 1774 307 1772 361 1744 327 687 359 1772 299 742 335 705 330 736 279 1825 298 742 283 44773 384 1721 360 707 308 707 359 733 302 711 335 705 361 704 331 708 338 1766 336 704 331 1773 329 1776 306 1773 360 681 323 1782 331 44726 411 1722 328 686 360 733 302 711 335 705 361 1742 329 1803 330 1749 332 708 327 1777 335 705 330 710 325 741 274 1830 303 737 278 44778 359 1747 355 712 303 711 355 711 335 705 330 709 337 703 363 703 332 1770 332 709 337 1767 335 1771 300 1752 360 733 302 1776 326 44731 355 1751 330 711 355 737 309 705 330 710 336 1793 309 1771 331 1774 307 706 360 1771 300 740 326 714 332 735 280 1798 325 741 274
-Filetype: IR signals file
-Version: 1
-# 
-name: POWER
-type: parsed
-protocol: SIRC
-address: 01 00 00 00
-command: 15 00 00 00
-# 
-name: VOL+
-type: parsed
-protocol: SIRC
-address: 01 00 00 00
-command: 12 00 00 00
-# 
-name: VOL-
-type: parsed
-protocol: SIRC
-address: 01 00 00 00
-command: 13 00 00 00
 # 
 name: CH+
 type: raw
@@ -2976,130 +2370,11 @@ frequency: 38000
 duty_cycle: 0.330000
 data: 8956 4451 508 2220 511 2217 514 4470 510 4449 510 2218 544 2211 510 2218 513 2215 516 2212 509 2220 511 2217 514 2214 517 2211 510 2245 517 4441 508 2220 511 35049 8961 2215 516 87696 8959 2217 514 87698 8956 2220 511 87701 8964 2213 508
 # 
-name: MUTE
-type: parsed
-protocol: SIRC
-address: 01 00 00 00
-command: 14 00 00 00Filetype: IR signals file
-Version: 1
-# 
-name: POWER
-type: parsed
-protocol: SIRC
-address: 01 00 00 00
-command: 15 00 00 00
-# 
-name: VOL+
-type: parsed
-protocol: SIRC
-address: 01 00 00 00
-command: 12 00 00 00
-# 
-name: VOL-
-type: parsed
-protocol: SIRC
-address: 01 00 00 00
-command: 13 00 00 00
-# 
-name: MUTE
-type: parsed
-protocol: SIRC
-address: 01 00 00 00
-command: 14 00 00 00
-# 
-name: VOL+
-type: parsed
-protocol: SIRC
-address: 01 00 00 00
-command: 12 00 00 00
-# 
-name: VOL-
-type: parsed
-protocol: SIRC
-address: 01 00 00 00
-command: 13 00 00 00
-Filetype: IR signals file
-Version: 1
-# 
-name: POWER
-type: parsed
-protocol: SIRC
-address: 01 00 00 00
-command: 15 00 00 00
-# 
-name: MUTE
-type: parsed
-protocol: SIRC
-address: 01 00 00 00
-command: 14 00 00 00
-# 
-name: VOL+
-type: parsed
-protocol: SIRC
-address: 01 00 00 00
-command: 12 00 00 00
-# 
-name: VOL-
-type: parsed
-protocol: SIRC
-address: 01 00 00 00
-command: 13 00 00 00
-# 
-name: CH+
-type: parsed
-protocol: SIRC
-address: 01 00 00 00
-command: 10 00 00 00
-# 
-name: CH-
-type: parsed
-protocol: SIRC
-address: 01 00 00 00
-command: 11 00 00 00
-# 
 name: CH-
 type: parsed
 protocol: SIRC15
 address: 97 00 00 00
 command: 3C 00 00 00
-# 
-name: POWER
-type: parsed
-protocol: SIRC
-address: 01 00 00 00
-command: 15 00 00 00
-# 
-name: VOL+
-type: parsed
-protocol: SIRC
-address: 01 00 00 00
-command: 12 00 00 00
-# 
-name: VOL-
-type: parsed
-protocol: SIRC
-address: 01 00 00 00
-command: 13 00 00 00
-# 
-name: CH+
-type: parsed
-protocol: SIRC
-address: 01 00 00 00
-command: 10 00 00 00
-# 
-name: CH-
-type: parsed
-protocol: SIRC
-address: 01 00 00 00
-command: 11 00 00 00
-# 
-name: MUTE
-type: parsed
-protocol: SIRC
-address: 01 00 00 00
-command: 14 00 00 00
-Filetype: IR signals file
-Version: 1
 # 
 name: VOL+
 type: parsed
@@ -3118,33 +2393,6 @@ type: parsed
 protocol: NEC
 address: 02 00 00 00
 command: 1C 00 00 00
-Filetype: IR signals file
-Version: 1
-# 
-name: POWER
-type: parsed
-protocol: NECext
-address: EA C7 00 00
-command: 17 E8 00 00
-# 
-name: VOL+
-type: parsed
-protocol: NECext
-address: EA C7 00 00
-command: 0F F0 00 00
-# 
-name: VOL-
-type: parsed
-protocol: NECext
-address: EA C7 00 00
-command: 10 EF 00 00
-# 
-#
-name: POWER
-type: parsed
-protocol: NECext
-address: EA C7 00 00
-command: 17 E8 00 00
 # 
 name: POWER
 type: raw
@@ -3175,39 +2423,6 @@ type: raw
 frequency: 38000
 duty_cycle: 0.330000
 data: 4016 3980 516 1982 511 1987 516 1982 511 1987 516 982 520 1004 487 1986 517 980 511 1987 516 1982 511 1013 489 1010 492 1006 486 1013 489 984 518 1007 485 1988 516 1982 511 987 515 1984 519 1005 486 985 517 1982 511 1987 517 8182 4014 3981 515 1983 520 1978 515 1983 510 1988 515 982 520 979 512 1987 517 981 510 1988 516 1983 510 987 515 1010 492 981 521 978 513 985 517 981 521 1978 515 1983 520 978 514 1985 518 979 513 986 516 1983 520 1978 515
-Version: 1
-# 
-name: POWER
-type: parsed
-protocol: NECext
-address: EA C7 00 00
-command: 17 E8 00 00
-# 
-name: MUTE
-type: parsed
-protocol: NECext
-address: EA C7 00 00
-command: 20 DF 00 00
-# 
-name: VOL+
-type: parsed
-protocol: NECext
-address: EA C7 00 00
-command: 0F F0 00 00
-# 
-name: VOL-
-type: parsed
-protocol: NECext
-address: EA C7 00 00
-command: 10 EF 00 00
-Filetype: IR signals file
-Version: 1
-# 
-name: POWER
-type: parsed
-protocol: NEC
-address: 40 00 00 00
-command: 12 00 00 00
 # 
 name: VOL+
 type: parsed
@@ -3226,33 +2441,6 @@ type: parsed
 protocol: NEC
 address: 40 00 00 00
 command: 10 00 00 00
-# 
-#
-name: POWER
-type: parsed
-protocol: NECext
-address: 02 7D 00 00
-command: 46 B9 00 00
-Filetype: IR signals file
-Version: 1
-# 
-name: POWER
-type: parsed
-protocol: NEC
-address: 40 00 00 00
-command: 12 00 00 00
-# 
-name: VOL+
-type: parsed
-protocol: NEC
-address: 40 00 00 00
-command: 1A 00 00 00
-# 
-name: VOL-
-type: parsed
-protocol: NEC
-address: 40 00 00 00
-command: 1E 00 00 00
 # 
 name: CH+
 type: parsed
@@ -3266,174 +2454,14 @@ protocol: NEC
 address: 40 00 00 00
 command: 1F 00 00 00
 # 
-name: MUTE
-type: parsed
-protocol: NEC
-address: 40 00 00 00
-command: 10 00 00 00
-# 
-name: POWER
-type: parsed
-protocol: NECext
-address: 02 7D 00 00
-command: 46 B9 00 00
-Filetype: IR signals file
-Version: 1
-# 
-#
-name: POWER
-type: parsed
-protocol: Samsung32
-address: 07 00 00 00
-command: 02 00 00 00
-# 
-name: VOL+
-type: parsed
-protocol: Samsung32
-address: 07 00 00 00
-command: 07 00 00 00
-# 
-name: VOL-
-type: parsed
-protocol: Samsung32
-address: 07 00 00 00
-command: 0B 00 00 00
-# 
-name: MUTE
-type: parsed
-protocol: Samsung32
-address: 07 00 00 00
-command: 0F 00 00 00
-# 
-name: CH+
-type: parsed
-protocol: Samsung32
-address: 07 00 00 00
-command: 12 00 00 00
-# 
-name: CH-
-type: parsed
-protocol: Samsung32
-address: 07 00 00 00
-command: 10 00 00 00
-# 
-name: POWER
-type: parsed
-protocol: NEC
-address: 04 00 00 00
-command: 08 00 00 00
-# 
-name: VOL+
-type: parsed
-protocol: NEC
-address: 04 00 00 00
-command: 02 00 00 00
-# 
-name: VOL-
-type: parsed
-protocol: NEC
-address: 04 00 00 00
-command: 03 00 00 00
-# 
-name: CH+
-type: parsed
-protocol: NEC
-address: 04 00 00 00
-command: 00 00 00 00
-# 
-name: CH-
-type: parsed
-protocol: NEC
-address: 04 00 00 00
-command: 01 00 00 00
-# 
-name: MUTE
-type: parsed
-protocol: NEC
-address: 04 00 00 00
-command: 09 00 00 00
-# 
 name: CH-
 type: parsed
 protocol: NEC
 address: 04 00 00 00
 command: 1A 00 00 00
-# 
-#
-name: POWER
-type: parsed
-protocol: NEC
-address: 04 00 00 00
-command: 08 00 00 00
-# 
-name: CH+
-type: parsed
-protocol: NEC
-address: 04 00 00 00
-command: 00 00 00 00
-# 
-name: CH-
-type: parsed
-protocol: NEC
-address: 04 00 00 00
-command: 01 00 00 00
-# 
-name: VOL+
-type: parsed
-protocol: NEC
-address: 04 00 00 00
-command: 02 00 00 00
-# 
-name: VOL-
-type: parsed
-protocol: NEC
-address: 04 00 00 00
-command: 03 00 00 00
-# 
-name: MUTE
-type: parsed
-protocol: NEC
-address: 04 00 00 00
-command: 09 00 00 00
-# 
-name: CH-
-type: parsed
-protocol: NEC
-address: 04 00 00 00
-command: 1A 00 00 00
-# 
-name: POWER
-type: parsed
-protocol: NECext
-address: 02 7D 00 00
-command: 46 B9 00 00
 # 
 name: VOL-
 type: parsed
 protocol: NECext
 address: 02 7D 00 00
 command: 0C F3 00 00
-# 
-name: VOL-
-type: parsed
-protocol: NECext
-address: 02 7D 00 00
-command: 19 E6 00 00
-# 
-name: MUTE
-type: parsed
-protocol: NECext
-address: 02 7D 00 00
-command: 4C B3 00 00
-# 
-name: CH+
-type: parsed
-protocol: NECext
-address: 02 7D 00 00
-command: 0F F0 00 00
-# 
-name: CH-
-type: parsed
-protocol: NECext
-address: 02 7D 00 00
-command: 5A A5 00 00
