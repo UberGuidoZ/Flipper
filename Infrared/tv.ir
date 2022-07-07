@@ -6,8 +6,6 @@ Version: 1
 #
 # Compiled by Hyper_Mash with support/testing from UberGuidoZ
 #
-Filetype: IR library file
-# 
 name: POWER
 type: parsed
 protocol: SIRC
