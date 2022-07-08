@@ -2,6 +2,7 @@ Filetype: Flipper SubGhz RAW File
 Version: 1
 #
 # Sonnette Maison Doorbell
+# Thank you Lamna!
 #
 Frequency: 433920000
 Preset: FuriHalSubGhzPresetOok650Async
