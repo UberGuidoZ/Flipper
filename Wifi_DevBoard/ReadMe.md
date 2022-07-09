@@ -2,6 +2,8 @@
 
 The Wifi devboard ships with [Blackmagic firmware](https://github.com/flipperdevices/blackmagic-esp32-s2) installed. The Flipper documentation [is here](https://docs.flipperzero.one/development/hardware/wifi-debugger-module), and Blackmagic is [over here](https://black-magic.org/).
 
+Quick start: Connect to the SSID `blackmagic` using the password `iamwitcher` or plug the wifi devboard in via USB.
+
 # Some quick steps to get [Marauder](https://github.com/justcallmekoko/ESP32Marauder) installed<br>
 (Direct from the dev WillStunForFood on Discord - check out [his video walkthrough](https://www.youtube.com/watch?v=_YLTpNo5xa0) too!):
 
