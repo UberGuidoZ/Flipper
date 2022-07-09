@@ -1,4 +1,7 @@
 # AmiiboFlipperConverter https://github.com/Lucaslhm/AmiiboFlipperConverter
+
+Also added FlipMiibo.py that was included in the Animal Crossing folder.
+
 Converts Amiibo .bins to a flipper compatible format
 
 Simply run `amiiboconvert.py` from the root directory to generate all amiibos within `raw_amiibos` to `nfcs`
