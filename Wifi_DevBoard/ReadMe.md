@@ -34,5 +34,5 @@ Commands `channel`, `scanap`, `sniffbeacon`, `sniffdeauth`, `sniffpmkid`, `stops
 
 ![Frog_Fix](https://user-images.githubusercontent.com/57457139/178117083-fb209d3e-660a-4cef-b80e-f2e25ed2060e.png)
 
-Frog also noticed that it's wise to reflash firmware if such issues are persisting.<br>
+Frog also noted that it's wise to reflash firmware if such issues are persisting.<br>
 Start with the Official firmware, test, then move to a unlocked one if desired.
