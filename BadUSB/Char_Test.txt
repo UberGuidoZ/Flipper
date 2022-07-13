@@ -1,3 +1,7 @@
+REM BadUSB Character Test File
+REM Designed by UberGuidoZ
+REM https://github.com/UberGuidoZ/Flipper
+REM
 DELAY 2000
 GUI r
 DELAY 1000
