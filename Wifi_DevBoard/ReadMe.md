@@ -4,6 +4,10 @@ The Wifi devboard ships with [Blackmagic firmware](https://github.com/flipperdev
 
 Quick start: Connect to the SSID `blackmagic` using the password `iamwitcher` or plug the wifi devboard in via USB.
 
+# ESP32 Wi-Fi Pentest Tool
+
+Check out [Frog's write-up](https://github.com/FroggMaster/ESP32-Wi-Fi-Penetration-Tool) and build for quick and easy flashing! Seriously, it's basically just a double-click.
+
 # Some quick steps to get [Marauder](https://github.com/justcallmekoko/ESP32Marauder) installed<br>
 (Direct from the dev WillStunForFood on Discord - check out [his video walkthrough](https://www.youtube.com/watch?v=_YLTpNo5xa0) too!):
 
