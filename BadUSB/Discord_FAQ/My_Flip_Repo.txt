@@ -1,0 +1,11 @@
+STRING You can grab a ton of helpful files or find useful info over here!
+DELAY 100
+SHIFT ENTER
+DELAY 250
+STRING https://github.com/UberGuidoZ/Flipper
+DELAY 100
+SHIFT ENTER
+DELAY 250
+STRING Make sure you view and understand the ReadMe files as they have important info.
+DELAY 100
+ENTER

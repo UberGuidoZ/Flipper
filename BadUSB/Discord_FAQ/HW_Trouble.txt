@@ -1,0 +1,4 @@
+REM Hardware Troubleshooting
+STRING This may help with some of your questions. https://github.com/UberGuidoZ/Flipper/tree/main/Hardware_Troubleshooting
+DELAY 100
+ENTER

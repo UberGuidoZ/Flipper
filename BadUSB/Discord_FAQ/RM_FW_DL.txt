@@ -1,0 +1,9 @@
+STRING You can always download RogueMaster's latest release over here!
+DELAY 100
+SHIFT ENTER
+DELAY 250
+STRING https://github.com/RogueMaster/flipperzero-firmware-wPlugins/releases
+DELAY 100
+SHIFT ENTER
+DELAY 250
+STRING Make sure you view and understand the ReadMe as it has important info.

@@ -1,0 +1,4 @@
+REM Link to newbie guide (Discord)
+STRING This may help with some of your questions. https://discord.com/channels/740930220399525928/995390495415095296
+DELAY 100
+ENTER
