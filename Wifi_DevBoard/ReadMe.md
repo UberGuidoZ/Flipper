@@ -24,6 +24,24 @@ The only other thing you should have to install is the boards for the ESP32 in t
 
 Commands `channel`, `scanap`, `sniffbeacon`, `sniffdeauth`, `sniffpmkid`, `stopscan`, `clearap`
 
+------------------------------------------------------------------------------
+
+Example Attack Profile ([from Discord](https://discord.com/channels/740930220399525928/967843558520418384/997185157175988264)):
+
+Use command `scanap` stop with `stopscan` when done.
+
+List all found Beacons from previous steps via `list -a`
+
+Note the enumeration of your target Beacon...
+
+Use `select -a x` command to select your target. (x being your target # from previous step)
+
+Execute chosen attack `attack -t deauth`
+
+Use `stopscan` when done.
+
+----------------------------------------------------------------------------------- 
+
 # Quick steps from Rabid Root...
 
 ![Quick_info](https://user-images.githubusercontent.com/57457139/171563068-4997e28d-ac75-4c22-96b3-9e21fb0cdb18.jpg)<br>
