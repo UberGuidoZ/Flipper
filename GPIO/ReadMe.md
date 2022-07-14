@@ -25,3 +25,7 @@ If the nRF model is acting a bit flakey, try adding a capacitor to the vcc/gnd l
 
 ![NRF_Capacitor](https://user-images.githubusercontent.com/57457139/178169959-d030f9a6-d2ac-46af-af8b-470ff092c8a7.jpg)
 ![Cap_parrallel](https://user-images.githubusercontent.com/57457139/178372198-84125694-3b7f-4d31-8343-6f892a5e683c.jpg)
+
+# ESP32 (like devboard but generic)
+
+![ESP32-Pinout](https://user-images.githubusercontent.com/57457139/179119072-2d92b802-9f7e-47ae-bca0-7f56ad51fa21.jpg)
