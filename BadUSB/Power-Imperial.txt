@@ -1,0 +1,46 @@
+REM Power-Imperial
+REM By 7h30th3r0n3
+GUI r
+DELAY 500
+STRING powershell
+ENTER
+DELAY 500
+STRING [console]::beep(440,500);
+ENTER
+STRING [console]::beep(440,500);
+ENTER
+STRING [console]::beep(440,500);
+ENTER
+STRING [console]::beep(349,350);
+ENTER
+STRING [console]::beep(523,250);
+ENTER
+STRING [console]::beep(440,500);
+ENTER
+STRING [console]::beep(349,350);
+ENTER
+STRING [console]::beep(523,250);
+ENTER
+STRING [console]::beep(440,500);
+ENTER
+DELAY 2000
+STRING [console]::beep(659,500);
+ENTER
+STRING [console]::beep(659,500);
+ENTER
+STRING [console]::beep(659,500);
+ENTER
+STRING [console]::beep(698,350);
+ENTER
+STRING [console]::beep(523,250);
+ENTER
+STRING [console]::beep(415,500);
+ENTER
+STRING [console]::beep(349,350);
+ENTER
+STRING [console]::beep(523,250);
+ENTER
+STRING [console]::beep(440,500);
+ENTER
+STRING exit
+ENTER
