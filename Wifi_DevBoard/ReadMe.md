@@ -51,6 +51,10 @@ Use `stopscan` when done.
 
 ![More_Steps](https://user-images.githubusercontent.com/57457139/176063439-f23620ae-7985-46eb-a11e-d85d1bcc62b7.png)
 
+Also from E_Surge: "Flashed esp32marauder directly to the esp32-s2 using the esptool command -- wasn't working until a PC restart and boom. But it took about three hours of different methods, attempts, and finally restarting of devices etc."
+
+`esptool -p PORT -b 460800 --before default_reset --after hard_reset --chip esp32s2  write_flash --flash_mode dio --flash_freq 80m --flash_size 4MB 0x10000 esp32_marauder_v0_9_9_20220628_flipper.bin`
+
 # If serial connection looks scrambled... (thanks Frog!)
 ![Scrambled](https://user-images.githubusercontent.com/57457139/178117119-01907ac3-e0db-4ab2-b248-1c38e5926693.png)
 
