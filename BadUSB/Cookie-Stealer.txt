@@ -1,4 +1,4 @@
-REM Title: CMD forkbomb
+REM Title: CMD Cookie Stealer
 REM Author: 7h30th3r0n3
 REM Target:  Windows 7/8/10/11
 REM Version: 1.0
