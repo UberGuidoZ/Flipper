@@ -44,8 +44,6 @@ Use `stopscan` when done.
 
 Connecting to the devboard with a Mac ([from Discord](https://discord.com/channels/740930220399525928/967843558520418384/998043936977330276))
 
-To connect WiFi Devboard for Mac:
-
 Open Terminal
 
 Enter ls /dev/tty.*
