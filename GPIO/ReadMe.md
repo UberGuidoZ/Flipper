@@ -29,3 +29,13 @@ If the nRF model is acting a bit flakey, try adding a capacitor to the vcc/gnd l
 # ESP32 (like devboard but generic)
 
 ![ESP32-Pinout](https://user-images.githubusercontent.com/57457139/179119072-2d92b802-9f7e-47ae-bca0-7f56ad51fa21.jpg)
+
+## ESP32 Pinout to Flipper Zero (thanks E_Surge for guidance!)
+
+ESP32: 3 (RX0) -> FZ: 13 or 15 (these are TX pins)<br>
+ESP32: 1 (TX0) -> FZ: 14 or 16 (these are RX pins)<br>
+ESP32: GND -> FZ: 8 or 11 or 18 (GND)<br>
+ESP32: 3.3V -> FZ: 9 (3.3V) ***OR*** ESP32: 5V -> FZ: 1 (5V)
+
+Switch between UART Pins 13/14 and 15/16 setting in FlipperZero<br>
+`(GPIO -> USB-UART Bridge -> LEFT -> UART Pins)`
