@@ -42,6 +42,24 @@ Use `stopscan` when done.
 
 ----------------------------------------------------------------------------------- 
 
+Connecting to the devboard with a Mac ([from Discord](https://discord.com/channels/740930220399525928/967843558520418384/998043936977330276))
+
+To connect WiFi Devboard for Mac:
+
+Open Terminal
+
+Enter ls /dev/tty.*
+
+You will be provided with several USB directories. Select one that has your flippers name in it example: /dev/tty.usbmodemflip_XXXXX3
+
+Add "screen" in the prefix and the baud rate as the suffix to the command after copy pasting.....
+
+screen /dev/tty.usbmodemflip_XXXXX3 115200
+
+Hit reset on the flipper board and you'll see it populate. If it doesn't, simply try the other flipper directory name.
+
+-----------------------------------------------------------------------------------
+
 # Quick steps from Rabid Root...
 
 ![Quick_info](https://user-images.githubusercontent.com/57457139/171563068-4997e28d-ac75-4c22-96b3-9e21fb0cdb18.jpg)<br>
