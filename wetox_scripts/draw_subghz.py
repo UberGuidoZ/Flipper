@@ -27,10 +27,7 @@ for line in lines:
 # Split the data into a list of individual timings
 timings = []
 for line in data:
-  timings.append(line.split())
-
-# Convert the list of lists into a single list of numbers
-timings = [int(x) for x in timings[0]]
+  timings.extend((int(x) for x in line.split()))
 
 # Convert timings to a stream of 0s and 1s
 stream = []
