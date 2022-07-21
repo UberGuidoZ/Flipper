@@ -2,7 +2,7 @@
 
 ## Remote 
 
-![This is a alt text.](/Remote.png "This is the Remote")
+![This is a alt text.](Remote.png "This is the Remote")
 
 ## Button
 
