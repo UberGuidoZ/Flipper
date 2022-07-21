@@ -30,7 +30,7 @@ If the nRF model is acting a bit flakey, try adding a capacitor to the vcc/gnd l
 
 ![ESP32-Pinout](https://user-images.githubusercontent.com/57457139/179119072-2d92b802-9f7e-47ae-bca0-7f56ad51fa21.jpg)
 
-## ESP32 Pinout to Flipper Zero (thanks E_Surge for guidance!)
+## ESP32 / ESP8266 Pinout to Flipper Zero (thanks [E_Surge](https://github.com/ESurge) for guidance!)
 
 ESP32: 3 (RX0) -> FZ: 13 or 15 (these are TX pins)<br>
 ESP32: 1 (TX0) -> FZ: 14 or 16 (these are RX pins)<br>
