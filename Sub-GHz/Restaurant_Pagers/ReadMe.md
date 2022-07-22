@@ -6,13 +6,15 @@ For the standard 467 version, you'll need to modify the Flipper firmware. See wa
 
 This should brute force all resturaunt IDs and pager ids and alert/beep each one for 30s. Verified that this works at Chilis.
 
-Officially supported frequencies are 300-348 MHz, 387-464 MHz, and 779-928 MHz (from [CC1101 chip docs](https://www.ti.com/product/CC1101))<br>
-Unofficially supported frequencies are 281-361 MHz, 378-481 MHz, and 749-962 MHz (from [YARD Stick One](https://greatscottgadgets.com/yardstickone/) docs)
+Officially supported frequencies: 300-348 MHz, 387-464 MHz, and 779-928 MHz (from [CC1101 chip docs](https://www.ti.com/product/CC1101))<br>
+Unofficially supported frequencies: 281-361 MHz, 378-481 MHz, and 749-962 MHz (from [YARD Stick One](https://greatscottgadgets.com/yardstickone/) CC1111 docs)
 
-**NOTE: Going outside the supported frequencies may DAMAGE YOUR FLIPPER.<br>
+No mainstream firmware (Official, Unleashed, or RogueMaster) currently allow anything outside of the officially supported CC1101 specs.
+
+**NOTE: Going outside the supported frequencies may DAMAGE YOUR FLIPPER AMP.<br>
 Please understand what you're doing if trying to break out of official frequencies.**
 
-You'll need to edit some code and recompile if you want to break outside the officially supported frequencies. ([Hint here...](https://github.com/flipperdevices/flipperzero-firmware/pull/1287/files))
+You'll need to edit some code and recompile if you want to break outside of the officially supported frequencies. ([Hint here...](https://github.com/flipperdevices/flipperzero-firmware/pull/1287/files))
 
 Referenced Work:
 * [LRS Paging Systems](https://paging-systems.readme.io/v1.2/docs/am-page-modes)
