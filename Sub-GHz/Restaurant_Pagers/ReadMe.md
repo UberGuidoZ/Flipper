@@ -11,7 +11,7 @@ Unofficially supported frequencies: 281-361 MHz, 378-481 MHz, and 749-962 MHz (f
 
 No mainstream firmware (Official, Unleashed, or RogueMaster) currently allow anything outside of the officially supported CC1101 specs.
 
-**NOTE: Going outside the supported frequencies may DAMAGE YOUR FLIPPER AMP.<br>
+**NOTE: Going outside the officially supported frequencies may DAMAGE YOUR FLIPPER AMP.<br>
 Please understand what you're doing if trying to break out of official frequencies.**
 
 You'll need to edit some code and recompile if you want to break outside of the officially supported frequencies. ([Hint here...](https://github.com/flipperdevices/flipperzero-firmware/pull/1287/files))
