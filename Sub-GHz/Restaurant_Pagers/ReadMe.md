@@ -1,7 +1,7 @@
 # flipperzero-lrs-pagers
 FlipperZero Brute force of LRS Pager System from [JimiLinuxGuy](https://github.com/jimilinuxguy/flipperzero-lrs-pagers)
 
-Only the 433 version works in all released firmwares (though it may not work for most/any pagers.)<br>
+Removed the 433 version as it was confirmed to not work for any pagers. (EU is 467 too!)<br>
 For the standard 467 version, you'll need to modify the Flipper firmware. See warning below.
 
 This should brute force all resturaunt IDs and pager ids and alert/beep each one for 30s. Verified that this works at Chilis.
