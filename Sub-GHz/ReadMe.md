@@ -14,7 +14,7 @@ Looking to mess with garage doors? You can try the OpenSesame/deBruijn files abo
 Officially supported frequencies: 300-348 MHz, 387-464 MHz, and 779-928 MHz (from [CC1101 chip docs](https://www.ti.com/product/CC1101))<br>
 Unofficially supported frequencies: 281-361 MHz, 378-481 MHz, and 749-962 MHz (from [YARD Stick One](https://greatscottgadgets.com/yardstickone/) CC1111 docs)
 
-No mainstream firmware (Official, Unleashed, or RogueMaster) currently allow anything outside of the officially supported CC1101 specs.
+No mainstream firmware (Official, Unleashed, or RogueMaster) currently allow anything outside of the officially supported CC1101 specs. 
 
 **NOTE: Going outside the officially supported frequencies may DAMAGE YOUR FLIPPER AMP.<br>
 Please understand what you're doing if trying to break out of official frequencies.**
