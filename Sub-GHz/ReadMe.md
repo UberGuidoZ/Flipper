@@ -21,6 +21,13 @@ Please understand what you're doing if trying to break out of official frequenci
 
 You'll need to edit some code and recompile if you want to break outside of the officially supported frequencies. ([Hint here...](https://github.com/flipperdevices/flipperzero-firmware/pull/1287/files))
 
+# Modulation (AM/FM)
+
+AM650 and FM650 modulation tries to cover more range of frequencies at the cost of less pickup distance.<br>
+AM270 and FM270 modulation offer a more narrow range, but have a cleaner pickup and slightly better distance.
+
+[Official documentation is an excellent read!](https://docs.flipperzero.one/sub-ghz/modulation)
+
 `Allowed to transmit (MHz):`<br>
 `R01: 433.05-434.79; 868.15-868.55`<br>
 `R02: 304.10-321.95; 433.05-434.79; 915.00-928.00`<br>
