@@ -1,4 +1,10 @@
-Combined multiple mf_classic_dict.nfc files:
+# Big changes coming!
+
+Official firmware has introduced a user dict file option which will allow you to update firmware and not lose any added NFC keys! This is great, but requires a bit of work on my side to change things up. I'm going to remove all the NFC keys that are in the original 'mf_classic_dict.nfc' provided by Official firmware, then convert what's left over to the new `mf_classic_dict_user.nfc` file.
+
+Look for updates soon. Until then... carry on with the below.
+
+## Combined multiple mf_classic_dict.nfc files:
 - [Official firmware](https://github.com/flipperdevices/flipperzero-firmware/blob/dev/assets/resources/nfc/assets/mf_classic_dict.nfc)
 - [Unleased firmware](https://github.com/Eng1n33r/flipperzero-firmware/blob/dev/assets/resources/nfc/assets/mf_classic_dict.nfc)
 - [MuddledBox firmware](https://github.com/MuddledBox/flipperzero-firmware/blob/dev/assets/resources/nfc/assets/mf_classic_dict.nfc)
