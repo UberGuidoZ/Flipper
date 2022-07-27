@@ -8,7 +8,7 @@ Officially supported frequencies: 300-348 MHz, 387-464 MHz, and 779-928 MHz (fro
 Unofficially supported frequencies: 281-361 MHz, 378-481 MHz, and 749-962 MHz (from [YARD Stick One](https://greatscottgadgets.com/yardstickone/) CC1111 docs)
 
 Official & Unleashed currently do not allow anything outside of the officially supported CC1101 specs.
-RogueMaster allows unofficially supported frequencies with the extend_range file
+RogueMaster allows unofficially supported frequencies with the `extend_range` file.
 
 **NOTE: Going outside the supported frequencies may DAMAGE YOUR FLIPPER AMP.<br>
 Please understand what you're doing if trying to break out of official frequencies.**
