@@ -13,7 +13,7 @@ RogueMaster allows unofficially supported frequencies with the `extend_range` fi
 **NOTE: Going outside the supported frequencies may DAMAGE YOUR FLIPPER AMP.<br>
 Please understand what you're doing if trying to break out of official frequencies.**
 
-You'll need to edit some code and recompile if you want to break outside of the officially supported frequencies. ([Hint here...](https://github.com/flipperdevices/flipperzero-firmware/pull/1287/files))
+You'll need to edit some code and recompile if you want to break outside of the officially supported frequencies. [Proceed with caution.](https://github.com/UberGuidoZ/Flipper/blob/main/Sub-GHz/Restaurant_Pagers/SubGHz_changes.md)
 
 # CAUTION within 402-408 range!<br>Medical devices can operate here.
 
