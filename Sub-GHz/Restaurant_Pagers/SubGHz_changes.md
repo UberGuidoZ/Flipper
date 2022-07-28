@@ -1,6 +1,6 @@
 https://github.com/flipperdevices/flipperzero-firmware/tree/dev/firmware/targets/f7/furi_hal/furi_hal_subghz.c
 
-Change furi_hal_subghz_is_frequency_valid and furi_hal_subghz_set_frequency_and_path
+Change `furi_hal_subghz_is_frequency_valid` and `furi_hal_subghz_set_frequency_and_path`
 
 Reminder, the unofficially supported freq are 281-361 MHz, 378-481 MHz, and 749-962 MHz
 
@@ -29,4 +29,4 @@ uint32_t furi_hal_subghz_set_frequency_and_path(uint32_t value) {
     return value;
 ```
 
-Don't forget to add your new freq to the user settings file (and change ignore_default_tx_region: false to true)
+Don't forget to add your new freq to the [user settings](https://github.com/UberGuidoZ/Flipper/tree/main/Sub-GHz/Settings) file.
