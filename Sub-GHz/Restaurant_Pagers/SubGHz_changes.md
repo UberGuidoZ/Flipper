@@ -4,8 +4,8 @@ Change furi_hal_subghz_is_frequency_valid and furi_hal_subghz_set_frequency_and_
 
 Reminder, the unofficially supported freq are 281-361 MHz, 378-481 MHz, and 749-962 MHz
 
-281000000 - 361000000
-378000000 - 481000000
+281000000 - 361000000<br>
+378000000 - 481000000<br>
 749000000 - 962000000
 
 ```
