@@ -1,5 +1,7 @@
 # Adding additional frequencies (TX/RX)
 
+## Note: You must be on the latest release!
+
 Some changes I made to the available frequency settings (including unlocking them all). The file is found here:
 
 ![Sub-Ghz_Changes](https://user-images.githubusercontent.com/57457139/174948988-f6955976-2318-4e3e-b658-93f0465bb22e.png)
