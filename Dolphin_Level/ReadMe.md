@@ -20,7 +20,7 @@ You should see the internal and external (SD) there - double-click on `Internal 
 
 ![Int_Flash](https://user-images.githubusercontent.com/57457139/169634459-a9e87dac-d180-4e09-b047-86dc7cad49f9.png)
 
-There's not a lot here, but the important file is! You should see a .dolphin.state file already present:
+There's not a lot here, but the important file is! You should see a `.dolphin.state` file already present:
 
 ![Dolphin_State](https://user-images.githubusercontent.com/57457139/169634517-232ec48d-e7ec-44d0-a456-c2cad9adbf65.png)
 
