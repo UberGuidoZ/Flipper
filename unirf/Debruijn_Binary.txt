@@ -1,0 +1,10 @@
+UP: /ext/subghz/Garages/deBruijn/Binary/deBruijn300AllBit.sub
+DOWN: /ext/subghz/Garages/deBruijn/Binary/deBruijn310AllBit.sub
+LEFT: /ext/subghz/Garages/deBruijn/Binary/deBruijn315AllBit.sub
+RIGHT: /ext/subghz/Garages/deBruijn/Binary/deBruijn318AllBit.sub
+OK: /ext/subghz/Garages/deBruijn/Binary/deBruijn390AllBit.sub
+ULABEL: 300
+DLABEL: 310
+LLABEL: 315
+RLABEL: 318
+OKLABEL: 390

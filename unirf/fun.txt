@@ -1,0 +1,10 @@
+UP: /ext/subghz/Handicap/ook650_315brute.sub
+DOWN: /ext/subghz/Doorbells/ook650_433brute.sub
+LEFT: /ext/subghz/Vehicles/Tesla/Tesla_charge_AM650.sub
+RIGHT: /ext/subghz/Vehicles/Tesla/Tesla_charge_AM270.sub
+OK: /ext/subghz/Restaurant_Pagers/BruteForceRest.sub
+ULABEL: Handicap
+DLABEL: DoorBells
+LLABEL: Tesla1
+RLABEL: Tesla2
+OKLABEL: BruteLRS
