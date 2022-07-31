@@ -1,0 +1,10 @@
+UP: /ext/subghz/Garages/deBruijn/Open_Sesame/9bit-315mhz.sub
+DOWN: /ext/subghz/Garages/deBruijn/Open_Sesame/9bit-390mhz.sub
+LEFT: /ext/subghz/Garages/deBruijn/Open_Sesame/10bit-300mhz.sub
+RIGHT: /ext/subghz/Garages/deBruijn/Open_Sesame/10bit-310mhz.sub
+OK: /ext/subghz/Garages/deBruijn/Open_Sesame/9bit-315mhz.sub
+ULABEL: 9bit 315
+DLABEL: 9bit 390
+LLABEL: 10bit 300
+RLABEL: 10bit 310
+OKLABEL: 9bit 315
