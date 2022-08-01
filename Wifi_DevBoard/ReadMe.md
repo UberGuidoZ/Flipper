@@ -22,7 +22,12 @@ ESP32-S2 is the correct board if you are installing on the Flipper WiFi Dev Boar
 If you are using the Marauder OTA method, you shouldn't have to install any libraries. <br>
 The only other thing you should have to install is the boards for the ESP32 in the Arduino IDE and the drivers for the ESP32-S2.
 
-Commands `channel`, `scanap`, `sniffbeacon`, `sniffdeauth`, `sniffpmkid`, `stopscan`, `clearap`
+Commands `channel`, `scanap`, `sniffbeacon`, `sniffdeauth`, `sniffpmkid`, `stopscan`, `clearap`, `ssid`
+
+The `ssid` command is to edit the SSID list used for beacon attacks for when when you're running something like `attack -t beacon -l`<br>
+You can also use something like `ssid -a -g 4` to randomly generate four SSIDs to the list. (Check it with `list -s` to see them!)<br>
+To add an SSID by name, use `ssid -a -n YourSSID` and replace `YourSSID` with the SSID name you would like.<br>
+Lastly, to remove an SSID from the list, use `list -s` then `ssid -r #` replacing # with the number from the list command.
 
 ------------------------------------------------------------------------------
 
