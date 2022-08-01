@@ -1,6 +1,6 @@
-# Upgrade or Downgrade your Flipper level!
+# Upgrade or Downgrade your Flipper level (Official firmware)!
 
-## NOTE: To fix issue with recent firmware, file should start with a period `.`
+## NOTE: To fix issue with recent firmware changes, file should start with a period `.`
 
 Github doesn't like files that start with a period so please make sure to rename it after download.
 
