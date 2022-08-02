@@ -8,7 +8,12 @@ Quick start: Connect to the SSID `blackmagic` using the password `iamwitcher` or
 
 Check out [Frog's write-up](https://github.com/FroggMaster/ESP32-Wi-Fi-Penetration-Tool) and build for quick and easy flashing! Seriously, it's basically just a double-click now thanks to some error checking and automation. ([You're welcome!](https://github.com/FroggMaster/ESP32-Wi-Fi-Penetration-Tool/compare/v1.0...v1.1)).
 
-# Some quick steps to get [Marauder](https://github.com/justcallmekoko/ESP32Marauder) installed<br>
+# ESP32 WiFi Scanner Module
+
+Another fun project is from [SequoiaSan](https://github.com/SequoiaSan)! Originally designed for an ESP8266, it has been ported to run on the Flipper Wifi Devboard too.<br>
+Check out the [Release Info](https://github.com/SequoiaSan/FlipperZero-WiFi-Scanner_Module) and [Install Instructions](https://github.com/SequoiaSan/Guide-How-To-Upload-bin-to-ESP8266-ESP32) direct from the source. (Some pinout info is included there and on my [GPIO page](https://github.com/UberGuidoZ/Flipper/tree/main/GPIO).)
+
+# [Marauder](https://github.com/justcallmekoko/ESP32Marauder) install information<br>
 (Direct from the dev WillStunForFood on Discord - check out [his video walkthrough](https://www.youtube.com/watch?v=_YLTpNo5xa0) too!):
 
 - Plug the WiFi dev board directly into your PC
