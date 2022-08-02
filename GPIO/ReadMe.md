@@ -26,11 +26,18 @@ If the nRF model is acting a bit flakey, try adding a capacitor to the vcc/gnd l
 ![NRF_Capacitor](https://user-images.githubusercontent.com/57457139/178169959-d030f9a6-d2ac-46af-af8b-470ff092c8a7.jpg)
 ![Cap_parrallel](https://user-images.githubusercontent.com/57457139/178372198-84125694-3b7f-4d31-8343-6f892a5e683c.jpg)
 
-# ESP32 (like devboard but generic)
+# ESP32-WROOM
 
-![ESP32-Pinout](https://user-images.githubusercontent.com/57457139/179119072-2d92b802-9f7e-47ae-bca0-7f56ad51fa21.jpg)
+![ESP32-WROOM](https://user-images.githubusercontent.com/57457139/182290985-54d00e1e-dd3f-4efd-a66f-4d6b8e8c2ed2.jpg)
 
-## ESP32 / ESP8266 Pinout to Flipper Zero (thanks [E_Surge](https://github.com/ESurge) for guidance!)
+NOTE: Use `old_hardware.bin` if flashing Marauder onto the ESP32-WROOM (thanks wyldgoat!)
+
+# ESP8266
+
+![ESP8266](https://user-images.githubusercontent.com/57457139/182291241-8728052d-aa33-46b0-8e3d-fe44bbda4b6b.jpg)
+
+## ESP32 / ESP32-WROOM / ESP8266 Pinout to Flipper Zero
+(Thanks [E_Surge](https://github.com/ESurge) and wyldgoat for guidance!)
 
 ESP32: 3 (RX0) -> FZ: 13 or 15 (these are TX pins)<br>
 ESP32: 1 (TX0) -> FZ: 14 or 16 (these are RX pins)<br>
