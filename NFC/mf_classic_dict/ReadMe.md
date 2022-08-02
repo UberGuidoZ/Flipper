@@ -13,7 +13,7 @@ Head over to **Flipper -> NFC -> Extra Actions -> Mf Classic Keys** and you shou
 
 You can add more easily using the center button if you discover more!
 
-## Older method: Combined multiple mf_classic_dict.nfc files:
+## Older method (no longer maintained): Combined multiple mf_classic_dict.nfc files:
 - [Official firmware](https://github.com/flipperdevices/flipperzero-firmware/blob/dev/assets/resources/nfc/assets/mf_classic_dict.nfc)
 - [Unleased firmware](https://github.com/Eng1n33r/flipperzero-firmware/blob/dev/assets/resources/nfc/assets/mf_classic_dict.nfc)
 - [MuddledBox firmware](https://github.com/MuddledBox/flipperzero-firmware/blob/dev/assets/resources/nfc/assets/mf_classic_dict.nfc)
