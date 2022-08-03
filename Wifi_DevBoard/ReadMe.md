@@ -36,6 +36,11 @@ ESP32-S2 is the correct board if you are installing on the Flipper WiFi Dev Boar
 If you are using the Marauder OTA method, you shouldn't have to install any libraries. <br>
 The only other thing you should have to install is the boards for the ESP32 in the Arduino IDE and the drivers for the ESP32-S2.
 
+You can connect to Marauder in a handful of ways (make sure qFlipper is CLOSED):<br>
+- Through Flipper's USB-C on a computer ([PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) is good for Windows, find the COM port with [USB Device Tree View](https://www.uwe-sieber.de/usbtreeview_e.html).)<br>
+- If you'd rather go direct to the devboard, plug it in directly and give PuTTY a go like above.<br>
+- If you have an Android phone, many have had success with the [Serial USB Terminal](https://play.google.com/store/apps/details?id=de.kai_morich.serial_usb_terminal) app.
+
 Commands `channel`, `scanap`, `sniffbeacon`, `sniffdeauth`, `sniffpmkid`, `stopscan`, `clearap`, `ssid`, `update`
 
 ------------------------------------------------------------------------------
