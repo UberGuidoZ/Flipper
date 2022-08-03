@@ -18,6 +18,8 @@ Check out the [Release Info](https://github.com/SequoiaSan/FlipperZero-WiFi-Scan
 Yet another fun project is from [SequoiaSan](https://github.com/SequoiaSan)! Only working/designed for an ESP8266, but porting it to run on the Flipper Wifi Devboard is a WIP.<br>
 Check out the [Release Info](https://github.com/SequoiaSan/FlipperZero-Wifi-ESP8266-Deauther-Module) and [Install Instructions](https://github.com/SequoiaSan/FlipperZero-Wifi-ESP8266-Deauther-Module#how-to) direct from the source. (Some pinout info is included there and on my [GPIO page](https://github.com/UberGuidoZ/Flipper/tree/main/GPIO).)
 
+![Options](https://user-images.githubusercontent.com/57457139/182688601-49385919-857b-4d73-b9d7-d06cbe4a4d1f.png)
+
 Sequoia has been kind enough to create a [web flasher](https://sequoiasan.github.io/FlipperZero-Wifi-ESP8266-Deauther-Module/). Once you've gotten things flashed, here's some quick instructions [from Discord](https://discord.com/channels/937479784148115456/978425715525582918/1004397635098120274) for accessing the Web Interface: Connect to the SSID `pwned` with the password of `deauther` then use a browser to go to http://192.168.4.1
 
 # [Marauder](https://github.com/justcallmekoko/ESP32Marauder) install information<br>
