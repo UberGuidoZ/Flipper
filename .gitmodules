@@ -1,0 +1,3 @@
+[submodule "flipper_toolbox"]
+	path = flipper_toolbox
+	url = https://github.com/evilpete/flipper_toolbox
