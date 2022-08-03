@@ -1,36 +1,35 @@
-import pandas as pd
-split = 1000  # split files according to the keys count (each 1000 in one file)
-case = 0
+# Script settings:
+split = 100  # number of keys per file
+file_header = """
+Filetype: Flipper SubGhz RAW File
+Version: 1
+Frequency: 433920000
+Preset: FuriHalSubGhzPresetOok650Async
+Protocol: RAW
+"""
 
-for x in range(0, 4096):  # 12bit = 4096 possibilities  
-    binary = "{0:012b}".format(x)  # with leading zeros
-    cmd = ['-15078 ', '321 ']
-    for char in binary:
-        if char == "0":
-            cmd.append('-334 ')
-            cmd.append('667 ')
-        if char == "1":
-            cmd.append('-664 ')
-            cmd.append('343 ')
-    joined = "".join(cmd)
-    Multijoined = joined * 5  # number of repetition 
-    command = 'RAW_Data: ' + Multijoined
-    padding = "RAW_Data: -50000 50000 "
-       
-# split files according to the keys count (each 1000 in one file)
+# Protocol settings: https://phreakerclub.com/447
+n_bits = 12
+combos = range(0, pow(2, n_bits))
+repetition = 3
+transposition_table = {
+    "0": "-320 640 ",
+    "1": "-640 320 ",
+}
+pilot_period = "-11520 320 "
 
-    if (x % split) == 0:  
-        case += 1
-        filecase = f'output{case}.sub'
-        with open(filecase, 'w') as f:
-            f.write("Filetype: Flipper SubGhz RAW File\nVersion: 1\nFrequency: 433920000\nPreset: FuriHalSubGhzPresetOok650Async\nProtocol: RAW\n")
+for key_dec in combos:
+    key_bin = f"{key_dec:012b}"  # format as 12 digits bin
+    key_str = pilot_period
+    for bit in key_bin:
+        key_str += transposition_table[bit]
+    joined = "".join(key_str)
+    key_str = key_str * repetition
 
-# write keys to sub file
-    def writing(raw, filename, pad):
-      with open(filename, 'a') as f:
-        f.write(raw)
-        f.write('\n')
-        f.write(pad)
-        f.write('\n')
+    if (key_dec % split) == 0:
+        filename = f"CAME_{split}_{int(key_dec / split)}.sub"
+        with open(filename, "w") as f:
+            f.write(file_header)
 
-    writing(command, filecase, padding)
+    with open(filename, "a") as f:
+        f.write("RAW_Data: " + key_str + "\n")
