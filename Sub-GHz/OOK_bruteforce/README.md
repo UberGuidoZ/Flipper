@@ -2,10 +2,6 @@
   Brute Force OOK using <a href="https://flipperzero.one">Flipper Zero</a>
 </h1>
 
-<p align="center">
-  <img src="./logo.png" />
-</p>
-
 Brute force subghz fixed codes using flipper zero, initially inspired by [CAMEbruteforcer](https://github.com/BitcoinRaven/CAMEbruteforcer)
 
 
