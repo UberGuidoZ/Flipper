@@ -52,6 +52,12 @@ You can also use something like `ssid -a -g 4` to randomly generate four SSIDs t
 To add an SSID by name, use `ssid -a -n YourSSID` and replace `YourSSID` with the SSID name you would like.<br>
 Lastly, to remove an SSID from the list, use `list -s` then `ssid -r #` replacing # with the number from the list command.
 
+There is more to play with regarding ssid commands! From [cococode](https://discord.com/channels/937479784148115456/937489970007003166/1004839175238979625), you can do this:<br>
+1. ssid -a -n (name you want to show)<br>
+2. list -s<br>
+3. select -s (index from list)<br>
+4. attack -t beacon -l<br>
+
 ------------------------------------------------------------------------------
 
 To update the installed FW, you can use the `update -w` option, then follow along from [Step 8 in the install guide](https://github.com/justcallmekoko/ESP32Marauder/wiki/installing-firmware-via-ota).
