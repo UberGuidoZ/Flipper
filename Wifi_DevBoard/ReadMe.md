@@ -13,6 +13,8 @@ Check out [Frog's write-up](https://github.com/FroggMaster/ESP32-Wi-Fi-Penetrati
 Another fun project is from [SequoiaSan](https://github.com/SequoiaSan)! Originally designed for an ESP8266, it has been ported to run on the Flipper Wifi Devboard too.<br>
 Check out the [Release Info](https://github.com/SequoiaSan/FlipperZero-WiFi-Scanner_Module) and [Install Instructions](https://github.com/SequoiaSan/Guide-How-To-Upload-bin-to-ESP8266-ESP32) direct from the source. (Some pinout info is included there and on my [GPIO page](https://github.com/UberGuidoZ/Flipper/tree/main/GPIO).)
 
+Sequoia has been kind enough to create a [web flasher](https://sequoiasan.github.io/FlipperZero-WiFi-Scanner_Module/) if you want to avoid the Arduino IDE.
+
 # ESP8266 WiFi Deauther Module (not devboard...)
 
 Yet another fun project is from [SequoiaSan](https://github.com/SequoiaSan)! Only working/designed for an ESP8266, but porting it to run on the Flipper Wifi Devboard is a WIP.<br>
