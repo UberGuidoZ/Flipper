@@ -20,10 +20,6 @@ Bits:
 100101101001101001011010100101011010011010011001010101101001011000101011001011001100
 101100110011001100110010110100110100101101010010101101001101001100101010110100101
 ```
-![URH_BPO_1](https://user-images.githubusercontent.com/57457139/182748473-c4aefae5-fb07-4a5a-a091-c59a0f7a7faa.jpg)
-![URH_BPO_2](https://user-images.githubusercontent.com/57457139/182748483-703fb134-ab64-4b94-9f8b-30d52ab8357d.jpg)
-
-
 ```
 The symbol rate is 2500 bits/second.
 // The signal to send
@@ -38,3 +34,8 @@ const uint8_t sequence[messageLength] = {
   0x66,0x5A,0x69,0x6A,0x56,0x9A,0x65,0x5A,0x58,0xAC,0xB3,0x2C,0xCC,0xCC,0xB4,0xD2,
   0xD4,0xAD,0x34,0xCA,0xB4,0xA0};
 ```
+
+Analysis of old raw/dirty signals for cleaning:
+
+![URH_BPO_1](https://user-images.githubusercontent.com/57457139/182748473-c4aefae5-fb07-4a5a-a091-c59a0f7a7faa.jpg)
+![URH_BPO_2](https://user-images.githubusercontent.com/57457139/182748483-703fb134-ab64-4b94-9f8b-30d52ab8357d.jpg)
