@@ -35,7 +35,7 @@ const uint8_t sequence[messageLength] = {
   0xD4,0xAD,0x34,0xCA,0xB4,0xA0};
 ```
 
-Analysis of old raw/dirty signals for cleaning:
+Analysis of old raw/dirty signals for cleaning (playback from Evil Crow):
 
 ![URH_BPO_1](https://user-images.githubusercontent.com/57457139/182748473-c4aefae5-fb07-4a5a-a091-c59a0f7a7faa.jpg)
 ![URH_BPO_2](https://user-images.githubusercontent.com/57457139/182748483-703fb134-ab64-4b94-9f8b-30d52ab8357d.jpg)
