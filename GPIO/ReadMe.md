@@ -2,13 +2,18 @@
 
 Official [GPIO layout](https://miro.com/app/board/uXjVO_LaYYI=/) created by [Aleksandr Kutuzov](https://discord.com/channels/740930220399525928/765282833744265246/993107060172542012).
 
-# Sentry Safe plugin pinout<br>
+# Sentry Safe plugin pinout
+
+Plugin by [H4ckd4ddy](https://github.com/H4ckd4ddy/flipperzero-sentry-safe-plugin)
+
 (Flipper) 8/GND -> Black wire (Safe)<br>
 (Flipper) 15/C1 -> Green wire (Safe)
 
 # Mousejack / NRF24 pinout
 
-[More info on RogueMaster's repo](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/tree/unleashed/applications/mousejacker). (Currently the only pre-compiled DFU with this included!)
+Plugin by [mothball187](https://github.com/mothball187/flipperzero-nrf24)
+
+More info from [RogueMaster](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/tree/unleashed/applications/mousejacker) and [Unleashed](https://github.com/Eng1n33r/flipperzero-firmware/blob/dev/documentation/NRF24.md). (Both include the plugin in their firmware releases.)
 
 2/A7 on FZ goes to MOSI/6 on nrf24l01<br>
 3/A6 on FZ goes to MISO/7 on nrf24l01<br>
