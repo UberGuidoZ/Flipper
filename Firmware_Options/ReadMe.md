@@ -1,6 +1,6 @@
 # Firmware Options
 
-## [About the different firmware options](https://github.com/djsime1/awesome-flipperzero/blob/main/Firmwares.md)
+## [Firmware differences](https://github.com/djsime1/awesome-flipperzero/blob/main/Firmwares.md) | [More firmware options](https://github.com/djsime1/awesome-flipperzero#firmwares--tweaks)
 
 Official Firmware: [Main](https://github.com/flipperdevices/flipperzero-firmware) | [Release](https://github.com/flipperdevices/flipperzero-firmware/releases)
 
