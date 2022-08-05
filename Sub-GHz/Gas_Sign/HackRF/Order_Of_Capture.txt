@@ -1,0 +1,6 @@
+Up
+Down
+Left
+Right
+S
+Back
