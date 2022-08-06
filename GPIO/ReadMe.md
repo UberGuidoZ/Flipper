@@ -83,6 +83,8 @@ Switch between UART Pins 13/14 and 15/16 setting in FlipperZero<br>
 
 ## HC-SR04 Ultrasonic Distance Sensor
 
+Plugin by Sanqui: https://github.com/Sanqui/flipperzero-firmware/blob/hc_sr04/applications/hc_sr04/hc_sr04.c
+
 ![HC-SR04](https://user-images.githubusercontent.com/57457139/182779625-f3d43727-c9a6-4c44-8916-3150cccb0fc8.jpg)
 
 ```
