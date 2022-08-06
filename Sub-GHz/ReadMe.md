@@ -2,6 +2,12 @@
 
 Special thanks to [FalsePhilosopher](https://github.com/FalsePhilosopher) for organization help and everyone else that shares files!
 
+## How are the raw SUB files are formatted? (Adapted from a chat with Olivi55!)
+
+This is a very quick and dirty explanation of the Flipper "raw" SUB format. Enough to figure out more at least.<br>
+Each numerical value is the duration of a pulse in microseconds. Positive is `1` and negative is `0`.<br>
+Example: `3607 -100 1789 -66` means 1 (positive) during the `3607µs` then 0 (negative) during the `100µs`, etc.
+
 ## NOTE: The deBruijn and OpenSesame files have moved to the [Garages subfolder](https://github.com/UberGuidoZ/Flipper/tree/main/Sub-GHz/Garages/deBruijn).
 
 You can generate MANY of your own SUBs, such as MegaCode and Firefly, over at [Flipper Maker](https://flippermaker.github.io/).
