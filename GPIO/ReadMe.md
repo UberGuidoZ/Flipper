@@ -79,6 +79,29 @@ LoRa32: 4 (3.3V) -> FZ: 9 (3.3V)
 Switch between UART Pins 13/14 and 15/16 setting in FlipperZero<br>
 `GPIO -> USB-UART Bridge -> LEFT -> UART Pins`
 
+# Raspberry Pi Zero UART
+
+![Rpi_Zero_GPIO](https://user-images.githubusercontent.com/22322762/183289015-45329e9c-83e0-4483-96a0-1b68552bfa3f.png)
+
+## Raspberry Pi Zero : Prerequisite
+
+Mount you'r SD Card to you'r computer and add the following line a the end of ```/boot/config.txt``` file.
+
+```
+enable_uart=1
+```
+
+Additionally you can look at the baudrate in the ```/boot/cmdline.txt``` file, which should be ```115200``` by default.
+
+## Raspberry Pi Zero : Pinout to Flipper Zero
+
+```
+PiZero: 4 (5V) -> FZ: 1 (5V)
+PiZero: 6 (GND) -> FZ: 11 (GND)
+PiZero: 8 (UART0_TXD) -> FZ: 14 (RX)
+PiZero: 10 (UART0_RXD) -> FZ: 13 (TX)
+```
+
 # Some other accessories to try with Flipper (Code needed!)
 
 ## HC-SR04 Ultrasonic Distance Sensor
