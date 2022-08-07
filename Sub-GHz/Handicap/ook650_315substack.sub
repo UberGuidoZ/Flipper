@@ -1,6 +1,6 @@
 Filetype: Flipper SubGhz RAW File
 Version: 1
-# brute combo of button 1650 and push door subs by FalsePhilosopher, will add more as they appear.
+# sub stack of button 1650 and push door subs by FalsePhilosopher, will add more as they appear.
 Frequency: 315000000
 Preset: FuriHalSubGhzPresetOok650Async
 Protocol: RAW
