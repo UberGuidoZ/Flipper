@@ -85,13 +85,11 @@ Switch between UART Pins 13/14 and 15/16 setting in FlipperZero<br>
 
 ## Raspberry Pi Zero : Prerequisite
 
-Mount you'r SD Card to you'r computer and add the following line a the end of ```/boot/config.txt``` file.
+Mount your SD Card to your computer and add the following line at the end of `/boot/config.txt` file.
 
-```
-enable_uart=1
-```
+`enable_uart=1`
 
-Additionally you can look at the baudrate in the ```/boot/cmdline.txt``` file, which should be ```115200``` by default.
+Additionally you can look at the baudrate in the `/boot/cmdline.txt` file, which should be `115200` by default.
 
 ## Raspberry Pi Zero : Pinout to Flipper Zero
 
