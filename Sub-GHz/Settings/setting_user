@@ -8,12 +8,17 @@ Add_standard_frequencies: false
 Default_frequency: 433920000
 #
 # Frequencies used for "Read", "Read Raw" and "Frequency Analyzer" - they added after default ones if enabled in Add_standard_frequencies
-#Frequency: 300000000
+Frequency: 300000000
 Frequency: 302757000
 Frequency: 303875000
 Frequency: 304250000
+Frequency: 307000000
+Frequency: 307500000
+Frequency: 307800000
+Frequency: 309000000
 Frequency: 310000000
 Frequency: 312000000
+Frequency: 312100000
 Frequency: 313850000
 Frequency: 314000000
 Frequency: 314350000
@@ -41,7 +46,7 @@ Frequency: 925000000
 Frequency: 928000000
 #
 # Frequencies used for hopping mode (keep this list small or flipper will miss signal) - they added after default ones if enabled in Add_standard_frequencies
-#Hopper_frequency: 300000000
+Hopper_frequency: 300000000
 Hopper_frequency: 310000000
 Hopper_frequency: 312000000
 Hopper_frequency: 314000000
