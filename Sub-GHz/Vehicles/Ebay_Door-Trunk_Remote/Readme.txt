@@ -1,0 +1,1 @@
+Captures for an unknown ebay door/trunk remote my friend hopes to backup. It appears to be rolling somewhere from 433.80-434.20, using read with hopping on fm476 it picked up some faac slh 64 bit protocol signals. So here is a bunch of captures with the button pressed, held, and spammed. Also here is 3 raw reads in the same format of press, hold, spam.
