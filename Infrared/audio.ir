@@ -419,6 +419,20 @@ frequency: 38000
 duty_cycle: 0.330000
 data: 4555 4483 516 516 488 519 495 512 492 515 489 1525 493 1519 489 518 496 511 493 1521 487 1525 493 1520 488 1524 494 513 491 517 487 520 494 514 490 4501 519 513 491 516 488 520 494 513 491 517 487 521 493 514 490 518 486 1527 491 1522 496 1517 491 516 488 1525 493 1520 488 1525 493 1520 488 519 495 512 492 516 488 1525 493
 # 
+# SENNHEISER
+#
+name: POWER
+type: parsed
+protocol: RC5
+address: 13 00 00 00
+command: 0B 00 00 00
+# 
+name: MUTE
+type: parsed
+protocol: RC5
+address: 13 00 00 00
+command: 0C 00 00 00
+# 
 # SONY
 #
 name: POWER
@@ -636,4 +650,16 @@ type: parsed
 protocol: NECext
 address: 7A 85 00 00
 command: 1C E2 00 00
+# 
+name: POWER
+type: parsed
+protocol: NEC
+address: 78 00 00 00
+command: 0F 00 00 00
+# 
+name: POWER
+type: parsed
+protocol: NEC
+address: 78 00 00 00
+command: 4F 00 00 00
 # 
