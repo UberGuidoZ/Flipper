@@ -1,4 +1,4 @@
-## Playground (and dump) of stuff I made, modified, researched, or found for the Flipper Zero. If you're looking for Infrared (IR) codes then head over to [the IRDB](https://github.com/UberGuidoZ/Flipper-IRDB)!
+## Playground (and dump) of stuff I made, modified, researched, or found for the Flipper Zero. Looking for Infrared (IR) codes? Head over to [the IRDB](https://github.com/UberGuidoZ/Flipper-IRDB)!
 
 I've had so many asking for me to add this.<br>
 ![Flipper_Blush](https://user-images.githubusercontent.com/57457139/183561666-4424a3cc-679b-4016-a368-24f7e7ad0a88.jpg) ![Flipper_Love](https://user-images.githubusercontent.com/57457139/183561692-381d37bd-264f-4c88-8877-e58d60d9be6e.jpg)
