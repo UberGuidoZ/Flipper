@@ -3,6 +3,8 @@
 **USA/CAN (315 MHz)<br>
 EU/AUS (433 MHz)**
 
+------------------
+
 I've had so many asking for me to add this.<br>
 ![Flipper_Blush](https://user-images.githubusercontent.com/57457139/183561666-4424a3cc-679b-4016-a368-24f7e7ad0a88.jpg) ![Flipper_Love](https://user-images.githubusercontent.com/57457139/183561692-381d37bd-264f-4c88-8877-e58d60d9be6e.jpg)
 
