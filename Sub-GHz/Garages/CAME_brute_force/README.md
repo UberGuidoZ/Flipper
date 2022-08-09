@@ -2,7 +2,9 @@
 
 ## About the Project
 
-**CAMEbruteforcer.py**: will generate sub files which have all the possible keys combination for CAME gate (12bit code), the code will generate multiple files splitted by user choice (500 keys in a file, 1000... etc).
+**433.92Mhz/CAMEbruteforcer433.py**: will generate sub files which have all the possible keys combination for CAME gate (12bit code/433.92 Mhz), the code will generate multiple files splitted by user choice (500 keys in a file, 1000... etc).
+
+**868.35Mhz/CAMEbruteforcer868.py**: will generate sub files which have all the possible keys combination for CAME gate (12bit code/868.35 Mhz), the code will generate multiple files splitted by user choice (500 keys in a file, 1000... etc).
 
 **CAMEall.sub**: This contains all possible keys (4096), it needs less than 5 minutes to run completely (287 seconds), using this file will open the gate eventually, if you feel the need to know the exact key or shorten this process check the instructions below. I also attached the whole set of files splitted according to the number of keys.
 
@@ -59,3 +61,6 @@ This process is the best I can get with the current flipper firmware.
 | 6 | 3000 | 3499 | ~30 sec |
 | 7 | 3500 | 3999 | ~30 sec |
 | 8 | 4000 | 4096 | ~7 sec |
+
+# Thanks
+[@tobiabocchi](https://github.com/tobiabocchi) for the updated code!
