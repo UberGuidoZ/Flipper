@@ -1,4 +1,4 @@
-# Firmware Options
+# Firmware Options (PR yours if you'd like it added!)
 
 ## [Firmware differences](https://github.com/djsime1/awesome-flipperzero/blob/main/Firmwares.md) | [More firmware options](https://github.com/djsime1/awesome-flipperzero#firmwares--tweaks)
 
