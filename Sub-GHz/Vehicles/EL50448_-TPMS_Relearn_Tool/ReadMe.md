@@ -8,4 +8,4 @@ raw signal 2- 300mhz, am650<br>
 raw signal 3- 315mhz, am270<br>
 raw signal 4- 315mhz, am650
 
-Addition info [here](http://www.el50448.com/tpms-tools/2-super-el-50448-tpms-relearn-tool-S508.html).
+Additional info [here](http://www.el50448.com/tpms-tools/2-super-el-50448-tpms-relearn-tool-S508.html).
