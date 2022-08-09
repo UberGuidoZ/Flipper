@@ -2,7 +2,7 @@
 
 Special thanks to [FalsePhilosopher](https://github.com/FalsePhilosopher) for organization help and everyone else that shares files!
 
-## How are the raw SUB files are formatted? (Adapted from a chat with Olivi55!)
+## How are the raw SUB files are formatted? (Adapted from a chat with [ImprovingRigmarole](https://github.com/improving-rigmarole)!)
 
 This is a very quick and dirty explanation of the Flipper "raw" SUB format. Enough to figure out more at least.<br>
 Each numerical value is the duration of a pulse in microseconds. Positive is `1` and negative is `0`.<br>
