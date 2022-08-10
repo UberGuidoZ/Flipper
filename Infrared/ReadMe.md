@@ -2,9 +2,15 @@ Keeping all the IR files in my fork of the [Flipper-IRDB](https://github.com/Ube
 
 Did you know you can quickly generate your own IR files on the go at [Flipper Maker](https://flippermaker.github.io/)?
 
-Looking for an updated [tv.ir](https://github.com/UberGuidoZ/Flipper/blob/main/Infrared/tv.ir) (Universal Remote)? ***Now with Channel/Volume controls too!***<br>Compiled by [Hyper_Mash](https://discord.com/channels/740930220399525928/954422774141710366/994121751023853668) with support/testing from UberGuidoZ!
+  Looking for an updated [tv.ir](https://github.com/UberGuidoZ/Flipper/blob/main/Infrared/tv.ir) (Universal Remote)? ***Now with Channel/Volume controls too!***<br>Compiled by [Hyper_Mash](https://discord.com/channels/740930220399525928/954422774141710366/994121751023853668) with support/testing from UberGuidoZ! **HUGE thank you to [amec0e](https://github.com/amec0e) for updates!**
 
-[AC universal remote](https://github.com/UberGuidoZ/Flipper/blob/main/Infrared/ac.ir) added by [JEREMYNO](https://github.com/jaroslavmraz) | [Soundbar/Speakers universal remote](https://github.com/UberGuidoZ/Flipper/blob/main/Infrared/sb_spk.ir) added by [amec0e](https://github.com/amec0e)
+[AC universal remote](https://github.com/UberGuidoZ/Flipper/blob/main/Infrared/ac.ir) added by [JEREMYNO](https://github.com/jaroslavmraz) | [Soundbar/Speakers universal remote](https://github.com/UberGuidoZ/Flipper/blob/main/Infrared/audio.ir) added by [amec0e](https://github.com/amec0e) plus updates to [TV](https://github.com/UberGuidoZ/Flipper/blob/main/Infrared/tv.ir) file.
+
+-----
+
+[Unleashed firmware](https://github.com/Eng1n33r/flipperzero-firmware/releases/latest) has added all of the above remotes to the Universal Remote. Highly advise checking out their work. (Thanks [Nano](https://github.com/xMasterx)!)
+
+-----
 
 Huge thank you to [ChaoticDynamic aka c-nagy](https://github.com/c-nagy) for some duplicate signal and file cleanup ([details here](https://github.com/UberGuidoZ/Flipper/pull/16).)<br>
 This has now been [merged into Unleashed](https://github.com/Eng1n33r/flipperzero-firmware/pull/27) and [RogueMaster](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/releases/tag/0.61.2-0706-RMv2), currently pending [merge into Offical](https://github.com/flipperdevices/flipperzero-firmware/pull/1377) firmware.
