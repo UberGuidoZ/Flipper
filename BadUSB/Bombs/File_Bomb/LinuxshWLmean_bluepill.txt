@@ -1,0 +1,17 @@
+REM Title: File bomb
+REM Author: FalsePhilosopher
+REM Target:  Unix-like tested on kubuntu 22.04
+REM Props: Hak5, strippers and memes
+REM Version: 1.0
+REM Category: Prank
+REM Reverse to the mean quack to not make your friends hate you, changes to all the main dir's in home, then home, then root and deletes negative named files in each.
+REM initialization delay
+DELAY 300
+REM Minimize all windows as that ensures launch happens smoother.
+WINDOWS d
+DELAY 300
+CTRL-ALT t
+DELAY 1500
+STRING cd /Home/Pictures && rm 2-faced stupid jerk dunce dipstick dork bonehead dingbat jackass mouth-breather dumb ugly fat whore slut fuck-stick poopoo_breath cum_dumpster fart_breath ass_eater turd_burglar butt_munch crap_monster turd_face shit_stain shit_eater asshat asshole fuck_stick slut whore cunt dickhead shit_weasel prick motherfucker whorebag dickwad fucktard shitstain butt_pirate skank_fuck whore_monger dickwad shit_stain && cd /Home/Documents && rm 2-faced stupid jerk dunce dipstick dork bonehead dingbat jackass mouth-breather dumb ugly fat whore slut fuck-stick poopoo_breath cum_dumpster fart_breath ass_eater turd_burglar butt_munch crap_monster turd_face shit_stain shit_eater asshat asshole fuck_stick slut whore cunt dickhead shit_weasel prick motherfucker whorebag dickwad fucktard shitstain butt_pirate skank_fuck whore_monger dickwad shit_stain && cd /Home/Music && rm 2-faced stupid jerk dunce dipstick dork bonehead dingbat jackass mouth-breather dumb ugly fat whore slut fuck-stick poopoo_breath cum_dumpster fart_breath ass_eater turd_burglar butt_munch crap_monster turd_face shit_stain shit_eater asshat asshole fuck_stick slut whore cunt dickhead shit_weasel prick motherfucker whorebag dickwad fucktard shitstain butt_pirate skank_fuck whore_monger dickwad shit_stain && cd /Home/Videos && rm 2-faced stupid jerk dunce dipstick dork bonehead dingbat jackass mouth-breather dumb ugly fat whore slut fuck-stick poopoo_breath cum_dumpster fart_breath ass_eater turd_burglar butt_munch crap_monster turd_face shit_stain shit_eater asshat asshole fuck_stick slut whore cunt dickhead shit_weasel prick motherfucker whorebag dickwad fucktard shitstain butt_pirate skank_fuck whore_monger dickwad shit_stain && cd /Home/Desktop && rm 2-faced stupid jerk dunce dipstick dork bonehead dingbat jackass mouth-breather dumb ugly fat whore slut fuck-stick poopoo_breath cum_dumpster fart_breath ass_eater turd_burglar butt_munch crap_monster turd_face shit_stain shit_eater asshat asshole fuck_stick slut whore cunt dickhead shit_weasel prick motherfucker whorebag dickwad fucktard shitstain butt_pirate skank_fuck whore_monger dickwad shit_stain && cd .. && rm 2-faced stupid jerk dunce dipstick dork bonehead dingbat jackass mouth-breather dumb ugly fat whore slut fuck-stick poopoo_breath cum_dumpster fart_breath ass_eater turd_burglar butt_munch crap_monster turd_face shit_stain shit_eater asshat asshole fuck_stick slut whore cunt dickhead shit_weasel prick motherfucker whorebag dickwad fucktard shitstain butt_pirate skank_fuck whore_monger dickwad shit_stain && cd .. && rm 2-faced stupid jerk dunce dipstick dork bonehead dingbat jackass mouth-breather dumb ugly fat whore slut fuck-stick poopoo_breath cum_dumpster fart_breath ass_eater turd_burglar butt_munch crap_monster turd_face shit_stain shit_eater asshat asshole fuck_stick slut whore cunt dickhead shit_weasel prick motherfucker whorebag dickwad fucktard shitstain butt_pirate skank_fuck whore_monger dickwad shit_stain
+DELAY 2000
+ENTER

