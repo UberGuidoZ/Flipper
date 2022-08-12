@@ -1,5 +1,9 @@
 Filetype: Flipper SubGhz Key File
 Version: 1
+#
+# Compiled by SkeletonMan
+# Tweaked by MA
+#
 Frequency: 467750000
 Preset: FuriHalSubGhzPresetOok270Async
 Protocol: RAW
