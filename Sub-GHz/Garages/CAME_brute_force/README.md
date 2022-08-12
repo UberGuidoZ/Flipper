@@ -8,6 +8,11 @@
 
 **CAMEall.sub**: This contains all possible keys (4096), it needs less than 5 minutes to run completely (287 seconds), using this file will open the gate eventually, if you feel the need to know the exact key or shorten this process check the instructions below. I also attached the whole set of files splitted according to the number of keys.
 
+## Changelog 
+
+**12-Aug-2022** : -Time reduced! the whole script now complete in ~4 minutes.
+			-Folder created automatically
+
 ## Installation
 
 Tested for **Python 3.10.0+**
@@ -19,7 +24,7 @@ $ cd CAMEbruteforcer
 
 ## Usage
 
-Change `split = 1000` to whatever number of keys you wish to have in each file.
+Just run the script and it will generate all the required files.
 ```bash
 $ python CAMEbruteforcer.py
 ```
@@ -38,9 +43,9 @@ This process is the best I can get with the current flipper firmware.
 
 | 2000 | From | To | Time |
 | --- | :---: | :---: | :---: |
-| 0 | 0 | 1999 | ~2.5 min |
-| 1 | 2000 | 3999 | ~2.5 min |
-| 2 | 4000 | 4096 | ~7 sec |
+| 0 | 0 | 1999 | ~2 min |
+| 1 | 2000 | 3999 | ~2 min |
+| 2 | 4000 | 4096 | ~5 sec |
 
 | 1000 | From | To | Time |
 | --- | :---: | :---: | :---: |
@@ -48,19 +53,20 @@ This process is the best I can get with the current flipper firmware.
 | 1 | 1000 | 1999 | ~1 min |
 | 2 | 2000 | 1999 | ~1 min |
 | 3 | 3000 | 3999 | ~1 min |
-| 4 | 4000 | 4096 | ~7 sec |
+| 4 | 4000 | 4096 | ~5 sec |
 
 | 500 | From | To | Time |
 | --- | :---: | :---: | :---: |
-| 0 | 0 | 499 | ~30 sec |
-| 1 | 500 | 999 | ~30 sec |
-| 2 | 1000 | 1499 | ~30 sec |
-| 3 | 1500 | 1999 | ~30 sec |
-| 4 | 2000 | 2499 | ~30 sec |
-| 5 | 2500 | 2999 | ~30 sec |
-| 6 | 3000 | 3499 | ~30 sec |
-| 7 | 3500 | 3999 | ~30 sec |
-| 8 | 4000 | 4096 | ~7 sec |
+| 0 | 0 | 499 | ~27 sec |
+| 1 | 500 | 999 | ~27 sec |
+| 2 | 1000 | 1499 | ~27 sec |
+| 3 | 1500 | 1999 | ~27 sec |
+| 4 | 2000 | 2499 | ~27 sec |
+| 5 | 2500 | 2999 | ~27 sec |
+| 6 | 3000 | 3499 | ~27 sec |
+| 7 | 3500 | 3999 | ~27 sec |
+| 8 | 4000 | 4096 | ~5 sec |
 
 # Thanks
-[@tobiabocchi](https://github.com/tobiabocchi) for the updated code!
+[@tobiabocchi](https://github.com/tobiabocchi/flipperzero-bruteforce#optimization) for the updated code and great ideas! check his codes for more protocols and explanation for the recent optimization
+

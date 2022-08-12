@@ -5,8 +5,9 @@ Special thanks to [FalsePhilosopher](https://github.com/FalsePhilosopher) for or
 ## How are the raw SUB files are formatted? (Adapted from a chat with [ImprovingRigmarole](https://github.com/improving-rigmarole)!)
 
 This is a very quick and dirty explanation of the Flipper "raw" SUB format. Enough to figure out more at least.<br>
-Each numerical value is the duration of a pulse in microseconds. Positive is `1` and negative is `0`.<br>
-Example: `3607 -100 1789 -66` means 1 (positive) during the `3607µs` then 0 (negative) during the `100µs`, etc.
+Each numerical value is the duration of a pulse in microseconds. Positive is `send` and negative is `pause`.<br>
+Example: `3607 -100 1789 -66` means send (positive) during the `3607µs` then pause (negative) for the `100µs`, etc.<br>
+You can easily plot any raw SUB (or IR) file at the [Official Pulse Plotter](https://my.flipp.dev/pulse-plotter) and see a graph to help decode patterns.
 
 ## NOTE: The deBruijn and OpenSesame files have moved to the [Garages subfolder](https://github.com/UberGuidoZ/Flipper/tree/main/Sub-GHz/Garages/deBruijn).
 

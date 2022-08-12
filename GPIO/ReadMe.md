@@ -9,20 +9,20 @@ Plugin by [H4ckd4ddy](https://github.com/H4ckd4ddy/flipperzero-sentry-safe-plugi
 (Flipper) 8/GND -> Black wire (Safe)<br>
 (Flipper) 15/C1 -> Green wire (Safe)
 
-# Mousejack / NRF24 pinout
+# NRF24L01+ / Mousejack pinout - 8-pin
 
 Plugin by [mothball187](https://github.com/mothball187/flipperzero-nrf24)
 
 More info from [RogueMaster](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/tree/unleashed/applications/mousejacker) and [Unleashed](https://github.com/Eng1n33r/flipperzero-firmware/blob/dev/documentation/NRF24.md). (Both include the plugin in their firmware releases.)
 
-2/A7 on FZ goes to MOSI/6 on nrf24l01<br>
-3/A6 on FZ goes to MISO/7 on nrf24l01<br>
-4/A4 on FZ goes to CSN/4 on nrf24l01<br>
-5/B3 on FZ goes to SCK/5 on nrf24l01<br>
-6/B2 on FZ goes to CE/3 on nrf24l01<br>
-8/GND on FZ goes to GND/1 on nrf24l01<br>
-9/3V3 on FZ goes to VCC/2 on nrf24l01<br>
-IRQ/8 is left disconnected on nrf24l01
+2/A7 on FZ goes to MOSI/6 on NRF24<br>
+3/A6 on FZ goes to MISO/7 on NRF24<br>
+4/A4 on FZ goes to CSN/4 on NRF24<br>
+5/B3 on FZ goes to SCK/5 on NRF24<br>
+6/B2 on FZ goes to CE/3 on NRF24<br>
+8/GND on FZ goes to GND/1 on NRF24<br>
+9/3V3 on FZ goes to VCC/2 on NRF24<br>
+IRQ/8 is left disconnected on NRF24
 
 ![NRF_Pins](https://user-images.githubusercontent.com/57457139/178093717-39effd5c-ebe2-4253-b13c-70517d7902f9.png)
 
@@ -30,6 +30,20 @@ If the nRF model is acting a bit flakey, try adding a capacitor to the vcc/gnd l
 
 ![NRF_Capacitor](https://user-images.githubusercontent.com/57457139/178169959-d030f9a6-d2ac-46af-af8b-470ff092c8a7.jpg)
 ![Cap_parrallel](https://user-images.githubusercontent.com/57457139/178372198-84125694-3b7f-4d31-8343-6f892a5e683c.jpg)
+
+# NRF24L01+ (B) - 10-pin
+
+![NRF24L01+_B](https://user-images.githubusercontent.com/57457139/184263193-4f63a352-4e52-400d-8c45-ec4dc6d2ac8b.jpg)
+
+Thank you to [Amec0e](https://github.com/amec0e) for the information on the newer NRF24L01 (B)!
+
+NRF24: 1 (CE)  to FZ 6 (B2)<br>
+NRF24: 2 (SCK) to FZ 5 (B3)<br>
+NRF24: 3 (CSN) to FZ 4 (A4)<br>
+NRF24: 4 (MOSI) to FZ 2 (A7)<br>
+NRF24: 6 (MISO) to FZ 3 (A6)<br>
+NRF24: 7 or 8 (GND) to FZ GND (8 or 11 or 18)<br>
+NRF24: 9 or 10 (VCC) to FZ 9 (3v3)
 
 # ESP32-WROOM
 

