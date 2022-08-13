@@ -6,7 +6,7 @@ If your flipper is having issues, such as the common battery issue (only works w
 
 [Official self repair guide (PDF)](https://cdn.flipperzero.one/self-repair-guide.pdf). Geared towards the battery issue.
 
-[Official Hardware Schematic](https://docs.flipperzero.one/development/hardware/schematic). May be out of dat slightly.
+[Official Hardware Schematic](https://docs.flipperzero.one/development/hardware/schematic). May be out of date slightly.
 
 [FCC Filing](https://fccid.io/2A2V6-FZ) which includes many hardware and specifications, including pictures.
 
