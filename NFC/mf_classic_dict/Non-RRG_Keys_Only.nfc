@@ -1,7 +1,7 @@
 ##################################
 # Keys from Flipper Zero Community
 #
-# Last update: Aug 6, 2022
+# Last update: Aug 13, 2022
 #
 # Strelka Extension
 5C83859F2224
@@ -22,10 +22,6 @@ DBF9F79AB7A2
 34EDE51B4C22
 C8BCD10AAABA
 BCD10AAABA42
-#
-# iGuard Simple and reverse keys
-aaaaaaffffff
-ffffffaaaaaa
 #
 # Moscow Social Card
 2F87F74090D1
@@ -195,5 +191,27 @@ B578F38A5C61
 9EB7C8A6D4E3
 A22AE12C9013
 AFC984A3576E
+# Vigik verified by quantum-x
+# https://github.com/RfidResearchGroup/proxmark3/pull/1742#issuecomment-1206113976
+A00027000099
+A00016000028
+A00003000028
+A0000F000345
+A00001000030
+A00002000086
+A00002000036
+A00002000088
+A00000000058
+A00000000096
+A00000000008
+A00000043D79
+A00000000064
+A00025000030
+A00003000057
+#
 # BH USA 2013 conference
 012279BAD3E5
+# 
+# iGuard Simple (and reverse) keys
+aaaaaaffffff
+ffffffaaaaaa
