@@ -11,7 +11,7 @@ Plugin by [H4ckd4ddy](https://github.com/H4ckd4ddy/flipperzero-sentry-safe-plugi
 
 # NRF24L01+ / Mousejack pinout - 8-pin
 
-Plugin by [mothball187](https://github.com/mothball187/flipperzero-nrf24)
+Plugin by [mothball187](https://github.com/mothball187/flipperzero-nrf24)  |  Affected devices from [Bastille research](https://www.bastille.net/research/vulnerabilities/mousejack/affected-devices)
 
 More info from [RogueMaster](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/tree/unleashed/applications/mousejacker) and [Unleashed](https://github.com/Eng1n33r/flipperzero-firmware/blob/dev/documentation/NRF24.md). (Both include the plugin in their firmware releases.)
 
