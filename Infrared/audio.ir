@@ -6,7 +6,7 @@ Version: 1
 # Some Buttons was labeled PowerToggle,Pwr, Sleep or Off. These was assumed to be POWER functions.
 # While Care was taken to remove all possible duplicates, some may still be lurking.
 # 
-# Last Updated: 10th August 2022
+# Updated 14th August 2022
 # 
 # | SPEAKERS |
 # 
@@ -161,12 +161,6 @@ address: 02 BD 00 00
 command: AD 52 00 00
 # 
 # SONY
-#
-name: POWER
-type: parsed
-protocol: SIRC
-address: 10 00 00 00
-command: 15 00 00 00
 # 
 name: POWER
 type: parsed
