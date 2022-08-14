@@ -25,7 +25,10 @@ Check out the [Release Info](https://github.com/SequoiaSan/FlipperZero-Wifi-ESP8
 Sequoia has been kind enough to create a [web flasher](https://sequoiasan.github.io/FlipperZero-Wifi-ESP8266-Deauther-Module/). Once you've gotten things flashed, here's some quick instructions [from Discord](https://discord.com/channels/937479784148115456/978425715525582918/1004397635098120274) for accessing the Web Interface: Connect to the SSID `pwned` with the password of `deauther` then use a browser to go to http://192.168.4.1
 
 # [Marauder](https://github.com/justcallmekoko/ESP32Marauder) install information<br>
-(Direct from the dev WillStunForFood on Discord - check out [his video walkthrough](https://www.youtube.com/watch?v=_YLTpNo5xa0) too!):
+
+## New easy flash tool for Windows now available! [CLICK HERE](https://github.com/UberGuidoZ/Flipper/tree/main/Wifi_DevBoard/FZ_Marauder_Flasher)
+
+Direct from the dev WillStunForFood on Discord - check out [his video walkthrough](https://www.youtube.com/watch?v=_YLTpNo5xa0) too!:
 
 - Plug the WiFi dev board directly into your PC
 - Upload the MarauderOTA firmware from source via Arduino IDE
