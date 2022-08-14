@@ -1,4 +1,4 @@
-# Quick and easy flasher/updater for Marauder on the Wifi Devboard!
+# Quick and easy flasher/updater for [Marauder](https://github.com/justcallmekoko/ESP32Marauder) on the Wifi Devboard!
 
 ![Screenshot](https://user-images.githubusercontent.com/57457139/184529067-27ed301f-fd19-4779-a85d-c134dbf93ba6.png)
 
@@ -18,6 +18,8 @@ The [batch file](https://github.com/UberGuidoZ/Flipper/blob/main/Wifi_DevBoard/F
 *Coming soon: Black Magic (original debug firmware) flashing, firmware backup, firmware restore.*
 
 Acknowledgements:<br>
-* [Frog](https://github.com/FroggMaster) (scripting and inspiring the idea)<br>
-* [ImprovingRigmarole](https://github.com/Improving-Rigmarole) (Initial scripting and testing)<br>
-* [UberGuidoZ](https://github.com/UberGuidoZ) (continued scripting, development, and testing)
+* [justcallmekoko](https://github.com/justcallmekoko/ESP32Marauder) for the AWESOME work in developing Marauder and porting it to the Flipper.
+* [0xchocolatex](https://github.com/0xchocolate) for the Marauder companion plugin (now in [Unleashed](https://github.com/Eng1n33r/flipperzero-firmware) and [RogueMaster](https://github.com/RogueMaster/flipperzero-firmware-wPlugins).
+* [Frog](https://github.com/FroggMaster) For initial scripting under the [Wifi Pentest Tool](https://github.com/FroggMaster/ESP32-Wi-Fi-Penetration-Tool) and inspiring the idea.<br>
+* [ImprovingRigmarole](https://github.com/Improving-Rigmarole) Initial (and continued) scripting of this flasher and lots of  testing.<br>
+* [UberGuidoZ](https://github.com/UberGuidoZ) Tweaking/Automating Frog's original, continued scripting, development, and testing.
