@@ -106,11 +106,15 @@ protocol: Samsung32
 address: 0e 00 00 00
 command: 0d 00 00 00
 # 
+# Keep an eye on this, it could be power.
+# 
 name: VOL+
 type: parsed
 protocol: Samsung32
 address: 0e 00 00 00
 command: 14 00 00 00
+# 
+# 
 # 
 name: VOL-
 type: parsed
@@ -1750,17 +1754,15 @@ protocol: NECext
 address: 02 7D 00 00
 command: 57 A8 00 00
 # 
+# Keep an eye on this it might be volume down
+# 
 name: VOL+
 type: parsed
 protocol: NECext
 address: 02 7D 00 00
 command: 15 EA 00 00
 # 
-name: VOL-
-type: parsed
-protocol: NECext
-address: 02 7D 00 00
-command: 15 EA 00 00
+# 
 # 
 name: POWER
 type: parsed
