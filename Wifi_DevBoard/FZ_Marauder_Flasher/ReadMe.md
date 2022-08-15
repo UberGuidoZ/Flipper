@@ -1,6 +1,6 @@
 # Quick and easy flasher/updater for [Marauder](https://github.com/justcallmekoko/ESP32Marauder) on the Wifi Devboard!
 
-![Screenshot](https://user-images.githubusercontent.com/57457139/184529067-27ed301f-fd19-4779-a85d-c134dbf93ba6.png)
+![Screenshot_v1 1](https://user-images.githubusercontent.com/57457139/184584304-482ac7ea-0825-463b-b4f8-71885b457e1a.png)
 
 ## Now it's as easy as 1, 2, 3 to install or update Marauder on Windows.
 
@@ -8,9 +8,11 @@
 2. Hold `BOOT` on the devboard and plug it into your PC directly via USB.<br>
 3. Double-click `flash.bat` from the extracted files then choose `Flash` or `Update`.
 
-If you choose `Flash` the script will locate your board and flash Marauder automatically!<br>
-If you choose `Update` you'll be taken to the Marauder download location to grab a new version.<br>
-(Simply download the BIN file as stated and stick it in the Marauder subfolder of the batch file.)
+* If you choose `Flash Marauder` the script will locate your board and flash Marauder automatically!<br>
+* If you choose `Update Marauder` you'll be taken to the Marauder download location to grab a new version.<br>
+(Simply download the BIN file as stated and stick it in the Marauder subfolder of the batch file.)<br>
+* If you choose `Save Flipper Blackmagic WiFi settings` your current Blackmagic configuration will be saved.<br>
+* If you choose `Flash Flipper Blackmagic` the script will flash the original Blackmagic firmware it shipped with.
 
 Current Marauder version included in the ZIP: v0.9.13.20220806 (current release as of Aug 14, 2022)
 
