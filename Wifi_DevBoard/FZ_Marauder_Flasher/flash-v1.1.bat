@@ -22,7 +22,7 @@ GOTO ERREXIT
 
 :CHOOSE_FW
 echo.
-echo Which action to perform?
+echo Which action would you like to perform?
 echo.
 echo 1. Flash Marauder
 echo 2. Update Marauder
@@ -83,7 +83,7 @@ echo #########################################
 echo.
 echo Saving Flipper Blackmagic WiFi Settings to "FlipperBlackmagic\nvs.bin"
 esptool.exe -p !_com! -b %BR% -c esp32s2 -a no_reset read_flash 0x9000 0x6000 FlipperBlackmagic\nvs.bin
-GOTO ERREXIT
+GOTO DONE
 
 :FLIPPERBM
 cls
