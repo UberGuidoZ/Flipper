@@ -48,7 +48,14 @@ You can connect to Marauder in a handful of ways (make sure qFlipper is CLOSED):
 
 Commands `channel`, `scanap`, `sniffbeacon`, `sniffdeauth`, `sniffpmkid`, `stopscan`, `clearap`, `ssid`, `update`
 
+## LED info when using Marauder
+
+Blue is sniffing<br>
+Red is attacking
+
 ------------------------------------------------------------------------------
+
+## SSID Command
 
 The `ssid` command is to edit the SSID list used for beacon attacks for when when you're running something like `attack -t beacon -l`<br>
 You can also use something like `ssid -a -g 4` to randomly generate four SSIDs to the list. (Check it with `list -s` to see them!)<br>
@@ -60,6 +67,7 @@ There is more to play with regarding ssid commands! From [cococode](https://disc
 2. list -s<br>
 3. select -s (index from list)<br>
 4. attack -t beacon -l<br>
+5. attack -t rickroll
 
 ------------------------------------------------------------------------------
 
