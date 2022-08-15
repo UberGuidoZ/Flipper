@@ -12,6 +12,8 @@ If you choose `Flash` the script will locate your board and flash Marauder autom
 If you choose `Update` you'll be taken to the Marauder download location to grab a new version.<br>
 (Simply download the BIN file as stated and stick it in the Marauder subfolder of the batch file.)
 
+**Once the install has completed, [head over here](https://github.com/UberGuidoZ/Flipper/tree/main/Wifi_DevBoard#marauder-install-information) to learn more about what Marauder can do!**
+
 **Current Marauder version included in the ZIP: v0.9.13.20220806 (current at release Aug 14, 2022)**
 
 The [batch file](https://github.com/UberGuidoZ/Flipper/blob/main/Wifi_DevBoard/FZ_Marauder_Flasher/flash.bat) is also included above for review and to track coming changes.<br>
