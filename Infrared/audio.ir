@@ -9,7 +9,7 @@ Version: 1
 # HUGE thank you to Amec0e for continued maintenance!
 #####################################################
 # 
-# Updated 15th August 2022
+# Updated 16th August 2022
 # 
 # | SPEAKERS |
 # 
@@ -232,6 +232,32 @@ type: parsed
 protocol: NEC
 address: 00 00 00 00
 command: 06 00 00 00
+# 
+# KLIPSCH
+# 
+name: POWER
+type: parsed
+protocol: NEC
+address: 02 00 00 00
+command: 0A 00 00 00
+# 
+name: MUTE
+type: parsed
+protocol: NEC
+address: 02 00 00 00
+command: 0D 00 00 00
+# 
+name: VOL+
+type: parsed
+protocol: NEC
+address: 02 00 00 00
+command: 1C 00 00 00
+# 
+name: VOL-
+type: parsed
+protocol: NEC
+address: 02 00 00 00
+command: 07 00 00 00
 # 
 # JBL
 # 
