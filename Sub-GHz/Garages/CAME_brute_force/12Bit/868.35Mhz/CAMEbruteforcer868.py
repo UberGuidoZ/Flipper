@@ -36,7 +36,7 @@ for item in split:
 
 
         if (key_dec % item) == 0:
-            filename = f"CAME_{item}_{int(key_dec / item)}.sub"
+            filename = f"CAME_{item}_{int(key_dec / item):003}.sub"
             os.makedirs(f"{item}", exist_ok=True)
             fulldir = f"{item}/{filename}"
             with open(fulldir, "w") as f:
