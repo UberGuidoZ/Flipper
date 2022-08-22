@@ -11,7 +11,7 @@ Version: 1
 # Also a HUGE thank you to Amec0e for continued maintenance!
 ############################################################
 # 
-# Updated on 17th August 2022
+# Updated on 21th August 2022
 #
 name: POWER
 type: parsed
@@ -2369,6 +2369,7 @@ type: parsed
 protocol: NEC
 address: 01 00 00 00
 command: 17 00 00 00
+# 
 # BRANDT
 # 
 name: POWER
@@ -2830,8 +2831,6 @@ type: parsed
 protocol: NEC
 address: A0 00 00 00
 command: 1F 00 00 00
-#
-# ROKU
 # 
 # SAMSUNG
 # 
