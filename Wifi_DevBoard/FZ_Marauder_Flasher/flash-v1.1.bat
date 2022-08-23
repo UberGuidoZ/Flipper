@@ -53,6 +53,8 @@ set last_firmware=
 for /f "tokens=1" %%F in ('dir Marauder\esp32_marauder*flipper.bin /b /o-n') do set last_firmware=%%F
 IF [!last_firmware!]==[] echo Please get and copy the last firmware from ESP32Marauder's Github Releases & GOTO ERREXIT
 esptool.exe -p !_com! -b %BR% -c esp32s2 --before default_reset -a no_reset erase_region 0x9000 0x6000
+echo Firmware Erased, preparing write...
+ping 127.0.0.1 -n 5 > NUL
 esptool.exe -p !_com! -b %BR% -c esp32s2 --before default_reset -a no_reset write_flash --flash_mode dio --flash_freq 80m --flash_size 4MB 0x1000 Marauder\bootloader.bin 0x8000 Marauder\partitions.bin 0x10000 Marauder\!last_firmware!
 GOTO DONE
 
@@ -100,6 +102,8 @@ IF EXIST FlipperBlackmagic\nvs.bin (
 ) ELSE (
     echo Flashing Flipper Blackmagic without WiFi Settings restore
     esptool.exe -p !_com! -b %BR% -c esp32s2 --before default_reset -a no_reset erase_region 0x9000 0x6000
+    echo Firmware Erased, preparing write...
+    ping 127.0.0.1 -n 5 > NUL
     esptool.exe -p !_com! -b %BR% -c esp32s2 --before default_reset -a no_reset write_flash --flash_mode dio --flash_freq 80m --flash_size 4MB 0x1000 FlipperBlackmagic\bootloader.bin 0x8000 FlipperBlackmagic\partition-table.bin 0x10000 FlipperBlackmagic\blackmagic.bin
 )
 GOTO DONE
