@@ -1,0 +1,20 @@
+REM Title: Powershell RickRoll FileBomb
+REM Author: 7h30th3r0n3
+REM Props: UberGuidoZ for the playground database: https://github.com/UberGuidoZ/Flipper
+REM Target: Windows 7/8/10/11
+REM Version: 1.0
+REM Category: Prank
+REM start a powershell and fill the default windows folders with all Rick's lyrics
+REM 
+GUI r
+DELAY 200
+STRING powershell
+ENTER
+DELAY 300
+STRING function RRfolder {mkdir Desert_you;mkdir Ooh-ooh-ooh-ooh;mkdir Hurt_you;mkdir We-re_no_strangers_to_love;mkdir You_know_the_rules_and_so_do_I;mkdir A_full_commitment-s_what_I-m_thinking_of;mkdir You_wouldn-t_get_this_from_any_other_guy;mkdir Gotta_make_you_understand;mkdir Never_gonna_give_you_up;mkdir Never_gonna_let_you_down;mkdir Never_gonna_run_around_and_desert_you;mkdir Never_gonna_make_you_cry;mkdir Never_gonna_say_goodbye;mkdir Never_gonna_tell_a_lie_and_hurt_you;mkdir We-ve_known_each_other_for_so_long;mkdir Your_heart-s_been_aching_but_you-re_too_shy_to_say_it;mkdir Inside_we_both_know_what-s_been_going_on;mkdir We_know_the_game_and_we-re_gonna_play_it;mkdir And_if_you_ask_me_how_I-m_feeling;mkdir Don-t_tell_me_you-re_too_blind_to_see;mkdir Ooh__Give_you_up_;mkdir Ooh-ooh__Give_you_up_;mkdir Ooh-ooh;mkdir Never_gonna_give_never_gonna_give;mkdir I_just_wanna_tell_you_how_I-m_feeling;}
+ENTER
+DELAY 200
+STRING cd C:\Users\$env:UserName\Desktop;RRfolder;cd C:\Users\$env:UserName\Downloads;RRfolder;cd C:\Users\$env:UserName\Documents;RRfolder;cd C:\Users\$env:UserName\Favorites;RRfolder;cd C:\Users\$env:UserName\Links;RRfolder;cd C:\Users\$env:UserName\Music;RRfolder;cd C:\Users\$env:UserName\Videos;RRfolder;cd C:\Users\$env:UserName\Contacts;RRfolder;
+ENTER
+STRING exit
+ENTER
