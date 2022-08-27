@@ -4,5 +4,5 @@ Version: 1
 Frequency: 868350000
 Preset: FuriHalSubGhzPresetOok270Async
 Protocol: CAME
-Bit: 17
+Bit: 24
 Key: 00 00 00 00 00 01 FF FF
