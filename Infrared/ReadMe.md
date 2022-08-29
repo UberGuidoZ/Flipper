@@ -8,7 +8,8 @@ Did you know you can quickly generate your own IR files on the go at [Flipper Ma
 [TV universal remote](https://github.com/UberGuidoZ/Flipper/blob/main/Infrared/tv.ir) compiled by [Hyper_Mash](https://discord.com/channels/740930220399525928/954422774141710366/994121751023853668) and maintained by [amec0e](https://github.com/amec0e)<br>
 [AC universal remote](https://github.com/UberGuidoZ/Flipper/blob/main/Infrared/ac.ir) added by [JEREMYNO](https://github.com/jaroslavmraz) and maintained by [amec0e](https://github.com/amec0e).<br>
 [Soundbar/Speakers universal remote](https://github.com/UberGuidoZ/Flipper/blob/main/Infrared/audio.ir) added and maintained by [amec0e](https://github.com/amec0e).<br>
-[Projector universal remote](https://github.com/UberGuidoZ/Flipper/blob/main/Infrared/projectors.ir) added by [xMasterx](https://github.com/Eng1n33r/flipperzero-firmware/commit/029f82dc822e6d3515b39b839a2f70500dc9bb86) and maintained by [amec0e](https://github.com/amec0e).
+[Projector universal remote](https://github.com/UberGuidoZ/Flipper/blob/main/Infrared/projectors.ir) added by [xMasterx](https://github.com/Eng1n33r/flipperzero-firmware/commit/029f82dc822e6d3515b39b839a2f70500dc9bb86) and maintained by [amec0e](https://github.com/amec0e).<br>
+[Fans universal remote](https://github.com/UberGuidoZ/Flipper/blob/main/Infrared/fans.ir) compiled by Edhel90 and maintained by [amec0e](https://github.com/amec0e)
 
 -----
 
