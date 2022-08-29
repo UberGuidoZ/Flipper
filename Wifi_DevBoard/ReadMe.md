@@ -4,6 +4,8 @@ The Wifi devboard ships with [Blackmagic firmware](https://github.com/flipperdev
 
 Quick start: Connect to the SSID `blackmagic` using the password `iamwitcher` or plug the wifi devboard in via USB.
 
+[Official schematics](https://docs.flipperzero.one/development/hardware/wifi-debugger-module/schematics) can be found in the Official Flipper docs. A [PDF version](https://github.com/UberGuidoZ/Flipper/blob/main/Wifi_DevBoard/Flipper_Zero_WI-FI_Module_V1_Schematic.PDF) is also available.
+
 # ESP32 Wi-Fi Pentest Tool
 
 Check out [Frog's write-up](https://github.com/FroggMaster/ESP32-Wi-Fi-Penetration-Tool) and build for quick and easy flashing! Seriously, it's basically just a double-click now thanks to some error checking and automation. ([You're welcome!](https://github.com/FroggMaster/ESP32-Wi-Fi-Penetration-Tool/compare/v1.0...v1.1)).

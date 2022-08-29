@@ -4,5 +4,5 @@ Version: 1
 Frequency: 868350000
 Preset: FuriHalSubGhzPresetOok650Async
 Protocol: CAME
-Bit: 16
+Bit: 12
 Key: 00 00 00 00 00 00 FF FF
