@@ -1,0 +1,12 @@
+Filetype: Flipper SubGhz RAW File
+Version: 1
+UP: /any/subghz/Doorbells/Clas_Ohlson/SC370_SC321T/W727 1.sub
+DOWN: /any/subghz/Doorbells/Clas_Ohlson/SC370_SC321T/W727 2.sub
+LEFT: /any/subghz/Doorbells/Clas_Ohlson/SC370_SC321T/W727 3.sub
+RIGHT: /any/subghz/Doorbells/Clas_Ohlson/SC370_SC321T/W727 8.sub
+OK: /any/subghz/Doorbells/Clas_Ohlson/SC370_SC321T/W727 9.sub
+ULABEL: Ding-Dong L
+DLABEL: Ding-Dong S
+LLABEL: Telephone
+RLABEL: Barking dog
+OKLABEL: Alarm
