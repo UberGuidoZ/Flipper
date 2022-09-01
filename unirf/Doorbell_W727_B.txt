@@ -1,0 +1,12 @@
+Filetype: Flipper SubGhz RAW File
+Version: 1
+UP: /any/subghz/Doorbells/W727/W727_4.sub
+DOWN: /any/subghz/Doorbells/W727/W727_5.sub
+LEFT: /any/subghz/Doorbells/W727/W727_6.sub
+RIGHT: /any/subghz/Doorbells/W727/W727_7.sub
+OK: /any/subghz/Doorbells/W727/W727_9.sub
+ULABEL: Melody 1
+DLABEL: Melody 2
+LLABEL: Melody 3
+RLABEL: Melody 4
+OKLABEL: Alarm
