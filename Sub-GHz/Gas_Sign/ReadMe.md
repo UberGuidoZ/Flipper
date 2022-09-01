@@ -4,7 +4,8 @@
 
 Captured remote is [GL-OIL-RF](https://olympianled.com/product/gas-price-changer-rf-remote-control-gl-oil-rf/). The [PDF manual](https://github.com/UberGuidoZ/Flipper/blob/main/Sub-GHz/Gas_Sign/Manual_GL-OIL-RF.pdf) is also available and contains programming instructions.
 
-Use the `Edit_mode.sub` to enable editing, then you can use the other SUB files for programming. See the manual above.
+Use the `Edit_mode.sub` to enable editing, then you can use the other SUB files for programming. See the manual above.<br>
+If you're runing an unlocked or custom firmware with UniRF, then you can [use this map](https://github.com/UberGuidoZ/Flipper/blob/main/unirf/Gas_Sign_Edit.txt) to easily edit on the fly.
 
 More work on this to be done! These captures are locked to the 20110120 code but can be [physically changed](https://olympianled.com/changing-remote-code/):
 
