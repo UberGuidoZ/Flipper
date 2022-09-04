@@ -11,6 +11,8 @@ WAV Player is very particular about the format. WavPlayer needs BitExact, NO hea
 To produce a compatible file, you can also use [FFmpeg](https://ffmpeg.org/):<br>
 `ffmpeg -i .\input.mp3 -c:a pcm_u8 -fflags +bitexact -flags:a +bitexact -ac 2 -ar 48k output.wav`
 
+-----
+
 I've had so many asking for me to add this.<br>
 ![Flipper_Blush](https://user-images.githubusercontent.com/57457139/183561666-4424a3cc-679b-4016-a368-24f7e7ad0a88.jpg) ![Flipper_Love](https://user-images.githubusercontent.com/57457139/183561692-381d37bd-264f-4c88-8877-e58d60d9be6e.jpg)
 
