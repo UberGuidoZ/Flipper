@@ -1,4 +1,4 @@
-# P1200 Cues Pyrotechnic Remote
+# P1200 Control Deck (Cues Pyrotechnic Remote)
 
 Files provided by Pyr0 via Discord.
 
