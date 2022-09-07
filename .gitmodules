@@ -7,3 +7,6 @@
 [submodule "BadUSB/Jakoby_BadUSB"]
 	path = BadUSB/Jakoby_BadUSB
 	url = https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB
+[submodule "BadUSB/Flipper_Zero_Badusb_hack5_payloads"]
+	path = BadUSB/Flipper_Zero_Badusb_hack5_payloads
+	url = https://github.com/nocomp/Flipper_Zero_Badusb_hack5_payloads/
