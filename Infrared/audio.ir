@@ -1317,3 +1317,21 @@ protocol: NECext
 address: 00 EF 00 00
 command: 04 FB 00 00
 # 
+name: POWER
+type: parsed
+protocol: NEC42
+address: 6E 00 00 00
+command: 00 00 00 00
+# 
+name: VOL+
+type: parsed
+protocol: NEC42
+address: 6E 00 00 00
+command: 4D 00 00 00
+# 
+name: VOL-
+type: parsed
+protocol: NEC42
+address: 6E 00 00 00
+command: 4E 00 00 00
+# 
