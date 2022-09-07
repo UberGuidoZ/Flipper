@@ -1,5 +1,6 @@
-# 1200 Cues Pyrotechnic Remote
+# P1200 Cues Pyrotechnic Remote
 
 Files provided by Pyr0 via Discord.
 
-Video: https://www.youtube.com/watch?v=gG6Xi3RobaU
+[More info from manufacturer](https://www.pyroboom.com/product_detail.aspx?ProductID=75).<br>
+[Video](https://www.youtube.com/watch?v=gG6Xi3RobaU) (now private.)
