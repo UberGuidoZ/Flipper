@@ -1,6 +1,7 @@
 # Documenting adventures with the GPIO...
 
-Official [GPIO layout](https://miro.com/app/board/uXjVO_LaYYI=/) created by [Aleksandr Kutuzov](https://discord.com/channels/740930220399525928/765282833744265246/993107060172542012). Some unofficial boards by [DrB0rk](https://github.com/DrB0rk/Flipper-Zero-Boards).
+Official [GPIO layout](https://miro.com/app/board/uXjVO_LaYYI=/) created by [Aleksandr Kutuzov](https://discord.com/channels/740930220399525928/765282833744265246/993107060172542012).<br>
+Check out some unofficial boards by [DrB0rk](https://github.com/DrB0rk/Flipper-Zero-Boards) and an extender by [speexvocon](https://oshpark.com/shared_projects/7dsn6cHv)!
 
 # Sentry Safe plugin pinout
 
