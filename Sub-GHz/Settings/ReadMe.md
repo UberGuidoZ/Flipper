@@ -9,7 +9,7 @@ This data is stored in the `.region_data` (hidden) file within internal storage 
 If you're having issues with regional retrictions that do not match your region, you can use the `region_data_null` file here.<br>
 Simply download and rename it to `.region_data` then replace the one currently in your internal storage.
 
-NOTE: This _will_ be overwritten each time you sync to the mobile app or qFlipper! Only for testing/verification purposes.
+NOTE: This _will_ be overwritten each time you sync to the mobile app or qFlipper! **Use strictly for testing/verification purposes.**
 
 ## Note: You must be on the latest release!
 
