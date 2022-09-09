@@ -17,7 +17,7 @@ command: E9 16 00 00
 # ON
 name: POWER
 type: parsed
-protocol: RCA
+protocol: RC5
 address: 0F 00 00 00
 command: 3A 00 00 00
 # ON
@@ -2777,37 +2777,37 @@ data: 182 7824 176 2328 181 2323 176 2328 181 2324 175 1312 183 1323 182 2322 17
 # 
 name: POWER
 type: parsed
-protocol: RCA
+protocol: RC5
 address: 0F 00 00 00
 command: 2A 00 00 00
 # 
 name: CH-
 type: parsed
-protocol: RCA
+protocol: RC5
 address: 0F 00 00 00
 command: 2C 00 00 00
 # 
 name: CH+
 type: parsed
-protocol: RCA
+protocol: RC5
 address: 0F 00 00 00
 command: 2D 00 00 00
 # 
 name: VOL-
 type: parsed
-protocol: RCA
+protocol: RC5
 address: 0F 00 00 00
 command: 2E 00 00 00
 # 
 name: VOL+
 type: parsed
-protocol: RCA
+protocol: RC5
 address: 0F 00 00 00
 command: 2F 00 00 00
 # 
 name: MUTE
 type: parsed
-protocol: RCA
+protocol: RC5
 address: 0F 00 00 00
 command: 3F 00 00 00
 # 
@@ -3245,7 +3245,7 @@ command: 62 9D 00 00
 # OFF
 name: POWER
 type: parsed
-protocol: RCA
+protocol: RC5
 address: 0F 00 00 00
 command: 3B 00 00 00
 # OFF
