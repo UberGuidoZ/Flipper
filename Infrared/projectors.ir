@@ -1,6 +1,6 @@
 Filetype: IR library file
 Version: 1
-# Last Updated 7th Sep, 2022
+# Last Updated 8th Sep, 2022
 # 
 # ON
 name: POWER
@@ -339,3 +339,20 @@ protocol: NECext
 address: 83 F4 00 00
 command: 4E B1 00 00
 # 
+name: POWER
+type: parsed
+protocol: NEC
+address: 03 00 00 00
+command: 1D 00 00 00
+# 
+name: VOL+
+type: parsed
+protocol: NEC
+address: 03 00 00 00
+command: 11 00 00 00
+# 
+name: VOL-
+type: parsed
+protocol: NEC
+address: 03 00 00 00
+command: 15 00 00 00
