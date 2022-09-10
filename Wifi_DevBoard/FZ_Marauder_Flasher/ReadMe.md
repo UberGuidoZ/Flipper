@@ -1,6 +1,6 @@
 # Quick and easy flasher/updater for [Marauder](https://github.com/justcallmekoko/ESP32Marauder) on the Wifi Devboard!
 
-Looking for a Linux/OS X version? [Check out SkeletonMan's Python edition!](https://github.com/SkeletonMan03/FZEasyMarauderFlash) (Works for Windows too including full automated downloads.)
+Looking for a Linux/OS X version? [Check out SkeletonMan's Python edition!](https://github.com/SkeletonMan03/FZEasyMarauderFlash) (WIP for Windows too including full automated downloads.)
 
 ![Screenshot_v1 1](https://user-images.githubusercontent.com/57457139/184584304-482ac7ea-0825-463b-b4f8-71885b457e1a.png)
 
