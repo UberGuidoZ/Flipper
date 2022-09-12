@@ -9,6 +9,8 @@ Each numerical value is the duration of a pulse in microseconds. Positive is `se
 Example: `3607 -100 1789 -66` means send (positive) during the `3607µs` then pause (negative) for the `100µs`, etc.<br>
 You can easily plot any raw SUB (or IR) file at the [Official Pulse Plotter](https://my.flipp.dev/pulse-plotter) and see a graph to help decode patterns.
 
+Another take... positive numbers in the raw .SUB files tell you how long (in microseconds / μs) the signal was ON and the negative numbers tell you how long it was OFF. Usually on means 1 and off means 0. This also makes sense when you remember/realize OOK = `On Off Keying`.
+
 ## NOTE: The deBruijn and OpenSesame files have moved to the [Garages subfolder](https://github.com/UberGuidoZ/Flipper/tree/main/Sub-GHz/Garages/deBruijn).
 
 You can generate MANY of your own SUBs, such as MegaCode and Firefly, over at [Flipper Maker](https://flippermaker.github.io/).
