@@ -1,4 +1,4 @@
-# Last update Aug 28, 2022
+# Last update Sept 12, 2022
 # -----------------------
 # MIFARE DEFAULT KEYS
 #   -- ICEMAN FORK VERSION --
@@ -2311,3 +2311,7 @@ A00003000057
 #
 # BH USA 2013 conference
 012279BAD3E5
+#
+# Added by VideoMan
+# Random Hotel A Key Sec 0 Blk 3 - KABA Lock
+3111A3A303EB
