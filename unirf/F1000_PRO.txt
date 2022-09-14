@@ -1,9 +1,9 @@
 Filetype: Flipper SubGhz RAW File
 Version: 1
-UP: /any/subghz/BOOMTONE DJ - F1000 PRO/A.sub
-DOWN: /any/subghz/BOOMTONE DJ - F1000 PRO/B.sub
-LEFT: /any/subghz/BOOMTONE DJ - F1000 PRO/C.sub
-RIGHT: /any/subghz/BOOMTONE DJ - F1000 PRO/D.sub
+UP: /any/subghz/Misc/Boomtone_DJ/A.sub
+DOWN: /any/subghz/Misc/Boomtone_DJ/B.sub
+LEFT: /any/subghz/Misc/Boomtone_DJ/C.sub
+RIGHT: /any/subghz/Misc/Boomtone_DJ/D.sub
 ULABEL: A button
 DLABEL: B button
 LLABEL: C Button
