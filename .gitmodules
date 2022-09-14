@@ -10,3 +10,6 @@
 [submodule "BadUSB/Flipper_Zero_Badusb_hack5_payloads"]
 	path = BadUSB/Flipper_Zero_Badusb_hack5_payloads
 	url = https://github.com/nocomp/Flipper_Zero_Badusb_hack5_payloads/
+[submodule "BadUSB/BadUSB-FalsePhilosopher"]
+	path = BadUSB/BadUSB-FalsePhilosopher
+	url = https://github.com/FalsePhilosopher/BadUSB-Playground
