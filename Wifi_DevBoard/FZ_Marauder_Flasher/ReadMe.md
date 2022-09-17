@@ -20,8 +20,7 @@ Current Marauder version included in the ZIP: v0.9.15.20220907 (current release 
 
 **Once the install has completed, [head over here](https://github.com/UberGuidoZ/Flipper/tree/main/Wifi_DevBoard#marauder-install-information) to learn more about what Marauder can do!**
 
-The [batch file](https://github.com/UberGuidoZ/Flipper/blob/main/Wifi_DevBoard/FZ_Marauder_Flasher/Flash-v1.4.bat) is also included above for review and to track coming changes.<br>
-*Coming soon: Black Magic (original debug firmware) flashing, firmware backup, firmware restore.*
+The [batch file](https://github.com/UberGuidoZ/Flipper/blob/main/Wifi_DevBoard/FZ_Marauder_Flasher/Flash-v1.4.bat) is also included above for review and to track coming changes.
 
 Acknowledgements:<br>
 * [justcallmekoko](https://github.com/justcallmekoko/ESP32Marauder) for the AWESOME work in developing Marauder and porting it to the Flipper.
