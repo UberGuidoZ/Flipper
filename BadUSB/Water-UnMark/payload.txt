@@ -1,0 +1,17 @@
+﻿REM Title:       Water-UnMark
+REM Author:      atomiczsec
+REM Target OS:   Windows 10
+REM Description: This script will get rid of the ugly windows watermark. This script will automatically reboot the device. This is not activating your computer!!
+
+DELAY 2000
+GUI r
+DELAY 100
+STRING powershell Start-Process powershell -verb runAs
+DELAY 1000
+ALT Y
+DELAY 1000
+STRING Set-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Services\svsvc" -Name Start -Value 4 -Force
+ENTER
+DELAY 100
+STRING Restart-Computer -Force
+ENTER
