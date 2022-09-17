@@ -1,6 +1,12 @@
 Filetype: IR library file
 Version: 1
-# Last Updated 13th Sept, 2022
+# Last Updated 17th Sept, 2022
+# 
+name: POWER
+type: parsed
+protocol: NECext
+address: AD ED 00 00
+command: B5 4A 00 00
 # 
 name: POWER
 type: raw
@@ -3217,4 +3223,34 @@ type: parsed
 protocol: Samsung32
 address: 07 00 00 00
 command: 24 00 00 00
+# 
+name: VOL+
+type: parsed
+protocol: NECext
+address: AD ED 00 00
+command: BA 45 00 00
+# 
+name: VOL-
+type: parsed
+protocol: NECext
+address: AD ED 00 00
+command: BB 44 00 00
+# 
+name: CH+
+type: parsed
+protocol: NECext
+address: AD ED 00 00
+command: B0 4F 00 00
+# 
+name: CH-
+type: parsed
+protocol: NECext
+address: AD ED 00 00
+command: B1 4E 00 00
+# 
+name: MUTE
+type: parsed
+protocol: NECext
+address: AD ED 00 00
+command: C5 3A 00 00
 # 
