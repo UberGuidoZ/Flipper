@@ -1,0 +1,10 @@
+UP: /ext/subghz/Garages/deBruijn/EU_Edition/Open_Sesame/9bit-433mhz-EU.sub
+DOWN: /ext/subghz/Garages/deBruijn/EU_Edition/Open_Sesame/9bit-868mhz-EU.sub
+LEFT: /ext/subghz/Garages/deBruijn/EU_Edition/Open_Sesame/10bit-433mhz-EU.sub
+RIGHT: /ext/subghz/Garages/deBruijn/EU_Edition/Open_Sesame/10bit-868mhz-EU.sub
+OK: /ext/subghz/Garages/deBruijn/EU_Edition/Open_Sesame/9bit-433mhz-EU.sub
+ULABEL: 9bit 443
+DLABEL: 9bit 868
+LLABEL: 10bit 443
+RLABEL: 10bit 868
+OKLABEL: 9bit 443
