@@ -4,7 +4,7 @@ Proper credit is always provided; I simply request the same.
 
 ## Many more should work from my other repos: [O.MG Devices](https://github.com/UberGuidoZ/Hak5-OMG-Payloads) and [Hak5](https://github.com/UberGuidoZ/Hak5-USBRubberducky-Payloads)
 
-<b>Some have been converted to work for the Flipper already!</b> Check out the submodules above.
+<b>Some have been converted to work for the Flipper already!</b> Check out the submodules above [or FalsePhilosopher's download and go](https://github.com/FalsePhilosopher/badusb).
 
 Looking to break out of kisok mode for some shenanigans and educational value? [Here's some helpful tips](https://www.trustedsec.com/blog/kioskpos-breakout-keys-in-windows/) and a [script from nocomp](https://github.com/nocomp/Kiosk-evasion-BADUsb-Bruteforce)!
 
