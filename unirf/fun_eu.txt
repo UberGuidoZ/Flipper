@@ -1,0 +1,10 @@
+UP: /ext/subghz/Restaurant_Pagers/LRS_Pagers/BruteForceRest.sub
+DOWN: /ext/subghz/Restaurant_Pagers/Retekess_Pagers/T119/Retekess_T119_Bruteforce_Extended.sub
+LEFT: /ext/subghz/Vehicles/Tesla/BEST_PORT_OPENER/433.92MHz_AM650_Better_Tesla_Charge_Port_Opener.sub
+RIGHT: /ext/subghz/Vehicles/Tesla/BEST_PORT_OPENER/433.92MHz_AM270_Better_Tesla_Charge_Port_Opener.sub
+OK: /ext/subghz/Handicap/ook650_315substack.sub
+ULABEL: BruteLRS
+DLABEL: BruteT119
+LLABEL: Tesla650
+RLABEL: Tesla270
+OKLABEL: Handicap
