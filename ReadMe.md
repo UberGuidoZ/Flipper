@@ -1,6 +1,6 @@
 ## Playground (and dump) of stuff I made, modified, researched, or found for the Flipper Zero. Looking for Infrared (IR) codes? Head over to [the IRDB](https://github.com/UberGuidoZ/Flipper-IRDB)!
 
-If you're new to github in general, I have a _very_ rough/basic guide over on the Official Discord ([in this thread](https://discord.com/channels/740930220399525928/995390495415095296).)
+If you're new to github in general, I have a _very_ rough/basic guide over on the Official Discord [in this thread](https://discord.com/channels/740930220399525928/995390495415095296). Link not available? [Try this first](https://discord.com/invite/flipper)!
 
 -----
 

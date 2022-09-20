@@ -23,8 +23,7 @@ mismatch can be large and the output stage will not be damaged when presented wi
 However, if the antenna mismatch is very poor for long periods of time, then this can effect the longevity of the chip especially
 if further stressed with maximum voltage and maximum temperature. Recommend keeping VSWR better than 5:1 for worst case scenarios.
 ```
-
-You'll need to edit some code and recompile if you want to break outside of the officially supported frequencies. [Proceed with caution.](https://github.com/UberGuidoZ/Flipper/blob/main/Sub-GHz/Restaurant_Pagers/SubGHz_changes.md)
+If you use [Unleashed](https://github.com/Eng1n33r/flipperzero-firmware/blob/dev/documentation/DangerousSettings.md) or [RogueMaster](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/blob/420/documentation/DangerousSettings.md), both have options (linked) to allow these settings. Otherwise, you'll need to edit some code and recompile if you want to break outside of the officially supported frequencies. [Proceed with caution.](https://github.com/UberGuidoZ/Flipper/blob/main/Sub-GHz/Restaurant_Pagers/SubGHz_changes.md)
 
 -----
 

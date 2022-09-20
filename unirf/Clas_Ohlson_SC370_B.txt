@@ -1,0 +1,12 @@
+Filetype: Flipper SubGhz RAW File
+Version: 1
+UP: /any/subghz/Doorbells/Clas_Ohlson/SC370_SC321T/W727 4.sub
+DOWN: /any/subghz/Doorbells/Clas_Ohlson/SC370_SC321T/W727 5.sub
+LEFT: /any/subghz/Doorbells/Clas_Ohlson/SC370_SC321T/W727 6.sub
+RIGHT: /any/subghz/Doorbells/Clas_Ohlson/SC370_SC321T/W727 7.sub
+OK: /any/subghz/Doorbells/Clas_Ohlson/SC370_SC321T/W727 9.sub
+ULABEL: Melody 1
+DLABEL: Melody 2
+LLABEL: Melody 3
+RLABEL: Melody 4
+OKLABEL: Alarm

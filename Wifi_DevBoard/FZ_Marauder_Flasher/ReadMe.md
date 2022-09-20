@@ -1,10 +1,12 @@
 # Quick and easy flasher/updater for [Marauder](https://github.com/justcallmekoko/ESP32Marauder) on the Wifi Devboard!
 
+Looking for a Linux/OS X version? [Check out SkeletonMan's Python edition!](https://github.com/SkeletonMan03/FZEasyMarauderFlash) (WIP for Windows too including full automated downloads.)
+
 ![Screenshot_v1 1](https://user-images.githubusercontent.com/57457139/184584304-482ac7ea-0825-463b-b4f8-71885b457e1a.png)
 
 ## Now it's as easy as 1, 2, 3 to install or update Marauder on Windows.
 
-1. Download and extract [the ZIP file](https://github.com/UberGuidoZ/Flipper/raw/main/Wifi_DevBoard/FZ_Marauder_Flasher/FZ_Marauder_v1.2.zip) above to the same directory.<br>
+1. Download and extract [the ZIP file](https://github.com/UberGuidoZ/Flipper/raw/main/Wifi_DevBoard/FZ_Marauder_Flasher/FZ_Marauder_v1.4.zip) above to the same directory.<br>
 2. Hold `BOOT` on the devboard and plug it into your PC directly via USB.<br>
 3. Double-click `flash.bat` from the extracted files then choose `Flash` or `Update`.
 
@@ -14,12 +16,11 @@
 * If you choose `Save Flipper Blackmagic WiFi settings` your current Blackmagic configuration will be saved.<br>
 * If you choose `Flash Flipper Blackmagic` the script will flash the original Blackmagic firmware it shipped with.
 
-Current Marauder version included in the ZIP: v0.9.13.20220806 (current release as of Aug 23, 2022)
+Current Marauder version included in the ZIP: v0.9.15.20220907 (current release as of Sept 7, 2022)
 
 **Once the install has completed, [head over here](https://github.com/UberGuidoZ/Flipper/tree/main/Wifi_DevBoard#marauder-install-information) to learn more about what Marauder can do!**
 
-The [batch file](https://github.com/UberGuidoZ/Flipper/blob/main/Wifi_DevBoard/FZ_Marauder_Flasher/flash.bat) is also included above for review and to track coming changes.<br>
-*Coming soon: Black Magic (original debug firmware) flashing, firmware backup, firmware restore.*
+The [batch file](https://github.com/UberGuidoZ/Flipper/blob/main/Wifi_DevBoard/FZ_Marauder_Flasher/Flash-v1.4.bat) is also included above for review and to track coming changes.
 
 Acknowledgements:<br>
 * [justcallmekoko](https://github.com/justcallmekoko/ESP32Marauder) for the AWESOME work in developing Marauder and porting it to the Flipper.

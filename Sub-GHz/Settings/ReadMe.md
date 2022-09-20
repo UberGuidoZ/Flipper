@@ -1,5 +1,16 @@
 # Adding additional frequencies (TX/RX)
 
+Official firmware now uses a different method for region locks. Per Aleksandr Kutuzov (skotopes):
+```
+Mobile app uses Phone/SIM region with fallback to GeoIP.
+Desktop uses GeoIP and fallback to System.
+```
+This data is stored in the `.region_data` (hidden) file within internal storage and is set when connected to Desktop/Mobile per above.<br>
+If you're having issues with regional retrictions that do not match your region, you can use the `region_data_null` file here.<br>
+Simply download and rename it to `.region_data` then replace the one currently in your internal storage.
+
+NOTE: This _will_ be overwritten each time you sync to the mobile app or qFlipper! **Use strictly for testing/verification purposes.**
+
 ## Note: You must be on the latest release!
 
 Some changes I made to the available frequency settings (including unlocking them all). The file is found here:

@@ -1,0 +1,11 @@
+Filetype: Flipper SubGhz Key File
+Version: 1
+#
+# Marvice GP-01 Pager (Bangkok airport)
+#
+Frequency: 433920000
+Preset: FuriHalSubGhzPresetOok650Async
+Protocol: Princeton
+Bit: 24
+Key: 00 00 00 00 00 FC 06 41
+TE: 208

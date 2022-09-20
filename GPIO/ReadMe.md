@@ -1,6 +1,7 @@
 # Documenting adventures with the GPIO...
 
-Official [GPIO layout](https://miro.com/app/board/uXjVO_LaYYI=/) created by [Aleksandr Kutuzov](https://discord.com/channels/740930220399525928/765282833744265246/993107060172542012).
+Official [GPIO layout](https://miro.com/app/board/uXjVO_LaYYI=/) created by [Aleksandr Kutuzov](https://discord.com/channels/740930220399525928/765282833744265246/993107060172542012).<br>
+Check out some unofficial boards by [DrB0rk](https://github.com/DrB0rk/Flipper-Zero-Boards) and an extender by [Speexvocon](https://github.com/Speexvocon/FlipperZeroHeaderExtender)!
 
 # Sentry Safe plugin pinout
 
@@ -59,7 +60,8 @@ NOTE: Use `old_hardware.bin` if flashing Marauder onto the ESP32-WROOM (thanks w
 ![ESP8266](https://user-images.githubusercontent.com/57457139/182291241-8728052d-aa33-46b0-8e3d-fe44bbda4b6b.jpg)
 
 ## ESP32 / ESP32-WROOM / ESP8266 Pinout to Flipper Zero
-(Thanks [E_Surge](https://github.com/ESurge) and wyldgoat for guidance!)
+(Thanks [E_Surge](https://github.com/ESurge) and wyldgoat for guidance!)<br>
+NOTE: Make sure you're using at least an ESP32 v2 or above for full functionality! [Good read](https://blog.spacehuhn.com/esp32-deauther).
 
 ESP32: 3 (RX0) -> FZ: 13 or 15 (these are TX pins)<br>
 ESP32: 1 (TX0) -> FZ: 14 or 16 (these are RX pins)<br>

@@ -1,6 +1,12 @@
-# Changes for the User NFC Key Dictionary (Updated Aug 13, 2022)
+# Changes for the User NFC Key Dictionary (Updated Aug 28, 2022)
 
 Official firmware has introduced a user dict file option which will allow you to update firmware and not lose any added NFC keys! This is great, but requires a slight change in the way things were done previously. I've removed all the NFC keys that are in the original `mf_classic_dict.nfc` provided by Official firmware as of July 26, 2022 and converted [what's left over](https://github.com/UberGuidoZ/Flipper/blob/main/NFC/mf_classic_dict/ReadMe.md#older-method-combined-multiple-mf_classic_dictnfc-files) to the new `mf_classic_dict_user.nfc` [file here](https://github.com/UberGuidoZ/Flipper/blob/main/NFC/mf_classic_dict/mf_classic_dict_user.nfc).
+
+-----
+
+Unleashed / RogueMaster have already merged this into their default dict file so no need to grab it!
+
+-----
 
 To use, add the `mf_classic_dict_user.nfc` file from this repo into the SD Card -> nfc -> assets folder.
 

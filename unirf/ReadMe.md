@@ -1,4 +1,6 @@
-## UniRF Remix SUB map examples.
+# UniRF Remix SUB map examples.
+
+## Author: E_Surge with [more info over here](https://github.com/ESurge/flipperzero-firmware-unirfremix/blob/dev-fbt/ReadMe.md)!
 
 -----
 
