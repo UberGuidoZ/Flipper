@@ -63,7 +63,7 @@ Officially supported frequencies according to region (as manufactured and progra
 AM650 and FM650 modulation tries to cover more range of frequencies at the cost of less pickup distance.<br>
 AM270 and FM270 modulation offer a more narrow range, but have a cleaner pickup and slightly better distance.
 
-[Official documentation is an excellent read!](https://docs.flipperzero.one/sub-ghz/modulation)
+[Official documentation is an excellent read!](https://docs.flipperzero.one/sub-ghz/read-raw#HUe8f)
 
 -----
 
