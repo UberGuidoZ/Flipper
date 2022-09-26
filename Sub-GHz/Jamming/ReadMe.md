@@ -1,4 +1,4 @@
-# WARNING
+# WARNING (United States)
 
 The use of a phone jammer, GPS blocker, or other signal jamming device designed to intentionally block, jam, or interfere with authorized radio communications is a violation of federal law.  There are no exemptions for use within a business, classroom, residence, or vehicle.  Local law enforcement agencies do not have independent authority to use jamming equipment; in certain limited exceptions use by Federal law enforcement agencies is authorized in accordance with applicable statutes.
 
