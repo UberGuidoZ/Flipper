@@ -10,6 +10,8 @@ It can be a matter of life and death: Private persons using radio-jamming device
 
 For many it’s just a prank, but interfering with public safety communication is against federal law. In fact it is illegal to buy, sell, or operate a jamming device – an offense that carries with it fines of up to $112,000 per act and time in federal prison.
 
+These files are for educational use to determine ways the Flipper can work and how to prevent such actions.
+
 ## Untested Files
 
 Generated with a HackRF and recorded with the Flipper. (Credit: dandri#6962 on Discord)
