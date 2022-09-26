@@ -17,4 +17,6 @@ For many it’s just a prank, but interfering with public safety communication i
 
 ## UK
 
-Jamming is punishable by 2 years in prison for jamming and 3 months in prison for distributing jammer hardware.
+The act of jamming is punishable by 2 years in prison.
+
+Distribution of jammer hardware is punishable by up to 3 months in prison.
