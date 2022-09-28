@@ -3,8 +3,12 @@
 This is probably illegal to do. These files are for educational use to determine ways the Flipper can work and how to prevent such actions.<br>
 Files are UNTESTED and may cause magic smoke. Generated with a HackRF and recorded with the Flipper. (Credit: dandri#6962 on Discord)
 
+-----
+
 **NOTE: Files have been removed because people can't be trusted. This is why we can't have nice things.**<br>
 If you hunt for them, they should not be too difficult to find. (Discord is where they were found...)
+
+-----
 
 ## United States
 
