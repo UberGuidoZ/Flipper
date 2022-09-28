@@ -3,6 +3,9 @@
 This is probably illegal to do. These files are for educational use to determine ways the Flipper can work and how to prevent such actions.<br>
 Files are UNTESTED and may cause magic smoke. Generated with a HackRF and recorded with the Flipper. (Credit: dandri#6962 on Discord)
 
+**NOTE: Files have been removed because people can't be trusted. This is why we can't have nice things.**<br>
+If you hunt for them, they should not be too difficult to find. (Discord is where they were found...)
+
 ## United States
 
 The use of a phone jammer, GPS blocker, or other signal jamming device designed to intentionally block, jam, or interfere with authorized radio communications is a violation of federal law.  There are no exemptions for use within a business, classroom, residence, or vehicle. Local law enforcement agencies do not have independent authority to use jamming equipment; in certain limited exceptions use by Federal law enforcement agencies is authorized in accordance with applicable statutes.
