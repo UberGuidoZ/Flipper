@@ -1,6 +1,42 @@
 Filetype: IR library file
 Version: 1
-# Last Updated 28th Sept, 2022
+# Last Updated 29th Sept, 2022
+#
+name: POWER
+type: parsed
+protocol: NEC
+address: 19 00 00 00
+command: 18 00 00 00
+#
+name: MUTE
+type: parsed
+protocol: NEC
+address: 19 00 00 00
+command: 56 00 00 00
+#
+name: VOL+
+type: parsed
+protocol: NEC
+address: 19 00 00 00
+command: 4F 00 00 00
+#
+name: VOL-
+type: parsed
+protocol: NEC
+address: 19 00 00 00
+command: 0D 00 00 00
+#
+name: CH+
+type: parsed
+protocol: NEC
+address: 19 00 00 00
+command: 4C 00 00 00
+#
+name: CH-
+type: parsed
+protocol: NEC
+address: 19 00 00 00
+command: 0F 00 00 00
 #
 name: POWER
 type: raw
