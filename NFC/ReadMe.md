@@ -1,7 +1,8 @@
 # NFC Ramblings and Info
 
 [Fun files](https://github.com/UberGuidoZ/Flipper/tree/main/NFC/Fun_Files) are things I use or things I'm playing with. <br>
-Includes some basic/crude NFC documentation in the ReadMe.
+Includes some basic/crude NFC documentation in the ReadMe.<br>
+Also make sure to check out Toxic_Wolf's [NFC Trolls repo](https://github.com/w0lfzk1n/Flipper-Zero-NFC-Trolls)!
 
 `mf_classic_dict` is an [upgraded NFC keys dictionary](https://github.com/UberGuidoZ/Flipper/tree/main/NFC/mf_classic_dict) (user/default) that almost triples the available keys.<br>
 With it, you can recognize more (usually finding all 32) - now with sources and comments included!
