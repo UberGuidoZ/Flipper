@@ -29,6 +29,7 @@ The Flipper and its community wouldn't be as rich as it is without your contribu
 - [BPM Tapper (By panki27)](https://github.com/panki27/bpm-tapper)
 - [Calculator (By n-o-T-I-n-s-a-n-e)](https://github.com/n-o-T-I-n-s-a-n-e)
 - [Ceasar Cipher (By panki27)](https://github.com/panki27/caesar-cipher)
+- [USB Keyboard (By huuck)](https://github.com/huuck/FlipperZeroUSBKeyboard)
 
 -----
 
