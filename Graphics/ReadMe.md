@@ -1,5 +1,9 @@
-# Some graphics fun
-Place the manifest.txt file in your "dolphin" folder under the SD Card:
+# Make your own animations!
+
+So you want to make your own animations? Thankfully, Talking Sasquach has [an excellent write-up](https://github.com/skizzophrenic/Talking-Sasquach) on how to.
+
+# Some other graphics fun
+Place the manifest.txt file from this repo in your "dolphin" folder under the SD Card:
 
 ![manifest_location](https://user-images.githubusercontent.com/57457139/174727907-6547e3fc-fe2c-4968-be99-d6ff8279bda9.png)
 
