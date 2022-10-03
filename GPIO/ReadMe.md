@@ -68,7 +68,8 @@ NOTE: Make sure you're using at least an ESP32 v2 or above for full functionalit
 ESP32: 3 (RX0) -> FZ: 13 or 15 (these are TX pins)<br>
 ESP32: 1 (TX0) -> FZ: 14 or 16 (these are RX pins)<br>
 ESP32: GND -> FZ: 8 or 11 or 18 (GND)<br>
-ESP32: 3.3V -> FZ: 9 (3.3V) ***OR*** ESP32: 5V -> FZ: 1 (5V)
+ESP32: 5V -> FZ: 1 (5V) ***OR*** ESP32: 3.3V -> FZ: 9 (3.3V)<br>
+*NOTE: Make sure to enable 5v under GPIO on the Flipper*
 
 Switch between UART Pins 13/14 and 15/16 setting in FlipperZero<br>
 `(GPIO -> USB-UART Bridge -> LEFT -> UART Pins)`
