@@ -74,6 +74,8 @@ ESP32: 5V -> FZ: 1 (5V) ***OR*** ESP32: 3.3V -> FZ: 9 (3.3V)<br>
 Switch between UART Pins 13/14 and 15/16 setting in FlipperZero<br>
 `(GPIO -> USB-UART Bridge -> LEFT -> UART Pins)`
 
+A visual pinout can be seen in [this PDF](https://github.com/UberGuidoZ/Flipper/blob/main/GPIO/ESP8266_WIFI_Schematic.pdf), too.
+
 # ESP32-CAM (Camera)
 
 ![ESP32-CAM](https://user-images.githubusercontent.com/57457139/182571081-81df66a8-a536-426f-9ee0-ee277da5ef0a.png)
