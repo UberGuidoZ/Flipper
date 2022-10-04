@@ -1,6 +1,7 @@
 # Make your own animations!
 
-So you want to make your own animations? Thankfully, Talking Sasquach has [an excellent write-up](https://github.com/skizzophrenic/Talking-Sasquach) on how to.
+So you want to make your own animations? Thankfully, Talking Sasquach has [an excellent write-up](https://github.com/skizzophrenic/Talking-Sasquach) on how to.<br>
+Are you more the type that just wants to grab some pre-made and tinker with how they work? Then you'll want to check out [Kuronons's repo](https://github.com/Kuronons/FZ_graphics)!
 
 # Some other graphics fun
 Place the manifest.txt file from this repo in your "dolphin" folder under the SD Card:
