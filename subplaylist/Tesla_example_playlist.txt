@@ -2,5 +2,5 @@
 #
 sub: /ext/subghz/Vehicles/Tesla/BEST_PORT_OPENER/315MHz_AM650_Better_Tesla_Charge_Port_Opener.sub
 sub: /ext/subghz/Vehicles/Tesla/BEST_PORT_OPENER/315MHz_AM270_Better_Tesla_Charge_Port_Opener.sub
-sub: /ext/subghz/Vehicles/Tesla/Tesla_charge_AM650.subTest2.sub
-sub: /ext/subghz/Vehicles/Tesla/Tesla_charge_AM270.subTest2.sub
+sub: /ext/subghz/Vehicles/Tesla/Tesla_charge_AM650.sub
+sub: /ext/subghz/Vehicles/Tesla/Tesla_charge_AM270.sub
