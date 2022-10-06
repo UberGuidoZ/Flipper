@@ -13,3 +13,6 @@
 [submodule "BadUSB/BadUSB-FalsePhilosopher"]
 	path = BadUSB/BadUSB-FalsePhilosopher
 	url = https://github.com/FalsePhilosopher/BadUSB-Playground
+[submodule "NFC/NFC-Trolls"]
+	path = NFC/NFC-Trolls
+	url = https://github.com/w0lfzk1n/Flipper-Zero-NFC-Trolls
