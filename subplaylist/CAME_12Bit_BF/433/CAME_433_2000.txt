@@ -1,0 +1,3 @@
+sub: /ext/subghz/Garages/CAME_brute_force/12Bit/433.92Mhz/2000/CAME_2000_000.sub
+sub: /ext/subghz/Garages/CAME_brute_force/12Bit/433.92Mhz/2000/CAME_2000_001.sub
+sub: /ext/subghz/Garages/CAME_brute_force/12Bit/433.92Mhz/2000/CAME_2000_002.sub

@@ -1,0 +1,9 @@
+sub: /ext/subghz/Garages/CAME_brute_force/12Bit/433.92Mhz/500/CAME_500_000.sub
+sub: /ext/subghz/Garages/CAME_brute_force/12Bit/433.92Mhz/500/CAME_500_001.sub
+sub: /ext/subghz/Garages/CAME_brute_force/12Bit/433.92Mhz/500/CAME_500_002.sub
+sub: /ext/subghz/Garages/CAME_brute_force/12Bit/433.92Mhz/500/CAME_500_003.sub
+sub: /ext/subghz/Garages/CAME_brute_force/12Bit/433.92Mhz/500/CAME_500_004.sub
+sub: /ext/subghz/Garages/CAME_brute_force/12Bit/433.92Mhz/500/CAME_500_005.sub
+sub: /ext/subghz/Garages/CAME_brute_force/12Bit/433.92Mhz/500/CAME_500_006.sub
+sub: /ext/subghz/Garages/CAME_brute_force/12Bit/433.92Mhz/500/CAME_500_007.sub
+sub: /ext/subghz/Garages/CAME_brute_force/12Bit/433.92Mhz/500/CAME_500_008.sub
