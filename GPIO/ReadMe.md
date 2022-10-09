@@ -72,7 +72,8 @@ Switch between UART Pins 13/14 and 15/16 setting in FlipperZero<br>
 
 ![ESP8266](https://user-images.githubusercontent.com/57457139/182291241-8728052d-aa33-46b0-8e3d-fe44bbda4b6b.jpg)
 
-If you have the ESP8266 and are looking to use a wifi deauth, check out [speexvocon's](https://github.com/Speexvocon/FlipperZeroESPexpansion) easy [web flasher](https://github.com/Speexvocon/FlipperZeroESPexpansion#programming-the-module)!
+If you have the ESP8266 and are looking to use a wifi deauth, check out [speexvocon's](https://github.com/Speexvocon/FlipperZeroESPexpansion) easy [web flasher](https://github.com/Speexvocon/FlipperZeroESPexpansion#programming-the-module)!<br>
+If you're looking to give another deauther a try, [check out HEX0DAYS repo over here](https://github.com/HEX0DAYS/FlipperZero-PWNDTOOLS).
 
 ## ESP8266 Pinout to Flipper Zero
 (Thanks PixelHerstel for additional guidance!)
