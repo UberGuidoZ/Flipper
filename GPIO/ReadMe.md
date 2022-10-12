@@ -57,7 +57,8 @@ NOTE: Use `old_hardware.bin` if flashing Marauder onto the ESP32-WROOM (thanks w
 
 ## ESP32 / ESP32-WROOM Pinout to Flipper Zero
 (Thanks [E_Surge](https://github.com/ESurge) and wyldgoat for guidance!)<br>
-NOTE: Make sure you're using at least an ESP32 v2 or above for full functionality! [Good read](https://blog.spacehuhn.com/esp32-deauther).
+NOTE: Make sure you're using at least an ESP32 v2 or above for full functionality! [Good read](https://blog.spacehuhn.com/esp32-deauther).<br>
+Running an ESP32 single-core and want Marauder? You've gotta head over to [V0lk3n's write-up](https://github.com/V0lk3n/Flipper-ESP32-Solo-Marauder)!
 
 ESP32: 3 (RX0) -> FZ: 13 or 15 (these are TX pins)<br>
 ESP32: 1 (TX0) -> FZ: 14 or 16 (these are RX pins)<br>
