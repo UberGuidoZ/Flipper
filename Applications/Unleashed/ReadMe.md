@@ -1,5 +1,3 @@
-# UPDATES INCOMING - Current FAPs may not work
-
 # Flipper Application Files (FAPs) for [Unleashed](https://github.com/Eng1n33r/flipperzero-firmware)
 
 Thank you [xMasterX](https://github.com/xMasterX) for compiling and maintaining these files. I have decided to not include the "integrated/bundled" FAP files that come with a fresh install of Unleashed. If you need to grab a copy of them for whatever reason, you can do so right from the Unleashed repo.
