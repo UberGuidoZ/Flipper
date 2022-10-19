@@ -31,7 +31,7 @@ The Flipper and its community wouldn't be as rich as it is without your contribu
 ## GPIO
 - [Temperature Sensor for HTU21D / SI7021 (By Mywk)](https://github.com/Mywk/FlipperTemperatureSensor)
 - [IFTTT Virtual Button for ESP8266 (By Ferrazzi)](https://github.com/Ferrazzi/FlipperZero_IFTTT_Virtual_Button)
-- [Wifi Deauth v2 for ESP8266 (By HEX0DAYS)](https://github.com/HEX0DAYS/FlipperZero-PWNDTOOLS)
+- [Wifi Deauth v2 for ESP8266 (By SpacehuhnTech)](https://github.com/SpacehuhnTech/esp8266_deauther), additional notes by [HEX0DAYS](https://github.com/HEX0DAYS/FlipperZero-PWNDTOOLS)
 
 ## Tools
 - [WiFi (Deauther) (By Timmotools)](https://github.com/Timmotools/flipperzero_esp8266_deautherv2)
