@@ -1,4 +1,4 @@
-# Flipper Application Files (FAPs) for [Unleashed](https://github.com/Eng1n33r/flipperzero-firmware)
+# Flipper Application Files (FAPs) for [Unleashed](https://github.com/Eng1n33r/flipperzero-firmware) (API v4.1)
 
 Thank you [xMasterX](https://github.com/xMasterX) for compiling and maintaining these files. I have decided to not include the "integrated/bundled" FAP files that come with a fresh install of Unleashed. If you need to grab a copy of them for whatever reason, you can do so right from the Unleashed repo.
 
@@ -19,6 +19,19 @@ The Flipper and its community wouldn't be as rich as it is without your contribu
 - [Monty Hall (By DevMilanIan)](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/pull/203)
 - [TAMA P1 (By GMMan)](https://github.com/GMMan/flipperzero-tamagotch-p1) requires [this rom](https://tinyurl.com/tamap1) IN `tama_p1` on SD as `rom.bin` to make it work.
 - [Video Poker (By PixlEmly)](https://github.com/PixlEmly/flipperzero-firmware-testing/blob/420/applications/VideoPoker/poker.c)
+- [Scorched Tanks (By jasniec)](https://github.com/jasniec/flipper-scorched-tanks-game)
+- [Blackjack (By teeebor)](https://github.com/teeebor/flipper_games)
+
+## Music
+- [Software Automatic Mouth aka SAM (By ctoth)](https://github.com/ctoth/SAM)
+- [Tuning Fork (By besya)](https://github.com/besya/flipperzero-tuning-fork)
+- [BPM Tapper (By panki27)](https://github.com/panki27/bpm-tapper)
+- Music Beeper (By qqMajiKpp / Haseo)
+
+## GPIO
+- [Temperature Sensor for HTU21D / SI7021 (By Mywk)](https://github.com/Mywk/FlipperTemperatureSensor)
+- [IFTTT Virtual Button for ESP8266 (By Ferrazzi)](https://github.com/Ferrazzi/FlipperZero_IFTTT_Virtual_Button)
+- [Wifi Deauth v2 for ESP8266 (By HEX0DAYS)](https://github.com/HEX0DAYS/FlipperZero-PWNDTOOLS)
 
 ## Tools
 - [WiFi (Deauther) (By Timmotools)](https://github.com/Timmotools/flipperzero_esp8266_deautherv2)
@@ -26,10 +39,10 @@ The Flipper and its community wouldn't be as rich as it is without your contribu
 - [Mouse Jiggler (By Jacob-Tate)](https://github.com/Jacob-Tate/flipperzero-firmware/blob/dev/applications/mouse_jiggler/mouse_jiggler.c) ([Original By MuddleBox](https://github.com/MuddledBox/))
 - [DTMF Dolphin (By litui)](https://github.com/litui/dtmf_dolphin)
 - [Metronome (By panki27)](https://github.com/panki27/Metronome)
-- [BPM Tapper (By panki27)](https://github.com/panki27/bpm-tapper)
 - [Calculator (By n-o-T-I-n-s-a-n-e)](https://github.com/n-o-T-I-n-s-a-n-e)
 - [Ceasar Cipher (By panki27)](https://github.com/panki27/caesar-cipher)
 - [USB Keyboard (By huuck)](https://github.com/huuck/FlipperZeroUSBKeyboard)
+- [Pomodoro Timer (By sbrin)](https://github.com/sbrin/flipperzero_pomodoro)
 
 -----
 
