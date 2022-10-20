@@ -26,6 +26,7 @@ The Flipper and its community wouldn't be as rich as it is without your contribu
 - [Software Automatic Mouth aka SAM (By ctoth)](https://github.com/ctoth/SAM)
 - [Tuning Fork (By besya)](https://github.com/besya/flipperzero-tuning-fork)
 - [BPM Tapper (By panki27)](https://github.com/panki27/bpm-tapper)
+- [Ocarina (By invalidna-me)](https://github.com/invalidna-me/flipperzero-ocarina)
 - Music Beeper (By qqMajiKpp / Haseo)
 
 ## GPIO
