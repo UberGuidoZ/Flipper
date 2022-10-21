@@ -33,7 +33,7 @@ More info from hahalolha (#5124) via Discord (thanks for the DM!):
 
 More info from alejandro12120 (#8100):
 
-"Here is the [OEM manufacturer desktop site](https://www.glare-led.com/). Also here is the relevante [website](https://www.glare-led.com/h-col-132.html#project-case), those pictures are some examples where the gas sign is installed"
+"Here is the [OEM manufacturer desktop site](https://www.glare-led.com/). Also here is the relevant [website](https://www.glare-led.com/h-col-132.html#project-case), those pictures are some examples where the gas sign is installed."
 
 Receiver
 
