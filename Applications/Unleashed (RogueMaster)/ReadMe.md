@@ -1,8 +1,8 @@
-# Flipper Application Files (FAPs) for [Unleashed](https://github.com/Eng1n33r/flipperzero-firmware) (API v4.1)
+# Flipper Application Files (FAPs) for [Unleashed](https://github.com/DarkFlippers/unleashed-firmware) (API v5.1)
 
 Thank you [xMasterX](https://github.com/xMasterX) for compiling and maintaining these files. I have decided to not include the "integrated/bundled" FAP files that come with a fresh install of Unleashed. If you need to grab a copy of them for whatever reason, you can do so right from the Unleashed repo.
 
-* Visit the [Releases page](https://github.com/Eng1n33r/flipperzero-firmware/releases) of the Unleashed repo.
+* Visit the [Releases page](https://github.com/DarkFlippers/unleashed-firmware) of the Unleashed repo.
 * Scroll down and download the linked ZIP file from the Assets drop down, under the big install from web link.
 * Within that ZIP, you'll find `resources.tar` - open/extract that too and look in the `apps` folder.
 
