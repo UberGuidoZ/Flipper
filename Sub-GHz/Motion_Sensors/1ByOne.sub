@@ -1,5 +1,8 @@
 Filetype: Flipper SubGhz RAW File
 Version: 1
+#
+# 1byOne Wireless Motion Sensor
+#
 Frequency: 433889000
 Preset: FuriHalSubGhzPresetOok270Async
 Protocol: RAW
