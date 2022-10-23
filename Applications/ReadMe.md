@@ -2,7 +2,7 @@
 
 The long-awaited addition of loading plugins (applications) from the SD card is here thanks to some hard work by the Official Flipper devteam. Anna/hedger released a FAP pack with some pre-built plugins, ready to go. Check out the [Official documentation](https://github.com/flipperdevices/flipperzero-firmware/blob/dev/documentation/AppsOnSDCard.md) for more info.
 
-And thanks to some further hard work from [xMasterX](https://github.com/xMasterX) of [Unleashed](https://github.com/Eng1n33r/flipperzero-firmware), we now have MORE working applications!
+And thanks to some further hard work from [xMasterX](https://github.com/xMasterX) of [Unleashed](https://github.com/DarkFlippers/unleashed-firmware), we now have MORE working applications!
 
 Since the FAP file needs to be compiled to work with the specific firmware you have, I've separated the FAPs into their respective folders.<br>
 **NOTE: Files are interchangeable between RM and UL! They are not interchangeable with Official firmware due to API differences.**
