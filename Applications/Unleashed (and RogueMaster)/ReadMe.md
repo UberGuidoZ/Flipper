@@ -1,4 +1,4 @@
-# Flipper Application Files (FAPs) for [Unleashed](https://github.com/DarkFlippers/unleashed-firmware) (API v5.1)
+# Flipper Application Files (FAPs) for [Unleashed](https://github.com/DarkFlippers/unleashed-firmware) (API v6.1)
 
 Thank you [xMasterX](https://github.com/xMasterX) for compiling and maintaining these files. I have decided to not include the "integrated/bundled" FAP files that come with a fresh install of Unleashed. If you need to grab a copy of them for whatever reason, you can do so right from the Unleashed repo.
 
