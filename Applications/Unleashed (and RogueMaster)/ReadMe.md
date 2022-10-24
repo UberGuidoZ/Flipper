@@ -23,7 +23,7 @@ The Flipper and its community wouldn't be as rich as it is without your contribu
 - [Video Poker (By PixlEmly)](https://github.com/PixlEmly/flipperzero-firmware-testing/blob/420/applications/VideoPoker/poker.c)
 - [Scorched Tanks (By jasniec)](https://github.com/jasniec/flipper-scorched-tanks-game)
 - [Blackjack (By teeebor)](https://github.com/teeebor/flipper_games)
-- [Game15 (By x27)](https://github.com/x27/flipperzero-game15)
+- [Logic Game 15 (By x27)](https://github.com/x27/flipperzero-game15)
 
 ## Music
 - [Software Automatic Mouth aka SAM (By ctoth)](https://github.com/ctoth/SAM)
