@@ -36,15 +36,11 @@ The Flipper and its community wouldn't be as rich as it is without your contribu
 - [IFTTT Virtual Button for ESP8266 (By Ferrazzi)](https://github.com/Ferrazzi/FlipperZero_IFTTT_Virtual_Button)
 - [Wifi Deauth v2 for ESP8266 (By Timmotools)](https://github.com/Timmotools/flipperzero_esp8266_deautherv2)
 
-## Tools
-- [WiFi (Deauther) (By Timmotools)](https://github.com/Timmotools/flipperzero_esp8266_deautherv2)
+## Tools / Misc
 - [Paint (By n-o-T-I-n-s-a-n-e)](https://github.com/n-o-T-I-n-s-a-n-e)
 - [Mouse Jiggler (By Jacob-Tate)](https://github.com/Jacob-Tate/flipperzero-firmware/blob/dev/applications/mouse_jiggler/mouse_jiggler.c) ([Original By MuddleBox](https://github.com/MuddledBox/))
-- [DTMF Dolphin (By litui)](https://github.com/litui/dtmf_dolphin)
-- [Metronome (By panki27)](https://github.com/panki27/Metronome)
 - [Calculator (By n-o-T-I-n-s-a-n-e)](https://github.com/n-o-T-I-n-s-a-n-e)
 - [Ceasar Cipher (By panki27)](https://github.com/panki27/caesar-cipher)
-- [USB Keyboard (By huuck)](https://github.com/huuck/FlipperZeroUSBKeyboard)
 - [Pomodoro Timer (By sbrin)](https://github.com/sbrin/flipperzero_pomodoro)
 
 -----
