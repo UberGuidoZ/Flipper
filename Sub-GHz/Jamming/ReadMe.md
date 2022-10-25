@@ -7,7 +7,8 @@ Files are UNTESTED and may cause magic smoke. Generated with a HackRF and record
 
 **NOTE: Files have been removed because people can't be trusted. This is why we can't have nice things.**<br>
 If you hunt for them, they should not be too difficult to find. (Discord is where they were found...)<br>
-Direct messaging me and asking for them will result in being ignored at best or blocked at worst. =)
+
+***Direct messaging me and asking for them will result in being ignored at best or blocked at worst! =)***
 
 I'll Google for you! [What is jamming](https://en.wikipedia.org/wiki/Radio_jamming) | [What is RF jamming](https://getsafeandsound.com/2018/07/rf-jamming/) | [5 things to know about jamming](https://phantom-technologies.com/rf-jamming-equipment/)
 
