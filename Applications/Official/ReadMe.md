@@ -4,6 +4,6 @@ See the [official documentation](https://github.com/flipperdevices/flipperzero-f
 
 ## A humble thank you to [Alexei Humeniy](https://github.com/ahumeniy) for compiling the apps for the Official firmware!
 
-They have been compiled for the current API version (5.x) If you run across any not here, please PR them in! (Or tag me in Discord...)
+They have been compiled for the current API version (5.x), but if you run across any not here, please PR them in! (Or tag me in Discord...)
 
 [Links to full application name and authors](https://github.com/UberGuidoZ/Flipper/tree/main/Applications/Unleashed%20(and%20RogueMaster))
