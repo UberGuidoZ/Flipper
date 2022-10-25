@@ -1,4 +1,4 @@
-# WARNING
+# WARNING ABOUT JAMMING
 
 This is probably illegal to do. These files are for educational use to determine ways the Flipper can work and how to prevent such actions.<br>
 Files are UNTESTED and may cause magic smoke. Generated with a HackRF and recorded with the Flipper. (Credit: dandri#6962 on Discord)
