@@ -1,10 +1,11 @@
 # Make your own animations!
 
-So you want to make your own animations? Thankfully, Talking Sasquach has [an excellent write-up](https://github.com/skizzophrenic/Talking-Sasquach) on how to.
+So you want to make your own animations? Thankfully, TalkingSasquach has [an excellent write-up](https://github.com/skizzophrenic/Talking-Sasquach) on how to.
 
 Are you more the type that just wants to grab some pre-made and tinker with how they work?<br>
 - Then you'll want to check out [Kuronons's repo](https://github.com/Kuronons/FZ_graphics)!<br>
-- Still need more? Well then [stopoxy](https://github.com/stopoxy/FZAnimations) has you covered. =)
+- Still need more? Well then [stopoxy](https://github.com/stopoxy/FZAnimations) has you covered.
+- BUT WAIT, there's more... from [HexxedBitHeadz](https://github.com/HexxedBitHeadz/FlipperZeroWallpaper).
 
 # Some other graphics fun
 Place the manifest.txt file from this repo in your "dolphin" folder under the SD Card:
