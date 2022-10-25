@@ -2,8 +2,8 @@
 
 See the [official documentation](https://github.com/flipperdevices/flipperzero-firmware/blob/dev/documentation/AppsOnSDCard.md) or **download all the files** in a [ZIP here](https://uberguidoz.github.io/DownGit/#/home?url=https://github.com/UberGuidoZ/Flipper/tree/main/Applications/Official)!
 
-## NOTE: Many old FAPs removed due to being broken from new API.
+## A humble thank you to [Alexei Humeniy](https://github.com/ahumeniy) for compiling the apps for the Official firmware!
 
-They will need to be compiled (again) from source to work. If you run across any not here, please PR them in! (Or tag me in Discord...)
+They have been compiled for the current API version (5.x) If you run across any not here, please PR them in! (Or tag me in Discord...)
 
-[Temperature Sensor](https://github.com/Mywk/FlipperTemperatureSensor)
+[Links to full application name and authors](https://github.com/UberGuidoZ/Flipper/tree/main/Applications/Unleashed%20(and%20RogueMaster))
