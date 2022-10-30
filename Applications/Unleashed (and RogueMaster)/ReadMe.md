@@ -1,8 +1,9 @@
 # Flipper Application Files (FAPs) for [Unleashed](https://github.com/DarkFlippers/unleashed-firmware) v8.2 (API v7.x)
 
-## [Download all files including source here](https://uberguidoz.github.io/DownGit/#/home?url=https://github.com/UberGuidoZ/Flipper/tree/main/Applications/Unleashed%20(and%20RogueMaster)) (does not include [bundled apps](https://github.com/DarkFlippers/unleashed-firmware#community-apps-included))
+## [Download all files including source here](https://uberguidoz.github.io/DownGit/#/home?url=https://github.com/UberGuidoZ/Flipper/tree/main/Applications/Unleashed%20(and%20RogueMaster)) (does not include [bundled apps](https://github.com/DarkFlippers/unleashed-firmware#community-apps-included))<br>
+[They are also hosting a copy of the extra files here](https://github.com/xMasterX/unleashed-extra-pack).
 
-Thank you [xMasterX](https://github.com/xMasterX) for compiling and maintaining these files. I have decided to not include the "integrated/bundled" FAP files that come with a fresh install of Unleashed. If you need to grab a copy of them for whatever reason, you can do so right from the Unleashed repo. [They are also hosting a copy of the extra files here](https://github.com/xMasterX/unleashed-extra-pack).
+Thank you [xMasterX](https://github.com/xMasterX) for compiling and maintaining these files. I have decided to not include the "integrated/bundled" FAP files that come with a fresh install of Unleashed. If you need to grab a copy of them for whatever reason, you can do so right from the Unleashed repo.
 
 * Visit the [Releases page](https://github.com/DarkFlippers/unleashed-firmware) of the Unleashed repo.
 * Scroll down and download the linked ZIP file from the Assets drop down, under the big install from web link.
