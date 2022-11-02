@@ -33,6 +33,7 @@ The Flipper and its community wouldn't be as rich as it is without your contribu
 - [Ocarina (By invalidna-me)](https://github.com/invalidna-me/flipperzero-ocarina)
 - Music Beeper (By qqMajiKpp / Haseo)
 - Morse Code [(by wh00hw)](https://github.com/wh00hw/MorseCodeFAP)
+
 ## GPIO
 - [IFTTT Virtual Button for ESP8266 (By Ferrazzi)](https://github.com/Ferrazzi/FlipperZero_IFTTT_Virtual_Button)
 - [Wifi Deauth v2 for ESP8266 (By Timmotools)](https://github.com/Timmotools/flipperzero_esp8266_deautherv2)
