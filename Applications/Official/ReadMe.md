@@ -5,7 +5,7 @@ See the [official documentation](https://github.com/flipperdevices/flipperzero-f
 ## A humble thank you to [Aleksandr Zhytnyk](https://github.com/OperKH) for maintaining the FAPs for Official firmware!
 [Alexei Humeniy](https://github.com/ahumeniy) has also contributed a number of updates and was the first to update.
 
-They have been compiled for the current API version (5.x), but if you run across any not here, please PR them in! (Or tag me in Discord...)
+They have been compiled for the current API version (7.x), but if you run across any not here, please PR them in! (Or tag me in Discord...)
 
 [Links to full application name and authors](https://github.com/UberGuidoZ/Flipper/tree/main/Applications/Unleashed%20(and%20RogueMaster))
 
