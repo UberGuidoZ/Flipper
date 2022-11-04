@@ -13,3 +13,6 @@
 [submodule "BadUSB/BadUSB-FalsePhilosopher"]
 	path = BadUSB/BadUSB-FalsePhilosopher
 	url = https://github.com/FalsePhilosopher/BadUSB-Playground
+[submodule "Sub-GHz/Restaurant_Pagers/LRS_Pagers/thanks_jimilinuxguy/lrs-pager-systems-bruteforce"]
+	path = Sub-GHz/Restaurant_Pagers/LRS_Pagers/thanks_jimilinuxguy/lrs-pager-systems-bruteforce
+	url = https://github.com/jimilinuxguy/lrs-pager-systems-bruteforce
