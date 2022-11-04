@@ -2,7 +2,7 @@
 
 See the [official documentation](https://github.com/flipperdevices/flipperzero-firmware/blob/dev/documentation/AppsOnSDCard.md) or **download all the files** in a [ZIP here](https://uberguidoz.github.io/DownGit/#/home?url=https://github.com/UberGuidoZ/Flipper/tree/main/Applications/Official)!
 
-## A humble thank you to [Alexei](https://github.com/ahumeniy) and [Aleksandr](https://github.com/OperKH) for compiling the FAPs for Official firmware!
+## A humble thank you to [Aleksandr Zhytnyk](https://github.com/OperKH) and [Alexei](https://github.com/ahumeniy) for maintaining the FAPs for Official firmware!
 
 They have been compiled for the current API version (5.x), but if you run across any not here, please PR them in! (Or tag me in Discord...)
 
