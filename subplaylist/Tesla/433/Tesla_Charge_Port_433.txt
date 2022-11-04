@@ -1,0 +1,6 @@
+sub: /ext/subghz/Vehicles/Tesla/433_Tesla_AM270_EU_AUS.sub
+sub: /ext/subghz/Vehicles/Tesla/433_Tesla_AM650_EU_AUS.sub
+sub: /ext/subghz/Vehicles/Tesla/433_Tesla_Captured_EU_AUS.sub
+sub: /ext/subghz/Vehicles/Tesla/433b_Tesla_Captured_EU_AUS.sub
+sub: /ext/subghz/Vehicles/Tesla/BEST_PORT_OPENER/Tesla_Charge_Port_433.92MHz_AM270.sub
+sub: /ext/subghz/Vehicles/Tesla/BEST_PORT_OPENER/Tesla_Charge_Port_433.92MHz_AM650.sub

@@ -1,0 +1,4 @@
+sub: /ext/subghz/Vehicles/Tesla/Tesla_charge_AM270.sub
+sub: /ext/subghz/Vehicles/Tesla/Tesla_charge_AM650.sub
+sub: /ext/subghz/Vehicles/Tesla/BEST_PORT_OPENER/Tesla_Charge_Port_315MHz_AM270.sub
+sub: /ext/subghz/Vehicles/Tesla/BEST_PORT_OPENER/Tesla_Charge_Port_315MHz_AM650.sub

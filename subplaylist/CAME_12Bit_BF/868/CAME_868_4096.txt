@@ -1,0 +1,1 @@
+sub: /ext/subghz/Garages/CAME_brute_force/12Bit/868.35Mhz/4096/CAME_4096_000.sub

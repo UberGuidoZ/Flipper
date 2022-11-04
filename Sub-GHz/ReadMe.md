@@ -1,6 +1,7 @@
 # Various SUB files I've found or created. Some tested, some not.
 
-Special thanks to [FalsePhilosopher](https://github.com/FalsePhilosopher) for organization help and everyone else that shares files!
+Special thanks to [FalsePhilosopher](https://github.com/FalsePhilosopher) for organization help and everyone else that shares files!<br>
+Worth a mention: If you have a HackRF, you can find a ton of files and info over at RocketGod's [HackRF Treasure Chest](https://github.com/RocketGod-git/HackRF-Treasure-Chest).
 
 ## How are the raw SUB files are formatted? (Adapted from a chat with [ImprovingRigmarole](https://github.com/improving-rigmarole)!)
 

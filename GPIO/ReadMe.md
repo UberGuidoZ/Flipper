@@ -1,6 +1,6 @@
 # Documenting adventures with the GPIO...
 
-Official [GPIO layout](https://miro.com/app/board/uXjVO_LaYYI=/) created by [Aleksandr Kutuzov](https://discord.com/channels/740930220399525928/765282833744265246/993107060172542012).<br>
+Official [GPIO layout](https://miro.com/app/board/uXjVO_LaYYI=/) created by [Aleksandr Kutuzov](https://discord.com/channels/740930220399525928/765282833744265246/993107060172542012). Official documentation [is here](https://docs.flipperzero.one/gpio-and-modules)!<br>
 Check out some unofficial boards by [DrB0rk](https://github.com/DrB0rk/Flipper-Zero-Boards) and an extender by [Speexvocon](https://github.com/Speexvocon/FlipperZeroHeaderExtender)!
 
 # Sentry Safe plugin pinout
@@ -55,21 +55,47 @@ NOTE: Use `old_hardware.bin` if flashing Marauder onto the ESP32-WROOM (thanks w
 ![wyldgoat](https://user-images.githubusercontent.com/57457139/182552144-46abf993-160e-42e2-8dde-466da146b16d.png)<br>
 ![bobo_dudu](https://user-images.githubusercontent.com/57457139/182552153-9c50f817-8b8c-4d31-8d62-3fe8fca7a48b.png)
 
-# ESP8266
-
-![ESP8266](https://user-images.githubusercontent.com/57457139/182291241-8728052d-aa33-46b0-8e3d-fe44bbda4b6b.jpg)
-
-## ESP32 / ESP32-WROOM / ESP8266 Pinout to Flipper Zero
+## ESP32 / ESP32-WROOM Pinout to Flipper Zero
 (Thanks [E_Surge](https://github.com/ESurge) and wyldgoat for guidance!)<br>
-NOTE: Make sure you're using at least an ESP32 v2 or above for full functionality! [Good read](https://blog.spacehuhn.com/esp32-deauther).
+NOTE: Make sure you're using at least an ESP32 v2 or above for full functionality! [Good read](https://blog.spacehuhn.com/esp32-deauther).<br>
+Running an ESP32 single-core and want Marauder? You've gotta head over to [V0lk3n's write-up](https://github.com/V0lk3n/Flipper-ESP32-Solo-Marauder)!
 
 ESP32: 3 (RX0) -> FZ: 13 or 15 (these are TX pins)<br>
 ESP32: 1 (TX0) -> FZ: 14 or 16 (these are RX pins)<br>
 ESP32: GND -> FZ: 8 or 11 or 18 (GND)<br>
-ESP32: 3.3V -> FZ: 9 (3.3V) ***OR*** ESP32: 5V -> FZ: 1 (5V)
+ESP32: 5V -> FZ: 1 (5V) ***OR*** ESP32: 3.3V -> FZ: 9 (3.3V)<br>
+*NOTE: Make sure to enable 5v under GPIO on the Flipper*
 
 Switch between UART Pins 13/14 and 15/16 setting in FlipperZero<br>
 `(GPIO -> USB-UART Bridge -> LEFT -> UART Pins)`
+
+# ESP8266
+
+![ESP8266](https://user-images.githubusercontent.com/57457139/182291241-8728052d-aa33-46b0-8e3d-fe44bbda4b6b.jpg)
+
+If you have the ESP8266 and are looking to use a wifi deauth, check out [speexvocon's](https://github.com/Speexvocon/FlipperZeroESPexpansion) easy [web flasher](https://github.com/Speexvocon/FlipperZeroESPexpansion#programming-the-module)!<br>
+If you're looking to give another deauther a try, [check out HEX0DAYS repo over here](https://github.com/HEX0DAYS/FlipperZero-PWNDTOOLS).
+
+## ESP8266 Pinout to Flipper Zero
+(Thanks PixelHerstel for additional guidance!)
+
+ESP8266: 1 (TX0) -> FZ: 14 or 16 (these are RX pins)<br>
+ESP8266: 3 (RX0) -> FZ: 13 or 15 (these are TX pins)<br>
+ESP8266: 5 -> FZ: 7<br>
+ESP8266: 6 -> FZ: 6<br>
+ESP8266: 7 -> FZ: 5<br>
+ESP8266: 8 -> FZ: 4<br>
+ESP8266: VIN -> FZ: 1<br>
+ESP8266: GND -> FZ: 8 or 11 (GND)<br>
+FZ: 16  -> FZ: 18 (yes, FZ to FZ)<br>
+ESP8266: 5V -> FZ: 1 (5V)<br>
+*NOTE: Make sure to enable 5V under GPIO on the Flipper*<br>
+***OR*** ESP32: 3.3V -> FZ: 9 (3.3V) though this can have issues...
+
+Switch between UART Pins 13/14 and 15/16 setting in FlipperZero<br>
+`(GPIO -> USB-UART Bridge -> LEFT -> UART Pins)`
+
+A visual pinout can be seen in [this PDF](https://github.com/UberGuidoZ/Flipper/blob/main/GPIO/ESP8266_WIFI_Schematic.pdf), too.
 
 # ESP32-CAM (Camera)
 
@@ -86,7 +112,7 @@ CAM32: 4 (3.3V) -> FZ: 9 (3.3V) ***OR*** ESP32: 5V -> FZ: 1 (5V)
 
 ![WIFI_LoRa_ESP32 to F0](https://user-images.githubusercontent.com/57457139/182568878-aef3ff21-2748-4ba3-9cdd-bc2f5d33b26d.jpg)
 
-## LoRa ESP32 Wifi Pinout to Flipper Zero (PENDING VERIFICATION)
+## LoRa ESP32 Wifi Pinout to Flipper Zero
 LoRa32: 1 (RX0) -> FZ: 13 or 15 (these are TX pins)<br>
 LoRa32: 2 (TX0) -> FZ: 14 or 16 (these are RX pins)<br>
 LoRa32: 3 (GND) -> FZ: 8 or 11 or 18 (GND)<br>

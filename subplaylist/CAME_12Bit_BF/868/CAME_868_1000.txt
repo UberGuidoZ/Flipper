@@ -1,0 +1,5 @@
+sub: /ext/subghz/Garages/CAME_brute_force/12Bit/868.35Mhz/1000/CAME_1000_000.sub
+sub: /ext/subghz/Garages/CAME_brute_force/12Bit/868.35Mhz/1000/CAME_1000_001.sub
+sub: /ext/subghz/Garages/CAME_brute_force/12Bit/868.35Mhz/1000/CAME_1000_002.sub
+sub: /ext/subghz/Garages/CAME_brute_force/12Bit/868.35Mhz/1000/CAME_1000_003.sub
+sub: /ext/subghz/Garages/CAME_brute_force/12Bit/868.35Mhz/1000/CAME_1000_004.sub
