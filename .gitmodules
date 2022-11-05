@@ -16,3 +16,6 @@
 [submodule "NFC/NFC-Trolls"]
 	path = NFC/NFC-Trolls
 	url = https://github.com/w0lfzk1n/Flipper-Zero-NFC-Trolls
+[submodule "Sub-GHz/Restaurant_Pagers/LRS_Pagers/thanks_jimilinuxguy/lrs-pager-systems-bruteforce"]
+	path = Sub-GHz/Restaurant_Pagers/LRS_Pagers/thanks_jimilinuxguy/lrs-pager-systems-bruteforce
+	url = https://github.com/jimilinuxguy/lrs-pager-systems-bruteforce
