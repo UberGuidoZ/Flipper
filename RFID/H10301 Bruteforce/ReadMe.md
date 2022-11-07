@@ -7,4 +7,4 @@ Simply extract the ZIP then copy the `H10301_BF.txt` file into the `rfidfuzzer` 
 
 ![H10301_BF](https://user-images.githubusercontent.com/57457139/200435371-2c66a140-5d9b-45fc-8bd7-92e385fa84a2.gif)
 
-Github linked above includes the Python script used to create the TXT file.
+## Github linked above includes the Python script used to create the TXT file.
