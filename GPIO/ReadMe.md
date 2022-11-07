@@ -142,8 +142,6 @@ PiZero: 8 (UART0_TXD) -> FZ: 14 (RX)
 PiZero: 10 (UART0_RXD) -> FZ: 13 (TX)
 ```
 
-# Some other accessories to try with Flipper (Code needed!)
-
 ## HC-SR04 Ultrasonic Distance Sensor
 
 Plugin by Sanqui: https://github.com/Sanqui/flipperzero-firmware/blob/hc_sr04/applications/hc_sr04/hc_sr04.c
@@ -159,6 +157,43 @@ HC-SR04: 4 (5V)  -> FZ: 1 (5V)
 Switch between UART Pins 13/14 and 15/16 setting in:
 Flipper -> GPIO -> USB-UART Bridge -> LEFT -> UART Pins
 ```
+-----
+
+## NMEA 0183 GPS
+https://github.com/ezod/flipperzero-gps
+```GPIO pins 9 (3.3V), 11 (GND), 13 (TX), and 14 (RX)```
+![GPS NMEA 0183](https://github.com/ezod/flipperzero-gps/raw/main/wiring.png)
+
+-----
+
+## i2c Tools (by NaejEL) 
+```C0 -> SCL / C1 -> SDA / GND -> GND | 3v3 logic levels only!```
+https://github.com/NaejEL/flipperzero-i2ctools
+
+-----
+
+## HTU21D / SI7021 Temperature Sensor
+```GPIO pins 9 (3.3V), 11 (GND), 15 (sda), and 16 (scl)```
+https://github.com/Mywk/FlipperTemperatureSensor
+![Temperature Sensor - HTU21D / SI7021](https://github.com/Mywk/FlipperTemperatureSensor/raw/master/images/Flipper.png)
+
+-----
+
+## AM2320/AM2321 Temp. Sensor
+```GPIO pins 9 (3.3V), 11 (GND), 15 (sda), and 16 (scl)```
+https://github.com/xMasterX/AM2320_Flipper_Plugin
+![Connection](https://user-images.githubusercontent.com/10697207/199586577-5c9cf516-2096-4d70-9e2f-1f9458a68d65.jpg)
+
+-----
+
+## DHT11/22 Temp. Sensor
+```
+VCC (none, +, VCC, red wire)	1 (5V) or 9 (3V3)
+GND (-, GND, black wire)	8, 18 (GND)
+DATA (OUT, S, yellow wire)	2-7, 10, 12-17 (to choose from)
+```
+https://github.com/quen0n/FipperZero-DHT-Monitor
+
 -----
 
 I've had so many asking for me to add this.<br>
