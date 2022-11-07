@@ -167,20 +167,26 @@ https://github.com/ezod/flipperzero-gps
 -----
 
 ## i2c Tools (by NaejEL) 
-```C0 -> SCL / C1 -> SDA / GND -> GND | 3v3 logic levels only!```
+```
+C0 -> SCL / C1 -> SDA / GND -> GND | 3v3 logic levels only!
+```
 https://github.com/NaejEL/flipperzero-i2ctools
 
 -----
 
 ## HTU21D / SI7021 Temperature Sensor
-```GPIO pins 9 (3.3V), 11 (GND), 15 (sda), and 16 (scl)```
+```
+GPIO pins 9 (3.3V), 11 (GND), 15 (sda), and 16 (scl)
+```
 https://github.com/Mywk/FlipperTemperatureSensor
 ![Temperature Sensor - HTU21D / SI7021](https://github.com/Mywk/FlipperTemperatureSensor/raw/master/images/Flipper.png)
 
 -----
 
 ## AM2320/AM2321 Temp. Sensor
-```GPIO pins 9 (3.3V), 11 (GND), 15 (sda), and 16 (scl)```
+```
+GPIO pins 9 (3.3V), 11 (GND), 15 (sda), and 16 (scl)
+```
 https://github.com/xMasterX/AM2320_Flipper_Plugin
 ![Connection](https://user-images.githubusercontent.com/10697207/199586577-5c9cf516-2096-4d70-9e2f-1f9458a68d65.jpg)
 
