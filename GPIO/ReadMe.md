@@ -161,7 +161,9 @@ Flipper -> GPIO -> USB-UART Bridge -> LEFT -> UART Pins
 
 ## NMEA 0183 GPS
 https://github.com/ezod/flipperzero-gps
-```GPIO pins 9 (3.3V), 11 (GND), 13 (TX), and 14 (RX)```
+```
+GPIO pins 9 (3.3V), 11 (GND), 13 (TX), and 14 (RX)
+```
 ![GPS NMEA 0183](https://github.com/ezod/flipperzero-gps/raw/main/wiring.png)
 
 -----
