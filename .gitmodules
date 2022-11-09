@@ -22,3 +22,6 @@
 [submodule "Infrared/IRDB"]
 	path = Infrared/IRDB
 	url = https://github.com/logickworkshop/Flipper-IRDB.git
+[submodule "Music_Player/RTTTL"]
+	path = Music_Player/RTTTL
+	url = https://github.com/neverfa11ing/FlipperMusicRTTTL.git
