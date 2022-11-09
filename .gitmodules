@@ -19,3 +19,6 @@
 [submodule "Sub-GHz/Restaurant_Pagers/LRS_Pagers/thanks_jimilinuxguy/lrs-pager-systems-bruteforce"]
 	path = Sub-GHz/Restaurant_Pagers/LRS_Pagers/thanks_jimilinuxguy/lrs-pager-systems-bruteforce
 	url = https://github.com/jimilinuxguy/lrs-pager-systems-bruteforce
+[submodule "Infrared/IRDB"]
+	path = Infrared/IRDB
+	url = https://github.com/logickworkshop/Flipper-IRDB.git
