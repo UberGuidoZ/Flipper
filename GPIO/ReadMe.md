@@ -97,6 +97,20 @@ Switch between UART Pins 13/14 and 15/16 setting in FlipperZero<br>
 
 A visual pinout can be seen in [this PDF](https://github.com/UberGuidoZ/Flipper/blob/main/GPIO/ESP8266_WIFI_Schematic.pdf), too.
 
+# ESP32-S2 WROVER (thanks max_fpv_austria!)
+
+![ESP32-S2WROVER](https://user-images.githubusercontent.com/57457139/201228294-d5565fff-99ae-44ed-8076-36b0fc8d39c9.jpg)
+
+ESP32: 44 (RX0) -> FZ: 13 or 15 (these are TX pins)<br>
+ESP32: 43 (TX0) -> FZ: 14 or 16 (these are RX pins)<br>
+ESP32: GND -> FZ: 8 or 11 or 18 (GND)<br>
+ESP32: 3.3V -> FZ: 9 (3.3V)<br>
+
+Switch between UART Pins 13/14 and 15/16 setting in FlipperZero<br>
+`(GPIO -> USB-UART Bridge -> LEFT -> UART Pins)`
+
+Picture includes wiring pinout for the SD card mod too!
+
 # ESP32-CAM (Camera)
 
 ![ESP32-CAM](https://user-images.githubusercontent.com/57457139/182571081-81df66a8-a536-426f-9ee0-ee277da5ef0a.png)
