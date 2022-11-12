@@ -25,3 +25,6 @@
 [submodule "Music_Player/RTTTL"]
 	path = Music_Player/RTTTL
 	url = https://github.com/neverfa11ing/FlipperMusicRTTTL.git
+[submodule "NFC/Amiibo/Amiibo_Collection"]
+	path = NFC/Amiibo/Amiibo_Collection
+	url = https://github.com/Gioman101/FlipperAmiibo.git
