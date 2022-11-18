@@ -8,6 +8,11 @@ ATQA: 44 00
 SAK: 00
 # Mifare Ultralight specific data
 # Source: https://gist.github.com/VVX7/c55b122846253e12f1647e2a85ab2775
+#
+# # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# ISSUE HAS BEEN PATCHED - THIS WILL NOT WORK ANYMORE #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # #
+#
 Data format version: 1
 Signature: 35 47 82 B2 E9 D5 8F 70 C3 BC 79 FE 8A ED 77 16 EC 25 8C 9A 95 32 4B 94 19 00 2E 12 5A D0 AC 90
 Mifare version: 00 04 04 02 01 00 11 03
