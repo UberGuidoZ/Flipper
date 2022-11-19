@@ -1,4 +1,5 @@
-These are the RAW captures from the "Super EL50448" in the GM2 Moded<p>
+## WARNING: This may not work with yours! [Click here](https://github.com/UberGuidoZ/Flipper/issues/222).
+These are the RAW captures from the "Super EL50448" in the GM2 Model<p>
 From: DeepSn4tch<br>
   
 [FCC ID - 2A5FO-EL-50448](https://apps.fcc.gov/oetcf/eas/reports/ViewExhibitReport.cfm?mode=Exhibits&RequestTimeout=500&calledFromFrame=Y&application_id=jSEH4oUiEMAoC8Z7ZYuouA%3D%3D&fcc_id=2A5FO-EL-50448)
