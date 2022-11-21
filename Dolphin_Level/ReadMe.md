@@ -1,4 +1,5 @@
-# Upgrade or Downgrade your Flipper level (Official firmware)!
+# Upgrade or Downgrade your Flipper level (Official /Unleashed)!
+## If you're running RogueMaster with the additional levels, read below [then go here](https://github.com/UberGuidoZ/Flipper/tree/main/Dolphin_Level/RogueMaster).
 
 ## NOTE: To fix issue with recent firmware changes, file should start with a period `.`
 

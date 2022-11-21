@@ -1,4 +1,4 @@
-﻿REM		Title:       Get-Connected-USBs
+REM		Title:       Get-Connected-USBs
 REM		Author:      atomicsec
 REM		Source:      https://github.com/atomiczsec/Get-Connected-USBs
 REM 	Generator:   https://github.com/I-Am-Jakoby/Powershell-to-Ducky-Converter

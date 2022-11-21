@@ -1,6 +1,7 @@
 # BadUSB scripts I've created, converted, or collected.
 
-Proper credit is always provided; I simply request the same.
+Proper credit is always provided; I simply request the same.<br>
+[Check out this nice list of keys you can use in your scripts!](https://gist.github.com/methanoliver/efebfe8f4008e167417d4ab96e5e3cac)
 
 ## Many more should work from my other repos: [O.MG Devices](https://github.com/UberGuidoZ/Hak5-OMG-Payloads) and [Hak5](https://github.com/UberGuidoZ/Hak5-USBRubberducky-Payloads)
 
