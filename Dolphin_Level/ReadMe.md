@@ -47,7 +47,7 @@ That's it! Now [restart Flipper](https://docs.flipperzero.one/basics/reboot) and
 
 If you find yourself longing for your original friend as it was, it's easy to go back. Repeat the process above, but now DELETE<br>
 the `.dolphin.state` file, then rename your `.dolphin.state.mine` (or whatever you picked) back to `.dolphin.state`.<br>
-Finally, retart Flipper again and you should be back to where you started! (This can be done as many times as you like.)
+Finally, restart Flipper again and you should be back to where you started! (This can be done as many times as you like.)
 
 -----
 
