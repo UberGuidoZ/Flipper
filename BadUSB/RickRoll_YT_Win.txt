@@ -1,0 +1,10 @@
+REM Title: RickRoll
+REM Author: big0us
+REM Description: RickRoll Youtube
+REM Target:	Windows
+REM
+DEFAULTDELAY 50
+GUI r
+DELAY 500
+STRING https://www.youtube.com/watch?v=dQw4w9WgXcQ
+ENTER
