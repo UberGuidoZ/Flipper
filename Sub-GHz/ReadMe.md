@@ -69,7 +69,7 @@ AM270 and FM270 modulation offer a more narrow range, but have a cleaner pickup 
 evilpete has a script for creating custom modulations amoung various other flipper flipper file format generators/converters
 https://github.com/evilpete/flipper_toolbox
 
-#Plotting/analyzing signals
+# Plotting/analyzing signals
 ShotokanZH has a plotter
 https://github.com/ShotokanZH/flipper_sub_plotters_comparers
 The flipper lab website has one
