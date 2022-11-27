@@ -66,6 +66,17 @@ AM270 and FM270 modulation offer a more narrow range, but have a cleaner pickup 
 
 [Official documentation is an excellent read!](https://docs.flipperzero.one/sub-ghz/read-raw#HUe8f)
 
+evilpete has a script for creating custom modulations amoung various other flipper flipper file format generators/converters
+https://github.com/evilpete/flipper_toolbox
+
+# Plotting/analyzing signals
+ShotokanZH has a plotter
+https://github.com/ShotokanZH/flipper_sub_plotters_comparers
+The flipper lab website has one
+https://lab.flipper.net/pulse-plotter
+and a python script by paucoma
+https://gist.github.com/paucoma/57080d2845ba4b21b980b90842c38eb1
+
 -----
 
 I've had so many asking for me to add this.<br>
