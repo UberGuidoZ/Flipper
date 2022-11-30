@@ -1,0 +1,14 @@
+REM Just another rickroll payload but for android
+REM Credit: John Hickens
+
+GUI b 
+DELAY 600 
+ENTER 
+DELAY 1000 
+CTRL l 
+DELAY 100 
+STRING https://www.youtube.com/watch?v=xm3YgoEiEDc
+DELAY 100 
+ENTER
+DELAY 500
+STRING f
