@@ -2,6 +2,8 @@
 
 Some files that are fun to use. Starting to get a better idea on the structure (Flipper format) of NFC files and payloads.
 
+Some great reading about [Hacking MIFARE & RFID](https://hackmethod.com/hacking-mifare-rfid/?v=7516fd43adaa).
+
 ----------------------------------------------
 
 **Flipper Zero can read the following**:
