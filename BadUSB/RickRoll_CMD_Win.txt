@@ -1,0 +1,13 @@
+REM Title: Rick Roll Windows CMD
+REM Author: Nando Kools | NanKooDev
+REM Description: RickRoll in Windows Command Prompt
+REM Target:	Windows
+REM
+GUI r
+DELAY 750
+STRING cmd
+ENTER
+DELAY 1000
+STRING curl http://ascii.live/rick
+ENTER
+GUI UPARROW
