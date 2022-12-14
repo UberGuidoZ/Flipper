@@ -14,7 +14,7 @@ Looking for a quick video walkthrough on how to use this flasher? [Thanks to Lab
 
 * If you choose `Flash Marauder` the script will locate your board and flash Marauder automatically!<br>
 * If you choose `Update Marauder` you'll be taken to the Marauder download location to grab a new version.<br>
-(Simply download the BIN file as stated and stick it in the Marauder subfolder of the batch file.)<br>
+(Simply download the Flipper BIN file, stick it in the Marauder subfolder by the batch file, and delete the old BIN.)<br>
 * If you choose `Save Flipper Blackmagic WiFi settings` your current Blackmagic configuration will be saved.<br>
 * If you choose `Flash Flipper Blackmagic` the script will flash the original Blackmagic firmware it shipped with.
 
