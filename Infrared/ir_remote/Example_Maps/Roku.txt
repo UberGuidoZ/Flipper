@@ -1,4 +1,4 @@
-REMOTE: /ext/infrared/Roku.ir
+REMOTE: /ext/infrared/IRDB/TVs/Roku/Roku.ir
 UP: Up
 DOWN: Down
 LEFT: Left
