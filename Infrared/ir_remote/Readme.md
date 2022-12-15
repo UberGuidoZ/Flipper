@@ -1,9 +1,13 @@
 # IR Remote (Alternate Remote Application from [Hong5489](https://github.com/Hong5489/ir_remote))
 
-This is an application (FAP) similar to the [UniversalRF Remix](https://github.com/ESurge/flipperzero-firmware-unirfremix) but for infrared (IR) files. The author states "I do this plugin for convenience, because the main IR app need to navigate for different button abit troublesome (buttons like up,down,left,right,back). I found it useful for TV and TV box." We agree!
+This is an application (FAP) similar to the [UniversalRF Remix](https://github.com/ESurge/flipperzero-firmware-unirfremix) but for infrared (IR) files. The author states `"I do this plugin for convenience, because the main IR app need to navigate for different button abit troublesome (buttons like up,down,left,right,back). I found it useful for TV and TV box."` We agree!
 
 IR Remote supports both short press and long press (hold) input for different IR buttons.<br>
-Compiled FAP has been tested on [Unleashed](https://github.com/DarkFlippers/unleashed-firmware) and [RogueMaster](https://github.com/RogueMaster/flipperzero-firmware-wPlugins) firmwares.
+Compiled FAP has been tested on [Unleashed](https://github.com/DarkFlippers/unleashed-firmware) and [RogueMaster](https://github.com/RogueMaster/flipperzero-firmware-wPlugins) firmwares.<br>
+FAP file is either included or can be obtained with the "extra apps" pack.
+
+*Unleashed*: Download [Extra Apps Pack](https://download-directory.github.io/?url=https://github.com/xMasterX/unleashed-extra-pack/tree/main/apps) then look in `Misc`<br>
+*RogueMaster*: Included under `Tools` folder.
 
 ## How to use
 
