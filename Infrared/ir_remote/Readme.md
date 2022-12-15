@@ -2,7 +2,8 @@
 
 This is an application (FAP) similar to the [UniversalRF Remix](https://github.com/ESurge/flipperzero-firmware-unirfremix) but for infrared (IR) files. The author states "I do this plugin for convenience, because the main IR app need to navigate for different button abit troublesome (buttons like up,down,left,right,back). I found it useful for TV and TV box." We agree!
 
-IR Remote supports both short press and long press (hold) input for different IR buttons. Compiled FAP has been tested on [Unleashed](https://github.com/DarkFlippers/unleashed-firmware) and [RogueMaster](https://github.com/RogueMaster/flipperzero-firmware-wPlugins) firmwares.
+IR Remote supports both short press and long press (hold) input for different IR buttons.<br>
+Compiled FAP has been tested on [Unleashed](https://github.com/DarkFlippers/unleashed-firmware) and [RogueMaster](https://github.com/RogueMaster/flipperzero-firmware-wPlugins) firmwares.
 
 ## How to use
 
