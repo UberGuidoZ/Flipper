@@ -1,4 +1,4 @@
-REMOTE: /ext/infrared/Flipper-IRDB/TVs/Samsung/Samsung_TV.ir
+REMOTE: /ext/infrared/IRDB/TVs/Samsung/Samsung_TV.ir
 UP: Menu_up
 DOWN: Menu_down
 LEFT: Menu_left
