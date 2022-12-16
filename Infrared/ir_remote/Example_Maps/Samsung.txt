@@ -1,0 +1,12 @@
+REMOTE: /ext/infrared/IRDB/TVs/Samsung/Samsung_TV.ir
+UP: Menu_up
+DOWN: Menu_down
+LEFT: Menu_left
+RIGHT: Menu_right
+OK: Menu_enter
+BACK: Menu_back
+UPHOLD: VOL+
+DOWNHOLD: VOL-
+LEFTHOLD: Source
+RIGHTHOLD: Menu_home
+OKHOLD: POWER

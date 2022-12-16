@@ -7,6 +7,8 @@ Are you more the type that just wants to grab some pre-made and tinker with how 
 - Still need more? Well then [stopoxy](https://github.com/stopoxy/FZAnimations) has you covered.
 - BUT WAIT, there's more... from [HexxedBitHeadz](https://github.com/HexxedBitHeadz/FlipperZeroWallpaper).
 
+Or... check out [this handy drag and drop editor](https://ilin.pt/stuff/fui-editor/)! GUI for code? Yes please.
+
 # Some other graphics fun
 Head into the dolphin folder and you'll see a bunch of other folders. The names should roughly correspond with the animation. Inside of THAT folder you'll see a meta.txt file. Save a copy to your system to edit it (or go directly through the mobile device web browser). If the animation has speech bubbles, you can find and edit the text in here! Save it and reboot the Flipper to see it. If it's not coming up fast enough, edit the manifest.txt file in the root and increase the weight, then reoobt again.
 
