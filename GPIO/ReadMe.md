@@ -173,6 +173,8 @@ HC-SR04: 4 (5V)  -> FZ: 1 (5V)
 Switch between UART Pins 13/14 and 15/16 setting in:
 Flipper -> GPIO -> USB-UART Bridge -> LEFT -> UART Pins
 ```
+![HC-SR04](https://user-images.githubusercontent.com/57457139/208268156-05021579-5410-44bc-a705-99fc97b0d046.png)
+
 -----
 
 ## NMEA 0183 GPS
