@@ -193,6 +193,7 @@ https://github.com/NaejEL/flipperzero-i2ctools
 -----
 
 ## HTU21D / SI7021 Temperature Sensor
+![HTU21D](https://user-images.githubusercontent.com/57457139/208267976-6709577e-f15d-4ec0-928d-dcff9b3389be.png)
 ```
 GPIO pins 9 (3.3V), 11 (GND), 15 (sda), and 16 (scl)
 ```
