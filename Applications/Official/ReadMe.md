@@ -2,10 +2,11 @@
 
 See the [official documentation](https://github.com/flipperdevices/flipperzero-firmware/blob/dev/documentation/AppsOnSDCard.md) or **download all the files** in a [ZIP here](https://uberguidoz.github.io/DownGit/#/home?url=https://github.com/UberGuidoZ/Flipper/tree/main/Applications/Official)!
 
-## A humble thank you to [Aleksandr Zhytnyk](https://github.com/OperKH) for maintaining the FAPs for Official firmware!
-[Alexei Humeniy](https://github.com/ahumeniy) has also contributed a number of updates and was the first to update.
+## A humble thank you to [Alexei Humeniy](https://github.com/ahumeniy) for maintaining the FAPs for Official firmware!
+[Aleksandr Zhytnyk](https://github.com/OperKH) has also contributed a number of updates.
 
-They have been compiled for the current API version (7.x), but if you run across any not here, please PR them in! (Or tag me in Discord...)
+They have been compiled for the current API version (11.x), but if you run across any not here, please PR them in! (Or tag me in Discord...)<br>
+**NOTE: Some apps which use audio won't work due to a new pattern for audio access.** ([More info](https://github.com/UberGuidoZ/Flipper/pull/257))
 
 [Links to full application name and authors](https://github.com/UberGuidoZ/Flipper/tree/main/Applications/Unleashed%20(and%20RogueMaster))
 
