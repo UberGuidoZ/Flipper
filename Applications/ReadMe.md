@@ -28,6 +28,26 @@ Now simply navigate to the application you'd like to load and center click it!
 To exit and/or load something else, simply use the BACK button.
 
 -----
+# Building applications
+## Here are some resources on getting started creating and building FAPS.
+
+### official documentation
+https://github.com/flipperdevices/flipperzero-firmware/blob/dev/documentation/AppsOnSDCard.md
+
+### Flipper plugin tutorial
+https://github.com/DroomOne/Flipper-Plugin-Tutorial
+
+### Flipper plugin how to
+https://github.com/csBlueChip/FlipperZero_plugin_howto
+
+## Hello world examples
+https://github.com/zmactep/flipperzero-hello-world
+https://github.com/ASoldo/hello_world
+https://github.com/giolaq/helloflipper
+https://github.com/baakeydow/flipper0-rust-hello-world
+https://github.com/mervburger/flipper_helloworld
+
+-----
 
 ## Donation Information
 
