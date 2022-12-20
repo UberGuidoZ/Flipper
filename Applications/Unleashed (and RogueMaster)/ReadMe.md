@@ -1,4 +1,4 @@
-# Flipper Application Files (FAPs) for [Unleashed](https://github.com/DarkFlippers/unleashed-firmware) v8.2 (API v7.x)
+# Flipper Application Files (FAPs) for [Unleashed](https://github.com/DarkFlippers/unleashed-firmware) API v11.x
 
 ## [Download all files including source here](https://uberguidoz.github.io/DownGit/#/home?url=https://github.com/UberGuidoZ/Flipper/tree/main/Applications/Unleashed%20(and%20RogueMaster)) (does not include [bundled apps](https://github.com/DarkFlippers/unleashed-firmware#community-apps-included))<br>
 [They are also hosting a copy of the extra files here](https://github.com/xMasterX/unleashed-extra-pack).
