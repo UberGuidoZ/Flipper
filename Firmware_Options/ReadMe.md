@@ -6,7 +6,7 @@ Official Firmware: [Main](https://github.com/flipperdevices/flipperzero-firmware
 
 Unleashed Firmware: [Main](https://github.com/Eng1n33r/flipperzero-firmware) | [Release](https://github.com/Eng1n33r/flipperzero-firmware/releases)
 
-CrazyClara Firmware [Main](https://github.com/ClaraCrazy/Flipper-Xtreme) | [Release](https://github.com/ClaraCrazy/Flipper-Xtreme/releases)
+ClaraCrazy Firmware [Main](https://github.com/ClaraCrazy/Flipper-Xtreme) | [Release](https://github.com/ClaraCrazy/Flipper-Xtreme/releases)
 
 RogueMaster Firmware: [Main](https://github.com/RogueMaster/flipperzero-firmware-wPlugins) | [Release](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/releases) (NOTE: It appears builds of RM have gone behind a paywall.)
 
