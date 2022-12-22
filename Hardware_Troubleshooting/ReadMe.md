@@ -13,6 +13,13 @@ If your flipper is having issues, such as the common battery issue (only works w
 Issues with stripped screws appears to be common. Be careful and use a quality screwdriver and/or bits!<br>
 If you need to replace a screw, [here are the dimensions](https://user-images.githubusercontent.com/57457139/174870632-501c9aad-ded6-46b5-8618-ba4aa8efa1e4.png) of them for replacement. (Told they are Torx M1.8 x 9mm)
 
+# Adding an external antenna
+
+Following the above, when you have your Flipper apart, you'll see the little "cut out corner" by the ESP32.<br>
+Add or move this resister to add an external antenna:
+
+![Antenna](https://user-images.githubusercontent.com/57457139/208997871-a667b88b-fd31-412d-8a1e-fabb17223a96.jpg)
+
 -----
 
 ## Donation Information
