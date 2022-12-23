@@ -1,7 +1,6 @@
 # Documenting adventures with the GPIO...
 
 Official [GPIO layout](https://miro.com/app/board/uXjVO_LaYYI=/) created by [Aleksandr Kutuzov](https://discord.com/channels/740930220399525928/765282833744265246/993107060172542012). Official documentation [is here](https://docs.flipperzero.one/gpio-and-modules)!<br>
-Check out some unofficial boards by [DrB0rk](https://github.com/DrB0rk/Flipper-Zero-Boards) and an extender by [Speexvocon](https://github.com/Speexvocon/FlipperZeroHeaderExtender)!
 
 # Sentry Safe plugin pinout
 
@@ -220,6 +219,16 @@ GND (-, GND, black wire)	8, 18 (GND)
 DATA (OUT, S, yellow wire)	2-7, 10, 12-17 (to choose from)
 ```
 https://github.com/quen0n/FipperZero-DHT-Monitor
+-----
+# Custom PCB's
+## Here's some repo's with designs for custom PCB's you can order or build using a prototype board.
+
+https://github.com/DrB0rk/Flipper-Zero-Boards
+https://github.com/Speexvocon/FlipperZeroHeaderExtender
+https://github.com/krolchonok/flipper-board
+https://github.com/AWOK559/Flipper_Zero_Boards
+https://github.com/TheOtherLonestar/RS-232-UART-Flipper
+https://github.com/oleksiikutuzov/flipperzero-flasher-board
 
 -----
 
