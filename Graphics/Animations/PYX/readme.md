@@ -1,5 +1,5 @@
 # flipper-zero-animations
-Welcome to my Flipper Zero animation repo : ) Feel free to do what you'd like with anything here.
+Welcome to my Flipper Zero animations repo : ) Feel free to do what you'd like with anything here.
 + *Some animations may be buggy so consider them in beta.*
 
 # Updates:
