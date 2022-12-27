@@ -10,7 +10,11 @@ If your flipper level is moving too slow for you, there are ways you can fix tha
 
 If you would rather just "git'r'done" then grab one of the files here that correspond to the level you want.
 
-All files are mood "Happy" with `Butthurt` at 0. The corresponding level is at the end of the name.<br>
+All files are status "Wet" with `Butthurt` at 0. The corresponding level is at the end of the name.<br>
+Files in the `AT_LEVEL` folder take you directly to the stated level with a message that you leveled up.<br>
+Files in the `TOP_LEVEL` put you one step away so the next action you perform will cause you to level up.<br>
+BONUS: The file `.dolphin.state.XXX` takes you to exactly 6969 XP (Level 25 with 6969/7100)
+
 **Simply download the file named for the level you want (like `.dolphin.state.LVL30`).**
 
 Now that you have downloaded the `.dolphin.state` file you want to a location you know, RENAME IT to just `.dolphin.state`<br>
