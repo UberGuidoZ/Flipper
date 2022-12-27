@@ -44,7 +44,7 @@ Great! Now drag and drop the `.dolphin.state` file you downloaded from this repo
 
 That's it! Now [restart Flipper](https://docs.flipperzero.one/basics/reboot) and enjoy your new level!
 
-![L337_Level](https://user-images.githubusercontent.com/57457139/169634673-889e823f-4757-4911-ac34-5dd962e7f907.png)
+![6969](https://user-images.githubusercontent.com/57457139/209627160-8373f563-229f-4415-8765-68b0fa602200.png)
 
 If you find yourself longing for your original friend as it was, it's easy to go back. Repeat the process above, but now DELETE<br>
 the `.dolphin.state` file, then rename your `.dolphin.state.mine` (or whatever you picked) back to `.dolphin.state`.<br>
