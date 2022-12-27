@@ -3,20 +3,20 @@
 
 ## NOTE: To fix issue with recent firmware changes, file should start with a period `.`
 
-Github doesn't like files that start with a period so please make sure to rename it after download.
+Github doesn't always like files that start with a period so please make sure it still starts with a period after download.
 
 If your flipper level is moving too slow for you, there are ways you can fix that! Are you are the tinkering kind? See [DroomOne's](https://github.com/DroomOne/FlipperScripts) Python script. (All the files below were made with this script. I've notated the numbers used as _DO#_ later.)
 
 If you would rather just "git'r'done" then grab one of the following files depending on your need.
 
-`dolphin.state.ZERO` - Starting from scratch, just a n00b... _(DO#: 0)_<br>
-`dolphin.state.TOP1` - Next action you do upgrades to LVL 2 _(DO#: 734)_<br>
-`dolphin.state.LVL2a` - Instant LVL 2 animation on reboot _(DO#: 735)_<br>
-`dolphin.state.TOP2` - Next action you do upgrades to LVL 3 _(DO#: 2939)_<br>
-`dolphin.state.LVL3a` - Instant LVL 3 animation on reboot _(DO#: 2940)_<br>
-`dolphin.state.FIN3` - You're the king, nothing left... _(DO#: 2941 or greater)_
+`.dolphin.state.ZERO` - Starting from scratch, just a n00b... _(DO#: 0)_<br>
+`.dolphin.state.TOP1` - Next action you do upgrades to LVL 2 _(DO#: 734)_<br>
+`.dolphin.state.LVL2a` - Instant LVL 2 animation on reboot _(DO#: 735)_<br>
+`.dolphin.state.TOP2` - Next action you do upgrades to LVL 3 _(DO#: 2939)_<br>
+`.dolphin.state.LVL3a` - Instant LVL 3 animation on reboot _(DO#: 2940)_<br>
+`.dolphin.state.FIN3` - You're the king, nothing left... _(DO#: 2941 or greater)_
 
-Now that you have downloaded the dolphin.state file you want to a location you know, RENAME IT to just `.dolphin.state`<br>
+Now that you have downloaded the `.dolphin.state` file you want to a location you know, RENAME IT to just `.dolphin.state`<br>
 Next, open up qFlipper and head to the file browser section to transfer your new file:
 
 ![File_browser](https://user-images.githubusercontent.com/57457139/169634442-38acca0a-94e0-4038-aa54-dd33ebdffa29.png)
