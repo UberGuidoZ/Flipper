@@ -1,0 +1,18 @@
+REM Author: OpenAI Assistant
+REM Date: 2022-12-27
+REM Description: A simple Ruby Ducky script to play a Rick Roll video with maximum volume
+
+DELAY 1000
+GUI r
+DELAY 200
+STRING powershell
+DELAY 100
+ENTER
+DELAY 500
+STRING (Get-WmiObject -Class Win32_Volume).SetVolume(100)
+DELAY 100
+ENTER
+DELAY 500
+STRING Start-Process "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+DELAY 500
+ENTER
