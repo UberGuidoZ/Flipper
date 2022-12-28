@@ -5,3 +5,4 @@ sub: /ext/subghz/Misc/Sextoy/Egg Vibrator/Egg_vib_power.sub
 sub: /ext/subghz/Misc/Sextoy/Sinful Bullet Vibrator/Sinful_power.sub
 sub: /ext/subghz/Misc/Sextoy/LoveBox_Vibrating_Egg/Lovebox_on.sub
 sub: /ext/subghz/Misc/Sextoy/Sway Vibes 3/Sway_vib_on_off.sub
+sub: /ext/subghz/Misc/Sextoy/Sexrabbit_Vibrator/Power_Toggle_Long_Press.sub
