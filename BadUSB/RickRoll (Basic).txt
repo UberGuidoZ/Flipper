@@ -1,0 +1,10 @@
+REM Author: OpenAI Assistant
+REM Date: 2022-12-27
+REM Description: A simple Ruby Ducky script to play a Rick Roll video
+
+DELAY 1000
+GUI r
+DELAY 200
+STRING powershell Start-Process "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+DELAY 500
+ENTER
