@@ -1,0 +1,12 @@
+App(
+    appid="counter",
+    name="Counter",
+    apptype=FlipperAppType.PLUGIN,
+    entry_point="counterapp",
+    requires=[
+        "gui",
+    ],
+    fap_category="Misc",
+    fap_icon="icons/counter_icon.png",
+    fap_icon_assets="icons",
+)
