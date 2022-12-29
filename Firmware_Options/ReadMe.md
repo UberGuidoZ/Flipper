@@ -12,7 +12,7 @@ ClaraCrazy Firmware [Main](https://github.com/ClaraCrazy/Flipper-Xtreme) | [Rele
 
 SquachWare Firmware: [Main](https://github.com/skizzophrenic/SquachWare-CFW) | [Release](https://github.com/skizzophrenic/SquachWare-CFW/releases) *Fork of Official*
 
-Dexv Firmware: [Main](https://github.com/DXVVAY/Dexv0) | [Release](https://github.com/DXVVAY/Dexv0/releases) *Fork of ClaraCrazy*
+Dexv Firmware: [Main](https://github.com/DXVVAY/Dexv0) | [Release](https://github.com/DXVVAY/Dexv0/releases) / [Alt](https://github.com/DXVVAY/Dexvmaster0) | [Release](https://github.com/DXVVAY/Dexvmaster0/releases) *Fork of ClaraCrazy*
 
 -----
 
