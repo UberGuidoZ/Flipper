@@ -17,7 +17,7 @@ Head into the dolphin folder and you'll see a bunch of other folders. The names 
 
 Also in the manifest.txt file will be a min.max `butthurt` value, and a max level.<br>
 Play around with these to find what suits you best! If needed, you can also up your [Dolphin level](https://github.com/UberGuidoZ/Flipper/tree/main/Dolphin_Level)!<br>
-Want to see them even faster? Grab [RogueMaster's release](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/releases) then press and hold the center button to cycle.
+Want to see them even faster? Grab [RogueMaster's](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/releases) or [ClaraCrazy's](https://github.com/ClaraCrazy/Flipper-Xtreme/releases) then press and hold the center button to cycle.
 
 -----
 
