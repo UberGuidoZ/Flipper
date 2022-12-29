@@ -1,8 +1,6 @@
-# Change your Flipper level (ClaraCrazy fixed ones)!
+# Change your Flipper level (ClaraCrazy / Dexv fixed ones)!
 
 ## NOTE: Changes in recent Official firmware require the file to start with a `.`
-
-# Works on Both Dexv firmware's toofim
 
 Github doesn't always like files that start with a period so please make sure it still starts with a period after download.
 
