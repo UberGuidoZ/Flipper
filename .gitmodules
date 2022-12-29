@@ -28,3 +28,6 @@
 [submodule "NFC/Amiibo/Amiibo_Collection"]
 	path = NFC/Amiibo/Amiibo_Collection
 	url = https://github.com/Gioman101/FlipperAmiibo.git
+[submodule "Graphics/TalkingSasquach"]
+	path = Graphics/TalkingSasquach
+	url = https://github.com/skizzophrenic/Talking-Sasquach.git
