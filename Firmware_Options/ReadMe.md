@@ -4,11 +4,15 @@
 
 Official Firmware: [Main](https://github.com/flipperdevices/flipperzero-firmware) | [Release](https://github.com/flipperdevices/flipperzero-firmware/releases)
 
-Unleashed Firmware: [Main](https://github.com/Eng1n33r/flipperzero-firmware) | [Release](https://github.com/Eng1n33r/flipperzero-firmware/releases)
+Unleashed Firmware: [Main](https://github.com/Eng1n33r/flipperzero-firmware) | [Release](https://github.com/Eng1n33r/flipperzero-firmware/releases) *Fork of Official*
 
-ClaraCrazy Firmware [Main](https://github.com/ClaraCrazy/Flipper-Xtreme) | [Release](https://github.com/ClaraCrazy/Flipper-Xtreme/releases)
+ClaraCrazy Firmware [Main](https://github.com/ClaraCrazy/Flipper-Xtreme) | [Release](https://github.com/ClaraCrazy/Flipper-Xtreme/releases) *Fork of RogueMaster*
 
-RogueMaster Firmware: [Main](https://github.com/RogueMaster/flipperzero-firmware-wPlugins) | [Release](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/releases) (NOTE: It appears builds of RM have gone behind a paywall.)
+RogueMaster Firmware: [Main](https://github.com/RogueMaster/flipperzero-firmware-wPlugins) | [Release](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/releases) *Fork of Unleashed*
+
+SquachWare Firmware: [Main](https://github.com/skizzophrenic/SquachWare-CFW) | [Release](https://github.com/skizzophrenic/SquachWare-CFW/releases) *Fork of Official*
+
+Dexv Firmware: [Main](https://github.com/DXVVAY/Dexv0) | [Release](https://github.com/DXVVAY/Dexv0/releases) *Fork of ClaraCrazy*
 
 -----
 
