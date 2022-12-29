@@ -31,3 +31,6 @@
 [submodule "Graphics/TalkingSasquach"]
 	path = Graphics/TalkingSasquach
 	url = https://github.com/skizzophrenic/Talking-Sasquach.git
+[submodule "Graphics/Kuronons"]
+	path = Graphics/Kuronons
+	url = https://github.com/Kuronons/FZ_graphics.git
