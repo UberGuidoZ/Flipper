@@ -3,7 +3,7 @@
 See the [official documentation](https://github.com/flipperdevices/flipperzero-firmware/blob/dev/documentation/AppsOnSDCard.md) or **download all the files** in a [ZIP here](https://uberguidoz.github.io/DownGit/#/home?url=https://github.com/UberGuidoZ/Flipper/tree/main/Applications/Official)!
 
 ## A humble thank you to [Alexei Humeniy](https://github.com/ahumeniy) for maintaining the FAPs for Official firmware!
-Missing or outdated FAPs may be found from [kyhwana](https://github.com/kyhwana/latest_flipper_zero_apps), plus [Aleksandr Zhytnyk](https://github.com/OperKH) has also contributed a number of updates.
+Missing or outdated FAPs may be found from [kyhwana](https://github.com/kyhwana/latest_flipper_zero_apps) or [grnch](https://github.com/grinchdubs/latest_flipper_zero_apps), plus [Aleksandr Zhytnyk](https://github.com/OperKH) has also contributed a number of updates.
 
 They have been compiled for the current API version (11.x), but if you run across any not here, please PR them in! (Or tag me in Discord...)<br>
 **NOTE: Some apps which use audio won't work due to a new pattern for audio access.** ([More info](https://github.com/UberGuidoZ/Flipper/pull/257))
