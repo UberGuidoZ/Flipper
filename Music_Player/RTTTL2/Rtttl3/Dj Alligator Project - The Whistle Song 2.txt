@@ -1,0 +1,1 @@
+TheWhist:d=8,o=6,b=140:d.,16a5,p,d,d.,16a5,p,d,d.,16a5,p,d,d,a5,a#5,g5,d.,16a5,p,d,d.,16a5,p,d,d.,16a5,p,d,d,a5,a#5,g5,d.,16a5,p,d,d.,16a5,p,d,d.,16a5,p,d,d,a5,a#5,g5,d.,16a5,p,d,d.,16a5,p,d,d.,16a5,p,d,d,a5,a#5,g5

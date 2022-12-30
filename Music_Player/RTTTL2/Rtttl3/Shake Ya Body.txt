@@ -1,0 +1,1 @@
+ShakeYaB:d=4,o=6,b=200:c,8g,b5,8g,8p,a_5,8g,8p,a.5,8g,8g_5,g_5,8d_,g5,8d_,8p,f_5,8d_,8p,f.5,d,c,8g,b5,8g,8p,a_5,8g,8p,a.5,8g,8g_5,g_5,8d_,g5,8d_,8p,f_5,8d_,8p,f.5,d,c,8g,b5,8g,8p,a_5,8g,8p

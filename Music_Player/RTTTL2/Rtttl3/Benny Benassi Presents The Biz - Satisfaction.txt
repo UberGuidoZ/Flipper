@@ -1,0 +1,1 @@
+Satisfac:d=16,o=6,b=140:8a#,p,f,8p,a#5,8p.,32a#4,p.,32b,32p,32b,32p,b,p,8a#,p,f,8p,a#,p,b,p,a#,p,b,p,a#,p,8a#,p,f,8p,a#5,8p.,32a4,p.,32b,32p,32b,32p,b,p,8a#,p,f,8p,a#,p,b,p,a#,p,b,p,a#,p,8a#,p,f,8p,a#5,8p.,32a#4

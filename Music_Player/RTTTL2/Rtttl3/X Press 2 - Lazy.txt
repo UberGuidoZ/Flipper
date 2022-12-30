@@ -1,0 +1,1 @@
+Lazy:d=8,o=6,b=140:g#,p,g#,f,d#,4f.,g#,p,g#,f,d#,4f.,g#,g#,g,g,f,f,d,d,c,c,d,d,4f.,4g#,g#,f,d#,4f.,4g#,g#,f,d#,4f.,g#,g#,g,g,f,f,d,d,c,c,d,d,4f.,1d#,d#,d,c,a#5,2c,1f5,1d#,d#,d,c,a#5,2c,1f.5

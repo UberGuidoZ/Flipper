@@ -1,0 +1,1 @@
+BurnItUp:d=4,o=5,b=180:g#,g,d#,f,g#,g,d#,f,2p,8g#,8g,8p,8g,8g,8g#,g,f,p,g#,g,d#,f,g#,g,d#,f,p,8g#,8g#,8g#,8a#,8p,8g#,g#,g,2g#,g#,a#,g,g#,g#,a#,g,g#,2p,8g#,8g,8p,8g,8g,8g#,g,f,p,g#,g,d#,f,g#,g,d#,8g#,8g#,c6,8g#,8g#,c6,8g#,8g#,8c6,8g#,g,2g#.

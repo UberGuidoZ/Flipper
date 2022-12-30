@@ -1,0 +1,1 @@
+MujayKuc:d=16,o=6,b=100:f,e,8b,b,8a,a,g,f#,e,f#,f#,g,2g,f#,e,d,e,e,g,2f#,f#,b,b,e,e,e,2e,d,e,f#,g,f#,e,d,d,d,e,2p,d,e,f#,g,f#,e,d,d,e

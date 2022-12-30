@@ -1,0 +1,1 @@
+Side:d=4,o=7,b=160:8f,f,8d,8d,8d,8d,8d,8c,8a#6,8c,d,d.,8d,d,8d,8d,8d,8d,8d,8c,8a#6,8c,d,d,8d,8d,d,8d,8d,8d,8d,8d,8c,8a#6,8c,d,d.,8c,1a#6,8p,8d,8d,d.,8c,c,a#6,a#6,a6,a6,8d,8d,d.,8c,c,a#6,a#6,a6,a6,d,d,c,c,d,d,c,c,d,d,c,c,a#6,a#6,a6,a6

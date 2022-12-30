@@ -1,0 +1,1 @@
+HangingA:d=8,o=5,b=100:16g,g,16g,16a,16b,2c6,a.,g,p,g,p,a,p,16g,16p,g.,16g,16a,16b,c.6,c6,16b,c.6,4c6,c6,b,2g

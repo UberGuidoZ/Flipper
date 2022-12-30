@@ -1,0 +1,1 @@
+RockLobs:d=8,o=5,b=180:32p,g,4c,4d,4d#,d,c,g#,f,g#,2g,p,g,4c,4d,4d#,d,c,g#,f,g#,2g,p,g,4c,4d,4d#,d,c,g#,f,g#,4g.,4g,4g,2c6,p,4d#.,4d,p,4g,4g,2c6,p,4d#.,4d,p

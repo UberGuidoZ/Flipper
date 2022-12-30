@@ -1,0 +1,1 @@
+Mann:d=16,o=6,b=70:g5,a5,c,d,e,d,c,4e,8p,d,d,c,a5,8a5,4d,8p,e,c,d,c,8c.,4p,8g,8g,8g,g,8e,a,g,g,g,8d,8p,8d,8d,8d,8d.,8e,c,d,g5,4a5

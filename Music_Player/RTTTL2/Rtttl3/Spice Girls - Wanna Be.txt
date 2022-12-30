@@ -1,0 +1,1 @@
+WannaBe:d=16,o=5,b=125:g,g,g,g,8g,8a,8g,8e,8p,c,d,c,8d,8d,8c,4e,4p,8g,8g,8g,8a,8g,8e,8p,4c6,8c6,8b,8g,8a,b,a,4g

@@ -1,0 +1,1 @@
+KindaFun:d=16,o=5,b=140:8d#,d#,d#,8a#,8f#,8f,p,8f,8p,p,8f,d#,d#,8f,8f#,1,8d#,p,8d#,8p,p,8d#,d#,d#,8a#,8f#,8f,p,8f,8p,p,8f,1,dd##,8f,8f#,8d#,p,8d#,8p,p

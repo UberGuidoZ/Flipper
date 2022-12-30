@@ -1,0 +1,1 @@
+MixedUpW:d=8,o=7,b=125:f,f,f,f,d#,d#,c#,c#.,16d#,f,4f#5,f#.5,f#.5,f#.5,16c#6,f,d#,f,d#,f,d#,4f,4f,f.,16d#,c#,4d#,f,f,f,f,d#,f,d#,4f,4f,d#,c#.,f#.5,f#.5,16c#6,f,d#,f,d#,f,d#,4f,4f,f.,16d#,c#,d#,g#.5,c#.6

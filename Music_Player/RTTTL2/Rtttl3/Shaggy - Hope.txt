@@ -1,0 +1,1 @@
+Hope:d=16,o=5,b=90:f,p,f,f,g,a,p,f,p,f,p,f,g,p,a,8p,f,f,f,f,f,f,f,p,f,f,f,g,p,a,p,f,p,f,f,g,a,p,f,p,f,p,f,g,p,a,8p,f,f,f,f,f,f,f,p,f,f,f,g,p,a,p,8f

@@ -1,0 +1,1 @@
+KahnoPya:d=16,o=6,b=63:4c,4g5,p,c,d,e,c,4d,4g.5,p,d,e,f,d,4e,4c.,8p,c,d,e,c,d.,32p,d,f,e,f,d.,32p,d,d,d,f,e,f,d.

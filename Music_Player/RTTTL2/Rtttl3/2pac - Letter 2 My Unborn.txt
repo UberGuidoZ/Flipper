@@ -1,0 +1,1 @@
+Letter2M:d=8,o=6,b=112:g5,g5,g5,a#5,a#5,4c,4d,p,d,c,d,4c,4a#5,4a5,p,16d,16d,d#,d,c,a#5,4a#5,4a5,4p.,g5,g5,g5,a#5,a#5,4c,4d,p,d,c,d,4c,4a#5,4a5,p,16d,16d,d#,d,c,a#5,4a#5,4a5

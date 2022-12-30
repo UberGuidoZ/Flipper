@@ -1,0 +1,1 @@
+IfICanPo:d=8,o=6,b=180:c5,4p.,2c,4d#,4f,4p,c5,p,c5,4p.,2c,4d#,4c,4p,c5,p,c5,4p.,2c,4d#,4f,4p,c5,p,c5,4p.,2g,f,d#,2c,c5,p,c5,4p.,2c,4d#,4f,4p,c5,p,c5,4p.,2c,4d#,4c,4p,c5,p,c5,4p.,2c,4d#,4f,4p,c5,p,c5,4p.,2g,f,d#,2c,c5,p,4c5

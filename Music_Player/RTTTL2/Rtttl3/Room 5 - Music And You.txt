@@ -1,0 +1,1 @@
+MusicAnd:d=16,o=6,b=125:4g,4g,4g,c5,p,8f,c5,p,8c,2d#,c5,8p.,4g,4g,4g,c5,p,8f,c5,p,8c,2d#,c5,8p.,4g,4g,4g,f5,p,8f,f5,8p.,4g,f5,p,8f,f5,8p.,4g,f5,p,8f,f5,8p.,4g,f5,8p.,f5,8p.,f5,8p.,8c5

@@ -1,0 +1,1 @@
+IHateYou:d=4,o=6,b=180:8c5,8p,g,f,p,8c,8c,c,c,8c5,8p,8c5,8p,g,f,p,c,c,c,8f,8g,a_,g_,8f5,8p,g,f,8c_5,8p,d_,f,8c5,8p,p,d,c,8c5,8p,p,8c5,8p,p,8c5,8p,g,f,p,8c,8c,c,c,8c5,8p,8c5,8p,g,f,p,c,c,c,8f,8g,a_,g_,8f5,8p,g,f,8c_5,8p,d_,f,8c5,8p,p,d,c,8c5,8p,p,8c5,8p,p,c5

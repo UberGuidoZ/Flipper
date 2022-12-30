@@ -1,0 +1,1 @@
+FoxtrotU:d=4,o=5,b=125:8g,g,8g,8g,8a,8b,8g,16g,16g,16g,16g,8e,8g,8g,8a,8b,8p,8g,8g,16g,16g,8g,8g,8a,8b,8g,8g,8a,8b,8g,8g,8a,8b,8g,8g,8g,8e,8g,8g,8a,8b,8p,8g,8g,8g,8g,8d,8d,d.6,8e6,d.6,8c6,b.,8c6,b.,8a,b.,p,b,a,2p,8b,8b,g,2p,b,a,2p,c6,b,2p,b,a,2p,8b,8b,g,2p,b

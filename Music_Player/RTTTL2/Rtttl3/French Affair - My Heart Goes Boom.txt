@@ -1,0 +1,1 @@
+MyHeartG:d=4,o=5,b=125:b,f#,b,g#.,8f#,8g#,8f#,8g#,8f#,p,b,f#,b,c#.6,8b,8c#6,8b,8c#6,8b,p,b,f#,b,g#.,8f#,8g#,8f#,8g#,8f#,p,b,f#,b,c#.6,8b,8c#6,8b,c#6,b,b,b,b,2p,8a,8b,8b,8b,8b,b,8a,8b,c#6,a,b.,16b,16a,8b,8b,8b,8b,b,8a,8b,c#6,d6,2b,8d6,8d6,8d6,16d6,8c#.6,8b,8b,8a,d6,d6,8c#6,b

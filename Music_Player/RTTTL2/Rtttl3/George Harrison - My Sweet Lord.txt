@@ -1,0 +1,1 @@
+MySweetL:d=8,o=5,b=125:4f,4d,d,2c,2f,d,c,d,2c,2f,d,d,d,2c,d,f,g,a#,g,4a#,2a#.,f,g,a#,g,4a#,a#,2a#,f,g,a#,g,4a#,4a#.,d,d#,4f,g#,g,4f,d,c,2c,4f,4d,4d,d,2c,2f,d,c,d,2c,2f,d,d,d,2c,d,f,g,a#,g,4a#,2a#.,f,g,a#,g,4a#,a#,2a#.,f,g,a#,g,4a#,4a#.,d,d#,4f,g#,g,4f,d,c,2c.

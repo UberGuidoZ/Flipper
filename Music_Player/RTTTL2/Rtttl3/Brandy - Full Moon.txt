@@ -1,0 +1,1 @@
+FullMoon:d=16,o=5,b=112:a#,p,c6,c6,a#,c6,2c#6,8p,g#,a#,c6,a#,g#,a#,2c6,8p,a#,c6,c#6,c6,a#,c6,2c#6,8p,g#,a#,c6,a#,g#,a#,2c6,8p,a#,c6,c#6,c6,a#,c6,2c#6,8p,g#,a#,c6,a#,g#,a#,2c6

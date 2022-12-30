@@ -1,0 +1,1 @@
+HotelCal:d=4,o=5,b=160:a,8c6,8e6,8p,8a,8p,a.6,a,c6,e6,e,8g#,8b,8p,8e,8p,e.6,e,g#,b,g,8b,8d6,8p,8g,8p,g.6,g,b,d6,d,8f#,8a,8p,8d,8p,d.6,d,f#,a,f,8a,8c6,8p,8f,8p,f.6,f,a,c6,c,8e,8g,8p,8c,8p,c.6,c,e,g,d,8f,8a,8p,8d,8p,d.6,d,f,a,e,8g#,8b,8p,8e,8p,e.6,e,g#,b,2a.

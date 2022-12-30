@@ -1,0 +1,1 @@
+DanceFor:d=16,o=5,b=125:a#,a#,a#,f#,f#,d#,d#,8a#,4a#,p,a#,a#,f#,f#,d#,d#,8a#,8a#,g#,a#,4b,g#,a#,b,a#,g#,a#,b,a#,g#,a#,b,a#,g#,a#,b,a#,8g#,4c#6,p,a#,a#,a#,a#,f#,f#,d#,d#,8a#,4a#

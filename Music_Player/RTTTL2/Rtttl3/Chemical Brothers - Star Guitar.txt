@@ -1,0 +1,1 @@
+StarGuit:d=16,o=5,b=125:8f,4g.,2a,8f,4d,4f,4g,8p,8c,4d.,2e,8c,4a,4c,4d,8p,8f,4g.,2a,8f,4d,4f,4g,8p,8c,4d.,2e,8c,4a,4c,4d

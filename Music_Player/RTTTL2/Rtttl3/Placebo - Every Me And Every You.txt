@@ -1,0 +1,1 @@
+EveryMeA:d=4,o=5,b=180:d6,8c6,d6,c6,f6,e6,8d6,8p,a,8a,g,a,c6,a,g,8f,p,8f,e,f,e,f,g,8a,p,8a,a,a,g

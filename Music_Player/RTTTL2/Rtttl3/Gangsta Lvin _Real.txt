@@ -1,0 +1,1 @@
+GangstaL:d=4,o=6,b=220:g_,p,1b,8p,8a,8g_,8a,g_.,8f_,1e,p,1a,8g_,1f_,p,8p,g_,8f_,8e,8c_,8d_,c,p,8e,8f_.,8g_.,g_,p,1b,8p,8a,8g_,8a,g_.,8f_,1e,p,1a,8g_,1f_,p,8p,g_,8f_,8e,8c_,8d_,c,p,8e,8f_.,8g_.

@@ -1,0 +1,1 @@
+Amerika:d=4,o=5,b=125:d,d,8d,8d,8d,8f,a,8a,a.,8p,8a,g,8g,g.,8p,8g,g,8e,2e,8p,d,d,8d,8d,8d,8f,a,8a,a.,8p,8c6,c6,8e,e.,8p,8c6,c6,8e,e.,p,d,d,8d,8d,8d,8f,a,8a,a.,8p,8a,g,8g,g.,8p,8g,g,8e,2e,8p,d,d,8d,8d,8d,8f,a,8a,a.,8p,8c6,c6,8e,e.,8p,8c6,c6,8e,e

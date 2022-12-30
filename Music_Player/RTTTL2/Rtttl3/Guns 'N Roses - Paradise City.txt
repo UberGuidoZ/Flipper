@@ -1,0 +1,1 @@
+Paradise:d=16,o=5,b=225:8d,4c,4c#,8d,4c,4c#,4d,4c,4d,4c,4d,8f,8d,4c,4c#,8d,4c,4c#,4d,4c,4d,4c,4d,8f

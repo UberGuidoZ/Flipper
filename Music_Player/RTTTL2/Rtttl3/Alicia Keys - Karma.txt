@@ -1,0 +1,1 @@
+Karma:d=4,o=5,b=160:e,8p,8f#,p,g,f#,8p,8g,p,a,g,8p,8a,p,b,a,8p,8b,p,d,e,8p,8e,p,c6,b,8p,8e,p,c6,b,8p,8e,p,c6,b,8p,8g,p,f#,e,8p,8f#,p,g,f#,8p,8g,p,a,g,8p,8a,p,b,a,8p,8b,p,d,e,8p,8e,p,c6,b,8p,8e,p,c6,b,8p,8e,p,c6,b,8p,8g,p,f#,e

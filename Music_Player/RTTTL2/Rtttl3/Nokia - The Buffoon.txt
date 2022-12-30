@@ -1,0 +1,1 @@
+TheBuffo:d=32,o=5,b=90:c#,8e,g#,c#6,8p,c6,8p,8b,8p,b,8a,b,a,16p,8g#,8p,g#,8a,b,a,8p,g#,8p,e,16p,e,f#,8p,8g,8g#,16p

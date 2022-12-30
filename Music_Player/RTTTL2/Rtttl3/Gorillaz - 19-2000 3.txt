@@ -1,0 +1,1 @@
+19-20003:d=8,o=5,b=120:16a,16c6,a,c6,a,c6,a,4p,16g,16b,g,b,g,b,g,4p,16a,16c6,a,c6,a,c6,a,4p,16g,16b,g,b,g,16p,a#,a#,a#,a#,a#,16a#,a,g.,p,g,f,g,g,16g,4g.,16p,g,e,g,g,16g,a#,g,16p,g,g,f,g,g,16g,4g

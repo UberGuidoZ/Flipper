@@ -1,0 +1,1 @@
+12DaysOf:d=8,o=5,b=140:d,d,4d,g,g,4g,f#,g,a,b,c6,a,4b,p,c6,4d6,e6,c6,b,g,4a,2g,d6,d6,4d6,g6,g6,4g6,f#6,g6,a6,b6,c7,a6,2b6,4d7,a,b,4c6,b6,c7,4d7,e7,c7,b6,g6,4a6,2g.6

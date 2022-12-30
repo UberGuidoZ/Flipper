@@ -1,0 +1,1 @@
+INeedToK:d=16,o=5,b=125:4e,4e,4e,4e,4e,4e,4f,4e,4p,4d,4p,2d,2p,4p,4d,4d,4d,4d,4d,4d,4e,4d,4p,4c,4p,2c,4c,4d,4e,4e,4e,2p,4p,4f,8p,p,2e,4d,8p,p,2f,2p,4p,4d,4d,4d,4d,4d,4d,4e,4d,4p,2c,2c

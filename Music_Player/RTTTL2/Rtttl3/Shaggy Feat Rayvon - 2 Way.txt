@@ -1,0 +1,1 @@
+2Way:d=16,o=5,b=125:d6,p,c6,a#,p,g,4f,8p,a#,p,c6,a#,p,c6,a#,p,c6,a#,p,c6,d6,p,c6,a#,p,g,4f,8p,a#,p,c6,a#,p,c6,a#,p,c6,a#,p,c6,d6,p,c6,a#,p,g,4f,8p,a#,p,c6,a#,p,c6,a#,p,c6,a#,p,c6,d6,p,c6,a#,p,g,8f.,a#,p,c6,d6,p,c6,a#,p,g,8f,p,8c.6

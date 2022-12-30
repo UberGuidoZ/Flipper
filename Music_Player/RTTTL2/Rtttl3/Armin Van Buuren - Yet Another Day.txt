@@ -1,0 +1,1 @@
+YetAnoth:d=16,o=5,b=140:4g,e,p,e,p,8b,4d6,4d6,4d.6,4b,8a,4a.,e,p,e,p,8a,8b,8a,8a,e,p,e,p,4a,4a,8b,4g.,c,p,c,p,8b,8b,8b,8b,c,p,c,p,4b,4a,8b,4g,c,p,c,p,c,p,8g,8a,8b,8c6,c,p,c,p,4b,4a,8g,8g

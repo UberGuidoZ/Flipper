@@ -1,0 +1,1 @@
+TombRaid:d=32,o=6,b=40:f,8a.,d#,p,f,f,p,d#,8a.,d#,p,f,f,p,d#,16a.,16f.,d#,p,f,16f.,16a.,f,p,16a.,16f.,a,f,p,8f,d#,16f.,16f.,d,p,f,d,p,a,d,p,f,d,p,8f,a,8f.,16a.,16a.,16a.,16a.

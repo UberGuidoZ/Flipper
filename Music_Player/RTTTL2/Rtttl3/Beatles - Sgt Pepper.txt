@@ -1,0 +1,1 @@
+SgtPeppe:d=8,o=6,b=250:e,a5,e,p,e,p,4e,2a,4a,4g,4p,4f#,4p,2e,4p,a5,p,4e,f#,d,4f#,4f#,4f#,2f#,f#,g,4e,4p,a5,p,a5,p,a5,p,a5,p,a5,p,a5,4a5

@@ -1,0 +1,1 @@
+MySacrif:d=8,o=4,b=80:f5,f5,16d5,16b,4d5,b,4d5,p,4a,2e5,4p,4a,4d5.,4b,a,b,4b,16a,g.,4p,f5,f5,16d5,16b,4d5,b,4d5,p,4a,2e5,p,a,a,4d5,16b,4a,p,16p,b,b,4b,16a,g.,4p,b,b,16a,a.

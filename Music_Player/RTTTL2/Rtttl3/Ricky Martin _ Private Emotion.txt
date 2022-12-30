@@ -1,0 +1,1 @@
+RickyMar:d=4,o=5,b=160:f,g,2a,g,8f,g,8a,2p,f,2g,g,8a,2g.,8p,8d,8e,2f,g,8f,e,2c,8p,8f,8f,8f,f.,a,8f,2g.,8f,8f,8a,2a,a,8g,g,a,p.,f,2g,g,8f,f,c.,d,e,2f,g,8f,e,c.,d,8f,1f

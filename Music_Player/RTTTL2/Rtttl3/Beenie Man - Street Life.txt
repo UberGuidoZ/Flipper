@@ -1,0 +1,1 @@
+StreetLi:d=4,o=5,b=140:8e,8e,8b,8g,8g,8e,8b,8b,8g,8g,8e,8b,8g,8g,8e,8b,8b,8g,8g,a,p,16f#,16f#,16f#,16f#,16f#,8g,8f#,e,p,8f#,e

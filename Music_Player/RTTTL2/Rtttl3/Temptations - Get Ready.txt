@@ -1,0 +1,1 @@
+GetReady:d=16,o=5,b=63:d,d,c,8d,8c,c,d,d,c,8g,8f.,d,d,c,8d,8c,c,d,d,c,8g,8f.

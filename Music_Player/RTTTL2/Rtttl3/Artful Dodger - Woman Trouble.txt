@@ -1,0 +1,1 @@
+WomanTro:d=16,o=5,b=125:g#,g#6,4p,g#,g,g6,p,g,a#,a#6,p,a#,c6,c7,4p,c6,f,f6,p,f,g,g6,p,g,g#,g#6,4p,g#,g,g6,p,g,a#,a#6,p,a#,c6,c7,4p,a#,c6,f,g,c6,d6,f,g,d6

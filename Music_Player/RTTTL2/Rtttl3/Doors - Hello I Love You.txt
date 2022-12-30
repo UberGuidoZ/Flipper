@@ -1,0 +1,1 @@
+HelloILo:d=16,o=5,b=100:a,32p,8a,8p,a,32p,g,32p,g,32p,g,32p,g,32p,c6,32p,c6,32p,c6,32p,4a,8p,a,32p,8a,8p,a,32p,g,32p,g,32p,g,32p,g,32p,c6,32p,c6,32p,c6,32p,4a

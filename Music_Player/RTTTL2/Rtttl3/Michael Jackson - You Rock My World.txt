@@ -1,0 +1,1 @@
+YouRockM:d=4,o=5,b=200:c6,8c6,8d6,8e6,1e6,8p,8c6,8d6,c6,8b,8c6,8b,a.,b,c6,e6,2d6,8p,d6,g.6,f6,8e6,e6,e6,d6,d6,8d6,c6,a,b,c6,e6,d6,a,8a,8b,8c6,2e6,8p,8d6,c.6,2e6,g.6,c.6,b,c6,e6,2d6,8p,d6

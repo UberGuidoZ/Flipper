@@ -1,0 +1,1 @@
+BackHere:d=8,o=5,b=90:b4,c#,d,e,4f#,16p,g.,f#,e,d,d.,p,e.,e,e,e,f#.,b4,b4,4a4,p,a,b,c6,2d6,c6,b,b,4a,4p,a,b,c6,d6,d6,d6,d6,d6,c6,b,4a.,4p,a,b,c6,4d6,g,f#,4g,4p,d6,g.,16p,d6,g.,f#.,g,g,p,a,b,c6,4d6,g,f#,4g,p,d6,g.,16p,d6,g.,f#.,g,4g

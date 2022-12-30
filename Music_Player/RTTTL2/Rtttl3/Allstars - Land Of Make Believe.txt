@@ -1,0 +1,1 @@
+LandOfMa:d=8,o=5,b=160:a#,16p,a,16p,g,4p,16d6,16p,d#.6,p.,a#,2p,p,a#,16p,a,16p,g,4p,16d6,16p,d#.6,p.,a#,2p,p,a#,16p,a,16p,g,4p,16d6,16p,d#.6,p.,a#,2p,p,a#,16p,a,16p,g,4p,16d6,16p,d#.6,p.,a#,2p,p,a#,16p,a,16p,g,4p,16d6,16p,d#.6,p.,a#,2p,p,a#,16p,a,16p,g,4p,16d6,16p,d#.6,p.,a#

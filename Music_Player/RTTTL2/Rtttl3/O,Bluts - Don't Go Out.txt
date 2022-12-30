@@ -1,0 +1,1 @@
+Don'tGoO:d=4,o=6,b=180:f,f,f,f,8d,16g5,8c5,16c7,f,f,f,f,8d,16g5,8c5,16c7,f,f,f,f,16c7,8a5,8a5,8d,16g5,8c5,8a5,f,f,f,f

@@ -1,0 +1,1 @@
+CareALot:d=16,o=6,b=112:8c#,d,p,2e,8c#,d,p,8e.,p,8e.,p,4e,8a,1e,8d,8c#,8d,8e.,p,4e,8d.,p,4c#,8d,4e.,8c#,d,p,8e.,p,8e.,p,8e,4a.,2e.,8p,8d,4c#,8d,e,p,4e,8d.,p,8c#.,p,8f#,8p,4g#,8a.,p,f#,p,4f#,8p,4e.,8e,4f#.,a5,p,8a5,8p,8b5,8c#,1b5,8c#,4e,4c#.,8a.5,p,4f#,8f#,2e,8p,4f#.,a5,p,8a5,8b5,4c#,2b.5

@@ -1,0 +1,1 @@
+MeMyself:d=4,o=6,b=160:a5,c,d,2c,c,2b.5,b5,2c.,8f5,p.,8f5,8p,a5,c,d,2c,c,2b.5,d,d,2c,8f5,p.,8f5,8p,a5,c,d,2c,c,2b.5,d,8e,8d,2c,8f5,p.,8f5,8p,a5,c,d,2c,c,2b.5,b5,2a#.5,8c5,p.,8c5,p.,8c5,p.,a.5

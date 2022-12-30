@@ -1,0 +1,1 @@
+PennyAnd:d=4,o=6,b=180:g5,8g5,8g5,8p,8c5,2c5,2p,g5,c,g5,p,2b5,b5,p,2a5,a5,g5,g5,2p,p,g5,g5,8g5,8g5,8p,8g5,c5,f5,e5,p,2f5,e5,f5,2e5,2p,g5,c,g5,p,2b5,b5,p,2a5,a5,g5,g5,2p,8f5,8e5,8p,8f5,8p,8e5,8p,8f5,8p,8g5,g5,p,8p,8c5,c5,c5,8g5,8g5,8p,8g5,8p,8c5,c5

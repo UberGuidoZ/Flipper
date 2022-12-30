@@ -1,0 +1,1 @@
+RogerRam:d=16,o=7,b=100:8c#,f#,f#,g#,a#,g#,a#,f#,c#,f#,f#,g#,8f#,f,c#,f#,f#,g#,a#,a#,a#,g#,f#,c#,d#,f,8f#,8f#

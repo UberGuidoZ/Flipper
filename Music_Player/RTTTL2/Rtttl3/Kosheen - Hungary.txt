@@ -1,0 +1,1 @@
+Hungary:d=16,o=6,b=125:a4,p,8a4,8p,a4,p,a4,p,8d,e,p,8g,c5,p,4e,c5,p,c5,p,8c5,4p,g5,p,8g5,8p,d,e,g,8g,8e.,g5,p,g5,p,d,p,d,p,d,p,8g,8g5,8g,8e,a5,p,8a5,8p,a5,p,a5,p,8d,e,p,8g,c5,p,4e,c5,p,c5,p,8c5,4p,g5,p,8g5,8p,d,e,4g,8g,8e,g5,p,g5,p,d,p,8d,g,g,p,4a,a4,p,8a4,8p,a4,p,a4,p,8d,e,p,8g,8c5,4b,8g.,p,4e,4g,8e.

@@ -1,0 +1,1 @@
+Foolish:d=4,o=6,b=125:e,e,e,e,b5,b5,e,g,a5,8a5,8a5,8g5,b5,a5,g5,a,8g,f_,a5,a5,a5,8g5,8a5,g5,e5,g,8e5,8g5,8e5,8a5,8a5,8a5,8g5,a5,8a5,8g5,b5,b5,8g5,8g5,8a5,g5,e.5

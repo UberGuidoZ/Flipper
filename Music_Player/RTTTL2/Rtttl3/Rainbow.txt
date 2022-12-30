@@ -1,0 +1,1 @@
+Rainbow:d=4,o=6,b=225:e5,16p,8e5,8e5,8g5,8a5,g5,16p,8g5,8g5,8a5,8b5,8c,8p,8b5,8p,16a5,8g5,a5,p,8c,8d,8c,g5,p,8d,8e,8d,g,8p,8d,8p,8f,p,8c,8c,8p,8a5,8p,c

@@ -1,0 +1,1 @@
+LesMiser:d=8,o=5,b=180:c,f,g,g#,a#,c6,c6,a#,g#,g#,g,f,g,4f.,f,c#,4f,4f,f,c#,c,f,g,g#,a#,c6,c6,a#,g#,g#,g,f,4f,d#,4d,d#,4d,d#,d,g#,a#,4c6,4c6,a#,g#,4a#,4d#,g#,a#,c6,c6,c6,c6,a#,g#,4a#,4a#,g#,a#,4c6,4c6,a#,g#,4a#.,a#,g#,g,4f,4f,f,a#,4f,4f,f,a#,f,f,f,f,g#,g,g,4f.

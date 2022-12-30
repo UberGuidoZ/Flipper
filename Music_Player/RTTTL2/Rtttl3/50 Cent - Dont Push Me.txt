@@ -1,0 +1,1 @@
+DontPush:d=1,o=7,b=90:8d#5,p,a#5,d#,a#6,a#6,a#6,d#,f,f,f,f,f#,f#,8d#5,p,a#5,d#,f#,f#,f#,f#,g#,g#,a#,b,a#,g#,a#,8d#5,p,a#5,d#,8p,g#,b,a#,g#,f#,a#,g#,f#,8g#,p,a#,8f#,p,g#,8f,p,f#,8f,p,f#,8d#5,p,a#5,d#,a#6,a#6,a#6,d#,f,f,f,f,f,f#,f#,f#,8d#5,p,a#5,d#,f#,f#,f#,f#,g#,g#,a#,b,a#,g#,a#,8d#5

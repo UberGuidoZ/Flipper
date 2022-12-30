@@ -1,0 +1,1 @@
+Mindfiel:d=8,o=5,b=125:f,c6,a#,f,g#,g,d#,c,f,c6,a#,f,g#,g,d#,c,f,p,f,16p,16f,p,16f,4p,16p,f.,16p,f,16p,16f,p,16f.,4p,f,c6,a#,f,g#,g,d#,c,f,c6,a#,f,g#,g,d#,c,4f

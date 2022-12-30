@@ -1,0 +1,1 @@
+TheZephy:d=16,o=6,b=100:c#,c#,c#,d#,p,8f.,p,8f.,p,d#,p,c#,2c#.,4p,c#,c#,c#,d#,p,8f,8p,8f,8p,8d#,c#,8c#,d#,p,c#,d#,p,c#,8c#,p,8d#,c#,8d#,p,8f,8f,8f,8p,8f.,p,d#,p,c#,8c#.,g#,a#,g#,a#,g#,a#,g#,4f.,8p.,8c#,8f.,p,8f.,p,8d#.,p,8c#.,p,4a#.5,8p,c,c,c,c,8c#,8c,c,a#5,g#5,8c,2a#5

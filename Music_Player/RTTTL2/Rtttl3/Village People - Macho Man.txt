@@ -1,0 +1,1 @@
+MachoMan:d=16,o=5,b=40:a#,g#,f#,32c#,4d#,32p,a#,g#,f#,32c#,4f,32p,a#,g#,f#,32c#,4d#,32p,f#,f#,f,f,f#,d#,e,f

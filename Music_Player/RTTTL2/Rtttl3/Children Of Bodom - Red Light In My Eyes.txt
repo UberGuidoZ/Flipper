@@ -1,0 +1,1 @@
+RedLight:d=4,o=6,b=200:2a5,a5,b5,c,b5,a5,g5,2a5,a5,b5,c,b5,a5,c,2b,g5,a5,b5,a5,g5,a5,2a5,a5,g5,2f5,2g5

@@ -1,0 +1,1 @@
+Jetsons:d=16,o=5,b=180:b4,c#,d#,e,f#,e,d#,e,f#,e,f#,g#,a,g#,f#,g#,a,g#,a,b,c#6,b,c#6,d#6,e6,d#6,e6,f#6,g#6,f#6,g#6,a6,b6,b,c#6,d#6,e6,f#6,g#6,a6,a#6,e6,e,e6,e,g#6,g#,8p,a#6,a#,b6,b,b6,b,8p,8e,8p,8b4,8p,8e,8p,8b4,8p,8f,8p,8c,8p,f6,c6,a,f,8d#,8p,f,g,a,b,d6,c6,b,a,b,a,g,f,e,d,c,b4,c,8a4,8p,8c,8p,8f,8p,8c

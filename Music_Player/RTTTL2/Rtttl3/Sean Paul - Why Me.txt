@@ -1,0 +1,1 @@
+WhyMe:d=4,o=6,b=225:d5,d5,c5,c5,f5,g5,f5,f5,2e5,2g5,8b,8c,8c,8f,8f,8d,8e,8a,8g,8a,8e,8e,8d,8f,8f,8c,8b,8g,8e,8c,8g,8f,8a,8d,8d,8g,8g,8f,8c,8c,8c,8d,8d,8f,8d,8c

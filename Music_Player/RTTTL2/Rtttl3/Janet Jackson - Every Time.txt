@@ -1,0 +1,1 @@
+EveryTim:d=4,o=5,b=100:16c,16d,e,8g,a.,8e,d.,8c,e.,16c,16d,e,8g,f.,e,d,8c,e.,16c,16d,e,8g,a.,e,d,8c,e.,16e,16d,8c,8a4,8c,8f,8e,8d,8c,d,2c

@@ -1,0 +1,1 @@
+OnlyFool:d=16,o=5,b=140:e,p,g,p,4b,a,p,4g,e,p,d,p,8g,2p,8p,d,p,8e,g,p,8b,8a,8p,4g,e,p,8g,2p,4p,d,p,e,p,g,p,4b,a,p,8g,8p,g,p,a,p,g,p,b,p,8a,8p,8g,8p,g,p,4a,b,p,8b,4p.,a,p,g,p,8b

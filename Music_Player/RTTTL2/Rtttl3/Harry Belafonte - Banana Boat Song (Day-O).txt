@@ -1,0 +1,1 @@
+BananaBo:d=16,o=6,b=80:e.,32p,g,g,32e,32p,e,g,p,32f,32p,32f,32p,f,32d,32p,b5,p,g5,p,32c,32p,c.,32p,e.,32p,8e,32c,32p,d,p,d,32c,32p,e,8g

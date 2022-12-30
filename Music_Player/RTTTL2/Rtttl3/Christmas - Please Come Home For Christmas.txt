@@ -1,0 +1,1 @@
+PleaseCo:d=4,o=6,b=180:a,a,c7,a.,1g,8p,8c5,p,a.,8c5,8p,2g,8e,8d,1c,p,8c5,8p,g,2f,2d,8c,8d,1c,p,8f5,8p,p,a5,a5,a5,a5,a.5,c.,8f_5,8p,8d,8c,1a5,c,d,e,e,1g,p,8f5,8p,2p,e,d,c,8d,8e,1c,p,8a5,8p,2p,a5,c,d,e,2d,8d5,8p,p,1e,e,e,e,2e.,8g5,8p,1d,p,8g5,8p,2p,c

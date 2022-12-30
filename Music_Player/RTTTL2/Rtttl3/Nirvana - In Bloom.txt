@@ -1,0 +1,1 @@
+InBloom:d=16,o=5,b=80:8a#.,a#,8a#,8g.,g,8g,g,g,g,f,8f.,f,8f,2g#,8p,a#,a#,a#,a#,8a#.,a#,f#,f#,f#,f#,8f#.,f#,d#6,d#6,d#6,d#6,8d#.6,d#6,b,b,b,b,a,a,a,a,a#,a#,a#,a#,2a#.

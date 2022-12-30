@@ -1,0 +1,1 @@
+Paperbac:d=8,o=6,b=160:4d,d,4d,d,c,b5,4d,d,4d.,d,e,4f,f,4f.,e,d,e,d,2d,p,b5,4d,d,4d,d,c,b5,4d,d,4d.,d,e,4f,f,4f.,e,d,e,d,d,d,g5,g5,4b5,4c,1c,4d,d,4f,4g,1g.,p,4c.,d,2e,2e,1d.

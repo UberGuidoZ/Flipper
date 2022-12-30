@@ -1,0 +1,1 @@
+WhereIsT:d=8,o=6,b=100:16a,a,a,g,g,f,g.,16a,16p,16a,a,a,16g,16g,16f,16g,a,f,d,16p,16d,f,a,g,f,g,a#5,p.,16d,f,a,g,16f,16f,16g,a,f

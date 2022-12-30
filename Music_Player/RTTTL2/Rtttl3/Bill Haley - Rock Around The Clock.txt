@@ -1,0 +1,1 @@
+RockArou:d=16,o=5,b=160:32p,c,8p,p,e,8p,p,g,4p,8p,c,p,32p,e,8p,p,g,2p,c,8p,p,e,8p,p,g,8p,p,8a,32p,8g,32a#,4p,8g,32p,e,8p,p,8c,8d,32p,8c,8g,8p,f,8p,p,d#,8p,p,c,8p,p,g,8p,p,8f,32p,d#

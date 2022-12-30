@@ -1,0 +1,1 @@
+JustCant:d=4,o=5,b=125:8c,8p,8c,16p,16c,16p,16c,8c,8d,8e,8c,8p,8c,16p,16c,16p,16c,8c,8d,8e,8c,8p,8c,16p,16c,16p,16c,8c,8d,8e,8f,8p,8e,8p,8d,8p,8e,8p

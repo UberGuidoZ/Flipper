@@ -1,0 +1,1 @@
+Dilemma:d=16,o=5,b=112:g#,a#,8c6,g#,f,p,8c6,4a#.,p,g,g#,8a#,g,d#,p,8a#,4g#.,p,g#,a#,8c6,g#,f,p,8c6,a#,p,8g,d#,p,g,g,g#,8a#,g,d#,p,8a#,4g#.,p,g#,a#,8c6,g#,f,p,8c6,4a#.,p,g,g#,8a#,g,d#,p,8a#,4g#.,p,g#,a#,8c6,g#,f,p,8c6,a#,p,8g,d#,p,g,g,g#,8a#,g,d#,p,8a#,4g#.

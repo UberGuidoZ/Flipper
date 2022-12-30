@@ -1,0 +1,1 @@
+MonkeyWr:d=32,o=6,b=45:g,g,f,f,e,e,d,d,f,f,e,e,d,d,c,c,d,d,c,c,a5,a5,c,c,d,d,c,c,d,d,e,d,g,g,f,f,e,e,d,d,f,f,e,e,d,d,c,c,d,d,c,c,a5,a5,c,c,d,d,c,c,d,d,e,d

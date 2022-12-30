@@ -1,0 +1,1 @@
+NobodyCa:d=4,o=5,b=180:c,8d,8d,d#,8d,8d,d,8d,8d,2c,8c,8c,8d,8d,d#,8d,8d,d,8d,8d,8d,c.,8c,8c,8d,8d,8d#,8d#,8d,8d,d,8d,8d,8d,c.,8g,8g,8g,8g,8p,g.,c6,c6,c6,p,c,8d,8d,d#,8d,8d,d,8d,8d,2c,8c,8c,8d,8d,d#,8d,8d,d,8d,8d,8d,c.,8c,8c,8d,8d,8d#,8d#,8d,8d,d,8d,8d,8d,c.,8g,8g,8g,8g,8p,g.,c6,c6,c6

@@ -1,0 +1,1 @@
+CarminaB:d=4,o=6,b=180:f,f,e,32p,2e.,p,f,f,e,32p,2e.,p,f,f,e,2f,2g,f,2e.,2p,a,a,g,32p,2g.,p,a,a,g,32p,2g.,p,a,a,g,a,a#,a,g,f,g,f,e,2d.

@@ -1,0 +1,1 @@
+Bouncing:d=8,o=6,b=125:c#,c#,p,e,e,p,g#5,g#5,p,d#,c,g#5,c#,16p,c#,16e,g#,a5,16p,a5,16c#,d#,g#5,p,g#5,16c,d#,d#,c,g#5,c#,16p,c#,16e,g#,a5,16p,a5,16c#,d#,g#5,16p,g#5,16c,d#,d#,c,g#5

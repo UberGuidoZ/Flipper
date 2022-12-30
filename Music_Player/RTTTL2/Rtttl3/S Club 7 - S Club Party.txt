@@ -1,0 +1,1 @@
+SClubPar:d=8,o=5,b=112:16e,16d,e,e,e,4d,16e,16d,16e,16f#,4e,e,e,4d,16b4,16b4,b4,f#,f#,e,e,4d,16b4,16b4,b4,f#,f#,e,e,4d,4p,f#,16d,e,d.,4p,f#,16d,e,d.,4p,f#,16d,e,d.,16e,16d,16e,16d,e.,16d,e,f#,a,b

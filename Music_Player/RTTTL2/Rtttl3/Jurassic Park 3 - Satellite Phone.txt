@@ -1,0 +1,1 @@
+Satellit:d=8,o=6,b=112:g,e,16f,16e,d,c,g,c7,c

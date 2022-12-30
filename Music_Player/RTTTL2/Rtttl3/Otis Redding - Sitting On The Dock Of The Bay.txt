@@ -1,0 +1,1 @@
+SittingO:d=4,o=5,b=250:8g,8p,g,g,g,2a,8g,8p,2b,8b4,8p,8d#,8p,8f#,8p,8b,8p,8b4,8p,a#,b,8c6,8p,c6,c6,c6,c6,b,a#,2a,8a4,8p,8c#,8p,8e,8p,8a,8p,8e,8p,8c#,8p,8a4,8p,8g,8p,2g,8g,8p,2a,g,2b,8b4,8p,8d#,8p,8f#,8p,8b,8p,8b4,8p,a#,b,c6,c6,c6,c6,2d6,b,2a,8a4,8p,8c#,8p,8e,8p,8a,8p,8e,8p,8c#,8p,8a4,16a6,16a#6,b6,8g,16

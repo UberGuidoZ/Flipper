@@ -1,0 +1,1 @@
+Mix:d=4,o=6,b=140:8g_,8g_,8g_,8g_,8a,8g_,8f_,g_,p,g_,8g_,8g_,8g_,g_,8f_,8e,8f_,8f_,8e,16d_,16c_,b5,8p,a,8a,8g_,8e,e,8p,a,8a,8a,8g_,8g_,f_,8p,8g_,8g_,8g_,8g_,f_,8e,e,p,8c,2d,d,d,e,2d,8g5,a.5,g,g,2f_,g,1e,e,2d,e,d,2g5,a5,1b5,g,g,2f_,a,1b,e,f_,g,e,2a.,1d,d,d,8d,2d,d,g,f_,g,d

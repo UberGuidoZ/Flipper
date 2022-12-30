@@ -1,0 +1,1 @@
+FootToTh:d=16,o=7,b=125:4g6,4g#6,4g6,4g#6,c,c,p,c,p,c,p,c,8d,8d#,8d,8d#,4g6,4g#6,4g6,4g#6,c,c,p,c,p,c,p,c

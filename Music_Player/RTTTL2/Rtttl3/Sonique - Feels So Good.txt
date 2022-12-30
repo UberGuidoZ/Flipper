@@ -1,0 +1,1 @@
+FeelsSoG:d=16,o=5,b=125:d,a#,p,d,g,p,d,a,p,d,a#,p,a#,a,a#,p,d,a#,p,d,g,p,d,a,p,d,a#,p,a#,a,a#,p,c,a,p,c,f,p,c,g,p,c,8a,4p,c,a,p,c,f,p,c,g,p,c,8a,4p,d,a#,p,d,g,p,d,a,p,d,a#,p,a#,a,a#,p,d,a#,p,d,g,p,d,a,p,d,a#,p,a#,a,a#,p,c,a,p,c,f,p,c,g,p,c,8a

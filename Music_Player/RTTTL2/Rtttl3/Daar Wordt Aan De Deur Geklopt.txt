@@ -1,0 +1,1 @@
+DaarWord:d=4,o=6,b=160:c.,8d,8c,8a_5,a5,f5,f5,g5,c5,c5,a5,f5,f5,c.,8d,8c,8a_5,a5,f5,f5,g5,c5,c5,2f5,p,g5,g5,g5,a5,f5,f5,g5,g5,g5,a5,f5,f5,c.,8d,8c,8a_5,a5,f5,f5,g5,c5,c5,2f5

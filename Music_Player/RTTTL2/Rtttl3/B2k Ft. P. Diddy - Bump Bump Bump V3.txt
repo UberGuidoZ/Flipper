@@ -1,0 +1,1 @@
+BumpBump:d=4,o=5,b=180:8g#,8p,8g#,8p,a#,b,g#,d#,c#,8d#,8p,8g#,8p,8g#,8p,a#,b,8g#,8d#,d#,e,d#,8c#,8p,p,8c#6,8d#,8e,8p,e6,d#,c#,8b,c#.6,p,8c#6,8d#,8e,8p,e6,d#,c#,b,8g#,8p,8g#,8p,a#,b,g#

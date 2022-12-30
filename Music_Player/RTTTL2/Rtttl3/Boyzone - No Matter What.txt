@@ -1,0 +1,1 @@
+NoMatter:d=16,o=6,b=50:f,8f,f,4f,f,8g,f,4d,d,8d#,8d,c,8a#5,4g.5,c,d,d#,8d,8c,8g5,4a.5,a5,a#5,c,8f,a5,2a#5

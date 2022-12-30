@@ -1,0 +1,1 @@
+LandOfTh:d=16,o=5,b=180:8e,8e,4c6,4b,a.,b.,4a.,8p,8a,8a,4b,4c6,8e,8e,4c6,4b,a.,b.,4a,8p,8a,4a,4c6,4c6,8p,8e,8e,4c6,4b,a.,b.,8a.,8p,8a,8a,4b,4c6,4g,8g,8g,4e6,4d6,4c6,8b,4c6

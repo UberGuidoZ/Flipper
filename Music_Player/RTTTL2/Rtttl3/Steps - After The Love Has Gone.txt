@@ -1,0 +1,1 @@
+AfterThe:d=4,o=6,b=200:c7,c7,c7,2c7,8b,b,8p,d7,e7,f_7,2f_7,8e7,b,8p,8b,8d7,d7,8c7,c7,b,2c7,8p,8c7,8d7,d7,8c7,c7,b,2a

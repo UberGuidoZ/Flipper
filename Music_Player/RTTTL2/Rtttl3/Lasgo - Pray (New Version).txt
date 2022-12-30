@@ -1,0 +1,1 @@
+Pray(New:d=16,o=5,b=140:8c6,8d6,8e6,8e6,8e6,8e6,8a,8e6,8e6,8e6,c,p,8d6,8c6,4c6,c,p,c,p,8e6,8e6,8d6,8d6,8d6,8g,8e6,8f6,8e6,d,p,8d6,8d6,4d6,d,p,d,p,8e6,4e.6,c,p,c,p,c,p,4a6,4g.6,e,p,e,p,e,p,4d6,4d.6,g,p,g,p,g,p,g,p,g,p,g,p,g,p,g,p,g,p,g,p,g,p

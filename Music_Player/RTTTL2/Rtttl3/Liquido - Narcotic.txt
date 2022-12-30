@@ -1,0 +1,1 @@
+Narcotic:d=4,o=5,b=100:8d,8e,8d,8e,8d,8e,16d,8f,16p,8e,8f,8e,8f,8e,8f,16g,8a,16p,8g,8a,8g,8a,8g,8a,16g,8e,16p,8d,8e,8d,16e,8p,16p,16f,8p,8e,16p,8d,8e,8d,8e,8d,8e,16d,8f,16p

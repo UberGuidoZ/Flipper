@@ -1,0 +1,1 @@
+Tarantul:d=16,o=5,b=140:4f,f7,8p,f7,8p,4g,f7,8p,f7,8p,f7,8p,f7,p,f7,p,f7,8p,f7,8p,f,8p,f7,8p,f,8p,f7,8p,f7,8p,f7,p,f7,p,4f,f7,8p,f7,8p,4g,f7,8p,f7,8p,4c,f7,8p,f7,8p,f7,8p,f7,8p,f7,p,f7,p,f7,8p,f7,8p,f7,8p,f7,p,f7,p,4f,f7,8p,f7,8p,4g,f7,8p,f7,8p,f7,8p,f7,8p,f7,8p,f7,8p,f7,8p,f7,p,f7,p,f7,8p,f7,8p,f7,8p

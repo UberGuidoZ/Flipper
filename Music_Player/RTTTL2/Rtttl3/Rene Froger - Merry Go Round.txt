@@ -1,0 +1,1 @@
+MerryGoR:d=4,o=6,b=180:c,b5,b5,b5,b5,b5,a5,g5,1a5,p,g5,a5,c,b5,p,a5,p,g5,p,f_5,p,1e5,8e5,8e5,g5,a5,b5,1b.5,2p,8a5,8b5,2c,2b5,a5,g5,f_5,a5,1g.5,2p,1p,g5,a5,b5,b5,1b.5,p,8a5,8b5,c,c,b5,a5,a5,g5,f_5,8a5,2g.5

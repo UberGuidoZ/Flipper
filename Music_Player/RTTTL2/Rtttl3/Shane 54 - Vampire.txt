@@ -1,0 +1,1 @@
+Vampire:d=8,o=7,b=140:c#,c#,c#,c#,g#,g#,g#,g#,a#,a#,a#,a#,c#,c#,c#,c#6,b6,b6,b6,f#,f#,f#,f#,g#,g#,g#,g#,b6,b6,b6,b6,a6,a6,a6,a6,e,e,e,e,f#,f#,f#,f#,c#,c#,c#,c#

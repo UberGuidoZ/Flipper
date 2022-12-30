@@ -1,0 +1,1 @@
+Stomp:d=8,o=5,b=130:a,c6,4a#,a,g,f,2g,16g,g,a.,d,2f.,d,f,g,4a,g,f,4g,4a.,a,c6,4a#,a,g,f,2g,16f,f,g.,d,2f.,d,f,g,4a,g,f,4g,4d.

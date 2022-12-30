@@ -1,0 +1,1 @@
+Ain'tMyB:d=32,o=5,b=31:32p,b4,16b4,8d,e,e,16e,16e,e,d,e,e,16g,16e,e,d,e,16e,16e,e,16e,8d,p,d,d#,e,e,16e,16e,e,d,e,e,16g,16e,e,e,e,e,16e,16e,e,16e,e,8d

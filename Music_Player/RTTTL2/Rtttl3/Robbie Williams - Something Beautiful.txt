@@ -1,0 +1,1 @@
+Somethin:d=4,o=5,b=180:c,c,2d6,2c6,a,a,a,2g,1a,p,c,c,2d6,c6,p,a,g,f,1f,p,c,c,a,p,2p,g,p,2p,a#,a#,c6,8a,8g,2f,d,f,a,g,2p,f,g,a,2a,1g,p,c,c,2d6,2c6,a,a,a,2g,1a,p,c,c,2d6,c6,p,a,g,f,1f,p,c,c,a,p,2p,g,p,2p,a#,a#,c6,8a,8g,2f,d,f,a,g,2p,f,g,a,2a,1g

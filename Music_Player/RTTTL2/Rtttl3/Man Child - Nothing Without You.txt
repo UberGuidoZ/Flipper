@@ -1,0 +1,1 @@
+NothingW:d=8,o=5,b=125:e,4b,4b,b,b,b,4b.,4a,4g,4e,d,e,16g,a,1e,e,4b,4b,b,b,b,4b.,4a,4g,4e,d,e,16g,a,2e,p,4b,e,2e,e,4g,4g,g,g,g,4b.,4a,4g,4e,d,e,16g,a,2e,e,4b,4b,b,b,b,4b,2e

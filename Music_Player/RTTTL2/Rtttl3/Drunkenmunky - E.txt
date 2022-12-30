@@ -1,0 +1,1 @@
+E:d=16,o=5,b=250:4a,4f6,4e6,4d6,4a,d,8p,p,4p,d,p,8p,4a,4g,4a,4c6,4a,d,p,8p,4p,d,p,8p,4a,4g,4a,4g,4f,d,p,8p,4p,d,p,8p,4f,4e,4c,4d,4p,d,p,8p,4p,8d,8p

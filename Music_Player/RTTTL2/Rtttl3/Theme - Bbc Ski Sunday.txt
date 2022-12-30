@@ -1,0 +1,1 @@
+BbcSkiSu:d=16,o=6,b=125:8f#,8e,8d,8c#,8d,8e,8f#,d,c#,8b5,8a5,8g5,8f#5,8g5,8a5,8b5,g,f#,8e,8d,8c#,8b5,8c#,8d,8e,a,g,8f#,8g#,8a,8e,8d,8c#,d,e,f#,g#,8a,a,a,8a,a,a,8a,a,a,a,g#,f#,e,8a,a,a,8a,a,a,8a,a,a,a,g#,f#,e,a,g#,f#,e,f#,e,f#,g,a,g#,f#,e,f#,e,f#,g,4a

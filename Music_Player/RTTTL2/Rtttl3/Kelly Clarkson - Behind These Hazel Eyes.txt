@@ -1,0 +1,1 @@
+BehindTh:d=4,o=5,b=180:e,8f#,2g,8p,e,8f#,2g.,8p,d,b,p,b,8c6,8b,8p,a.,e,8f#,g,8a,p,8e,8f#,8p,2g.,8p,d,b,b,b,8a,f#.,p,e,8f#,2g,8p,e,8f#,1g,8p,b,b,b,8c6,8b,8p,a.,e,8f#,1g.,2p,8p,b,b,b,8a,1f#

@@ -1,0 +1,1 @@
+FranticV:d=4,o=5,b=160:16c,16c,16c,16c,16c,16c,16c,16c,8c,8d#,p,16c,16c,16c,16c,16c,16c,16c,16c,8c,8d#,p,16c,16c,16c,16c,16c,16c,16c,16c,8c,8d#,p,16c,16c,16c,16c,16c,16c,16c,16c,8c,8d#,p,8f#,8f,8c,f,f,8f,8f#,8f,8c,f,f,8f,8f#,8f,8c,f,f,8f,8f#,8c,2p,p,8f#,8f,8c,f,f,8f,8f#,8f,8c,f,f,8f,8f#,8f,8c,f,f,8f,8f#,8c

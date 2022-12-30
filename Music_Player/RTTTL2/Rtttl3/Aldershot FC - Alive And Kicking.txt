@@ -1,0 +1,1 @@
+AliveAnd:d=4,o=6,b=200:d,g5,g5,a5,a5,b5,8b5,d.,d,g5,g5,a5,d.,e.,d,e,2d.,1p,f,d,f,f,2d.,2g.5,1p,d.,e.,d,e,2d.,1p,a#5,g5,g.5,2a5,2g.5

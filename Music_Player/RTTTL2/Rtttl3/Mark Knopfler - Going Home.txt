@@ -1,0 +1,1 @@
+GoingHom:d=8,o=5,b=125:a,4a,a,c6,2c.,4a,4c6,d.,16f6,16e6,d6,c6,2a.,16a,16g,4a,4c6,g,4g,16g,16f,2g.,c.,f.,g,a.,f.,c,4d.,16d,16c,2d.,e,4f,4g,a,4a,a,c6,2c.,16f,16g,a,c6,f6,e6,d.,16f6,16e6,d6,c6,2a.,g,4a,4c6,g,4g,16g,16f,2g.,c.,f.,g,a.,f.,c,d.,f.,a,4g.,f,2f.

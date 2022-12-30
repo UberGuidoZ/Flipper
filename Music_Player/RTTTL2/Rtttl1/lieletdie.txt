@@ -1,0 +1,1 @@
+livelet:d=8,o=6,b=180:g,a,4a#,4p,d,e,4f,4p,c,4a#5,p,g,a,4a#,p,d,e,f,p,c,p,4a#5

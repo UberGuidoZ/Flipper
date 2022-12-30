@@ -1,0 +1,1 @@
+ATeam1:d=4,o=6,b=112:8f#,8f#,8e,f#,e,f#,e,8e,b,a,8f#,8f#,8e,f#,e,d,d,8e,2e,8f#,8f#,8e,f#,e,f#,e,8e,b,a,8f#,8f#,8e,f#,e,d,d,8e,2e

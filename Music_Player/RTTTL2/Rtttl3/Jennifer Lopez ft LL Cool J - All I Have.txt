@@ -1,0 +1,1 @@
+AllIHave:d=4,o=5,b=160:f.,p,8c,8c,8c,f,8f,8f,8p,8f,g,f.,p,8c,8c,8c,f,8f,8f,8p,8f,c6,g.,p,8f,8f,8f,a,8a#,8c6,p,8f,8f,d6,c6,c6,a,2g,c6,g,2f

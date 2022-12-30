@@ -1,0 +1,1 @@
+OneFootI:d=8,o=6,b=125:c,d,d#,4e,4e,e,d#,d,4c,2p,c,d,d#,4e,4e,e,d#,d,4c,p,g5,a5,a#5,4b5,4b5,b5,a#5,a5,4g5,2p,c,d,d#,4e,4e,e,d#,d,4c.,p,c,c,c,f,4f.,f#,4f#.,g,f#,g,4e.,p,f,f,4f,f#,f#,4f#,g,f#,g,4e.,p,e,f,f,f,f,f#,f#,f#,f#,g,f#,g,4a,2p,4e,e,d#,e,2c

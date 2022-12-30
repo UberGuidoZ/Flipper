@@ -1,0 +1,1 @@
+Rect-Ins:d=4,o=6,b=160:b,a_,g_,f_,a_,c_,a_,d_,b,b,b,b,b,b,b,8d_,8d_,b,a_,g_,g_,a_,a_,a_,f_,b,b,b,8b,8b,b,b,b,8d_,8d_,8b,8g_,8a_,8g_,8g_,8g_,8f_,8g_,8a_,8a_,c_,8a_,8a_,d_,b,8b,8b,b,8b,8b,b,8b,8b,b,8d_,8d_,8b,8g_,8a_,8g_,8g_,8g_,8g_,8g_,8a_,8a_,8a_,8f_,8a_,8a_,8g_,8f_,2g_

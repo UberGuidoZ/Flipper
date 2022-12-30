@@ -1,0 +1,1 @@
+RockWitY:d=8,o=5,b=180:4f,4a,c6,c6,2p.,4f,4a,c6,c6,4p,f,f,a,a,4f,4a,c6,c6,p,4a,g,p,g,g,g,4a,4f,4f,4d,p,4a,g,p,g,g,g,4a,4f,4f,4d,4p,4f,4a,c6,c6,2p.,4f,4a,c6,c6,4p,f,f,a,a,4f,4a,c6,c6,p,4a,g,p,g,g,g,4a,4f,4f,4d,p,4a,g,p,g,g,g,4a,4f,4f,4d

@@ -1,0 +1,1 @@
+Nigeria:d=4,o=6,b=112:c5,f5,c5,f5,a5,2c.,a5,a_5,a5,g5,g5,2f5,p,c5,f5,c5,f5,a5,2c.,a5,a_5,a5,g5,g5,2f5,p,g5,g.5,8a5,a_5,g5,a.5,8a_5,c,c,d,c,a_5,a5,2g5,p,f5,c.,8c,c,a5,2d,p,g5,g.5,8a5,8a_.5,16a5,g5,2d,c,a5,a_5,a5,g.5,8g5,2f.5

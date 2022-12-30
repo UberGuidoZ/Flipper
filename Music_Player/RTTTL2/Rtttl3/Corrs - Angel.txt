@@ -1,0 +1,1 @@
+Angel:d=8,o=6,b=125:16f5,p.,2f.,4e,16c5,16p,4f.,16f5,16p,c,a,a,g,4g,f,f,e,16c5,16p,g,p,f,16f5,16p,e,f,e,16f5,p.,2f,p,g,e.,16d,c,f,4p,16f5,p.,a,a,g,g,16a#5,16p,f,f,e,16c5,16p,g,p,f,a.,16g,f,f,f5

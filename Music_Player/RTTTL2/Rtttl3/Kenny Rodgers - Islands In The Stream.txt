@@ -1,0 +1,1 @@
+IslandsI:d=8,o=6,b=100:a#,g#,g#,f#,4f#.,p,a#,g#,g#,f#,4f#.,p,b,a#,a#,g#,4g#.,p,b,a#,a#,g#,4g#.,p,a#,g#,g#,f#,4f#.,p,a#,g#,g#,a#,4f#.,f#,f#,g#,4a#,g#,f#,g#,4g#,a#,2f#

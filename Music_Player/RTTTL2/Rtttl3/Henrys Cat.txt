@@ -1,0 +1,1 @@
+HenrysCa:d=8,o=5,b=355:g,p,d,p,d6,p,b4,p,16b4,16b,p,16c,16g,p,d,p,g,p,d,p,d6,p,b,p,16b4,16g,p,16c,16a,p,c,p,b,p,c,p,g,p,d,p,d6,p,b4,p,16b4,16b,p,16c,16g,p,d,p,g,p,d,p,d6,p,b,p,16b4,16g,p,16c,16a,p,c,p,b,p,c,p,16b4,b,16p,16b4,b,16p,16b4,b,16p,16b4,b,16p,16b4,b,16p,16b4,b,16p,16b4,b,16p,16b4,b,16p,16b4,b

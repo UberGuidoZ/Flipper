@@ -1,0 +1,1 @@
+LetTheSu:d=16,o=5,b=125:2d#6,c,p,8d#6,8d#6,4d#6,4d.6,g,8p,g,g,p,g,p,2d6,g,p,8d6,8d6,4d6,4c.6,c,8p,c,c,p,c,p,2d#6,c,p,8d#6,8d#6,4d#6,4d.6,g,8p,g,g,p,g,p,2d6,g,p,8d6,8d6,4d6,4c.6,c,8p,c,c,p,c,p,2d#6,c,p,8d#6,8d#6,4d#6,4d.6,g,8p,g,g,p,g,p,2d6,g,p,8d6,8d6,4d6,4c.6,c,8p,c,c,p,c,p,8c

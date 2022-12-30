@@ -1,0 +1,1 @@
+NewYears:d=4,o=6,b=125:8a5,8a5,8c,a5,8a5,8a5,8a5,8c,8c,8e,c,8c,8c,8e,8e,8e,8g,e,8e,8e,8a5,8e,8e,8g,8e,8e,8e,8e,8e,8a5,8a5,8c,8a5,8a5,8a5,8a5,8c,8c,8e,8c,8c,8c,8e,8e,8e,8g,8e,8e,8e,2a5

@@ -1,0 +1,1 @@
+NothingE:d=4,o=5,b=125:e,g6,b6,e7,b6,g6,e,g6,b6,e7,b6,g6,2e,b6,2b6,2b6,32p,b6,c6,b6,a6,b6,a6,e6,2e6,2e6,16p,c6,e6,e6,f#6,e6,e6,16p,e6,f#6,2g6,g6,g6,2a6,a6,a6,2e6,2g6,2b6,2e7,2b6,2g6,2e6

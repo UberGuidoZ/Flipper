@@ -1,0 +1,1 @@
+Twilight:d=16,o=5,b=125:8a.,p,c6,p,2b,8p,a,8p,p,c6,p,2b,8p,a,8p,p,c6,p,2b,8p,a,8p,p,a,8p,p,2a,a,8p,p,c6,p,4b,8p,a,8p,p,8c.6,p,b,p,4b,8p,a,8p,p,4b,c6,p,4d.6,8c6,8p,4b,a,p,4a.,4p

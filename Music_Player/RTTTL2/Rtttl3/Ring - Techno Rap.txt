@@ -1,0 +1,1 @@
+TechnoRa:d=16,o=5,b=140:a,a,c6,a,d6,d6,a,c6,c6,a,e6,e6,a,c6,c6,a,c6,a,c6,c6,a,c6,c6,a,a,a,c6,a,e6,a,c6,a,g6,g6,b,g6,b,b,g6,b,b,g6,b,b,g6,d6,g6,b,b,g6,b,g,d6,g6,b,b,g6,b

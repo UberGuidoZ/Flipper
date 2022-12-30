@@ -1,0 +1,1 @@
+Nobody's:d=4,o=5,b=180:e,e,f,1e,8p,8e,c6,c6,d6,2d6,2c6,8p,8c6,c6,c6,d6,1d6,d6,c6,d6,1d6,p,d6,e6,f6,1e6,p,8p,8c6,c6,c6,d6,2d6,2c6,c6,c6,d6,1d6,p,c6,c6,d6,p,1d6,d6,e6,f6,e6,8d6,1c6,8p,c6,b,e,2e,1g,p,g,2a,g,p,1c,2a,g,p,c,p,2d,8e,8d,1e

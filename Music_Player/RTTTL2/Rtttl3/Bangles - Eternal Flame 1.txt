@@ -1,0 +1,1 @@
+EternalF:d=8,o=5,b=100:g,e6,g,f6,g,f6,g,e6,g,e6,g,f6,4a,4g.,c,16d,4e.,e,16g,c6.,c6,c6,4c6,4a.,a,g,c,16d,4e.,c6,c6,4b,e6,2e6,a,b,c6,a,2d6,4g.,g,4f6,4e6,d6,4c6.,4f6,4e6,d6,4c6,2g6

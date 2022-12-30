@@ -1,0 +1,1 @@
+DadsArmy:d=4,o=5,b=180:2a,c,d,2e,e,f,a,g,a,g,a,2g,p,a,g,f#,g,2a,2g,2c,p,2g,f,e,2g,f,d,f,e,e,d#,2e.,p,2a,g,f#,2g,a,a#,d6,c6,c6,b,2c6,p,g#,2a,c,d,2e,e,f,a,g,a,g,a,2g,p,e6,d6,c6,b,2a#,2e,1f

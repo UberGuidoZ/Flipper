@@ -1,0 +1,1 @@
+InTheSha:d=8,o=6,b=140:c#7,a#,c#7,2a#,p,c#7,a#,c#7,2a#,p,d#,f,f,2f#,p,a#5,c#,4d#,16c#,4c.,16p,c#7,a#,c#7,2a#,p,c#7,a#,c#7,4a#,g#,f,p,d#,f,f,2f#,p,4g#,f#,f#,4f,d#,4c#

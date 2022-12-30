@@ -1,0 +1,1 @@
+TheGameI:d=4,o=6,b=225:b,b,b,b,b,8c,p,g,b,b,b,b,b,8g5,p,a,8c,8p,b,b,b,2b,g,a,8g5,8p,e,g,8g5,8p,2e,8g5,8p,g,b,b,b,b,b,8c,p,g,b,b,b,b,b,8g5,p,a,8c,8p,b,b,b,2b,g,a,8g5,8p,e,g,8g5,8p,2e,8g5,8p,g

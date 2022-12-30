@@ -1,0 +1,1 @@
+BlackAdd:d=16,o=5,b=112:d6,p,4g.,d,p,g,p,d,p,g,p,b,p,2c#.6,p,a,p,4c.6,a,p,8c6,b,p,a,p,g,p,g,32p.,32g.,32a.,32g.,32a.,32g.,32a.,32g.,32a.,32g.,32a.,32g.,32a.,32g.,32a.,8f#,8p,d,p,4g.,d,p,g,p,d,p,g,p,b,p,4c#.6,a,p,c6,p,b,p,a,p,g,p,g,p,d,g,a,p,g,a,8d.6,4d6

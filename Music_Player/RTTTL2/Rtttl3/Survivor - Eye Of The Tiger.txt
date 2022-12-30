@@ -1,0 +1,1 @@
+EyeOfThe:d=4,o=5,b=112:8d,8e,8f,8p,8f,16f,8f,16p,8e,8d,8c,8c,8d,8e,8d,8p,8d,8e,8f,16p,32p,8e,8f,8g,16p,32p,8f,8g,2a,p,8d,16c,8d,16p,8c

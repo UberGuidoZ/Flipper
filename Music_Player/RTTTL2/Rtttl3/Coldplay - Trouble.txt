@@ -1,0 +1,1 @@
+Trouble:d=8,o=4,b=125:f#,g,f#,d,4b3.,d,f#,g,f#,d,4b3.,d,f#,g,f#,d,1b3.,p,f#,a,g,f#,d,4b3.,d,f#,g,f#,d,4b3.,d,f#,g,f#,d,1b6

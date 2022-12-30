@@ -1,0 +1,1 @@
+DubInLif:d=16,o=5,b=63:32p,g#,f#,8f#,4g#.,d#,e,e,e,e,e,e,e,8e,4d#.,f#,f#,8f#,4g#.,f#,g#,f#,g#,f#,b.,g#.,8f#.

@@ -1,0 +1,1 @@
+BowWow:d=16,o=5,b=140:8g,a#,d6,g,8p,8g,a#,d6,g,8p,8c,d#,g,c7,8c,d#,g,c7,p,c,p,8g,a#,d6,g,8p,8g,a#,d6,g,8p,8c,d#,g,c7,8p,8c,d#,g,c7,p,c,p,g

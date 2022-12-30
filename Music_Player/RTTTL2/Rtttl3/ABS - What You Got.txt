@@ -1,0 +1,1 @@
+WhatYouG:d=16,o=5,b=45:c#,c#,g#,g#,8f#,e,8c#,p,4p,c#,c#,c#,c#,g#,g#,8f#,e,8c#,p,8p,4p,d#,8d#,8d#.,8d#,8d#,8d#,8p,f#,f#,d#,8d#,8d#.,8d#,8d#.,4p,e,c#,c#,g#,g#,8f#,e,8c#,p,4p,c#,c#,c#,c#,g#,g#,8f#,e,8c#,p,8p,4p,d#,8d#,8d#.,8d#,8d#,8d#,8p,f#,f#,d#,8d#,8d#.,8d#,8d#.,4p,e

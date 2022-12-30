@@ -1,0 +1,1 @@
+PinguinS:d=4,o=6,b=225:8f5,8p,8f5,c,8f5,8f,8p,8f,8c,8p,8f5,p,8f5,c,8f5,8f,8p,8f,c,8p,8f5,8p,8f5,c,8f5,8f,8p,8f,c,8f5,p,8f5,c,8f5,8f,8p,8f,c,8p,8c5,8p,8c5,g5,8c5,8c,8p,8c,g5,8c5,p,8c5,g5,8c5,8c,8p,8c,g5,8p,8c5,8p,8c5,g5,8c5,8c,8p,8c,g.5,8f5,8p,8f5,c,8f5,8f,8p,8f,c,8p,f5

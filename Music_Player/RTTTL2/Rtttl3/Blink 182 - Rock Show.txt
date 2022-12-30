@@ -1,0 +1,1 @@
+RockShow:d=4,o=5,b=200:8c#6,c#6,d6,e6,8c#6,8a,c#6,8b,8a,b,a,c#6,d6,e6,8c#6,8a,8c#6,8c#6,8b,8a,b,a,8b,8b,8b,8b,8b,8b,8b,8c#6,d6,e6,d6,8p,8a,b,b,b,8b,8c#6,d6,8b,8a,b,a

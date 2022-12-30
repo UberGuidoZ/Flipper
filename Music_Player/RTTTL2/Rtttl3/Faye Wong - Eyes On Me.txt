@@ -1,0 +1,1 @@
+EyesOnMe:d=4,o=5,b=100:d,e,b,2e,8d,8e,2c,8a,8c,2d,8g,c,d,e,8g,2b,8b,8c7,a,8p,8g,8a,2g,8g,c,8c7,c7,8b,a,2g,8e,8g,a,a,g,8f,8d,2e,e,8d,8e,f,8e,d,c,8p,8a,8b,2c,8p,8d,8e,g,2d

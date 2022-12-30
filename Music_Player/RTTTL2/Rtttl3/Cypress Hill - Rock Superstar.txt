@@ -1,0 +1,1 @@
+RockSupe:d=8,o=6,b=100:32p,d,f,a,d,a#,d,a,f,d,f,a,d,a#,d,a,f,d,f,a,d,c7,d,a#,a,d,f,a,d,c7,d,a#,a

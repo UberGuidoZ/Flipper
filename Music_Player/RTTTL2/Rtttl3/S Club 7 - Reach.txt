@@ -1,0 +1,1 @@
+Reach:d=4,o=5,b=180:32p,a,b,1b,16b,c6,b,a,b,1b,c6,b,a,b,1b,c6,b,2a,2g#,2a,2b,b,c6,1c6,d6,c6,b,c6,2c.6,8d.,16g,d6,c6,b,c6,1c6,c6,b,2b,a,p,2g,2a,p,c6,c6,8p,16g,c6,8c.6,16c6,d6,c6,p,b,b,8p,16g,b,8b.,16b,a,g,p,c6,c6,8p,16c6,8c.6,16c6,8c.6,16c6,b,c6,a,p,b,p,c6,p,d6,p,2e6,2f#6,2g6,2a6,2b6

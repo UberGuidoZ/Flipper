@@ -1,0 +1,1 @@
+WithoutM:d=16,o=7,b=63:g,32d,32d,d,d,32c,d,32d#,d,d,d,32d#,d,d,d,32d#,8d,8p,d,a#,a,g,4d,d,c,d,f,4d,d,c,d,c,4a#6,a#6,a6,f6,4g6,d,a#,a,g,4d,d,c,d,f,4d,d,c,d,c,4a#6,a#6,a6,f6,g6

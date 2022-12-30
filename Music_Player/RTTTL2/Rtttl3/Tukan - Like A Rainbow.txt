@@ -1,0 +1,1 @@
+LikeARai:d=8,o=5,b=160:c6,16p,a.,b.,c6,16p,a.,b.,c6,16p,a.,b.,c6,16p,d.6,e.6,b,16p,g.,a.,b,16p,g.,a.,b,16p,g.,a.,b,16p,g.,a.,d6,16p,b.,c.6,d6,16p,b.,c.6,d6,16p,b.,c.6,d6,16p,e.6,f.6,a,16p,f.,g.,a,16p,f.,g.,a,16p,f.,g.,a,b,c6,d6

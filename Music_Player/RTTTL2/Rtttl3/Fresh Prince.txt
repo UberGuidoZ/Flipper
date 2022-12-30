@@ -1,0 +1,1 @@
+FreshPri:d=16,o=6,b=355:8a4,8p,8a4,4p,4a4,d,d#,8e,4p,4e,4p,c,c#,4d,8d#,8d,8p,8c,8d5,8p,8c5,8p,4b4,4p,8a4,8p,8a4,4p,4a5,d,d#,8e,4p,4e,4p,c,c#,4d,8d#,8d,8p,8c,8a4,8p,8e5,8p,8a4,4p,8a4,8p,8a4,4p,4a4,d,d#,8e,4p,4e,4p,c,c#,4d,8d#,8d,8p,8c,8d5,8p,8c5,8p,4b4,4p,8a4,8p,8a4,4p,4a5,d,d#,8e,4p,4e,4p,c,c#,4d,8d#,8d

@@ -1,0 +1,1 @@
+Fool:d=16,o=5,b=125:4g#,4g,1a#,2p,4p,4c,d#,8p,p,d#,8p,p,d#,p,4f.,8d#,4p,8p,4g#,4g,1a#,2p,8b,8p,8b,8p,4b,d#,8p,p,8d#,4f.,8d#.,4p,p,4g#,4g,8a#.,4p,p,2g,4f,4p,4f,8g.,p,2d#,4c.,8p,2a#,g,8p,p,1g

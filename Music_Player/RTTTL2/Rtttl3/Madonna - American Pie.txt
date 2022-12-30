@@ -1,0 +1,1 @@
+American:d=16,o=5,b=125:1g6,2f6,4f6,4f6,4e6,d6,8p,p,4c6,4d6,2p,4g6,g6,8p,p,g6,8p,p,g6,8p,p,g6,8p,p,g6,8p,p,f6,8p,p,f6,8p,p,f6,8p,p,f6,8p,p,4e6,d6,8p,p,4c6,4g,2p,4p,g6,8p,p,4g6,8a6,4p,8p,4f6,2p,f6,8p,p,f6,8p,p,4e6,d6,8p,p,4c6,4d6

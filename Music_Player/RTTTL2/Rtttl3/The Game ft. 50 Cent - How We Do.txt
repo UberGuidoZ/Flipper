@@ -1,0 +1,1 @@
+HowWeDo:d=4,o=5,b=180:16c,8p.,c6,8p,8c6,p,g,8p,8g,p,g#,16c,16p,8g#,p,f,8p,8f,16c,8p.,g,8p,8c,p,16c,8p.,c6,8p,8c6,p,g,8p,8g,p,g#,16c,16p,8g#,p,f,8p,8f,16c,8p.,g,8p,8c,p,16c,8p.,c6,8p,8c6,p,g,8p,8g,p,g#,16c,16p,8g#,p,f,8p,8f,16c,8p.,g,8p,8c,p,c

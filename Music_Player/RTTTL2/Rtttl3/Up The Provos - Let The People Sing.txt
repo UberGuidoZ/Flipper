@@ -1,0 +1,1 @@
+LetThePe:d=4,o=5,b=225:f,a#,c6,2d6,2d6,2d6,p,a#,d6,d#6,d6,a#,2f,p,d6,2d#6,d#6,2d#6,d#6,d6,c6,2d6,2p,a#,d6,2d6,a#,d6,2d6,a#,d6,d#6,d6,a#,2f,p,2c6,2c6,2c6,1f

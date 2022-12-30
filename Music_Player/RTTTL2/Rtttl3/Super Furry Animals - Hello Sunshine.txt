@@ -1,0 +1,1 @@
+HelloSun:d=8,o=6,b=160:f#,p,a.,16p,4a.,p,1b,4a,4b,a.,16p,b.,16p,2a.,4p,f#,p,a,p,2a,1b,a.,16p,b.,16p,a.,16p,b.,16p,2a.,16d,16p,e.,16p,f#.,16p,2d

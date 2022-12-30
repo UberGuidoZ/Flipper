@@ -1,0 +1,1 @@
+LandOfHo:d=32,o=5,b=90:8c6,p,8c6,p,16b,p,16c6,p,8d6,p,4a,p,4g,p,8f,p,8f,p,16e,p,16f,p,8g,p,2d,p,8e,p,8e,p,16f#,p,8g,p,16a,p,4d6,p,4g,p,8c6,p,8c6,p,16c6,p,8b,p,16a,p,2g,p

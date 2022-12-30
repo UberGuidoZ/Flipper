@@ -1,0 +1,1 @@
+CloseToM:d=4,o=5,b=180:f#6,8p,8e6,p,d#6,8p,8b,8b,8b,d#6,b,f#6,8p,8e6,p,d#6,8p,8b,8b,8b,d#6,b,b6,8p,8a#6,p,f#6,8g#,8g#,8g#,8g#,b,g#,a#,8p,f#,8p,c#

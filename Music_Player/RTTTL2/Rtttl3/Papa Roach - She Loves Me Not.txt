@@ -1,0 +1,1 @@
+SheLoves:d=16,o=5,b=225:4c,4b,4p,32p,4b.,2c,8p,4c,4b,4p,4b.,32c,4p,4p,32c,p,32c,p,c7,8p,e,8p,4g,32p,4d,32p,4e,8p,32c,p,32c,p,c,8p,e,8p,4g,32p,4d,32p,4e,1p

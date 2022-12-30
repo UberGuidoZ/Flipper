@@ -1,0 +1,1 @@
+TheLionS:d=4,o=6,b=200:f.5,g5,a5,8p,8g5,p,8a5,a_.5,a5,g5,8p,f5,8p,8g5,a.5,g5,f.5,8p,a.5,1g5,2p,c.,a5,g5,8p,a5,8p,8c,a_.5,a5,g5,8p,f5,8p,8g5,a.5,g5,f.5,8p,a.5,1g5,2p,1c.,p,a_5,c.,a_5,8p,a5,8p,8c5,p,8c5,p,8c5,8c5,8p,c.5,8p,8e,p,8d,p,8c,p,f5

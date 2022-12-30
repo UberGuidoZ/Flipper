@@ -1,0 +1,1 @@
+HitEmUpS:d=16,o=6,b=100:8c,8f,4f,c,c,8a#5,a#5,a#5,8d#,8c#,8c,4p,8c,8f,c,c,f,f,8c,8f,4p,c,c,8a#5,a#5,a#5,8d#,8c#,8c,g,g#,8g,8f,c,8f,g#,8g,8f,4f.,c,c,8a#5,a#5,a#5,8d#,8c#,8c,4p,8c,8f,c,c,f,f,8c,8f,4p,c,c,8a#5,a#5,a#5,8d#,8c#,8c,g,g#,8g,8f,c,8f,g#,8g,8f

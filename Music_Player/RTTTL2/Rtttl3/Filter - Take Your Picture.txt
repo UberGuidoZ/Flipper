@@ -1,0 +1,1 @@
+TakeYour:d=4,o=5,b=112:32p,8b,b.,b,e6,e6,2e6,p,8c#6,c#.6,c#6,c#6,a,2a,p,8b,b.,b,e6,e6,e6,8d6,c#6,8p,8c#6,c#.6,c#6,c#6,a,2a

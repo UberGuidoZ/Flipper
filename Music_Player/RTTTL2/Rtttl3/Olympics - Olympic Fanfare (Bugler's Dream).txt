@@ -1,0 +1,1 @@
+OlympicF:d=4,o=5,b=225:32p,1a,2c6,p,8p,8c6,2f,2g,2a,2f,g,p,8g,p,8g,2g,a,g,f,8f,8g,a,f,1g,1a,2c6,p,8p,8c6,2f,2g,2a,f,p,g,p,8g,p,8g,g,p,a,g,8f,8p,8f,8g,8a,8p,8g,8p,2f,p

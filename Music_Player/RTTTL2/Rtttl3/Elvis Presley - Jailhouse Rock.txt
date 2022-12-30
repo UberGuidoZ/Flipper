@@ -1,0 +1,1 @@
+Jailhous:d=8,o=6,b=180:1p,g#,g#,g#,g#,g#,g#,f,d,4f,d,2g#,g#,g#,g#,g#,g#,g#,g#,f,d,4f,f,2d,p,g#,g#,g#,g#,g#,g#,f,d,4f,d,2g#,p,g#,g#,g#,g#,4g#,4g#,4g#,4g#,4g#,4g#,f,a#4,d5,d5,f5,f5,g5,f5,a#4,g#,g#,4g#,f,4g#,4f

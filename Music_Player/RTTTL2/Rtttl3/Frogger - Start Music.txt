@@ -1,0 +1,1 @@
+StartMus:d=8,o=5,b=125:b,g,g,g,b,g,g,g,c6,c6,b,b,2a,c6,c6,b,b,a,a,e6,e6,d6,c6,b,a,4g

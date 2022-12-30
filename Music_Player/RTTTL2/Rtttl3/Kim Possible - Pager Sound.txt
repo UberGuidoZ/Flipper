@@ -1,0 +1,1 @@
+PagerSou:d=16,o=5,b=200:d6,8p,d6,8p,f6,32p,d6

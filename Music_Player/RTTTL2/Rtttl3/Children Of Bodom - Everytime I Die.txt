@@ -1,0 +1,1 @@
+Everytim:d=4,o=6,b=180:b,g,f_,e,f_,d,e,c,b5,a,g,f_,8c,8c,g,8d,8d,a,b7,g7,f_7,e7,f_7,d7,e7,c7,b,a7,g7,f_7,8c7,8c7,g7,8d7,8d7,a7

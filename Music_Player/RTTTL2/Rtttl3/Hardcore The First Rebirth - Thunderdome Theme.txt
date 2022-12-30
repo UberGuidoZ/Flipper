@@ -1,0 +1,1 @@
+Thunderd:d=4,o=6,b=160:8d,8e,8d,8a,8d,8e,8d,8a,8c,8d_,8c,8a,8c,8d_,8c,8a,8c,8e,8c,8g,8c,8e,8c,8g,8b5,8e,8b5,8g,8b5,8e,8b5,8g,8c,8e,8c,8g,8c,8e,8c,8g,8a5,8e,8a5,8a,8a5,8e,8a5,8a,8b5,8e,8b5,8g,8b5,8e,8b5,8g,8c7,8b

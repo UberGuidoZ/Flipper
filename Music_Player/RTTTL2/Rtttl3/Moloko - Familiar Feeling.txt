@@ -1,0 +1,1 @@
+Familiar:d=32,o=5,b=25:g,f#,g,g,g,g,g,f#,g,p,f#,b,f#,g,g,g,f#,f#,g,f#,b,f#,b,f#,g,g,g,g,g,f#,g,f#,g,b,f#,g,g,g,f#,f#,g,f#,b,f#

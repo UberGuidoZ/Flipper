@@ -1,0 +1,1 @@
+Clocks(B:d=8,o=6,b=140:d#7,a#,g,d#7,a#,g,d#7,a#,c#7,a#,f,c#7,a#,f,c#7,a#,c#7,a#,f,c#7,a#,f,c#7,a#,c7,g#,f,c7,g#,f,c7,g#,d#7,a#,g,d#7,a#,g,d#7,a#,c#7,a#,f,c#7,a#,f,c#7,a#,c#7,a#,f,c#7,a#,f,c#7,a#,c7,g#,f,c7,g#,f,c7,g#

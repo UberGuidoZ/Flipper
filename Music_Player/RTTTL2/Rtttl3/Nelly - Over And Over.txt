@@ -1,0 +1,1 @@
+OverAndO:d=4,o=5,b=160:8f,8f,f,c,c6,8a,g.,a,8g,8g,8g,8g,8g,8f,8c,8g,8f,8f,f.,8d,a,g,f,8g,8f,8c,8g,8f,8f,f.,8d,2c,8p,8g,8a,8a,8p,8a,8p,8a,2g.,p,8f,8f,f,c,c6,8a,g.,a,8g,8g,8g,8g,8g,8f,8c,8g,8f,8f,f.,8d,a,g,f,8g,8f,8c,8g,8f,8f,f.,8d,2c,8p,8g,8a,8a,8p,8a,8p,8a,2g

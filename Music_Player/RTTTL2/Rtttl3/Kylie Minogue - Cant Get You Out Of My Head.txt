@@ -1,0 +1,1 @@
+CantGetY:d=4,o=6,b=140:f,f,f.,f,f,8f,f,g,e,e,e.,e,e,8e,e,d,f,8e,8d,8e,8d,f,2d,c,d,e,e,e,f,8e,8d,d,d,d,f,8e,8d,8e,8d,f,2d,c,d,e,e,e,f,8e,8d,d,d.

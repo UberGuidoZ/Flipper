@@ -1,0 +1,1 @@
+BadInten:d=16,o=6,b=100:b5,d,f#,b,p,b,p,f#,4p,b,a,g,8f#.,d,e,p,e,p,d,c#,b5,4p.,b5,d,f#,b,p,b,p,f#,4p,b,a,g,8f#.,d,e,p,e,p,d,c#,b5,4p.,b5,d,f#,b,p,b,p,f#,4p,b,a,g,8f#.,d,e,p,e,p,d,c#,b5,4p.,b5,d,f#,b,p,b,p,f#,4p,b,a,g,8f#.,d,e,p,e,p,d,c#,b5

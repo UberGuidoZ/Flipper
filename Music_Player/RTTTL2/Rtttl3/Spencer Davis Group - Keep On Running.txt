@@ -1,0 +1,1 @@
+KeepOnRu:d=4,o=5,b=140:8g,g,b,g,2p,8b,d6,f#6,8e6,d6,p,8b,d6,e6,8g6,8e6,8d6,8b,a,g,8e,8g,8e,8g,g,b,2p,b,a,8e,8g,8e,8b,a,g

@@ -1,0 +1,1 @@
+BareNece:d=8,o=4,b=200:32p,g5,p,a5,p,c6,4p,p,2e6,d6,p,e6,p,d6,4c6,p,c6,p,d6,4c6,p,d6,p,c6,p,d6,p,c6,4a5,p,4g5,4c6,p,c6,c6,p,e6,p,a6,4g6,p,4f6,4e6,4d6,4p,2e6,d6,p,g6,p,a6,p,g6,4p,p,4a6,4p,g6,p,a6,p,g6,4e6

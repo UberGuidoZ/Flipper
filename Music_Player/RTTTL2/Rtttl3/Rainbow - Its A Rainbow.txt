@@ -1,0 +1,1 @@
+ItsARain:d=16,o=6,b=112:8c#,8d,b,p,a,g,p,f#,p,e,c#,p,d,p,8c#,8d,b,p,a,p,4f#.,8p,8c#,8d,b,p,a,g,p,f#,p,e,c#,p,d,p,8e,f#,g,f#,p,e,p,4d.,8p,8e.,p,8f#.,p,8g.,p,8a.,p,8b.,p,8c#.7,p,d7,p,4d.7

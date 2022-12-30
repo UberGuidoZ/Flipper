@@ -1,0 +1,1 @@
+Tragedy:d=4,o=6,b=200:g,8g,8g,16p,8g,8g,g,g,f,8f,8f,a_,a_,a,g,g,8g,8g,16p,8g,8g,g,g,f,8f,8f,a_,a,g,g.,g.,g,8p,g,g.,g.,a_,a.,g.,f,g.,g.,g,g.

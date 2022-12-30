@@ -1,0 +1,1 @@
+BetweenA:d=8,o=6,b=100:f#.,e.,g.,4f.,f#.,f#.,g.,f.,4f,f.,e.,g.,f.,4f,f.,e.,g.,4f.,f#.,e.,g.,4f.,f#.,f#.,g.,f.,4f,f.,e.,g.,f.,4f,f.,e.,g.,4f.

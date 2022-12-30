@@ -1,0 +1,1 @@
+BackUpBa:d=8,o=5,b=125:a,c6,16p,c6,a,g#,p,g#,16p,a,c6,16p,c6,a,2p,a,c6,16p,c6,a,g#,p,g#,16p,a,c6,16p,c6,a,2p,16a,16a,16p,c.6,c6,a,g#,p,a,p,a,c6,16p,c6,a

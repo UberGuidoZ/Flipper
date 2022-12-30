@@ -1,0 +1,1 @@
+Reveille:d=32,o=5,b=300:g.,p.,c.2,p.,e.2,p,c.2,p,g.,p.,e.2,p.,c.2,p.,e.2,p,c.2,p,g.,p.,e.2,p.,c.2,p.,e.2,p,c.2,p,g.,p.,c.2,p.,8e.2,p.,c.2,p.,g.,p.,c.2,p.,e.2,p,c.2,p,g.,p.,e.2,p.,c.2,p.,e.2,p,c.2,p,g.,p.,e.2,p.,c.2,p.,e.2,p,c.2,p,g.,p.,g.,p.,8c.2,p.,e.2,p.,8g.2,p.,e.2,p.,c.2,p.,e.2,p.,c.2,p,g.,p,g.,p.,g.,p.,8c.2,8p.,2p.,8p.

@@ -1,0 +1,1 @@
+MyPlace:d=8,o=6,b=160:d,4f,d,4f,d,2f.,d,p,4c,2a#.5,p,d,d#,p,4d,c,a#5,g,16d5,16p,2f,p,16d5,p.,16g5,2p,p.,16g5,p.,16c5,2p,p.,16c5,p.,16f5,p.,16d#5,p.,16d5,p.,d,d,16d5,16p,f,4f,4f,d,f,g5,f,4g,p,d,d,d#,c5,p,4g,f,g,c5,p,c,2a#5,p,4f5,d5,p,4g,2f,f,d,c,a#5,4c,d,4c,a#5,4g.,4g.,2f,d5,p,c5,p,4a#5

@@ -1,0 +1,1 @@
+TimeOfMy:d=16,o=5,b=125:1f,p,4f,p,f,p,8f.,8g.,a,p,a#,a,2g,8p,c,p,c,p,8a#.,p,a#,p,8a.,p,g,p,f,p,g,p,2f,p,f,p,8p,4f,p,f,p,8f,p,g,8p,a,p,a#,a,2g,8p

@@ -1,0 +1,1 @@
+BoysOfSu:d=16,o=5,b=285:8g,8p,4p,8g,8p,4b6,4b6,8g,8p,4b6,8g,8p,2b6,8g,8p,8g,8p,4a6,4g6,8g,8p,8g,8p,8d,8p,4p,8d,8p,4a6,4a6,8d,8p,4a6,8d,8p,4a6,4a6,4a6,4a6,4b6,8d,8p,4a6,8d,8p,4p,8d,4p,8p,4a6,4a6,8d,8p,4a6,8d,8p,4a6,8d,8p,4d6,8d,8p,4d6,8d,8p,4d6,8d,8p,2g6,8c,8p,2d6,8c,8p,4c6,8c,8p,2c6,8c,8p,4p,4c6,4d6,8c,8p,8c,8p

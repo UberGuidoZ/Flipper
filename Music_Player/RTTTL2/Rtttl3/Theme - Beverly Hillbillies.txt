@@ -1,0 +1,1 @@
+BeverlyH:d=8,o=5,b=180:c,e,g,a,g,p,c6,p,c6,p,c,e,g,a,g,p,d,p,d,p,c,p,e,g,4a,g,p,f,a,c6,4d6,c6,p,g,e,e,f,d,p,p,c,p,c

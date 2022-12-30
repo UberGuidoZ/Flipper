@@ -1,0 +1,1 @@
+BakerSt:d=8,o=5,b=125:d6,c6,a#,a#,a#,g,4a#.,g#,4a#.,4p,d6,c6,a#,a#,a#,g#,4a#.,a#,a#,a#,a#,g,4g#,g#,16g#,16g#,16g#,4f,p,d#,g#,4g#,a#,4g#,g#,g#,g#,g,g,4g,4g#,4g

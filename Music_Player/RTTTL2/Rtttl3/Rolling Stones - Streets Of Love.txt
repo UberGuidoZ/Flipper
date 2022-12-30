@@ -1,0 +1,1 @@
+StreetsO:d=4,o=5,b=160:2c6,2a,2g,2f,2c6,2a,g,p,a,a#,a,f,1f,a,a#,a,f,f,2f.,2p,2c6,2a,2g,2f,2c6,2a,g,p,a,a#,a,f,1f,a,a#,a,f,f,2f.

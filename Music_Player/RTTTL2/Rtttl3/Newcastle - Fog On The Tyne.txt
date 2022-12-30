@@ -1,0 +1,1 @@
+FogOnThe:d=8,o=6,b=100:c,c#,d#,d#,d#,16f,4d#,16p,f,g,g#,g#,g#,16a#,4g#,16p,g#,a#,c7,g#,c7,g#,c7,a#,g#,16a#,2g#,p.,g,g,g#,a#.,d#.,4d#,g,f,d#,c.,4d#.,16p,g,g,g#,a#.,d#.,4d#,g,f,16d#,4c,4p.,16p,g,g,g#,a#.,d#.,4d#,g,f,d#,c.,2d#,p.,f,g#,f,g#,f,g#,16f,g#.,16c7,a#

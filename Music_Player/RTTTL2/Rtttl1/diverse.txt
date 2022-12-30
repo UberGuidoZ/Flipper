@@ -1,0 +1,10 @@
+Diverse: :d=4,o=5,b=100:2p,8p,16f#6,16f#6,16f#6,16e6,16d6,16c#6,b,8f#6,e6,16e6,16e6,16e6,16d6,16c#6,16b,a,8f#6,d6,16f#6,16f#6,16f#6,16e6,16d6,16c#6,b,8f#6,e6,8d6,8c#6,2d6 
+Solskinnsdag: :d=4,o=5,b=140:2p,d#6,e6,8f6,a.6,f6,e6,8d#6,g.6,d#6,a#,8p,8g6,8a,8d#6,8f6 
+Har en drøm: :d=4,o=5,b=112:8p,8d,8d,d,8d,8d,e.,8f#,f#,8f#,8a,d.6,8a,b.,8f#,1e 
+Vårsøg: :d=4,o=5,b=100:p,e,e.,8d,2e.,a,c.6,8b,a,g,e,2e,p,p,e,e.,8d,2e.,a,b.,8a,g,a,1e 
+Byssan lull: :d=4,o=5,b=90:e,b,b,8b,8b,8c6,8b,8a,8g,f#.,8g,a,8a,8a,8a,8a,8b,8a,2g,f#,8p,8f#,8g,8g,8g,8e,f#.,8f#,8g,8g,8g,8e,f#.,8a,8a,8a,8b,8c6,b,8a,8g,2f#,e 
+Skala: :d=4,o=5,b=160:32c,32d,32e,32f,32g,32a,32b,32c6,32b,32a,32g,32f,32e,32d,32c 
+Vinsjan på Kaia: :d=4,o=5,b=90:g,d,g,d,g,b,a#,a,g,d,g,d,g 
+Det går likar no: :d=4,o=5,b=180:e.,g#.,b.,b,8e6,c#.6,b,8b,b.,p,a,8a,a,8b,a,8g#,8g#,8g#,8g#,g#,8g#,g#,8g#,8g#,f#,p 
+Snørosa: :d=4,o=5,b=140:c6,8b,8a,b,8a,8g,8a#,8a#,8a,8g,a,8g,8f,8p,8f,8f,8e,d,8a,2g 
+

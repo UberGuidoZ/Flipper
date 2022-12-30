@@ -1,0 +1,1 @@
+SexAndTh:d=16,o=6,b=160:e5,p,8e5,8p,a.5,8p,32p,c.,8p,32p,e.,8p,32p,e,p,f#,p,g#,p,a.,4p,32p,e.,32p,g#,4p,p,e,p,g,4p,p,8e,8f#,4p,8e5,8a.5,8p.,a5,p,8d#,d,c,d.,32p,a5

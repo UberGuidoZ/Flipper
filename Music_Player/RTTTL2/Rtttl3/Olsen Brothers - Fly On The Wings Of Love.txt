@@ -1,0 +1,1 @@
+FlyOnThe:d=8,o=5,b=200:g,4c6,b,2c6,e,1a,g,4c6,b,2c6,d6,1c6,g,4c6,b,2c6,e,1a,g,4g,e,2d.

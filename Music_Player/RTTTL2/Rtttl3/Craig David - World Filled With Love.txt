@@ -1,0 +1,1 @@
+WorldFil:d=8,o=7,b=90:g6,g6,16a6,16p,4g,4e,d,16c,16p,c,a6,d,d,e,c.,p.,g6,16a.6,32p,4g,4e,d,16c,16p,c,a6,d,d,e,4d,p,g6,a6,4g,4e,d,c,b6,4c,p,g6,a6,c,d,e,a.6,16g6,4a6,16p,32f#5,32p,16f#5,16p,f#5,a6,b6,4c,b6,4c,g#6,4g6

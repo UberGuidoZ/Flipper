@@ -1,0 +1,1 @@
+OrpheusI:d=8,o=5,b=160:2c,d,f,e,d,4g,4g,g,a,e,f,4d,4d,d,f,e,d,c,c6,b,a,g,f,e,d,2c,d,f,e,d,4g,4g,g,a,e,f,4d,4d,d,f,e,d,c,c6,b,a,g,f,e,2d

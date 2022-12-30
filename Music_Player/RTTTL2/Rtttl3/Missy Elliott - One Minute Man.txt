@@ -1,0 +1,1 @@
+OneMinut:d=16,o=5,b=90:a,a,a,e6,p,f6,e6,4p,e6,e6,f6,f6,e6,8p,a,e6,p,f6,e6,8p,e6,p,e6,f6,g6,f6,e6

@@ -1,0 +1,1 @@
+GoGetIll:d=4,o=6,b=120:8c,16d,8e.,2f.,e,8e,f,d,8d,16d,8e.,f.,a,8g,8f.,16e,8e,f,2d,e,f,2a5,8e.,16e,8e,f,d.,8c,8c,16d,8c.,8d,8c,d,e,2d,8c,16d,8c.,8d,8c,d,c,2a_5

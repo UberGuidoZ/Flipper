@@ -1,0 +1,1 @@
+Newborn:d=8,o=5,b=160:32p,4b,4a,4g.,g,2f#.,p,f#,4b,4a,4g.,g,2f#.,p,f#,2b,2g,2c6,2b,b.,a.,2b,4p,b,b,p,2e6,4b.,a,2b,2e6,4b.,a,2b

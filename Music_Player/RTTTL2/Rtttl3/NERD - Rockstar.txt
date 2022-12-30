@@ -1,0 +1,1 @@
+Rockstar:d=8,o=6,b=200:e7,p,a,4p,a,a,a,a,b,a,g,4e.,16p,16d#7,e7,p,a,4p,a,a,a,a,b,a,g,4e,4e5,4e5,16d#7,e.7,2b,16b,c.7,4b,2b,4e5,4c7,2b,2a,4g#,e5,e5,4e5,16d#7,e.7,2b,16b,c.7,b,e5,2b,4e5,4c7,2b,2a,2g#,2e

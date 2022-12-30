@@ -1,0 +1,1 @@
+BatterUp:d=16,o=6,b=100:c,c,c,8d#,8d#,8d#,c,a#5,c,4d#,8p,c,8d#,8d#,8d#,c,a#5,4c.,p,c,d#,8d#,8d#.,c,a#5,c,8c,4d#,p,d#,d#,8c,8c,8c,4a#5,p,c,c,c,8d#,8d#,8d#,c,a#5,c,4d#,8p,c,8d#,8d#,8d#,c,a#5,4c.,p,c,d#,8d#,8d#.,c,a#5,c,8c,4d#,p,d#,d#,8c,8c,8c,4a#5

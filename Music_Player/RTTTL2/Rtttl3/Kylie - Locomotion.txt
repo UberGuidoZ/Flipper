@@ -1,0 +1,1 @@
+Locomoti:d=8,o=5,b=180:f,g,f,g,4a,f,c,4d,c,4d,4f,p,c,4c,c,c,p,4d,d,d,d,4d,d,f,a#,c6,a#,c6,d6,c6,a#,f,4g,f,4g,4a#.,a#,c6,a#,c6,4d6,4f,a,4g,2g,p,2f

@@ -1,0 +1,1 @@
+HardKnoc:d=16,o=5,b=160:8g,p,g,4e,4g,4c,4p,4d,4e,4p,8g,p,g,4e,4g,4b,4p,4c6,4d6,4p,8c6,p,c6,8a,4c6,8p,4g6,4p,4e6,4g,4p,8c6,p,c6,8a,4c6,8p,4g6,4p,4e6,4d6,4p,8g6,p,g6,8e6,4g6,8p,4c6

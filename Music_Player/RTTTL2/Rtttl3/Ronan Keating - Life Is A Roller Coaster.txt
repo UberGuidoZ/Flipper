@@ -1,0 +1,1 @@
+LifeIsAR:d=8,o=6,b=125:g5,4e,4c,2e.,2p,p,g5,4e,4c,2d.,e,e,e,e,4e,e,e,e,c,c.,16c,c.,16c,c.,16c,4c,4d

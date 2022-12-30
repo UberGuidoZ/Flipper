@@ -1,0 +1,1 @@
+Chocolat:d=16,o=5,b=112:8c#6,d6,c6,d6,c6,a,f,8g,8g,8g,8g,8g,g,8g,f,8d,4f,8p,a,a,c6,c6,d6,c6,d6,8p,p,8c6,d6,d6,8p,8g,8a,a,8a,8p,p,c6,8a,8g,4a

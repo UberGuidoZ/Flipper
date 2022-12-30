@@ -1,0 +1,1 @@
+Vindaloo:d=8,o=6,b=120:c#,b5,2a.5,c#,b5,2a.5,c#,b5,4a5,c#,b5,4a5,4c#,2b5,4p,d,c#,2b.5,d,c#,2b.5,d,c#,4b5,d,c#,4b5,4c#,2a5,4p,c#,b5,2a.5,c#,d,2e.,e,f#,4g,4g,4f#,4e,2d,p,f#,f#,e,2e,4e,4e,2e,2e,2e,2e,2e.

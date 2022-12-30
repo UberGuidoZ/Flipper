@@ -1,0 +1,1 @@
+ShellBeC:d=8,o=5,b=140:c,d,f.,16f,f,f,d,c,d,c,2f.,f,g,a.,16a,a,a,c6,a,g,f,2g.,c6,a#,a.,16a,a,a,g,f,f,f,c,d,16d,d,d,g,f,e,d,c.,16c,c,c,a,g,d,e,2f

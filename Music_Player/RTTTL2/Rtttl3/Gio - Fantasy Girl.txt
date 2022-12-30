@@ -1,0 +1,1 @@
+FantasyG:d=4,o=5,b=180:8g,8p,8g,g,f#,f#,g,a,b,8p,8g,8p,8g,g,a,g,8e,2d,p,8g,8p,8g,g,f#,f#,g,f#,f#.,16g,16f#,2e,e,f#,g,a,g.,8g,8p,8g,g,f#,f#,g,a,b,8p,8g,8p,8g,g,a,g,8e,d,8d,c6,8b,8a,8p,8g,8p,g,8e,8p,8g,8p,8b,8p,a.,2p,8e,8g,8p,2f#.

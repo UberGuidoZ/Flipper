@@ -1,0 +1,1 @@
+RightThu:d=4,o=6,b=90:c,d_,g,d_,c,d_,g,d_,c,8p,8c,16c5,16p,8p,c,c,8p,8c,16c5,16p,8p,c,c,d_,g,d_,c,d_,g,d_,c,8p,8c,16c5,16p,8p,c,c,8p,8c,16c5,16p,8p,c,c,d_,g,d_,c,d_,g,d_,c,8p,8c,16c5,16p,8p,c,c,8p,8c,16c5,16p,8p,c,8c5

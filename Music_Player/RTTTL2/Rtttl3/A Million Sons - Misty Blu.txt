@@ -1,0 +1,1 @@
+MistyBlu:d=8,o=5,b=100:c6,a#,g,f,d#,c,g,f,d#,d#,f,d#,f,g,4d#,g#,a#,c6,a#,g#,a#6,g#6,g6,c6,a#,g,f,d#,c,g,f,d#,d#,f,d#,f,g,4d#,g#,a#,c6,a#,g#,a#6,g#6,g6,c6,a#,g,f,d#,c,g,f,d#,d#,f,d#,f,g,4d#

@@ -1,0 +1,1 @@
+NescafeA:d=16,o=6,b=100:a,p,a,p,8a,f,8p,g,p,g,8g,a#,c7,a,p,a,p,8a,f,8p,g,p,g,8g,a#,c7,a,p,a,p,8d,f,8p,g,p,g,8e,8c,8d

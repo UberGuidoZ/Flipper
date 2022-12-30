@@ -1,0 +1,1 @@
+FarAway:d=4,o=5,b=140:c6,8g,8g,8p,1a,p,8p,c6,8g,g.,8a,g.,8f,8f,2c,c6,8g,8g,8p,1a,p,8p,c6,8g,g.,8a,g.,8f,8f,c,f,f,2c6,f,e,f,d,d,d,2c.6,8g,8f,g.,a.,f,c6,f,f,e,f,d,d,d,c6,2f,8g,8f,g.,2a.

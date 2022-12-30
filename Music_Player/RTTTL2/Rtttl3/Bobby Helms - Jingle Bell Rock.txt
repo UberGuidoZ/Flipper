@@ -1,0 +1,1 @@
+JingleBe:d=4,o=5,b=200:c6,8c6,c.6,b,8b,b.,a,8b,a,2e,p,8p,a,8b,a.,e.,g.,a,8b,a,2f,p,8p,d,e,8p,8f,g,a,8p,8g,d,8e,f,2g,p,a,8g,a,8g,a.,a.,d#,2d#

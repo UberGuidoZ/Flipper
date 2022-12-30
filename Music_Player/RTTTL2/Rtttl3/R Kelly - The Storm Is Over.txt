@@ -1,0 +1,1 @@
+TheStorm:d=8,o=6,b=90:16d,d,f,f,16g,16a#5,a#5,d,4d#,d,4c.,4p.,16d,16d,f,16d,c,a#5,a#5,16c,d,4d#,d,4c.,2p,16d,16f,16d,f.,16g,a#5,16c,d,4d#,d,4c.,p,d,d,a#5,c,g5,2g.5

@@ -1,0 +1,1 @@
+DeKabout:d=4,o=6,b=112:8b,8c7,d7,8b,8a,g,8c7,8b,8a,8a,8g,8f,g,8b,8c7,8d.7,16d7,8b,8a,g,8g,8g,8a,8a,8g,8f,g,8e,8d,c,8a,8b,c7,8b,8a,8b,8c7,8d7,8b,c7

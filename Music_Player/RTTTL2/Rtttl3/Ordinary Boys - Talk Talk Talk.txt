@@ -1,0 +1,1 @@
+TalkTalk:d=4,o=6,b=160:32p,p,8g5,d,8c,b.5,2g5,2p,32p,p,e,e,e,2d,p,32p,2p,8g5,d,8c,2b.5,p,32p,2p,e,e,e,2d,2d,8b5,c,2d,8p,8b5,c,d.,8c,b.5,8c,32p,2b5,2p,8b5,a5,g.5,b5,8a5,g5,f.5,8g5

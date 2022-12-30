@@ -1,0 +1,1 @@
+MetalGea:d=8,o=5,b=125:4e,4d,2c,d,e,a4,4e,2d,c,d,4e.,a,g,e,4c,2d,e,a,2c6,b,c6,d6,4c6,2a,g,a,4b.,c6,4b,a,g,1a,4b,4a,2g,a,b,e,4b,2a,g,a,4b.,e6,d6,b,4g,2a,b,e6,2g6,f#6,g6,a6,4g6,2e6,d6,e6,4f#.6,g6,4f#6,e6,d6,1e6

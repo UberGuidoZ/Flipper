@@ -1,0 +1,1 @@
+StepOnMy:d=8,o=6,b=100:16c,c,16b5,c,c,c,16c,16b5,c,16b5,d.,2b.5,1p,p,16c,c,16b5,c,c,c,16c,16b5,c,16b5,d.,2b.5,1p,p,16c,c,16b5,c,c,c,16c,16b5,c,16b5,d.,2b.5,1p,p,16c,c,16b5,c,c,c,16c,16b5,c,16b5,d.,2b.5

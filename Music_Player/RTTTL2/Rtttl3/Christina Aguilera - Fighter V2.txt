@@ -1,0 +1,1 @@
+FighterV:d=4,o=5,b=180:d#,8f,8f,8d#,8f,f,p,g#,f,p,d#,8f,8f,8f,8f,8f,8f,8a#,8g#,f,f,8p,8f,c6,8a#,8g#,c6,8a#,8g#,2c6,8a#,8g#,p,g#,8f,8g#,8p,8f,2g#,g#,8d#,8f,p,d#,8f,8f,8d#,8f,f,p,g#,f,p,d#,8f,8f,8f,8f,8f,8f,8a#,8g#,f,f,8p,8f,c6,8a#,8g#,c6,8a#,8g#,2c6,8a#,8g#,p,g#,8f,8g#,8p,8f,2g#,g#,8d#,8f,8p

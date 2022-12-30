@@ -1,0 +1,1 @@
+Tom'sDin:d=8,o=5,b=112:f#,g#,a,c#6,f#,g#,a,c#6,f#,c#6,b,a,b,16a,e.6,a,f#,g#,a,c#6,f#,16g#,a.,c#6,f#,c#6,b,a,b,16a,b.,a.,16a,f#,e,4c#6,16c#6,c#.6,b,a,f#,e,c#6,c#6,b,c#6,c#6,a,b,c#6,16d6,a.,b,c#6,4d6,a,d6,c#6,c#6,16b,4c#.6

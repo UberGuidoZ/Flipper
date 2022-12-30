@@ -1,0 +1,1 @@
+SundayMo:d=4,o=6,b=90:d,8d,c,2b5,8p,8g5,d,2d,8p,8b5,d,e,d,8b5,a5,8b5,2g5,8p,8g5,d,2d,8p,8g5,d,2d,8p,8a5,b5,c,b5,c,d,2g5

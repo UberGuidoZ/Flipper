@@ -1,0 +1,1 @@
+Crayon_S:d=4,o=5,b=125:e,f,g,32p,8g,g,32p,8g,8g#,8g#,8g#,8g#,a,b,8d6,c6,32p,e6,8d6,c6,32p,8c6,8c6,8b,a,32p,b,c6,f6,f6,e6,8d6,2c6

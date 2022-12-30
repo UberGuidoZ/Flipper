@@ -1,0 +1,1 @@
+RockTheB:d=16,o=5,b=180:a,4e.,e,8a,p,d,8e,p,d,8e,4p,2c,4c6,8d.,d#,4e,a,8p,8e.,d#,4c,4a,4p,8d.,d#,4e,8d.,c#,4c,2a,a,e,8p,g,e,8p,2e,8p,d,8e,p,d,8e,4p,8a,8p,8g

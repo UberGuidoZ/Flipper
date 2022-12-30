@@ -1,0 +1,1 @@
+SimplyTh:d=8,o=6,b=125:g5,f,f,f,2e.,p,e,e,4e,4e,c,2c.,p,e,e,4e,4e,c,2c.,p,c,c,c,c,4c,g5,2g.5,p,g5,f,16p,f,16p,f,2e.,4p,g5,e,e,e,e,e,d,c,2c.

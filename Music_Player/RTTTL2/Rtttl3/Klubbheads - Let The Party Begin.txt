@@ -1,0 +1,1 @@
+LetThePa:d=16,o=5,b=225:4d,8p,4g,8p,4a,8p,4f,8p,4d,4c,4d,8p,4g,8p,4a,8p,4f,8p,4a,4a#,4d,8p,4g,8p,4a,8p,4f,8p,4d,4c,4d,8p,4g,8p,4a,8p,4f,8p,4a,4a#

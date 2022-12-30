@@ -1,0 +1,1 @@
+WaitAndB:d=4,o=6,b=160:f_,f_,8e,e,d,d,b.5,f_5,8b5,8b5,b5,8b5,d,d,e,d.,b5,f_,f_,8e,e,d,d,b.5,f_5,b5,b5,8b5,d,d,e,d.,b5,f_,f_,8e,e,d,d,b.5,f_5,8b5,8b5,b5,8b5,d,d,e,d.,b5,f_,f_,8e,e,d,d,b.5,f_5,b5,b5,8b5,d,d,e,d.,b5

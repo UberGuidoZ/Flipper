@@ -1,0 +1,1 @@
+LastTrai:d=4,o=6,b=112:8b,d7,e7,8d7,b,8d7,8d7,e.7,8d7,b,8d7,8d7,e.7,8d7,b,8g,8g,a,8a,8g,8a,8p,8b,d7,e7,8d7,b,8d7,8d7,e.7,8d7,8e7,8p,8d7,8d7,e.7,8d7,b,8g,8g,1a,8b,2g

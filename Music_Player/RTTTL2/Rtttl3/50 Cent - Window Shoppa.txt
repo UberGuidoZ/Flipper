@@ -1,0 +1,1 @@
+WindowSh:d=4,o=5,b=180:f,8f.,16g,a,f,g,8p,8a,2p,8f.,8g.,8a,8p,8f,8f.,16f,c6,a,p,8a.,16a,8a.,16a,a,f,g,16p,a,16p,8f.,16f,8f.,16f,g,a,8a.,16a,8f.,16f,c6,a,p,f,8f.,16g,a,f,g,8p,8a,2p,8f.,8g.,8a,8p,8f,8f.,16f,c6,a,p,8a.,16a,8a.,16a,a,f,g,16p,a,16p,8f.,16f,8f.,16f,g,a,8a.,16a,8f.,16f,c6,a

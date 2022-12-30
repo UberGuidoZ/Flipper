@@ -1,0 +1,1 @@
+PassThat:d=16,o=5,b=112:8a#,1c.6,c,4p,p,8a#,c,8p,8c,c,c,p,c,4p.,p,c,8p,c,p,c,c,p,c,4p,p,8a#,1c.6,c,4p,p,8a#,c,8p,8c,c,c,p,c,4p.,p,c,8p,c,p,c,c,p,c,4p,p,8a#,1c.6,c,4p,p,8a#,c,8p,8c,c,c,p,c,4p.,p,c,8p,c,p,c,c,p,c

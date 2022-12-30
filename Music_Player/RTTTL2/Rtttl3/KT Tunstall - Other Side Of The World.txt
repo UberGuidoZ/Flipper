@@ -1,0 +1,1 @@
+OtherSid:d=4,o=5,b=160:8d#,8d#,g,8g#,a#.,d#,2d#.,8p,8d#,g,8g#,a#.,d#,2d#,8p,8d#,8d#,8c,d#,8f,g.,d#,2f.,8f,8f,g,g#,a#,2d#.,p,d#,g,g#,a#,2d,2d#,8c,8d#,8g,8f,8p,f.,8d#,2d#,8p,c,2d#.,f,2g.,g#,2g,2f,p,2g,d#6,d6,2c6,2a#,8g,8f,8p,d#,8c,8d#,8f,8g,2f,8p,d#,2d#.

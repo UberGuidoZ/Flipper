@@ -1,0 +1,1 @@
+BoleinCh:d=8,o=7,b=200:4e,c,4d,f,1e,4d,e,4c,e,1d,4e,c,4d,f,f,g,1e,4d,e,4c,e,1d,4a.6,4a6,a6,c,b6,4b.6,4b6,b6,d,c,4c.,4c,c,e,d,d,2p,2e,4e,a6,4b6,a.6,2p,2e,4e,a6,4b6,2a6

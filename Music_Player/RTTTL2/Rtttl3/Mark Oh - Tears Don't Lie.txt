@@ -1,0 +1,1 @@
+TearsDon:d=4,o=6,b=160:d,p,d,a,p,a,d,1p,32p,d,d,f_,p,f_,g,p,g,a,1p,32p,a,g,p,g,a,p,a,f_,p,f_,b,p,b,a,p,a,e,p,e,d.

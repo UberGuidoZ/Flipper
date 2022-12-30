@@ -1,0 +1,1 @@
+PrettyWo:d=16,o=5,b=125:32p,c,p,c,p,e.,32p,g,p,a#,p,d.6,32p,c.6,32p,a#,p,c,p,c.,32p,e,p,g,p,a#,4p,a,p,a,p,g.,32p,4f.,4p,8a,8a,8g,8f.,p,4a,p,g,p,a,p,g.,32p,4f,4p,8a,8a,8g,f.,8p,4a

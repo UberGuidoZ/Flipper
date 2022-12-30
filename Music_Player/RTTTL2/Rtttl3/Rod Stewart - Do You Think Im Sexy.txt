@@ -1,0 +1,1 @@
+DoYouThi:d=16,o=6,b=140:4c,4d#,4g,2a#,2g,p,32p,g#,g,g#,g,d#,c,4d#,4p,8p,f,d#,f,d#,c,a#5,4c,p,32p,4a#,32g,p,32p,8d#,32c,p,32p,4d#,8c,4a#,32g,p,32p,8d#,8c,4d#,32c,p,32p,4a#,32g,p,32p,8d#,8c,4d#,8c,4g,2p,4p,4a#,32g,p,32p,8d#,32c,p,32p,4d#,8c,4a#,32g,p,32p,8d#,8c,4d#,32c,p,32p,4a#,32g,p,32p,8d#,8c,4d#,8c,4g

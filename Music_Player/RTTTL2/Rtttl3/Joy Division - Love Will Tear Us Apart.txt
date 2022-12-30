@@ -1,0 +1,1 @@
+LoveWill:d=4,o=6,b=160:8d,e,8e,e,e,8e,f#,8g,f#,8e,d,b5,8b5,8b5,8b5,8b5,8b5,8a5,8a5,8a5,8a5,8a5,8a5,8a5,8d,e,8e,e,e,8e,f#,8g,f#,8e,d,b5,8b5,8b5,8b5,8b5,8b5,8d,8a5,8a5,8a5,8a5,8a5,8a5,8a5,8d,8e,e,e,8e,f#,8g,f#,8e,d,b5,8b5,8b5,8b5,8b5,8b5,8d,2a5

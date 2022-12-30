@@ -1,0 +1,1 @@
+LifeGoes:d=8,o=6,b=100:4d,2a,g,f#,e,4f#,e,16e,16e,16e,16e,f#,g,4f#,f#,e,4d,b5,d,16f#,e,e.,16d,16e,e,e,f#,e,4d,2a,g,f#,e,4f#,e,16e,16e,16e,16e,f#,g,2f#

@@ -1,0 +1,1 @@
+SkiSunda:d=8,o=6,b=225:4f#,4e,4d,4c#,4d,4e,4f#,d,c#,4b5,4a5,4g5,4f#5,4g5,4a5,4b5,g,f#,4e,4d,4c#,4b5,4c#,4d,4e,a,g,4f#,4g#,4a,4e,4d,4c#,d,e,f#,g#,4a,a,a,4a,a,a,4a,a,a,a,g#,f#,e,4a,a,a,4a,a,a,4a,a,a,a,g#,f#,e,a,g#,f#,e,f#,e,f#,g,a,g#,f#,e,f#,e,f#,g,4a

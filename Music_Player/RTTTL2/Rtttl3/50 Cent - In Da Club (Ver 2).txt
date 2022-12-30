@@ -1,0 +1,1 @@
+InDaClub:d=16,o=5,b=160:4d#6,d,p,8d6,4p,d,p,d,p,4p,d,p,d,p,4p,d,p,d,p,4d6,d#,p,8d#6,4p,d#,p,d#,p,4c6,c,p,8d6,4p,c,p,c,p,4d#6,d,p,8d6,4p,d,p,d,p,4p,d,p,d,p,4p,d,p,d,p,4d6,d#,p,8d#6,4p,d#,p,d#,p,4c6,c,p,8d6,4p,c,p,c,p

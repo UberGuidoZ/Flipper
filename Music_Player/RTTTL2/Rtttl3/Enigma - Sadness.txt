@@ -1,0 +1,1 @@
+Sadness:d=16,o=6,b=100:4e,c5,p,8e,4e,c5,p,8e,8g,8a,4a.,8e,8g,a,4e,p,e5,8p.,e5,8p.,e5,8p.,e5,8p.,e5,8p.,e5,8p.,e5,8p.,4e,c5,p,8e,4e,c5,p,8e,8g,8a,4a.,8e,8g,a,4e,p,e5,8p.,e5,8p.,e5,8p.,e5,8p.,e5,8p.,e5,8p.,e5,8p.,8e5

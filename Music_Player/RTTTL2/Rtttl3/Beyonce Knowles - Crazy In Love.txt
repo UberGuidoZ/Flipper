@@ -1,0 +1,1 @@
+CrazyInL:d=16,o=6,b=100:32f,32p,32f,32p,32f,32p,f,d,f.,32p,f,g.,32p,d,p,32d,32p,d,f,p,32f,32p,32f,32p,32f,32p,32f,32p,32d,32p,f.,32p,f,g.,32p,d.,4p,32p,32f,32p,32f,32p,f.,32p,d,f.,32p,f,g,p,d,p,32d,32p,32d,32p,f,p,32f,32p,32f,32p,f,p,d,f.,32p,f,g.,32p,8d

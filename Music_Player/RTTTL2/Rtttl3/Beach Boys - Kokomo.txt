@@ -1,0 +1,1 @@
+Kokomo:d=8,o=5,b=112:32p,g,g,a,4b,2g,p,d,e,f,4g,g,a,g,4f,2c,4p,f,f,f,g,f,4e,e,e,e,e,f,g,a,4d,2d,p,f,e,f,e,c,2c

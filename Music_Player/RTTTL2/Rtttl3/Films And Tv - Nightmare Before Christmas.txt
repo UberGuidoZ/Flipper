@@ -1,0 +1,1 @@
+Nightmar:d=16,o=6,b=125:8d,8f,8p,8d5,8f5,8p,d,f,g,a,a#,8a,8p,8c#5,8e5,8p,c,e,f,g,a,8f,8p,8d5,8f5,8p,d,f,g,a,a#,8a,8p,f,8a,8p,f,8a,f,g,e,d,8d7

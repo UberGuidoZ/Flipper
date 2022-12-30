@@ -1,0 +1,1 @@
+WereGoin:d=4,o=5,b=140:8d6,8d6,8d6,8d6,8p,8d6,8d6,8d6,e6,2e6,p,8p,8c6,8c6,8c6,8c6,8c6,8c6,8c6,b,b,2p,8b,8b,8b,8b,8b,8b,c6,b,8a,c.6,p,8f#,8g,a,8a,8b,8p,8a,g,2g,p

@@ -1,0 +1,1 @@
+Don'tFor:d=4,o=5,b=140:8d,8f,8d,8f,8g,a,2c6,a,8p,8c6,8p,8c6,a#,a,g,2c6,a,8p,8c6,8p,8c6,8a#,8a#,a,g,2c6,a,8p,8c6,8p,8c6,8a#,8a#,a,g,8p,8c,8f,8c,8f,8f,8c,8f,8f,8c,8f,8f,8f,8g,a,2c6,a,8p,8c6,8p,8c6,a#,a,g,2c6,a,8p,8c6,8p,8c6,8a#,8a#,a,g,2c6,a,8p,8c6,8p,8c6,8a#,8a#,a,g,8p,8c,8f,8c,8f

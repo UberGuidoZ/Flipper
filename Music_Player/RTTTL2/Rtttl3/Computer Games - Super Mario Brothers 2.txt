@@ -1,0 +1,1 @@
+SuperMar:d=16,o=6,b=112:e,32p,8e,c,8e,8g,8g5,8c,p,8g5,p,8e5,p,8a5,8b5,a#5,8a5,g.5,e,g,8a,f,8g,8e,c,d,8b5,p,8c,p,8g5,p,8e5,p,8a5,8b5,a#5,8a5,g.5,e,g,8a,f,8g,8e

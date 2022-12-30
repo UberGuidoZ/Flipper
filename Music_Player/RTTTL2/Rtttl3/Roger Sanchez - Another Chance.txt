@@ -1,0 +1,1 @@
+AnotherC:d=16,o=5,b=125:4a#.,8p,4a#,2a#.,a#6,8p,8a#.,p,2a#,8a#.,p,1c6,8p,4d,2a#,g6,8g.6,8p,g,8p,g,8p,f,8p,f6,8p,g,8p,g,8p,g6,8p,g,8p,g6,8p,g,8p,a#,8p,a#6,8p,d,8p,8p,d#7,8p

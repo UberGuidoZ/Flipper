@@ -1,0 +1,1 @@
+Transfor:d=16,o=5,b=320:e6,f6,e6,d#6,4d6,4p,d,d,d,d,d,d,d,d,e,e,e,e,f,f,f,f,f,f,f,f,8a6,8a#6,8a6,8p,4d6,2p,d,d6,d,d6,d,d6,d,d6,e,e6,e,e6,f,f6,f,f6,f,f6,f,f6,a4,a4,a4,a4,a#4,a#,a#4,a#,a#4,a#,a#4,a#,a#4,a#,a#4,a#,4p,8d,8p,4e,4f,4p,4f,4p,2g,4a,4a#,4p,g,g6,g,g6,g,g6,g,g6,4e,4g,4a,4p,f,f6,f,f6,f,f6,f,f6,4e,4

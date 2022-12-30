@@ -1,0 +1,1 @@
+OnlyTheL:d=8,o=5,b=125:d6,b,a,a,4g,4p,g,a,b,b,c6,b,4a,4p,c6,d6,c6,b,4a,4p,a,c6,e6,4e6,p,4d6,4b

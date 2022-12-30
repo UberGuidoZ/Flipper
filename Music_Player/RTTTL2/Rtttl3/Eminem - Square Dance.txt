@@ -1,0 +1,1 @@
+SquareDa:d=32,o=6,b=180:8g,8g#,8g,8f,4c,p,4c,p,4g#,4p,p,4c,p,4c,p,4g,4p,p,4c,p,4c,p,4f,4p,p,4c,p,4c,p,4d#,4p,4c,p,4c,p,4g#,4p,p,4c,p,4c,p,4g,4p,p,4c,p

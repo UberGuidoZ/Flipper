@@ -1,0 +1,1 @@
+Storm3:d=8,o=6,b=240:e,b5,p,b5,p,b5,d,p,c,c,c,c,c,c#,p,c#,f#,c#,p,c#,p,c#,e,p,d,d,d,d,d,d#,p,d#,e,b5,p,b5,p,b5,d,p,c,c,c,c,c,c#,p,c#,f#,c#,p,c#,p,c#,4e,d,d,d,d,d,4d#,d#

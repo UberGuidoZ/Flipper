@@ -1,0 +1,1 @@
+ArmyOfHa:d=4,o=6,b=140:g5,g5,g5,g5,g,g,g7,g7,g5,g5,16p,g5,g5,g5,g,g,g7,g7,g5,g5,16p,g5,g5,g5,g,g,g7,g7,g5,g5,16p,g5,g5,g5,g,g,g7,g7,g5,g5,16p

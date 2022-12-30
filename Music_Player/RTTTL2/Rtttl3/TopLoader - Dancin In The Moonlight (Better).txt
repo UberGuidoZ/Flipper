@@ -1,0 +1,1 @@
+DancinIn:d=8,o=6,b=100:a5,b5,c.,e.5,d5,d5,c5,4e5,p,a5,b5,c.,e.,d,d,c,c.,4e,4p,a5,b5,c.,e.5,d5,d5,c5,4e5,4p,a5,b5,c.,e.,d,d,c,c.,4e,4p,e,d,d,c,c,4e,4p,a5,a5,b5,c.,e.,d,d,c,4c

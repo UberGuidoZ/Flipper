@@ -1,0 +1,1 @@
+NiceGuys:d=8,o=6,b=112:e,e,16e,g#,b,p,b,e,e,16e,g#,b,p,bf#,f#,16f#,g#,b,b,a,b,4e,4p,b5,e,e,16e,g#,b,p,b,e,e,16e,g#,b,p,b,f#,f#,16f#,g#,b,b,a,b,4e

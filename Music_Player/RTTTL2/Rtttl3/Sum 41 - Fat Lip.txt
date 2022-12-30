@@ -1,0 +1,1 @@
+FatLip:d=4,o=5,b=180:8d,8e,8d,8e,2f#,2d,d,p,8d,8e,8d,8e,e,d,d,8d,8d,e,f#,d,32p,8d,8e,8d,8e,2f#,2d,d,p,8d,8e,8d,8e,e,d,d,8d,8d,e,f#,d

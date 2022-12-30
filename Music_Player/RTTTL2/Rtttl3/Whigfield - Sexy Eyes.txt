@@ -1,0 +1,1 @@
+SexyEyes:d=16,o=6,b=125:b5,8p,32b5,32p,b5,p,32b5,p,32p,f#,8p,32f#,32p,f#,p,f#,p,e,8p,32e,32p,e,p,32e,p,32p,g#,8p,32g#,32p,g#,p,g#,p,f#6,8p,32f#,32p,f#,p,32f#,p,32p,a#,8p,32a#,32p,a#6,p,32a#,p,32p,b,8p,32b

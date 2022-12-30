@@ -1,0 +1,1 @@
+DrFeelgo:d=32,o=5,b=112:16e.,p,e,p,f#,p,f#,p,g,p,g,p,g#,p,a,p,16d.6,16p,p,8c#6,8p,16e.,p,e,p,f#,p,f#,p,g,p,g,p,g#,p,a,p,16e.6,16p,p,8e6,8p,16e.,p,e,p,f#,p,f#,p,g,p,g,p,g#,p,a,p,16d.6,16p,p,8c#6,8p,16e.,p,e,p,f#,p,f#,p,g,p,g,p,g#,p,a,p,16e.6,16p,p,8e6,8p,8a,16p,16g.,p,g,p,8a,2p,8a,16p,16g.,p,f#,p,8e

@@ -1,0 +1,1 @@
+HowCome:d=8,o=5,b=180:4b,4e,4p,c6,c6,b,b,4a,b,b,4p.,e,c6,c6,b,b,4a,b,b,4p,e,e,c6,c6,b,b,4a,b,b,4p.,e,c6,c6,b,b,4a,b,b,4a,b,b,4a,b,b,p,e,e,e,e,e,e,e,4e6,4b,4b,4p,4a,b,4b.,e,e,c6,c6,4b,4a,b,b,4p,e,e,c6,4b,4b.,p,b,4b,p,b,4b.,4b.,e,e,4b,e,e,b,e,e,4b.,e,e,4b,4e,4e

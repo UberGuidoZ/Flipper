@@ -1,0 +1,1 @@
+AsanTeri:d=4,o=6,b=160:8c,8c,8c,8d,8d,8e,8e,8e,8d,d.,8p,8c,8e,8e,8e,8e,16g.,e,d,2e,32p,8c,8c,8c,8d,8d,8e,8e,8e,8e,8d,d.,8p,8c,8e,8e,8e,8e,g.,e,d,2e,8p

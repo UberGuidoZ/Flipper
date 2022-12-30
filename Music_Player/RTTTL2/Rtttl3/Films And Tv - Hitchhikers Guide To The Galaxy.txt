@@ -1,0 +1,1 @@
+Hitchhik:d=4,o=5,b=160:2g,8p,8f,g,1b,a#,a,p,8g,8f,8d#,8d,c,c,p,a#,a,p,8g,8f,8d#,8d,c,c,p,a#,a,p,8g,8f,8d#,8d,c,c,p,d#,f,p,8d#,8d,1c,a#,a,p,8g,8f,8d#,8d,c,c,p,a#,a,p,8g,8f,8d#,8d,c,c,p,a#,a,p,8g,8f,8d#,8d,c,c,p,d#,f,p,8d#,8d,1c

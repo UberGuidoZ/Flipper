@@ -1,0 +1,1 @@
+Bubbelba:d=8,o=5,b=180:g,e,g,g,g,e,g,16e,16c7,a,g,g,c7,c7,c7,c7,16c7,16c7,f,f,f,f,g,g,g,16g,16c7,e,c,c,c7,c7,c7,c7,16c7,16c7,g,e,g,g,g,e,g,16e,16c7,a,g,g,c7,c7,c7,c7,16c7,16c7,f,f,f,16f,16f7

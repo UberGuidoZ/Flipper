@@ -1,0 +1,1 @@
+Unpretty:d=4,o=5,b=180:8g,8c6,8c6,c6,c6,8g,g,8a,8p,a.,2f.,8f,8f,f,f,8f,8e,2e,p,8c6,8c6,c6,d6,8b,b,c6,c.6,2a,p,8f,8f,f,8f,8g,8f,2e.,8c6,8c6,8c6,8c6,b,8g,g,8a,8p,a.,2f,8p,8f,f,16p,8f,16f,8f.,16e,16p,2e,p,c6,c6,d6,8b,b,c6,8c6,16b,2a,8a,8g,8a,c.6,a,c6,c6,2c6,2g6,2c6,c6,c6,c6,8b,2a.,2p,8c6,8c6,8c6,8c6,2c6,2g6,2c6,c6,c6,c6,8b,1a

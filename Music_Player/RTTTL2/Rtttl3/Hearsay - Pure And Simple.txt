@@ -1,0 +1,1 @@
+PureAndS:d=4,o=5,b=125:b,2c6,b,8c6,c,8b,2p,b,2c6,b,8c6,c,b,g,1d,8p,8c6,c,b,1g,2p,c6,b,g1d,c6,b,g18b.,8b.,8c.6,8b.,8d6,16c,16b,1a

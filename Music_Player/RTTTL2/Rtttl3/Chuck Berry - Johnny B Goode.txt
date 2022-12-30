@@ -1,0 +1,1 @@
+JohnnyBG:d=8,o=6,b=180:4d,d,c,b5,c,b5,c,b5,c,4b5,2d,4d,d,c,b5,c,b5,c,b5,c,4b5,2g5,4c,b5,4c,c,b5,c,b5,4c,b5,2d,4d,d,c,b5,4c,4c,c,b5,g5,2g5,b5,c,b5,c,b5,c,b5,c,b5,4c,b5,4d,b5,c,b5,c,b5,c,4d,d,c,b5,c,b5,g5,4g5,4d,1d,4d.,c,b5,d,4d,2d

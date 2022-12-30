@@ -1,0 +1,1 @@
+SexBomb:d=4,o=6,b=250:c,p,2a5,c,p,2a.5,2d,c,e,p,2d,p,2c,8c,8p,8c,8p,8c,8p,8c,8p,8c,8p,c,a5,c,8a5,8p,a5,g5,a5,p,c,p,2a5,c,p,2a.5,2d,c,e,p,2d,p,2c,a5,c,8a5,8p,g5,8p,g#.5,2a5

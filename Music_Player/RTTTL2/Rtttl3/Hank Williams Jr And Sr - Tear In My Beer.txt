@@ -1,0 +1,1 @@
+TearInMy:d=16,o=6,b=45:a#5,b5,8c,a#5,g5,8c,a#5,g5,c,c,a#5,g5,4c,p,4c,c,d,d,8c,32a#5,4d#

@@ -1,0 +1,1 @@
+RuleBrit:d=8,o=6,b=140:4g5,2c,2c,c,d,e,f,4g,4c,2d.,e,f,2e,4p,4g5,c,d,c,d,e,f,e,f,4g,4d,4e,4d,4c,d,e,4d,4c,2b5,4p,4g5,4b5,4g5,4d,4b5,4g,f#,e,4d,4c,2b5,4a5.,g5,1g5,4p,2c,4c.,g5,a5,p,f5,p,4p,4a5,4f.,e,4d.,c,2b5.,4a5,2g,2f,e,c,f,d,4g,4f,2e,4d.,c,2c.

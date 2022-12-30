@@ -1,0 +1,1 @@
+SilentTo:d=8,o=6,b=125:a#5,d#,f,g,f,d#,4d#.,c,4d#,2c,a#5,d#,f,4g,4d#,f,4f,4f,2d#.,4p.,4f,4f,g,4d#.,c,4c,4d#,1g,2p.,a#5,d#,f,g,f,d#,4d#.,c,4d#,2c,a#5,d#,f,4g,4d#,f,4f,4f,2d#.,4p.,4f,4f,g,4d#.,c,4c,4d#,1g

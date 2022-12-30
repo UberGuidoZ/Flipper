@@ -1,0 +1,1 @@
+Sos:d=16,o=6,b=160:g,p,g,p,g,4p,8g.,p,8g.,p,8g.,4p,g,p,g,p,g,1p,g,p,g,p,g,4p,8g.,p,8g.,p,8g.,4p,g,p,g,p,g

@@ -1,0 +1,1 @@
+Magnum:d=16,o=5,b=225:8e,8f,4g,4p,8g,2p,4p,4g,4e,4a,8g,8c,2p,4p,4e,4e,8d,4c,8d,8e,2p,4p,4c,4e,4g,4a,4g,8c,2p,4e,4e,8d,4c,8d,8c,8c

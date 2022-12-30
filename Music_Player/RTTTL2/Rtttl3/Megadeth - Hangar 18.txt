@@ -1,0 +1,1 @@
+Hangar18:d=16,o=6,b=125:a,f#,f#,f#,g,d#,d#,f#,d,d,d,d#,c,c,d,a#5,a#5,a#5,c,a#5,a5,8a#.5,a,f#,f#,f#,g,d#,d#,f#,d,d,d,d#,c,c,d,a#5,a#5,a#5,c,a#5,a5,8a#.5

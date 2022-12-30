@@ -1,0 +1,1 @@
+NothingI:d=16,o=6,b=140:c5,p,e,e,8e,e,e,c5,8c,4c,p,c5,p,e,e,8g,g,a,c5,8a,g,p,a,8p,8e,8d,8c,d,e,a5,8c,4c,p,f5,p,c,c,8d,e,e,g5,8c,c,4p,c5,p,e,e,8e,e,e,c5,8c,4c,p,c5,p,e,e,8g,g,a,c5,8a,g,p,a,8p,8e,8d,8c,d,e,a5,8c,4c,p,f5,p,c,c,8d,e,e,g5,8c,c,4p,8c5

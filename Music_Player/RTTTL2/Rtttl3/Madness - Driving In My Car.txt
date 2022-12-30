@@ -1,0 +1,1 @@
+DrivingI:d=16,o=5,b=125:d,p,d,p,e,p,e,p,f#,p,g,p,8e,1p,8p,a.,32p,g,p,f#,p,f#,p,g,p,e,p,8c,1p,8p,d,p,d,p,e,p,e,p,f#,p,g,p,8e,1p,8p,a,p,g,p,8f#,8p,g,p,e,p,4c

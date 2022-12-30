@@ -1,0 +1,1 @@
+Bullets:d=8,o=5,b=125:2a.,4a,a,a,a,a,2a#.,g,g,g,a#,a#,a,2g,p,g,4g,g,4g,g,4a,a,4a,a,2a,p,a,2a.,a,a,a,a,a,c,2a#,p,g,4g,g,4a#,a,2g,p,g,g,g,g,4g,g,4a.

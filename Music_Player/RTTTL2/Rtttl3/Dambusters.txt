@@ -1,0 +1,1 @@
+Dambuste:d=16,o=5,b=200:c,p,c,p,c,p,f,p,g,p,a#,p,4a,p,1c6,1c6,8c.6,4p,c,p,c,p,c,p,f,p,g,p,a#,p,1a,1a,2a,4p,c,p,c,p,c,p,f,p,g,p,a#,p,4a,p,8f,8p,g,p,a#,p,4a,p,8f,8p,g,p,a#,p,4a,p,8f,8p,a,p,c6,p,1d6,4d6

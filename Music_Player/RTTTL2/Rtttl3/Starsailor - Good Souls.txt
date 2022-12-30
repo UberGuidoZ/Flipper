@@ -1,0 +1,1 @@
+GoodSoul:d=8,o=6,b=80:c#,c#,4c#,c#,4d,2e,a5,e,d,c#,d,4c#,4a.,4a5,4b5,4c,b5,a5,4a.,c#,c#,4c#,c#,4d,2e,a5,e,d,c#,d,4c#,4a.,4a5,4b5,4c,b5,a5,4a.

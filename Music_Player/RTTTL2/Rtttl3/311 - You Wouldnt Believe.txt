@@ -1,0 +1,1 @@
+YouWould:d=16,o=5,b=63:g,g,g,g,8g,g,4g,g,g,g,8f#,2e,4p,g,g,g,a,a,p,a,a,a,a,4a,f#,f#,f#,8e,2d,2p,4a,b,b,b,8b,8a,8g,8g,g,d6,d6,b,d6,4c6,8p,8e6,e6,d6,d6,8c6,8b,b,c6,c6

@@ -1,0 +1,1 @@
+Mouthing:d=8,o=5,b=180:g#,c#6,p,c#6,g#,b,p,b,g#,b,p,b,g#,a#,p,g#,g#,b,b,b,g#,b,b,b,g#,c#6,c#6,c#6,g#,b,g#,p,g#,b,b,b,g#,c#6,b,p,b,p,b,b,g#,c#6,g#,p,g#,b,b,b,g#,b,b,b,g#,b,b,b,g#,c#6,g#,4p,c#6,c#6,c#6,4p.,g,g,g#,g#,2p,g,g,g#,g#,g#

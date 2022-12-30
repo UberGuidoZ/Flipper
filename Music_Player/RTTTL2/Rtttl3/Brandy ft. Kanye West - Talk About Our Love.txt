@@ -1,0 +1,1 @@
+TalkAbou:d=8,o=6,b=200:c5,2p.,p,4f,4f,4f,4f,4e,4e,2e.,4p,c5,4p.,f5,4p,d#,d#,f,p,g,p,4g.,4d#,c,g,4p,f5,d#,d#,f,p,g,p,4g.,4d#,c,f,c5,2p.,p,4f,4f,4f,4f,4e,4e,2e.,4p,c5,4p.,f5,4p,d#,d#,f,p,g,p,4g.,4d#,c,g,4p,f5,d#,d#,f,p,g,p,4g.,4d#,c,f,4c5

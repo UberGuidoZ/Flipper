@@ -1,0 +1,1 @@
+BadBabys:d=4,o=6,b=180:8d,8d,g,8g,8g,8f,8f,8d,8d,8g,8g,8g,8g,f,8f,p,8p,f7,8p,8d,8f,8d,g,8g,8g,8f,8f,8d,8d,g,8g,8g,8f,8f,8d,8d,8g,8g,8g,8g,f,8f,p,8p,f7,8p,8d,8f,8d,g

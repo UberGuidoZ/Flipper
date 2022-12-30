@@ -1,0 +1,1 @@
+FoolsGol:d=32,o=6,b=100:d.,c#.,d.,c#.,d.,p.,e.,d#.,e,d#.,e.,8p.,d#.,p,d#.,d.,p,d#.,p.,c#.,8p.,a5.,p.,d.,c#,d.,c#.,d.,8p,e.,d#.,e.,d#.,e.,8p.,d#.,p,d#.,d.,p,d#.,p,c#.,p,c#.,c.,d.,e.,8h5,4c#.

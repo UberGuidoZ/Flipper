@@ -1,0 +1,1 @@
+RisingAn:d=16,o=5,b=125:d,8f,f,p,f,8p,8f.,f,d,c6,8a#,d,f,8p,8f,f,f,f,f,f,a#,d,c6,8p,d,8f,f,p,f,8p,8f.,f,d,c6,8a#,d,f,8p,8f,f,f,f,f,f,a#,d,c6,8p,d,8f,f,p,f,8p,8f.,f,d,c6,8a#,d,f,8p,8f,f,f,f,f,f,a#,d,c6,8p,8d

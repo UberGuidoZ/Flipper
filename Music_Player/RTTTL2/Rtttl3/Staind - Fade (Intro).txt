@@ -1,0 +1,1 @@
+Fade(Int:d=4,o=5,b=125:8e,8e,8p,8e,8e,8e,8p,8e,8e,e,d,p,8e,8e,8p,8e,8e,8e,8p,8e,8e,e,c,2p,8e,8e,8p,8e,8e,8e,8p,8e,8e,e,d,p,8e,8e,8p,8e,8e,8e,8p,8e,8e,e,c

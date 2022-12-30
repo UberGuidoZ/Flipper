@@ -1,0 +1,1 @@
+MoreThan:d=4,o=5,b=90:2p,8e,8g,8g,8e,a.,8g,g,8p,8g,g,8a,g,g,g,8g,8a,8g,8f,f,8f,g

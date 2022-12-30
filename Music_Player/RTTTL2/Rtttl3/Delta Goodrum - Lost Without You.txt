@@ -1,0 +1,1 @@
+LostWith:d=8,o=6,b=160:g,p,16g,p.,16g,16p,g,16e,16p,g,p,g,p,g,4p.,16g,16p,a,p,16a,16p,a,p,16e,p.,4e,16d,16p,4b,a,16g,16p,g,p,g,p,16g,16p,g,16e,16p,g,p,g,p,g,4p.,16e,16p,e,p,16e,16p,e.,16p,4d.

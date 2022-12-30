@@ -1,0 +1,1 @@
+ManyMen:d=4,o=6,b=160:8f_,16e.,f_,2p,8p,f_,16f_.,8e,16d.,8e,16d.,8e,16d.,e,2p,p,8f_,8p,8e,8p,8d,8p,b5,b5,8d,8e,8p,f_,8b5,8p,b5,8p,b5,8b5,8p,8d,8e,f_,b5,8b5,8p,f_,8e,8d,e

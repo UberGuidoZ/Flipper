@@ -1,0 +1,1 @@
+BornToTr:d=4,o=5,b=355:a#,p,a#,2c.6,d#6,p,2d#.6,2c.6,p,d#,1p,p,d,2p,a#,p,a#,2c.6,d#6,p,2d#.6,2c6,2p,c,1p,p,c,2p,a#,p,a#,2c.6,d#6,p,2f.6,2d#.6,p,d#,1p,p,d,2p,a#,p,a#,2c.6,d#6,p,2d#.6,1p,c,1p,p,c,2p,a#,p,a#,2g6,f6,d#6,p,2f6,d#6,2f.6,p,f,1p,p,d#,2p,a#,p,a#,f6,p,f6,2d#6,2f.6,1p,d,1p,p,d,1p,p,d#

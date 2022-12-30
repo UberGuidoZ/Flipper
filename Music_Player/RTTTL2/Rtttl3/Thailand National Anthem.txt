@@ -1,0 +1,1 @@
+Thailand:d=16,o=6,b=125:d#5,8g5,p,c,4d#,8d#,p,d#,8e,p,d#,8c#,p,f,2d#,4c,8b5,p,c,8c,p,a#5,4a#5,p,a#5,8a#5,p,c,8a#5,p,g5,4g5,4p,8g5,p,b5,4d,4d,8e,p,d,8c,p,e,2d

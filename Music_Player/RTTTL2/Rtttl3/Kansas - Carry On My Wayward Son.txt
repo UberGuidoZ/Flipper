@@ -1,0 +1,1 @@
+CarryOnM:d=8,o=6,b=125:a5,c,d,c,b5,a5,4a5,a5,g5,4a5,4b5,4p,a5,c,d,c,b5,a5,4e,d,c,4c,4d,4p,f,f,e,d,d,c,4e,2d,4p,f,f,4e,d,c,2g5,4p,a5,c,d,c,b5,a5,4a5,a5,g5,4a5,4b5,4p,a5,c,d,c,b5,a5,4e,d,c,4c,4d,4p,f,f,e,d,d,c,4e,2d,4p,f,f,4e,4g,2g

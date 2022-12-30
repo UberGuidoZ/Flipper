@@ -1,0 +1,1 @@
+PuppyLov:d=4,o=7,b=450:f#,p,f#,f#,f#,p,f#,p,f#,f#,g#,a#,b,p,b,b,b,p,b,p,b,b,b,p,e,p,e,e,e,p,e,p,e,f#,g#,f#,a#,p,a#,a#,a#,p,a#,p,a#,a#,a#,p,d#,p,d#,d#,d#,p,d#,p,d#,e,f#,d#,g#,p,g#,g#,g#,p,g#,p,g#,g,f#,c#,1f#.6,d#,2p.,2e,1f#,d#,2p.,2d#,2b6,16c#,16d,d#.,d#,d#,d#,p,2d#,8d#,e.,2d#,1c#

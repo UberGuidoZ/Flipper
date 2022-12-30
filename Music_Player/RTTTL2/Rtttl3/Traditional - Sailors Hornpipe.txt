@@ -1,0 +1,1 @@
+SailorsH:d=8,o=5,b=200:f6,e6,4f6,f.,32p,4f,c6,a#,a,c6,f6.,32p,4f6,g6,f#6,4g6,g.,32p,4g,g6,f6,e6,d6,c6.,32p,4c6,d6,e6,f6,e6,d6,c6,d6,c6,a#,a,a#,a,g,f,g,f,e,d,c,d,e,f,g,a#,a,g,4a,4f,4f.

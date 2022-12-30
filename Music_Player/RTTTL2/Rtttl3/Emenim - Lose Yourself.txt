@@ -1,0 +1,1 @@
+LoseYour:d=16,o=6,b=80:8f5,g,g#,g,f,8f5,g,p,g,g#,g,f,8f5,8g#,f,d#,8f,d#,8f,p,f,d#,f,f,8c5,8p,g,g#,g,f,8f5,g,8g,g#,g,f,32d#5,32e5,f5,g#,g#,f,g#,p,g#,32d#,32e,f,g#,g#,g,f,g,g,f,8g.,8g#,8g,8g#,8g,8g#,8g,8g#,2g

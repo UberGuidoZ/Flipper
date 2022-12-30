@@ -1,0 +1,1 @@
+SoftKnoc:d=32,o=5,b=100:e,4p,e,p,e,8p,e,4p,e,8p,e,4p

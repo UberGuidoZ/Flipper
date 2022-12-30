@@ -1,0 +1,1 @@
+Selamba:d=4,o=6,b=125:8d,8c,8d,8c,8p,g5,8p,8d,8c,8d,8g,8p,e,p,8c,8d,8c,8p,g_5,8p,8d,8c,8d,8g,8p,e,p,8e,8e,8d,8p,c,8d,8p,d_,d,8c,8d_,8d,8p,c.,8c,8d,8p,c.,8g5,8g_5,8g5,8g_5,c

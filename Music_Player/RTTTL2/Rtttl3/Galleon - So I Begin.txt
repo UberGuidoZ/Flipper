@@ -1,0 +1,1 @@
+SoIBegin:d=16,o=5,b=140:4e,8p,8b,4e,8p,8b,8p,8d,8p,8e,8p,8d,8p,8e,4e,8p,8b,4e,8p,8b,8p,8d,8p,8e,8p,8d,8p,8e,4e,8p,8b,4e,8p,8b,8p,8d,8p,8e,8p,8d,8p,8e,4b,8p,8d,4b,8p,8d,8b,8p,8b,8p,8b,8p,8b

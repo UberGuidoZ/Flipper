@@ -1,0 +1,1 @@
+SayTen:d=8,o=5,b=200:g,4g,f#,g,4p,a,4a,g#,a,4p,c6,4c6,d6,4c6,4g,4g,4f#,4g,4p

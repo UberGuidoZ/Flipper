@@ -1,0 +1,1 @@
+Hungaria:d=16,o=6,b=140:4g.5,8c,4d#.,8c,4b.5,c,d,2c,4g#.5,a#5,c,4g.5,8p,f5,d#5,d5,c5,8c.5,g5,2c5,4g.5,c,d#,4g.,8d#,4d.,d#,f,2d#,g#,a#,c7,g#,g,g#,a#,g,f,g,g#,f,d#,f,g,d#,f,d#,d#,d,8d.,g,4c,4p,4g,4g,4g#.,8g,8p,8f,8p,e,f,g,f,e,g,f,4p,4f,4f,4g.,8f,8p,8d#,8p,8d#,f,d#,d,f,4d#,4p,4d.,4d.,4f,4d#.,4d,4d,4c.,8b5,8c,8d,8c,8b5,4c,4g

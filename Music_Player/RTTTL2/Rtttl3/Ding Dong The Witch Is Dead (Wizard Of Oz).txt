@@ -1,0 +1,1 @@
+DingDong:d=32,o=5,b=50:16g#.,16g#,f,f#,g#,p,16f.,f,d#,p,16c#,d#,f,d#,p,16c#.,16g#.,16g#,f,f#,g#,p,b,a#,p,4g#

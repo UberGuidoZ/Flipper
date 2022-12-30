@@ -1,0 +1,1 @@
+LookAtMe:d=8,o=5,b=125:4a,c6,a,d#6,4e6,4a,a,c6,a,d#,4e,e,4a,c6,a,d#6,4e6,4a,a,c6,a,d#,4e,e

@@ -1,0 +1,1 @@
+Crockett:d=8,o=5,b=125:e6,d6,4b,g,4a.,g,4a.,4a,g,4a.,4g,4a,g,4e.,p,e6,d6,4b,g,4a.,g,4a.,4a,g,4a.,a,b,4c6,c6,d6,e6,c6,d6,2g

@@ -1,0 +1,1 @@
+Rhinesto:d=8,o=6,b=125:g5,16g5,a5,b5,4c,4d,4e,2g5,e,f.,f,2e,4p,c,d,e.,32p,d,16e,32p,d,16e,32p,d,4e,d,c,16e,32p,d,16e,32p,d,16e,32p,d,16e,32p,f,4g,c,2d,p,16c.,d,e,4d.,g5,16g5,a5,b5,4c,4d,4e,2g5,e,f.,f,2e,e,d,c,d,e.,32p,d,16e,32p,d,16e,32p,d,4e,d,c,16e,32p,d,16e,32p,d,16e,32p,d,16e,32p,f,4g,c,2d.,4p,16b5,16c,d,4d,16d,16d,d.,c.,b5,4c,p,4e.5,4d5,4c5

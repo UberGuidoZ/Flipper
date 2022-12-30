@@ -1,0 +1,1 @@
+ShotShot:d=8,o=5,b=125:d,d,d,16d,f#,16d,d,d,16d,f#,16d,d,d,16d,16d,f,f,f,f,d,d,d,16d,f#,16d,d,d,16d,f#,16d,d,d,16d,16d,f,f,f,f,d,d,d,16d,f#,16d,d,d,16d,f#,16d,d,d,16d,16d,f,f,f,f,d,d,d,16d,f#,16d,d,d,16d,f#,16d,d,d,d,4f

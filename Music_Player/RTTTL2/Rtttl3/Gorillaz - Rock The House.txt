@@ -1,0 +1,1 @@
+RockTheH:d=2,o=5,b=255:4d,4f,4a,c6,b,g,d,4f,g,a,4d,4f,4a,c6,b,4d6,b,a,4p,4d,4f,4a,c6,b,g,d,4f,g,a,4d,4f,4a,c6,b,4d6,b,a,4p,4d,4f,4a,c6,b,g,d,4f,g,a,4d,4f,4a,c6,b,4d6,b,a.

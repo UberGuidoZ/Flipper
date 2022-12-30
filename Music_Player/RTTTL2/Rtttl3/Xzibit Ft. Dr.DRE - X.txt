@@ -1,0 +1,1 @@
+X:d=4,o=5,b=90bpm:8a,8p,8a,8p,8a,8p,8a,8e,8a,8p,8a,8p,8a,8p,8a,8e,8a,8p,8a,8p,8a,8p,8a,8e,c6,8b,8a,8a

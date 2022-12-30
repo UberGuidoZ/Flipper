@@ -1,0 +1,1 @@
+WhoDoYou:d=8,o=5,b=140:f,g#,4a#,f,4g#,g#,g#,4g,2g#,f,g#,4a#,f,4g#,4d#,2f.,f,g#,4a#,f,4g#,4g#,4g,2g#,4g,2g#,2p,d#.,c#.,c,4c,c#,2c.,d#.,c#.,c,4c,c#,2c.,d#.,c#.,c,4c,c#,2c.,d#.,c#.,c,4c,c#,2c.,d#.,c#.,c,4c,c#,2c.,d#.,c#.,c,4c,c#,2c.

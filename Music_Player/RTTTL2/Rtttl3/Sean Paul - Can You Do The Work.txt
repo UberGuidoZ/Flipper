@@ -1,0 +1,1 @@
+CanYouDo:d=4,o=5,b=180:8a#,8a#,8a#,8a#,c6,a#,8g,8g,8g,8g,g,p,8a#,8a#,8a#,8a#,c6,a#,8g,8g,g,g,8p,8a#,8a#,8a#,8a#,8a#,c6,a#,8g,8g,g,g,8p,8a#,8a#,8a#,8a#,8a#,c6,a#,8g,8g,g,g,p,8a#,8a#,8a#,8a#,c6,a#,8g,8g,8g,8g,g,p,8a#,8a#,8a#,8a#,c6,a#,8g,8g,g,g,8p,8a#,8a#,8a#,8a#,8a#,c6,a#,8g,8g,g,g,8p,8a#,8a#,8a#,8a#,8a#,c6,a#,8g,8g,g,g,p

@@ -1,0 +1,1 @@
+Madagasc:d=32,o=5,b=125:d#,b,d#,16p,d#,b,d#,16p,f,c#,f,16p,f,c#,f,16p,f#,d#,f#,16p,f#,d#,f#,16p,a#,f#,a#,16p,a#,f#,a#,16p,a#,f#,a#,16p,a#,f#,a#,16p,f#,d#,f#,16p,f#,d#,f#,16p,d#,b

@@ -1,0 +1,1 @@
+ThePride:d=4,o=5,b=200:b.,8b,b,a,g,8a,g.,e,d,e,d,b4,1d,g.,8g,g,g,f#,g,a,b,2g.,g,2a,a.,8g,f#,2a.,2a,a.,8g,f#,2a.,8a,8a,8a,8a,8a,8b,g,f#,f#,e,d,1b.,p,d6,8d6,2d6,8p,b,c6,2c6,a,8g,g,g.,f#,d,2d,c6,8d6,d6,d.6,b,a,f#,e,d,1g

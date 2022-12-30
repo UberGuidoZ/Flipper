@@ -1,0 +1,1 @@
+DilToPaa:d=16,o=6,b=63:a5,b5,c,8a5,8e,8d.,c,4b5,p,a5,b5,c,8a5,8f,4e,8p,a5,b5,c,8a5,8e,8d.,c,8b.5,32p,c,d,e,b5,8c,8b5,8a.5

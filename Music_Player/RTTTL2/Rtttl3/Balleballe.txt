@@ -1,0 +1,1 @@
+Ballebal:d=8,o=5,b=140:16g,16g,a.,16a,a,a,a,4b,16g,16g,a.,16a,a,a,a,2b,c6,c6,c6,b,b,b,a,g.,16a,b,a,a,b,b,a,e6,b,b,b,b,d6,b,a,g,a,b,a,2a

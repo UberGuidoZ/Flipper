@@ -1,0 +1,1 @@
+BirdSong:d=32,o=7,b=225:16a#,f,16p,16a#,f,16p,a#,b,f,4p,a#,f,b,f,b,f,4p,a#,f,b,f,b,f,4p,f,b,f,a,4p,16a#,f,16p,16a#,f,4p,a#,f,b,f,b,f,4p,4p

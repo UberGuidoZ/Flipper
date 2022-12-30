@@ -1,0 +1,1 @@
+SacredTr:d=4,o=5,b=112:8a,8c#6,8d6,8e6,a,8p,8a,8f#,8g#,8a,e,8p,8e,8c#6,8d6,8e6,d6,c#6,2b,2p,8a,8c#6,8d6,8e6,a,8p,8a,8f#,8g#,8a,e,8p,8e,8f#,a,d6,c#6,2b,p,8e,8f#,a,d6,c#6,2a

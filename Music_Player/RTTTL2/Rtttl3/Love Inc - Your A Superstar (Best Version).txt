@@ -1,0 +1,1 @@
+YourASup:d=8,o=6,b=125:c7,c7,b,b,g,g,g,g,16c5,16p,16c5,p.,16c5,p.,16c5,p.,16c5,16p,c7,c7,b,b,g,g,g,g,16c5,16p,16c5,p.,16c5,p.,16c5,p.,16c5,16p,c7,c7,b,b,e,e,e,e,16c5,16p,16c5,p.,16c5,p.,16c5,p.,16c5,16p,f,f,e,e,c,c,c,c,16c5,16p,16c5,p.,16c5,p.,16c5,p.,16c5

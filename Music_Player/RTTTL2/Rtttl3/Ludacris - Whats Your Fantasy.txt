@@ -1,0 +1,1 @@
+WhatsYou:d=8,o=5,b=125:16b,16b,d#,e,d#,g#,d#,e,f#,e,d#,c#,d#,g#,16b,16p,16b,16p,16b,16p,16b,16b,d#,e,d#,g#,d#,e,f#,e,d#,c#,d#,g#,16b,16p,16b,16p,16b,16p,16b,16b,d#,e,d#,g#,d#,e,f#,e,d#,c#,d#,e,16b,16b,16b,16p,16b,16b

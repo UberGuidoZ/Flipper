@@ -1,0 +1,1 @@
+Operatio:d=16,o=5,b=125:g#7,g#,g#6,g#7,g#,g#6,g#7,g#,g#,g#6,b7,b,b6,b7,b,b7,g#7,g#,g#6,g#7,g#,g#6,g#7,g#,g#,g#6,b7,b,b6,b7,b,b7,g#7,g#,g#6,g#7,g#,g#6,g#7,g#,g#,g#6,b7,b,b6,b7,b,b7,g#7,2g#

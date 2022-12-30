@@ -1,0 +1,1 @@
+SpyHunte:d=16,o=5,b=100:f,32p,f,32p,g,32p,f,32p,32g#,a,f,32p,a#,32p,a,32p,f,32p,f,32p,g,32p,f,32p,32g#,32p,a,f,32p,a#,32p,a

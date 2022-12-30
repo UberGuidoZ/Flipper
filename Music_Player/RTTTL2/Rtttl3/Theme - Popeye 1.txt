@@ -1,0 +1,1 @@
+Popeye1:d=32,o=5,b=225:8g#,p,4g#,p,8g#,p,4f#,p,4f,p,2g#,8p,4g#,p,8a#,p,4f#,p,8a#,p,4c#6,p,4a#,p,2g#,8p,4g#,p,8a#,p,4f#,p,8a#,p,4c#6,p,4a#,p,8g#,p,4g#,p,8g#,p,4f,p,4c#,p,8g#,p,4g#,p,8g#,p,4f#,p,4f,p,2c#

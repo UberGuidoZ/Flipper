@@ -1,0 +1,1 @@
+TakeMeOu:d=8,o=7,b=125:g,4e,d,16d,e.,g5,e5,g,4e,16d,d,e.,g5,a5,g,4e,4a5,a5,a5,4b5,4b5,d,16d,e.,d5,e5,g,4e,d,16d,e.,g5,e5,g,4e,16d,d,e.,g5,a5,g,4e,4a5,a5,a5,4b5,4b5,d,16d,e

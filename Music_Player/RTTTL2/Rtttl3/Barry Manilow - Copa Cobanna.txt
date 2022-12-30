@@ -1,0 +1,1 @@
+CopaCoba:d=8,o=5,b=120:32p,c,d#,f,g#.,2c#,g#,g,f,g.,2c,16p,16c,d#,f,g,16g#,g,g#,4g,16p,d#,h4,16d,16p,16d,16p,d,16c,d,16p,c,d#,f,g#.,4c#.,16p,16g,g#,g,f,g.,2c,16p,16c,d#,f,g,16g#,g,g#,4g,16p,d#,h4,c,16d,d#,f,g.,d#,c,g4,h4.,d,16p,4c,d#,c,g4,h4.,d,16p,4c,p,c,g4,g#4,16a#4,16c,d,16d#,f.,d,f,f,g.,16p,g.,16p,g

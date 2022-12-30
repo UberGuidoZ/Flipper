@@ -1,0 +1,1 @@
+ThinkTwi:d=4,o=6,b=225:g5,p,p,g5,a5,p,g5,p,f_5,e5,d5,p,e5,p,p,p,g5,p,p,g5,a5,p,g5,p,f_5,e5,d5,p,c5,p,p,p,g5,p,p,g5,a5,p,g5,p,f_5,e5,d5,p,e5,p,p,p,e5,e5

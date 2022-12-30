@@ -1,0 +1,1 @@
+YouRemin:d=8,o=6,b=90:d#,d,d#.,16g5,g5,f,d#.,16g5,f,16f,16f,16f,16f,a5,a#5,f,4d#,d#,d,4d#,g5,f,4d#,f,16f,16f,16f,16f,a5,a#5,f,d#,d#,d#,a#,4f,d#,a#,f.,16d#,16f,16d#,16f,16d#,f,a5,a#5,f,d#,p,a5,a#5,f,d#,d#,d,4d,a#5,a#5,a#5,16d#,d,d,4c

@@ -1,0 +1,1 @@
+EyesOnYo:d=4,o=5,b=180:f,g#,a#,8a#,g#.,p,a#,a#,a#,g#,a#,8a#,g#.,8f,8g#,a#,c6,a#,g#,a#,8a#,g#.,p,a#,8a#,g#.,p,a#,8a#,g#.,c6,c6,a#,f,g#,a#,8a#,g#.,p,a#,a#,a#,g#,a#,8a#,g#.,8f,8g#,a#,c6,a#,g#,a#,8a#,g#.,p,a#,8a#,g#.,p,a#,8a#,g#.,c6,c6,a#

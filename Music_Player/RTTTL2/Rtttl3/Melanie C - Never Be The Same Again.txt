@@ -1,0 +1,1 @@
+NeverBeT:d=8,o=5,b=80:a#,c,d,d#,d,d#,f.,f.,g,p,g,g,g,g,g,g,16a,4a#,g,g,16f,16f,16f,16f,f,16f#,16g,p,g,g,16g,16g,16g,16g,g,g,16a,4a#,32p,g,g,16f,16f,16f,16f,f,16f#,16g,p,g,g,g,g,g,g,16a,4a#

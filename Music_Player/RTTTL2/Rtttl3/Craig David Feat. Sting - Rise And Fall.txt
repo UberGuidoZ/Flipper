@@ -1,0 +1,1 @@
+RiseAndF:d=4,o=5,b=180:8g#,a,8g#,a,8g#,a,8g#,a,8g#,a,2b,2p,f#,8g#,a,8g#,a,8g#,a,8g#,g#,8f#,2f#,2p,f#,8g#,a,8g#,a,8g#,a,b,p,8f#,8g#,a,g#,a,g#,a,b,8p,f#,8g#,2g#,2p,8f#,f#,8g#,2a

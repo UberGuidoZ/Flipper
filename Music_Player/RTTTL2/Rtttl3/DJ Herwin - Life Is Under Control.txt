@@ -1,0 +1,1 @@
+LifeIsUn:d=4,o=6,b=225:8f,8d,8p,8f,8d,8p,8f,8d,8f,8d,8p,8f,8d,8p,8f,8d,8p,8f,8d,8f,8d,8p,8f,8d,8a,8f,8p,8f,8d,8a,8f,8p,8f,8a,8d,8f,8p,8f,8d,8p,8f,8d,8p,8f,8a,8d,8f,8p,8f,8d

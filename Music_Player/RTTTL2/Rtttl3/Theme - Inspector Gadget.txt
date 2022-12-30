@@ -1,0 +1,1 @@
+Inspecto:d=4,o=5,b=320:c#,8d#,e,8f#,g#,8p,8e,p,g,8p,8d#,p,f#.,8e,p,c#,8d#,e,8f#,g#,8p,8c#6,p,2c.6,p,2p,c#,8d#,8e,8p,8f#,g#,8p,8e,p,g,8p,8d#,p,f#.,e.,c#,1p,2p,8p,c.,c#,2p,c#,8d#,e,8f#,g#,8p,8e,p,g,8p,8d#,p,f#.,8e,p,c#,8d#,e,8f#,g#,8p,8c#6,p,2c.6,p,2p,c#,8d#,8e,8p,8f#,g#,8p,8e,p,g,8p,8d#,p,f#.,e.,c#,1p,2p,8p,c.,c#

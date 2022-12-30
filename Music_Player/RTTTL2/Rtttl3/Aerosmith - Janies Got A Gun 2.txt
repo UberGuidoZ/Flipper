@@ -1,0 +1,1 @@
+JaniesGo:d=4,o=5,b=140:f,f,8f6,8g6,8a6,a#6,2g6,c,g,c,c6,8c,8c,8c,f,f,8f6,8g6,8a6,a#6,2g6,c,g,c,c6,8c,8c,8c6,f6,g6,8a6,a#6,2g6,c,g,c,c6,8c,8c,8c6,f6,f6,g6,8a6,a#6,2g6,c,g,c,c6,8c,8c,8c,8a,8a,8a#,8a,8c6,8d6,8c6,2e6,c,g,c,c6,8c,8c,8c,8a,8a,8a#,8a,8c6,8d6,8c6,2e6,c,g,c,c6,8e6,8e6,8f6,8a6,8f6,8f6,8f6,8f6,2f6,8f6,8a#6,8a#6,8a#6,8a#6,8a#6,8a#6,16a6,16g6,f6

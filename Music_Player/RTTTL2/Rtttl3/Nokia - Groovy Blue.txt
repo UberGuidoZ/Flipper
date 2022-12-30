@@ -1,0 +1,1 @@
+GroovyBl:d=32,o=6,b=112:p,16g,16a#,16g,a#.,16f.,a,8p.,a,8p.,a,8p,a,8p,a,8p.,a,a#.,a.,a,8a#,a,8g#,a,8p.,a,8p.,a,8p.,a,8p.,a,8p.,a,8p,16g,16a#,16g,16a#,16f,a,8p.,a,8p.,a,8p,a,8p,a,8p.

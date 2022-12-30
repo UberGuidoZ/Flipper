@@ -1,0 +1,1 @@
+TubularB:d=4,o=5,b=285:c,f,c,g,c,d#,f,c,g#,c,a#,c,g,g#,c,g,c,f,c,g,c,d#,f,c,g#,c,a#,c,g,g#,c,g,c,f,c,g,c,d#,f,c,g#,c,a#,c,g,g#,c,g,c,f,c,g,c,d#,f,c,g#,c,a#,c,g,g#,c,g

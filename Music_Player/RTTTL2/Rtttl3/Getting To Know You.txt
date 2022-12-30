@@ -1,0 +1,1 @@
+GettingT:d=16,o=5,b=180:e.,f,g.,2c6,2c6,e.,f,g.,4c6,4c.6,e,p,2g,2g.,2p,f.,g,a.,2d6,2d6,f.,g,a.,4d6,4d6,8p,8f,2e.,1p,e.,f,g.,2c6,2c6,e.,f,g.,4c6,4c.6,e,p,2a,2a.,2p,a.,b,c.6,2d6,2d6,4p,8e.6,p,8c.6,p,8a.,p,2f.

@@ -1,0 +1,1 @@
+CrossTow:d=8,o=5,b=180:f,g,a#,p,f,d#,c,p,4f,4p,4d#,1p.,2p,p,f,g,a#,p,f,d#,c,p,4f,4p,4d#

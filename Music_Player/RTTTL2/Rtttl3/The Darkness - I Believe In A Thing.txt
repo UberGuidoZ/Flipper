@@ -1,0 +1,1 @@
+IBelieve:d=4,o=5,b=100:8p,p,8e6,8e6,8p,e.6,d6,d6,8c6,d6,8e6,p,8e6,8e6,8p,e.6,d6,d6,8d6,c6,8a,p,8a,8c6,8p,e.6,d6,d6,8c6,f.,p,8a,8c6,8p,e.6,d6,d6,8e6,8c6,8c,8p,p,8e6,8e6,8p,e.6,d6,d6,8c6,d6,8e6,p,8e6,8e6,8p,e.6,d6,d6,8d6,c6,8a,p,8a,8c6,8p,e.6,d6,d6,8c6,f.,p,8a,8c6,8p,e.6,d6,d6,8e6,c.6

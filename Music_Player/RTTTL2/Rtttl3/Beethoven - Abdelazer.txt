@@ -1,0 +1,1 @@
+Abdelaze:d=8,o=5,b=160:32p,2d,2f,2a,4d6,e6,f6,g6,f6,e6,d6,2c#6,4a6,d6,f6,a6,f6,4d6,2a6,4g6,c6,e6,g6,e6,4c6,2a6,4f6,b,d6,f6,d6,4b,2g6,4e6,a,c#6,e6,c6,4a,2f6,e6,f6,e6,d6,4c#6,4f6,e6,f6,e6,d6,4a,4d6,c#6,d6,e6,d6,2d6

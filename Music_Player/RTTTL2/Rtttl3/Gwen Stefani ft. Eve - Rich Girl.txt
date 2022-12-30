@@ -1,0 +1,1 @@
+RichGirl:d=16,o=5,b=100:a,g,a,g,8f#,8d,8p,f#,g,a,g,a,g,f#,g,a,b,c6,b,c6,b,4a,8p,8a,8a#,8a,8g,8f,f,e,d,e,4f,f,e,d,e,8f,8d,4a,4g,a,g,a,g,8f#,8d,8p,f#,g,a,g,a,g,f#,g,a,b,c6,b,c6,b,4a,8p,8a,8a#,8a,8g,8f,f,e,d,e,4f,f,e,d,e,8f,8d,4a,4g,4f,4e,2d

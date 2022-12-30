@@ -1,0 +1,1 @@
+CloseEnc:d=8,o=6,b=125:4g,4a,4f,4f5,2c,1p

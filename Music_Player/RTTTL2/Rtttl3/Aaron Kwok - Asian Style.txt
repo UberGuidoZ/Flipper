@@ -1,0 +1,1 @@
+AsianSty:d=4,o=6,b=100:2d,2d,e5,8p,f5,e,8c,8g,8g,8a,p,2d,2d_,d,2e_,8e5,16f,16f,16p,16g,16g,c,c,16b_,16b

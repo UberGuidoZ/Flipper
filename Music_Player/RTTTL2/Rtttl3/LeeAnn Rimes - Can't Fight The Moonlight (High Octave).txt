@@ -1,0 +1,1 @@
+Can'tFig:d=8,o=7,b=112:d#,f,g,p,d#,f,g,p,d#,f,4g#,g,f,4f,d#,g,f,p,d#,g,4f,d#,4c,p,g,f,c,4d#,f,g,p,d#,f,g,p,d#,f,4g#,g,f,4f,d#,g,f,p,d#,g,4f

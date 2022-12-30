@@ -1,0 +1,1 @@
+RockDaFu:d=16,o=5,b=125:d6,d6,d6,b,b,b,c#6,c#6,c#6,c#6,a,a,a,8b,b,b,b,b,b,b,8c#6,f#,f#,f#,f#,f#,f#,8f#,e,e,e,e,e,e,8e,e,e,e,e,e,e,8e,e,e,e,e,e,e,8e,e,e,e,e,e,e,8e.,d6,d6,d6,b,b,b,c#6,c#6,c#6,c#6,a,a,a,8b,b,b,b,b,b,b,8c#6,f#,f#,f#,f#,f#,f#,8f#,e,e,e,e,e,e,8e

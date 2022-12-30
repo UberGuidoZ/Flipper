@@ -1,0 +1,1 @@
+FirstAnd:d=4,o=5,b=250:d,d,a,f,g,g,8e,8d,c,d,d,a,f,g,g,8e,8d,c,d,d,a,f,g,g,8e,8d,c,c,d,8e,8f,2d,d6,d,d6,d,d,a,f,g,g,8e,8d,c,d,d,a,f,g,g,8e,8d,c,d,d,a,f,g,g,8e,8d,c,c,d,8e,8f,2d,d6,d,d6

@@ -1,0 +1,1 @@
+Sunshine:d=8,o=5,b=200:a,p,2g,2p,g,g,g,p,4g,a,p,4a,g,4g,4p.,g,g,g,p,g,p,a,p,4a,g,4g.,4p,g,g,g,g,g,p,a,p,2f#,2p,d,d,d,p,4d,a,p,2g

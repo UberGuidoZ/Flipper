@@ -1,0 +1,1 @@
+Bod:d=8,o=5,b=250:a,b,a,4c#6,a,4c#6,c#6,4b,16a,16b,16a,e,4p,e,f#,e,4g,4g,4g,4f#,e,2p,a,b,a,4c#6,a,4c#6,c#6,4b,16a,16b,16a,e,4p,e,f#,e,4g,4g,4g,4g,g#,a,b,4e,4p,a,c#6,a,p,f#,e,4p,a,c#6,a,p,f#,e,4p.,4f#,4a,4a,4b,4c6,b,a,p,a,b,a,4c#6,a,4c#6,c#6,4b,16a,16b,16a,e,4p,e,f#,e,4g,4g,4g,4g#,a

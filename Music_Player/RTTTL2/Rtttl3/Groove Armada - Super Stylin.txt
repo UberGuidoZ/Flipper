@@ -1,0 +1,1 @@
+SuperSty:d=8,o=6,b=140:c,c,c,c,c,c,c,4c,c,4a#5,4a#.5,p,c,c,c,c,c,c,c,4c,c,4a#5,4c.,p,c,c,c,c,c,c,c,4c,c,4a#5,4a#.5,p,c,c,c,c,c,c,c,4c,c,4a#5,4c.

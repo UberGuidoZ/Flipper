@@ -1,0 +1,1 @@
+UncleJoh:d=32,o=5,b=50:d,p,d,e,p,f#,p,16g.,p,16a,b,a,p,16f#.,e,p,d,p,e,p,d,p,16p,f#,p,16d.,e,p,f#,p,16g.,p,a,b,p,a,p,16f#.,e,p,d,p,e,p,d,p,e,p,d,d,p,d,p,d,e,p,f#,p,16g.,p,16a,b,a,p,16f#.,e,p,16p,p,d,p,e,p,d,f#,p,16d.,e,p,f#,p,16g.,p,a,b,p,a,p,16f#.,e,p,d,p,e,p,d,p,e,p

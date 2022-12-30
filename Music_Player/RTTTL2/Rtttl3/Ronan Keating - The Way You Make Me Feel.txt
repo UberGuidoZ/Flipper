@@ -1,0 +1,1 @@
+TheWayYo:d=32,o=5,b=40:a4,a4,16b4,d,16d,16b4,4d,a4,f#,f#,f#,16f#,e,d,16e,4d,f#,f#,f#,16f#,e,d,4d,f#,16f#,16f#,e,d,16e,16d,16b4,8a4,a4,a4,a4,16b4,d,16d,8b4,p,a4,a4,f#,f#,f#,16f#,e,d,16e,4d,a4,a4,a4,16b4,d,16d,8b.4

@@ -1,0 +1,1 @@
+DanceToM:d=4,o=5,b=160:8a,p,2a#,p,32b#6,2a,d6,2e,2a,c7,c7,c7,2a,16p,2a7

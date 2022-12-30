@@ -1,0 +1,1 @@
+Slovenia:d=8,o=5,b=90:4g,c6,16p,16c6,b,b,4a,b,b,g,16p,16g,a,a,4e,4f,2g,4p,4g,4c6,p,c6,4d6,e6,p,4e6,4d6,4c6,4b,d6,a,g#,a,4d6,c6,a,2g

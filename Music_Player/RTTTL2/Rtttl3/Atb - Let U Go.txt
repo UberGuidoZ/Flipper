@@ -1,0 +1,1 @@
+LetUGo:d=4,o=6,b=180:e,b,a,g,a,b,a,2p,a,g,g,g,g,a,b,a,1p,e,b,a,a,b,a,2p,a,g,g,g,g,b,b,e

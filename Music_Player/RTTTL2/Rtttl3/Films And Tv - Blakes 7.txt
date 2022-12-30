@@ -1,0 +1,1 @@
+Blakes7:d=4,o=5,b=160:f,g,a#.,8a,1a,f,g,a#.,8a,1e,f,g,a#.,8a,1a,c6,a#,a.,8g,1e

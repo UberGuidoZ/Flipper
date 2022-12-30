@@ -1,0 +1,1 @@
+CarteBla:d=8,o=6,b=140:f,1p,f,2p,c#,d#,c#,d#.,f.,c#,d#.,f.,a#5,c.,c#.,a#5,c.,c#.,c,c#,1p,c#,2p,c#,d#,c#,d#.,f.,c#,d#.,f.,a#5,c.,c#.,a#5,c.,c#.,g#,f

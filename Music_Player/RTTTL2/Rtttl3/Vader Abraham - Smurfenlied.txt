@@ -1,0 +1,1 @@
+Smurfenl:d=16,o=5,b=180:4g,8g,8g,4g,4d,4e,4c,2d,4b,4b,8b,8a,4g,4a,4f#,2g,4g,8g,8g,4g,4d,4e,4c,2d,8b,8b,4b,4b,4g,8a,8g,4f#,2g,4g,4a,8b,8b,8b,8b,8c6,4b,4a,4g

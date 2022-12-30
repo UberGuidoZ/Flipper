@@ -1,0 +1,1 @@
+Bewitche:d=16,o=5,b=160:4c,8d,2p,4a4,p,g.4,2p,4c,d.,8p,d.,8p,d.,8p,8a4,32p,g.4,2p,4d,8e,2p,4b4,p,a.4,2p,4d,p,e.,8p,e.,8p,e.,8p,8b4,p,a4,1p,8e6,f6,8d6,8p,8e6,f6,8d6,32p,g6,8p,g.6,8p,8f6,8e.6,d6,4p,a#,8p,c6,32p,4a,8a#,32p,8g

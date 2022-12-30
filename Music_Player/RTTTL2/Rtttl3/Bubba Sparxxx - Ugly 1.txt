@@ -1,0 +1,1 @@
+Ugly1:d=16,o=6,b=255:4e,e,e,e,4e,4g#,4d#,d#,d#,d#,4d#,4e,4e,4e,4c#,4p,4e,e,e,e,4e,4g#,4d#,d#,d#,d#,4d#,4e,4e,4e,4c#,4p,4e,e,e,e,4e,4g#,4d#,d#,d#,d#,4d#,4e,4e,4e,4c#,4p,4e,e,e,e,4e,4g#,4d#,d#,d#,d#,4d#,4e,4e,4e,4c#

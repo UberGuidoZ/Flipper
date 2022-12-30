@@ -1,0 +1,1 @@
+MainStre:d=16,o=6,b=125:8g,8d,8g,8a,8b,8d7,8c7,8a,8b,8g,8e,8a,8f#,8e,f#,e,8d,8g,8d,8g,8a,8b,8d7,8c7,8a,8b,8g,8e,8a,f#,e,f#,d,8g,8p,g,p,b,c7,8d7,g,p,8e,a,g,f#,e,f#,d,g,p,g,a,b,a,g,f#,8e,a,p,f#,e,f#,d,g,p,b,c7,8d7,g,p,8e,a,g,f#,e,f#,d,g,a,b,g,a,b,a,g,f#,e,f#,d,c7

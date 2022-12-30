@@ -1,0 +1,1 @@
+1234GetW:d=8,o=5,b=112:a#4,c#,f,c#,c,g,p,2g#.,c,g,g#,a#4,c#,f,c#,c,g,p,4g#.,16p,g#,d#6,c#6,c6,a#,a#4,c#,f,c#,c,g,p,2g#.,c,g,g#,a#4,c#,f,c#,c,g,p,4g#.,16p,g#,d#6,c#6,c6,a#

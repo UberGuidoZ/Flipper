@@ -1,0 +1,1 @@
+Complete:d=4,o=5,b=180:d6,g6,f#6,d6,8g,8p,g6,f#6,d6,8c,8p,e6,8c,8p,p,8c,8p,p,c,p,d6,g6,f#6,d6,8g,8p,g6,f#6,d6,8c,8c6,b,8c,8p,p,8c,8p,p,c,d6,d6,g,g,d6,16g,16p,8p,g,g,d6,8c,8p,e6,b,8c6,8b,8c,8p,p,16g,16p,8p,16g,16p,8p,d6,g,g,d6,16g,16p,8p,e6,b,8c6,2b,8p,8c,8p,p,8c,8p,p,8c,8p,p,g

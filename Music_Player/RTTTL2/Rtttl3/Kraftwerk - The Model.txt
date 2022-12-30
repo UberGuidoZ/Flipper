@@ -1,0 +1,1 @@
+TheModel:d=8,o=5,b=125:4a.,a,c6,a,c6,a,4e.,e,g,e,4g,4a.,a,c6,a,c6,a,4e.,e,g,e,4g,4a,4a,a,c6,b,a,4b.,g,4e.,e,2a,c6,b,a,4b.,g,2e,4a,4a,a,c6,b,a,4b.,g,4e.,e,2a,c6,b,a,4b.,g,4e

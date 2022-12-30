@@ -1,0 +1,1 @@
+Jumpin2:d=8,o=5,b=180:c#6,c#6,c#6,c#6,4g#,g#,a,4p,p,g#,4a,4b,g#,g#,g#,g#,g#,g#,g#,4a,4p,p,g#,g#,g#,c#6,c#6,c#6,c#6,g#,g#,g#,a,4p,p,g#,4a,4b,4g#,g#,g#,g#,g#,4g#,4g#,4f#,4e,4d#,2c#

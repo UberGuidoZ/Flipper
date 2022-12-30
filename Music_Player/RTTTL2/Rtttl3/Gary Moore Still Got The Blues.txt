@@ -1,0 +1,1 @@
+GaryMoor:d=8,o=6,b=180:a5,d,e,4f,p,f,e,4d,p,g5,c,d,4e,p,f,e,d,4c,p,a5,b5,c,4d,p,d,c,4b5,p,a5,g5,4a5

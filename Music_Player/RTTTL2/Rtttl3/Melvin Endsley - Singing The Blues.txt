@@ -1,0 +1,1 @@
+SingingT:d=32,o=6,b=125:16b5.,8d,p,d,p.,8d,p,4d,p,8d,p,4e,p,e,p.,8e,p,2e,p,16e,p,8d,p,d,p.,8d,p,2d,16p,8c,p,16c,p,8c#,p,4d,p,4b5,16p,4d,4c,8p.,16d,p,8d,p,16d,8c,32p,16d,p,4d,2d

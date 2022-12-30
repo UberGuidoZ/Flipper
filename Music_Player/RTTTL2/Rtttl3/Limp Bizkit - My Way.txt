@@ -1,0 +1,1 @@
+MyWay:d=16,o=5,b=100:32p,8a,8f#,f#,f#,f#,f#,8a,8f#,8f#,8p,8g,8g,g,g,g,g,8g,8a,8f#,8p,f#,f#,8f#,8f#,8a,8f#,8p,8f#,8g,8g,8p,8c,8c,c,c,8f,8d

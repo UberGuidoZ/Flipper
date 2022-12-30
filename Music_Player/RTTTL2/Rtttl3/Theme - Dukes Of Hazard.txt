@@ -1,0 +1,1 @@
+DukesOfH:d=8,o=5,b=160:a,c6,d6,4c6,16a,16g,1f,4p,a,c6,d6,4c6,16a,16g,1f.,4p,g#,4g#,f,g#,g,4f,f,f,d#,d,c,a,4c,c,c,d,f,d,1f,2p

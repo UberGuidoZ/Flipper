@@ -1,0 +1,1 @@
+3Musketi:d=16,o=5,b=140:4c,4d,4e,4f,4g,4a,4b,4c6,1a.,2p,4c,4d,4e,4f,4g,4a,4c.6,8b,8b,1a.,8p,4p,4c,4d,4e,4f,4g,4a,4b,4c6,1a.,2p,4c,4d,4e,4f,4g,4a,4c.6,8b,8b,1a.,4p,8p,4c,4d,4e,4f,4g,4a,4b,4c6,1a.,2p,4c,4d,4e,4f,4g,4a,4c.6,8b,8b,1a.,8p,4p

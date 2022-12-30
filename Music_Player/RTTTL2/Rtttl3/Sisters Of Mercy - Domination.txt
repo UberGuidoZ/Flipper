@@ -1,0 +1,1 @@
+Dominati:d=4,o=5,b=250:g,d6,2g6,g,d6,2f6,g,d6,2f6,g,d6,f6,e6,2e6,2e6,g,d6,2g6,g,d6,2f6,g,d6,2f6,g,d6,f6,e6,2e6,2e6

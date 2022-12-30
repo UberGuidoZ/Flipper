@@ -1,0 +1,1 @@
+MainThem:d=4,o=6,b=125:a#5,d#,f,f#.,8f,2d#.,p,d#,f,f#,2f.,p,c#,f#,g#,a#.,8g#,2f#.,p,f#,g#,a#,2g#,2c#.

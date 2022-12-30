@@ -1,0 +1,1 @@
+Germany:d=16,o=5,b=125:8c,4p,4d,8e,8d,8f,8e,8d,8c,8a,4p,4g,8f,8e,8d,4e,4c,8g

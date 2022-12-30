@@ -1,0 +1,1 @@
+Summerja:d=4,o=5,b=140:c6,f,c6,a#,8a#,8g#,g,8g#,f,8p,f,c,f,g,8g#,g,8g#,8g,8f,p,c6,f,c6,a#,8a#,8g#,a#,8d#6,c6,8p,f,f,c6,8a#,8a#,g#,8d#,8d#,8f,8f,p,c6,f,c6,a#,8a#,8g#,g,8g#,f,8p,f,c,f,g,8g#,g,8g#,8g,8f,p,c6,f,c6,a#,8a#,8g#,a#,8d#6,c6,8p,f,f,c6,8a#,8a#,g#,8d#,8d#,8f,8f,p

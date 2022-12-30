@@ -1,0 +1,1 @@
+HeavyOnM:d=4,o=5,b=140:16c,16p,8p,p,16c,16p,8p,p,d6,8d6,d6,8c6,1c6,p,16f,16p,8p,p,16f,16p,8p,p,16c,16p,8p,p,16c,16p,8p,p,d6,8d6,d6,8c6,1c6,p,16f,16p,8p,p,16f,16p,8p,p,16c,16p,8p,p,16c,16p,8p,p,d6,8d6,d6,8c6,1c6,p,16f,16p,8p,p,16f,16p,8p,p,8c

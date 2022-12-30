@@ -1,0 +1,1 @@
+PyramidS:d=8,o=6,b=80:16b,b.,b.,b,16b,2a,16p,1b,16p,16g,g,g.,4g,g,a.,4a,4a,16g#,a,16g#,4e.,p,16b,b.,b.,b,16b,2a,16p,1b,16p,16g,g,g.,4g,g,a.,4a,4a,16g#,a,16g#

@@ -1,0 +1,1 @@
+ColdAsIc:d=16,o=5,b=180:2a4,8p,8a,4a,4d6,8d6,4c.6,4a4,4b.4,8a,a,p,4c6,a,p,4d6,a,p,2a,8p,2a4,8p,8a,4a,4d6,8d6,4c.6,4a4,4b.4,8a,a,p,4c6,a,p,4d6,a,p,2a

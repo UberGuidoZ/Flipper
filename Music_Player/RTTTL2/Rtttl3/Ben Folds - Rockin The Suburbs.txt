@@ -1,0 +1,1 @@
+RockinTh:d=16,o=5,b=100:g,g,a,8c6,8d6,2a,g,g,a,8c6,8c6,2e,g,g,a,8c6,8d6,2a,g,g,a,8c6,8c6,2e,g,g,a,8c6,8d6,2a,g,g,a,8c6,8c6,2e,g,g,a,8c6,8d6,2a,g,g,a,8c6,8c6,2e

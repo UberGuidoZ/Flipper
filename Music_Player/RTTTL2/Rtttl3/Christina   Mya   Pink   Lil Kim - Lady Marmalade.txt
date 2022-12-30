@@ -1,0 +1,1 @@
+LadyMarm:d=8,o=6,b=125:4g.,f,4d.,c,4a#.5,c,a#5,p,g,p,4d,d,d,4g,d,d,4g,d,d,4g,d,d,c,a#5,c,d,c,a#5,g5,2g,f,4d.,c,4a#.5,c,a#5,p,g,p,c,a#5,c,d,c,a#5,g5,2g,f,4d.,c,4a#.5,c,a#5,p,g

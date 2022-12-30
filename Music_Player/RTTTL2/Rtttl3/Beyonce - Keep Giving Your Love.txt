@@ -1,0 +1,1 @@
+KeepGivi:d=32,o=5,b=112:16a,16p,a,p,a,p,a,p,16a,16p,a,p,16g,8p.,8a#6,8g6,16a,16p,a,p,a,p,a,p,16a,16p,a,p,16g,8p.,8a#6,8g6,16a,16p,a,p,a,p,a,p,16a,16p,a,p,16g,8p.,8g6,8d#6,16a#,16p,a#,p,a#,p,a#,p,16a#,16p,c6,p,16a

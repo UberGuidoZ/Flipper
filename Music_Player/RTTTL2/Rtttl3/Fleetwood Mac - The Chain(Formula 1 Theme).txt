@@ -1,0 +1,1 @@
+TheChain:d=4,o=5,b=160:2a.,8a,8b,c6,8b,8a,8g,8a,b,1e,2p.,e,2a.,8a,8b,c6,8b,8a,8g,8a,b,1e

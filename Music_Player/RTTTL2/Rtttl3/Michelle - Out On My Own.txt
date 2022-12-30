@@ -1,0 +1,1 @@
+OutOnMyO:d=16,o=5,b=225:4a,4p,a,p,8a,8p,4a#,4a,4g,4f,2a,2p,a,p,8a#,4a,4g,4f,8p,4g#,8p,4g,8f,8p,4g#,4g#,4g,4f,8d,1c,2p,8f,4g,8p,4a,4p,a,p,8a,8p,4a#,4a,4g,4f,2a,2p,a,p,8a#,4a

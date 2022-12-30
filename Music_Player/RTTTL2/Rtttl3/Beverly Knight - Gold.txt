@@ -1,0 +1,1 @@
+Gold:d=4,o=7,b=285:f5,f5,f5,f5,16e5,8f.5,p,2f5,16c,8d.,d,d,d,d,g5,16d,8e.,g5,d,c,c,c,16c,8a.6,a5,a6,a5,2f,2e,d,c,2a,e,d,16c,8d.,f5,d,f5,8f5,8f5,8f5,8p,16c,8d.,d,d,d,d,g5,16d,8e.,g5,d,c,c,c,16c,8a.6,a5,a6,a5,2f,2e,d,c,g,16g#,8a.,g,f,e,d,8e,8f,e,d,g,c,g6,2e6,2c6

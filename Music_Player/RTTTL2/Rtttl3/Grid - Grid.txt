@@ -1,0 +1,1 @@
+Grid:d=4,o=6,b=140:a5,8d,8c_,8d,8e,d,a5,8d,8c_,8d,8e,d,g5,8c,8b5,8c,8d,c,g5,8c,8b5,8c,8d,c,a5,8d,8c_,8d,8e,d,a5,8d,8c_,8d,8e,d,g5,8c,8b5,8c,8d,c,g5,8c,8b5,8c,8d,c

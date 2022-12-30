@@ -1,0 +1,1 @@
+CaseOfTh:d=16,o=5,b=112:8d,8a,a,a,8f,f,8d,4p,p,c#,c#,8g,g,g,8e,e,8c#,4p,p,a4,a4,8g,8g,8e,8e,8c#,8c#,8a4,8a4,8c#,8c#,8c#,d,4c#.,p,8d,8a,8a,8f,f,8d,4p,p,c#,c#,8g,8g,e,e,e,8c#,4p,p,a4,a4,8g,8g,8e,8e,8c#,8c#,8a4,8f,8e,8f,8e,8f,8e,8f,2g

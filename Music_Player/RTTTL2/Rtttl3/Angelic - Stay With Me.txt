@@ -1,0 +1,1 @@
+StayWith:d=4,o=5,b=160:a,8p,a,8p,a,8p,a,8p,8b,g,8p,a,8p,a,8p,a,8p,a,32p,8g,8c6,d6,8p,e6,8p,e6,8p,e6,8p,e6,32p,8e6,g6,32p,b,c6,8p,e6,8p,e6,8p,e6,16p,8e6,8d6,b

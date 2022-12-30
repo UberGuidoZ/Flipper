@@ -1,0 +1,1 @@
+Sunrise:d=4,o=5,b=160:2e6,2f#,2d6,2e,8c,p,8c,8c,p,8c,8c,p,8c,8c,8p,8c,8p,2e6,2f#,2d6,2e,8c,p,8c,8c,p,8c,8c,p,8c,8c,8p,8c,8p,2e6,2f#,2d6,2e,8c,p,8c,8c,p,8c,8c,p,8c,8c,8p,8c,8p,e

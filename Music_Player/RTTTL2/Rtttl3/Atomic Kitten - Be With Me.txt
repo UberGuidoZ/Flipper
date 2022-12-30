@@ -1,0 +1,1 @@
+BeWithMe:d=16,o=5,b=125:8a,8b,b,p,8b,b,p,4b,8b,4c6,4b,4g,8a,8p,8a,8b,b,p,8b,b,p,4b,8a,4b,2p,4p,8a,8b,b,p,8b,b,p,4b,8b,4c6,4b,4g,8a,8p,8a,8b,b,p,8b,b,p,4b,8a,4b,2p,4p,8d,4f#,8g,4f#.,8g,4f#.,8g,4a.,8g,4f#,4d.,1p,4p,8p,8d,4f#,8g,4f#.,8g,4f#.,8g,4a.,8g,4f#,4d.

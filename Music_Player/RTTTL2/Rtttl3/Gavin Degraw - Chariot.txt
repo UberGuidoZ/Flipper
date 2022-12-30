@@ -1,0 +1,1 @@
+Chariot:d=4,o=5,b=160:b,p,2f#,2e,c#,p,b,p,2e,2g#,g#,p,b,p,2f#,e,p,c#,p,2b,2e,2g#,g#,p,2b,2c6,2c#6,8c#6,8b,g#,2g#,8f#,8e,e.,e.,2p,2b,2f#,2e.,p,2b,2e,2g#,2p,2e.

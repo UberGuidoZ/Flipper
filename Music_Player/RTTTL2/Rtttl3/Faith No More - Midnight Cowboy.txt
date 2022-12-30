@@ -1,0 +1,1 @@
+Midnight:d=4,o=5,b=100:b.,a.,g#.,e.,g.,f#.,e.,d.,b.,a.,g#.,e.,g.,f#.,e.,d.,b.,a.,g#.,e.,g.,f#.,e.,d.,b.,a.,g#.,e.,g.,f#.,e.,d.,2e,8e,f#,8e,2e,8d,8c#,2d.,2a,8a,a,8a,2a,8a#,8a,2g#.,2e,8e,f#,8e,2e,8d,8c#,2d.,2a,8a,a,8a,2a,8a#,8a,2g#,32p.,16e.,32p,2c#6,8a,a,8a,2a.,2b.,2c6,a,8a,2a,8a#,8a,2g#,8e,b.,a.,g#.,e.,g.,f#.,e.,d.,b.,a.,g#.,e.,g.,f#.,e.,d.,2e.

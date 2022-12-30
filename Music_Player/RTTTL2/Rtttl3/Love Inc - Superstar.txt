@@ -1,0 +1,1 @@
+Supersta:d=16,o=5,b=160:32c#7,p.,c#7,p,c7,p,32c7,p.,g#6,p,g#6,p,8g#,8p,8g#,p,g#,8p,g#,8p.,32d#,p.,d#.,32p,32d#6,p.,32c#7,p.,c#7,p,c7,p,32c7,p.,g#6,p,g#6,p,8f,8p,8f,p,f.,p.,f.,8p,32p,32c#,p.,c#.,32p,32c#6,p.,c#7,p,c#7,p,c7,p,c7,p,f6,p,f6,p,8f,8p,8f,p,f,8p,f.,8p,32p,d#,p,d#.,32p,32d#6,p.,f#6,p,f#6,p,f6,p,f6,p,c#6,p,c#.6,32p,8c#,8p,8c#,p,c#,8p,c#.,8p,32p,d#,p,d#.,32p,32d#6

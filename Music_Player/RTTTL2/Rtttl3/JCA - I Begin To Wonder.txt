@@ -1,0 +1,1 @@
+IBeginTo:d=16,o=5,b=125:8d#6,8d#6,2a#6,c,p,c6,p,c,p,c6,p,c,p,c6,p,c,p,8g6,8g6,8f6,8f6,8f6,4d#6,f,p,f6,p,f,p,f6,p,f,p,f6,p,f,p,f6,p,f,p,f6,p,f,p,f6,p,8d#6,8d#6,2a#6,c,p,c6,p,c,p,c6,p,c,p,c6,p,c,p,8g6,8g6,8f6,8f6,8f6,4d#6,f,p,f6,p,f,p,f6,p,f,p,f6,p,f,p,f6,p,f,p,f6,p,f,p,f6,p

@@ -1,0 +1,1 @@
+LesMiser:d=8,o=6,b=100:a#5,a#5.,16a#5,a#5.,16a5,a#5.,16c,2d,a#5,a#5,a#5,a#5,a#5,c,d,4g5,2a#5,d,d,d,d.,16c,d.,16d#,2f,d,d,d,d,d,d#,f,4g5,4a#5,4d,4c,2d,d,d,d,d#,d,c,d,2a#5,d,d,d,d#,d,c,f,16d,16c,4a#5,d,d.,16c,d,d#,2f,d,d,d,d,d,c,a#5,2a#5.

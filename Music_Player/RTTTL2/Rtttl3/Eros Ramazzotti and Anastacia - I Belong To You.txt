@@ -1,0 +1,1 @@
+IBelongT:d=4,o=5,b=125:a#,a#,8a#,8a#,8p,a#.,g#,g,2f,1c6,p,8a#,8a,8a#,8a,1f,2p,8p,8e,2f,1c6,p,8a#,8a,8a#,8a,1f,2p,8p,8f,2f,1c6,8p,8d.6,8c.6,8a,8g,f.,8e,1d,8p,8e,2f,1c6,p,8a#,8a,8a#,8a,1f

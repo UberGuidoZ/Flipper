@@ -1,0 +1,1 @@
+Beautifu:d=8,o=5,b=140:a6,a6,a6,f#7,e7,d7,e7,a,a,a,b,b,b,d6,d6,d6,g,g,g,g,g,g,g,f#7,d6,f#7,d6,f#7,d6,e7,f#7,a,e7,a6,a6,f#7,e7,d7,e7,a,a,a,b,b,b,d6,d6,d6,g,g,g,g,g,a6,g,g7,f#7,d6,f#7,d6,e7,a,e7,a,a,a,a,a,a,a,a,a7,d6,d6,d7,d6,g,g,g,g,g,g,g,g,g,g,g,a7,g7,d6,f#7,d6,e7,g7,f#7,a,e7,a,4c

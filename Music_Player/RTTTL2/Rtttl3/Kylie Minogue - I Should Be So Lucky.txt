@@ -1,0 +1,1 @@
+IShouldB:d=8,o=6,b=120:a#,4b,a#,b,a#,b,f#,f#,4b,a#,b,a#,b,4f#,f#,a,g#,a,g#,a,g#,f#,4f#.,4d#,4e,4f#.,g,g,f#,g,f#,4e.,g,g,f#,g,f#,e,e,f,e,d,e,4f.,f,a,g,e,a,4g.,4c7,c7,a,e,g,4a,4g,a,g,a,g,4a,4c7,c7,a,e,g,a,g,g.,16f,2e,4c7,c7,a,e,g,4a,4c7,a,c7,a,c7,4a,4c7,c7,a,g,c7,c7,a,2g

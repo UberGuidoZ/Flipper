@@ -1,0 +1,1 @@
+Lletni:d=4,o=5,b=200:8a#,p,2p,8b,p,8a#,p,8b,8p,8a#,16p,p,2p,8b,p,8a#,p,b,a#,b,d6,b,2c#6,p,b,a#,b,d6,b,2a#,2p,8a#,p,2p,8b,p,8a#,p,8b,8p,8a#,16p,p,2p

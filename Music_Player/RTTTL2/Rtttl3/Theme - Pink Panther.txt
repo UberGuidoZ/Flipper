@@ -1,0 +1,1 @@
+PinkPant:d=16,o=5,b=80:e,f,4p,g,g#,4p,e,f,32p,g,g#,32p,c#6,c6,32p,e,f,32p,c6,4b,4p,32a#,32g#,32f,32d#,8f.

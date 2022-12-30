@@ -1,0 +1,1 @@
+Bonanza:d=4,o=5,b=180:8c,8p,8c,8c,8c,8p,8c,8c,8c,8p,8c,8c,8c,8p,8c,8c,4f,p,4a,p,8c,8p,8c,8c,8c,8p,8c,8c,8c,8p,8c,8c,8d,8p,8e,8f

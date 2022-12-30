@@ -1,0 +1,1 @@
+BlackAlb:d=4,o=5,b=180:8g,8g,e,e,e,8b,8b,e,e,e,8g,8g,e,b,e,8g,8g,e,e,e,8g,8g,e,e,e,8d6,8d6,e6,e,e,8g,8g,e,b,e,8g,8g,e,e,e

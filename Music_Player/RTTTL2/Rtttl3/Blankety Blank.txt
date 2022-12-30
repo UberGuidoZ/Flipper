@@ -1,0 +1,1 @@
+Blankety:d=8,o=6,b=200:g,a,a#,4c7,p,g,a,a#,4c7,p,c7,p,c7,p,f,a,a#,4c7,p,f,a,a#,4c7,p,c7,p,c7,p,g,a,a#,4c7,p,g,a,a#,4c7,p,c7,a,4g,4f,4p,c7,d7,4e7,f7,p,f

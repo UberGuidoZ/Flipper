@@ -1,0 +1,1 @@
+PulpFict:d=16,o=5,b=180:a#,a#,a#,a#,a#,a#,a#,a#,d6,d6,d6,d6,d#6,d#6,d#6,d#6,f6,f6,f6,f6,f6,f6,f6,a#,a6,a6,a6,a6,f#6,f#6,f#6,f#6,f6,f6,f6,f6,f6,f6,f6,f6,f6,f6,f6,f6,f6,f6,f6,f6,f#6,f#6,f#6,f#6,f6,f6,f#6,f#6,f6,f6,f6,f6,d#6,d#6,d#6,d#6,f6,f6,f6,f6,d#6,d#6,f6,f6,4d#6,8d6,8b

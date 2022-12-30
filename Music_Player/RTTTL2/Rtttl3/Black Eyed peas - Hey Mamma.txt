@@ -1,0 +1,1 @@
+HeyMamma:d=4,o=6,b=180:f5,p,f5,p,g_5,8p,8g_5,p,g_5,c,p,c,p,a_5,p,g_5,p,f5,p,f5,p,f5,8p,8f5,p,d_5,f5,8p,8f5,p,g_5,f5,8p,8f5,p,d_5,f5,p,f5,p,g_5,8p,8g_5,p,g_5,c,p,c,p,a_5

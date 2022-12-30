@@ -1,0 +1,1 @@
+LetsGetB:d=16,o=5,b=100:c,p,c6,c6,8d6,8d#6,4f6,8p,d#,p,4g#,4g,4f,8d#,4g,2f,8d#,8g,2f,8p,g,8p.,g,8p.,c,p,c6,c6,8d6,8d#6,4f6,8p,d#,p,4g#,4g,4f,8d#,4g,2f,8d#,8g,2f,8p,g,8p.,g,8p.,c,p,c6,c6,8d6,8d#6,4f6,8p,d#,p,4g#,4g,4f,8d#,4g,2f,8d#,8g,2f,8p,g,8p.,g,8p.,8c

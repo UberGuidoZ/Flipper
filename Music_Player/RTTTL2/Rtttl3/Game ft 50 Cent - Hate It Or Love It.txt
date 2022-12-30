@@ -1,0 +1,1 @@
+HateItOr:d=16,o=5,b=100:2c6,4c6,4c6,2a,4a,4a,4e,e,e,e,e,8g,8e,8p,e,e,4p,e,e,e,e,8g,8e,8p,e,e,2c6,4c6,4c6,2a,4a,4a,4e,e,e,e,e,8g,8e,8p,e,e,4p,e,e,e,e,8g,8e,8p,e,e,4c6

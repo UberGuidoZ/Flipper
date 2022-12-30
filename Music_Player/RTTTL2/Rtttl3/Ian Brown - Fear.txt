@@ -1,0 +1,1 @@
+Fear:d=16,o=5,b=90:f#,8c#6,b,8a,8b,8a.,1f#,2p,f#,8p,c#6,4p,f#,8p,b,4p,f#,8p,c#6,4p,f#,8p,b,4p,f#,8p,c#6,4p,f#,8p,b,4p,f#,8p,c#6,4p,f#,8p,b

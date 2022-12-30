@@ -1,0 +1,1 @@
+MoreThan:d=32,o=5,b=40:16e,16g,16a,16a#,b,a#,b,a#,16e,e,16g,g,16a,g,a,g,16d,e,16b,16e,e,16g,e,16a,b,a#,a,g

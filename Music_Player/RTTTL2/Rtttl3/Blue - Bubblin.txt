@@ -1,0 +1,1 @@
+Bubblin:d=8,o=5,b=200:16g,4p.,16p,g,g,g,g,4g,4g,f,4g.,16g,4p.,16p,g,g,g,g,16g,p.,g,g,f,4g.,4g,d,d,g,g,g,g,4g,g,g,f,4g.,4g,4a,a#,a,4g,4g,4a,a#,a,4g,4c,4g,4g,4f6,2d#6,4d6,4c6,c,p,4g,4g,4f6,2d#6,4d6,4c6,c,4p.,4g,4f6,4d#6,4d#6,4d6,4c6,c6,d6,4d6,c6,d6,4d6,c6,d6,4d6,c6,a#,c6,a#,2g.

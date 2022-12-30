@@ -1,0 +1,1 @@
+PapasGot:d=16,o=5,b=125:8c,p,8c,p,8c,8g,2p,8g.,p,8g,4d#,d,d#,8d,8c,p,8c,p,8c,8g,2p,8g.,p,8g,4d#,d,d#,8d,8c,p,8c,p,8c,8g,2p,8g.,p,8g,4d#,d,d#,8d,c,p,c,c,p,c,c,p,8d,8d#,8d,8d#,c,p,c,c,p,c,c,p,8d,8d#,8d,8p,c,p,c,c,p,c,c,p,8d,8d#,8d,8d#,c,p,c,c,p,c,c,p,8d,8d#,8d

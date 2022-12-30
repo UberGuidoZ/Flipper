@@ -1,0 +1,1 @@
+RockDj4:d=8,o=6,b=112:c,16d,16p,16d,16p,d,f#,2p,d,p,d,4b5,2p,c,d,f#,a,b,e.,16p,d,p,d,2p,c,16d,16p,16d,16p,d,f#,2p,4d,a,g,2p,p,c,d,f#,e,d,d.,16p,d.,16p,d.

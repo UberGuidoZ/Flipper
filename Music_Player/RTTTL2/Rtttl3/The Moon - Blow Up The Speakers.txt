@@ -1,0 +1,1 @@
+BlowUpTh:d=16,o=5,b=140:f,8p,p,f,f,f,f,p,f,f,p,f,8p,f,f,f,f,p,f,f,p,f,f,f,f,f,f,8p,f,p,p,f,8p,p,f,f

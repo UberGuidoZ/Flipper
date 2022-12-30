@@ -1,0 +1,1 @@
+GirlsBes:d=4,o=5,b=90:8g,8g,8f,16d,8g,8g,16g,8f,16d,16d,8g,8g,8f,16d,8g,8g,16g,8f,8d,8f,8f,8e,16c,8f,8f,16f,8e,8c,8f,8f,8e,16c,2f

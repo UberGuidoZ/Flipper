@@ -1,0 +1,1 @@
+SmashSom:d=16,o=5,b=125:d,d,d,d,d,d,d,d,d,8d,e,8f,8p,d,d,d,d,d,d,d,d,d,8d,e,8f,8p,d,d,d,d,d,d,d,d,d,8d,e,8f,8p,c,c,p,8a#,8p,8a#,8a,a,8f

@@ -1,0 +1,1 @@
+WeComeOn:d=8,o=6,b=70:a#5,f,c#7,16p,16f,c7,16f,a#,p,a#5,f,c#7,16p,16f,c7,16f,a#,p,a#5,f,c#7,16p,16f,c7,16f,a#,p,a#5,f,c#7,16p,16f,c7,16f,a#,p

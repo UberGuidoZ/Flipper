@@ -1,0 +1,1 @@
+LanNi:d=4,o=6,b=90:8d,8f,8b5,c.,8c,8b5,8c,8e.,2a5,8p,8a5,8g,8e,f.,8f,8e,8f,8g,8a5,c,e,8d,8d,8f,8b5,c.,8c,8b5,8c,8e.,16b5,2a5,8p,8a5,8g,8e,f.,8f,8e,8f,8g,8a5,c,b5,c,d,2c

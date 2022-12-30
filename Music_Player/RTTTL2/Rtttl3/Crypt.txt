@@ -1,0 +1,1 @@
+Crypt:d=4,o=6,b=127:d_,f_,a,8p,8b,a_,f_,d_,8p,8b5,a_5,d_,f_,a,2b5,8p,a_5,d,f,8p,8f_,g_,b,a_,8p,8g_,f_,f,d_,d,2d_,1p

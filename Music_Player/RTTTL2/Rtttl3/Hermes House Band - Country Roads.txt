@@ -1,0 +1,1 @@
+CountryR:d=8,o=5,b=112:g,a,2b.,b,g,2a.,b,a,2g.,b,d6,2e.6,e6,16d6,d.6,2b,p,b,16g,a.,2b,p,b,a,2g.,g,a,2g,4p,g,a,2b.,b,g,2a.,b,a,2g.,b,d6,2e.6,e6,16d6,d.6,2b,p,b,16g,a.,2b,p,b,a,2g.,g,a,2g

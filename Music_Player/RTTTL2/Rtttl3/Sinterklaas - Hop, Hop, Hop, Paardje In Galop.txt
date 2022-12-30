@@ -1,0 +1,1 @@
+Hop,Hop,:d=4,o=5,b=125:g,b,d6,p,8d6,8c6,8b,8a,g,p,8a,8a,8f#,8d,8d6,8d6,8b,8g,8a,8a,8f#,8d,8d6,8d6,8b,8g,8g,8a,8b,8c6,d6,p,8d6,8c6,8b,8a,g

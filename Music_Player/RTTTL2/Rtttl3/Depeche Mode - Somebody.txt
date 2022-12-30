@@ -1,0 +1,1 @@
+Somebody:d=8,o=5,b=180:g,g,a,b,a,p,4a,p,g,a,b,a,p,4a,p,g,a,c6,b,p,4b,p,a,b,c6,b,a,b

@@ -1,0 +1,1 @@
+LittleDr:d=8,o=5,b=140:2c,4p,d,p,e,10p,e,p,e,p,e,p,f,e,16f,5p,2e,4p,d,p,e,p,f,p,g,p,g,p,g,p,a,p,g,f,16e,5p,4d,5p,e,32p,d,e,10p,4c

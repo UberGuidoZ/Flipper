@@ -1,0 +1,1 @@
+OutOfTim:d=16,o=6,b=140:g.,32p,4e.,4g.,8p,8g,8e,8p,8a.,p,4d.7,8p,8c7,8a,8p,g,p,4g,8p,4g,e,p,4c.,4p.,32a5,p.,32a5,p.,c,p,8g,8p,g,p,8g.,p,8e,8p,2c,2p,c,p,8e,8p,e,p,2e,8p,e,p,2e,4p,32g5,p.,4d,c,8p.,4e,d,p,4c.

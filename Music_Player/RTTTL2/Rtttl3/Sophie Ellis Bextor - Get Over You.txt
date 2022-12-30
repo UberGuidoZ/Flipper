@@ -1,0 +1,1 @@
+GetOverY:d=16,o=5,b=125:4d6,4c6,4a,4g,8f.,4d,p,8c,8d,8f,d,p,d6,p,d6,p,a,p,a,p,d6,p,d6,a,4p,d6,p,d6,p,a,p,a,p,d6,p,d6,a,4p,4d6,4c6,4a,4g,8f.,4d,p,8c,8d,8f,d,p,d6,p,d6,p,a,p,a,p,d6,p,d6,a,4p,d6,p,d6,p,a,p,a,p,d6,p,d6,a,4p

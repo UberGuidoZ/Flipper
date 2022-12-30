@@ -1,0 +1,1 @@
+ThroughT:d=16,o=5,b=140:4f,4g,4a#,4a,4g,4f,a,g,4a,8p,4f,4g,4a#,4a,4g,8a,4g,4f,8p,8f,4a,4g,4f,8p,8f,4a,4g,4f,8p,4f,8f,4d.,4e,4f,8g,4a.,4p,4f,4g,4a#,4a,4g,4f,a,g,4a,8p,4f,4g,4a#,4a,4g,8a,4g,4f,8p,8f,4a,4g,4f,8p,8f,4a,4g,4f,8p,4f,8f,4d.,4e,4f,8g,4a.,4p

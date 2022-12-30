@@ -1,0 +1,1 @@
+SetYouFr:d=8,o=5,b=140:f.,16p,f,g#,g#.,16g#,g#,c,f.,16p,f,g#,p,g#,16g#,g#.,f.,16p,f,g#,g#.,16g#,g#,c,f.,16p,f,g#,p,g#,16g#,g#.,f.,16p,f,g#,g#.,16g#,g#,c,f.,16p,f,g#,p,g#,16g#,g#.,f.,16p,f,g#,g#.,16g#,g#,c,f.,16p,f,g#,p,g#,16g#,g#.

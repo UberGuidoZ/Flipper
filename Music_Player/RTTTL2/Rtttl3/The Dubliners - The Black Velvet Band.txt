@@ -1,0 +1,1 @@
+TheBlack:d=4,o=5,b=220:d6,2d6,d6,b,c6,d6,c6,1b,a,g,a,b,g,f#,e,1d,g,a,2b,b,d,e,f#,2g,a,2b,g,a,b,c6,f#,g,a,1g.,d6,2d6,d6,b,c6,d6,c6,1b,a,g,a,b,g,f#,e,1d,g,a,2b,b,d,e,f#,2g,a,2b,g,a,b,c6,f#,g,a,1g

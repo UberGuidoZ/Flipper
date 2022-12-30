@@ -1,0 +1,1 @@
+SistersA:d=8,o=6,b=140:f,f,p,g#,p,2g#,f,p,d#,16f.,32p,f,p,16d#.,32p,f,p,2f.,2p,4p,p,d#,16f.,32p,16f.,32p,16f.,32p,g#.,16p,g#,p,g,4f,2p,c,16d#.,32p,16f.,32p,f,p,g#,f.,16p,4f

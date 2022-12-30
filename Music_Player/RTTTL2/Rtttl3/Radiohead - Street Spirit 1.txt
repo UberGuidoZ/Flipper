@@ -1,0 +1,1 @@
+StreetSp:d=4,o=5,b=140:a,16p,b,16p,c,16p,b,p,8a,32p,16b,32p,8a,32p,8b,32p,8a,32p,e,8p,a,16p,b,16p,c,16p,b,p,8a,32p,16b,32p,8a,32p,8b,32p,8a

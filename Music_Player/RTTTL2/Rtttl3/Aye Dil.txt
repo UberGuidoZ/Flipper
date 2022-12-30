@@ -1,0 +1,1 @@
+AyeDil:d=8,o=6,b=140:4g,4e.,p,e,f,e,d,e,d,4c.,p,e,d,c,e,4d.,p,d,c,b5,c,4d.,4p,g,g,4e.,p,e,f,e,d,e,d,4c.,p,e,d,c,e,4d.,p,d,c,b5,d,4c.,p,g,a,a,g,g,a,a,g,a,4g.,p,g,a,g,f,g,f,4e.,p,g,f,e,g,4f.,p,f,e,d,e,4f.,p,g,a,a,g,g,a,a,g,a,4g.,p,g,a,g,f,g,f,4e.,p,g,f,e,g,4f.,p,d,c,b5,d,4c.

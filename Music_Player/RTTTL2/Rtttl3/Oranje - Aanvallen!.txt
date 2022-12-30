@@ -1,0 +1,1 @@
+Aanvalle:d=4,o=6,b=225:c5,f5,a5,8c,8p,8c,8c,8c,8p,8a5,8p,8a5,8a5,8a5,8p,f5,a5,f5,2c5,1p,1p,2p,c5,f5,a5,8c,8p,8c,8c,8c,8p,8a5,8p,8a5,8a5,8a5,8p,f5,a5,f5,2c5,1p,1p,2p,c5,f5,a5,8c,8p,8c,8c,8c,8p,8a5,8p,8a5,8a5,8a5,8p,f5,a5,f5,2c5

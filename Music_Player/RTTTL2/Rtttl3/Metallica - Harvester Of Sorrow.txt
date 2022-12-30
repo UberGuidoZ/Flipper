@@ -1,0 +1,1 @@
+Harveste:d=16,o=5,b=150:g,f#,e,b,a#,g#,g,f,4e,4p,8e,8b,8f6,8e6,e,b,8g6,8f6,8e6,8e,8b,8f6,8d6,g,a,8d6,8f,8d6

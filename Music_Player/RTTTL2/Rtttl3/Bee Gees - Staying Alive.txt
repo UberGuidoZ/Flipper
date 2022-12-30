@@ -1,0 +1,1 @@
+StayingA:d=16,o=5,b=225:4f,4g,4p,4a#,4p,4p,8f,4p,4p,8d,4c,4d,4f,4p,4c,4d,4p,4f,4p,4p,8c,4d,4p,4f,4p,8g,4a#

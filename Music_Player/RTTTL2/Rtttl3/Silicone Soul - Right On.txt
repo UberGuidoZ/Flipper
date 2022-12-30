@@ -1,0 +1,1 @@
+RightOn:d=4,o=5,b=140:f#,f#,f#,f#,f#,a,8b,8f#,2e,p,8e,2d,1p,f#,f#,f#,f#,f#,a,8b,8f#,2e,p,8e,8e,d,2b4

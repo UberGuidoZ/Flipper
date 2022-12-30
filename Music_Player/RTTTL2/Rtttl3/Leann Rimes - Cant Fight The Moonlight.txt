@@ -1,0 +1,1 @@
+CantFigh:d=4,o=5,b=112:,8g,8a,b,8g,8a,b,8g,8a,b,8c6,8b,a,8g,8b,a,8g,8b,a,8g,e,16p,8b,8a,8e,g,a,32p,2e,16p,8g,8a,8g,2f#,32p,8e,8b,8a,8a,8g,8g,f#,8e

@@ -1,0 +1,1 @@
+ISeeRigh:d=4,o=6,b=160:c,c,c,8c,8b5,8c,8b5,8c,b5,g5,8g5,8c5,8g5,a5,a5,a5,8a5,8b5,8a5,b5,8g,8p,8g,8f,8e,c,c,c,8c,8b5,8c,b5,g5,8g5,8c5,8g5,a5,a5,a5,8a5,8g5,8a5,g5,g5

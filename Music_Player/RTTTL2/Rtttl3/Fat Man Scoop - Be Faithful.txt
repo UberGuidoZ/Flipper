@@ -1,0 +1,1 @@
+BeFaithf:d=16,o=6,b=112:c5,c5,p,c5,4b5,4b5,8a5,4d.,8c,4b5,4a.5,4c,4d,8e,8c,4a5,c5,c5,p,c5,p,c5,c5,2p,p,c5,c5,p,c5,8c,8d,4e,8g,g,2f#,8e,e,4d,8c.,8d,d,4c.,2p,p,4c,4d,8e,8c,2a5

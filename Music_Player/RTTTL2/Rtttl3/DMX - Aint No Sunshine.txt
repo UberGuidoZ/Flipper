@@ -1,0 +1,1 @@
+AintNoSu:d=16,o=6,b=90:a5,c,p,8d,8f.,8e,4c,2d,2p,p,a5,p,8c,8d,8f.,8e,8c.,4d.,2p.,d,f,8g,8g,8a.,g,f,4g,p,d,d,g,p,8f,p,d,d,c,c,8d,8d.,p,f,g,p,8f.,8d,c,d,2d

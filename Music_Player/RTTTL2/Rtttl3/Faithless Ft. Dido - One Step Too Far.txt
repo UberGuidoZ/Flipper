@@ -1,0 +1,1 @@
+OneStepT:d=4,o=6,b=140:g5,a5,a.5,8b5,1b5,a5,b5,b5,c,1c,a5,b5,b5,c,1c,c,c,c,b5,b5,2a.5,g5,a5,a.5,8b5,1b5,a5,b5,b5,c,1c,a5,b5,b5,c,1c,c,b5,b5,a5,a5,g5

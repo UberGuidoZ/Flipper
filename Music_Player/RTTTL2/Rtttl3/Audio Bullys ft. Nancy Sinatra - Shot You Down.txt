@@ -1,0 +1,1 @@
+ShotYouD:d=16,o=5,b=125:8c.6,c6,f,8p,c6,c,8c6,c,p,c,d#,p,8c.6,c6,f,8p,c6,c,8c6,c,p,c,d#,p,8c.6,c6,f,8p,c6,c,8c6,c,p,c,d#,p,8c.6,c6,f,8p,c6,c,8c6,c,p,c,d#,p,8c.6,c6,f,8p,c6,c,8c6,c,p,c,d#,p,8c.6,c6,f,8p,c6,c,8c6,c,p,c,d#,p,8c

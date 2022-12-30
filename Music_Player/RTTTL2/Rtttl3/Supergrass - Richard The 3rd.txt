@@ -1,0 +1,1 @@
+RichardT:d=8,o=5,b=160:c,a4,4a4,4a4,c,4d#,d#,4d#,4d#,d#6,c6,c,a4,4a4,4a4,c,4d#,d#,4d#,4d#,d#6,c6,c,a4,4a4,4a4,c,4d#,d#,4d#,d#,d#6,d6,4c6,a,4a,a,d#6,d6,4c6,f,4f,f,d#6,d6,4c6,a,4a,a,d#6,d6,4c6,f,4f,f,d#6,d6,c6

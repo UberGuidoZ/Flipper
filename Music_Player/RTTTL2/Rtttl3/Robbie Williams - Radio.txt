@@ -1,0 +1,1 @@
+Radio:d=4,o=5,b=125:c6,g,g,8g,a.,8a#,2a,8p,g,g,g,8g,8g,8p,8c,8p,2c,8p,c6,g,g,8g,8a,8p,8a#,8p,2a,8c6,c6,g,g,8g,g,8c,8p,2c,8p,c6,g,g,8g,a.,8a#,2a,8p,g,g,g,8g,8g,8p,8c,8p,2c,8p,c6,g,g,8g,8a,8p,8a#,8p,2a,8c6,c6,g,g,8g,g,8c,8p,2c

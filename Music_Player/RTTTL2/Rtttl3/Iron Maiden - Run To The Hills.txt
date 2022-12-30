@@ -1,0 +1,1 @@
+RunToThe:d=8,o=5,b=140:4g,4b,4c6,2a,a,a,a,a,4p,4g,e6,d6,4c6,d6,a,2b,4p,4g,4b,4c6,2a,a,a,a,a,4p,4g,c6,b,4b,2g,2p,4g,4b,4c6,2a,a,a,a,a,4p,4g,e6,d6,4c6,d6,a,2b,4p,4g,4b,4c6,2a,a,a,a,a,4p,4g,c6,b,4b,2g

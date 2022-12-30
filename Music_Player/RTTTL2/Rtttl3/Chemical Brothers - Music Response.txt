@@ -1,0 +1,1 @@
+MusicRes:d=8,o=4,b=225:a5,p,e6,a6,a6,e6,p,a,a,a,a,a,a,a,a,a,a5,p,e6,a6,a6,e6,p,a,a,a,a,a,a,a,a,a,a5,p,e6,a6,a6,e6

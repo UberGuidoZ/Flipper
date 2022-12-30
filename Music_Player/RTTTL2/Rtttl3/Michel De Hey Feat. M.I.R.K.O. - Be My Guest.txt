@@ -1,0 +1,1 @@
+BeMyGues:d=4,o=6,b=225:c,c,8a_5,8a_5,p,c,8p,8a_5,p,8f5,8p,c,c,8a_5,8a_5,8p,2c,8a_5,p,8f5,8p,c,c,8a_5,8a_5,p,c,8p,8a_5,p,8f5,8p,c,c,8a_5,8a_5,8p,c.,8p,8c,p,8f5,8p,c,c,8a_5,8a_5,p,c,8p,8a_5,p,8f5,8p,c,c,8a_5,8a_5,8p,2c,8a_5,p,8f5,8p,c,c,8a_5,8a_5,p,c,8p,8a_5,p,8f5,8p,c,c,8a_5,8a_5,8p,c.,8p,8c,p,8f5,8p,f5

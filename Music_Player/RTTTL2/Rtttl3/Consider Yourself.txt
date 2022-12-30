@@ -1,0 +1,1 @@
+Consider:d=16,o=5,b=200:4f.,d,p,d#,p,e,p,2f,4p,4d.6,2a#.,4p.,4f,8p,d,p,d#,p,e,p,2f,4p,f,p,g,p,f,p,8d#,8p,d,p,2c,4p,4f,8p,d,p,d#,p,e,p,2f,4p,4d.6,2a#.,4p.,4d.6,8c6,2p,8p,8c6,2p,8p,8a#,8c6,8a#,4a,8g,8f

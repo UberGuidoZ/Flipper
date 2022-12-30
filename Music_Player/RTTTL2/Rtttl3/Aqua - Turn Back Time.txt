@@ -1,0 +1,1 @@
+TurnBack:d=16,o=5,b=50:32p,c#,c#,e,f#,e,4b,8e.,8f#,8g#,e,e,e,e,e,8b,e.,8e,8g#,4f#,c#,c#,e,f#,e,4b,8e.,8f#,8g#.,e,8e.,4a,8g#,a,2f#,g#,f#,e,4c#

@@ -1,0 +1,1 @@
+TheWorld:d=8,o=5,b=100:b,b,c6,16b,a,b.,4g,b,b,b,16a,g,f#.,16g,16f#,e,g,16g,a,16b,4p,4g,16d,16d,g.,a,16b,4p,4g,p,b,b,16c6,b,d.6,b,4g,b,16b,b,a,g,f#,4e,16p,g,16g,a,16b,4p,4g,16d,16d,g.,a,4g

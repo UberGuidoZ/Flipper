@@ -1,0 +1,1 @@
+GottaGet:d=16,o=5,b=140:4c,4p,c,p,8p,4g,4g#,4p,c,p,8p,4d,4p,c7,2p,4p,4d#,c7,p,4d7,8p,p,4c,4p,c7,p,p,4g,4g#,4p,c7,p,8p,4d#,2p,c7,2p,4p,4d#,c7,p,4d,8p,8p,4p,c7,p,8p,4g7,4g#

@@ -1,0 +1,1 @@
+AnotherJ:d=4,o=6,b=140:d_5,f5,f5,f5,g5,g5,c5,c5,d_5,f5,f5,f5,g5,g5,c5,c5,d_5,f5,a5,a5,b5,b5,e5,e5,f_5,a5,a5,a5,b5,b5,e5,e5,f_5,a5,f5,f5,g5,g5,c5,c5,d_5,f5,f5,f5,g5,g5,c5,c.5

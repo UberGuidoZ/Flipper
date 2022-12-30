@@ -1,0 +1,1 @@
+CrazyRap:d=16,o=5,b=100:8a,8e6,4e6,c6,8b,4a,a,a,8a,a,8a,4c.6,8a,8a,8e6,4e6,c6,8b,4a,8b,8b,b,8b,4b.,8a,8a,8e6,4e6,c6,8b,4a,8a,8a,a,a,8d6,4c.6,8a,4e6,8d6,c6,8b,8a.,8a,8c6,8a,a,a,8g,4a

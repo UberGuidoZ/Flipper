@@ -1,0 +1,1 @@
+FreeStyl:d=8,o=5,b=160:d#,c,g4,d#,c,g4,d#,c,g4,d,c,g4,d,c,g4,a#4,g#4,d#4,a#4,g#4,d#4,a#4,g#4,d#4,c,a#4,f4,c,a#4,f4,c,16f4,16p,d#,c,g4,d#,c,g4,d#,c,g4,d,c,g4,d,c,g4,a#4,g#4,d#4,a#4,g#4,d#4,a#4,g#4,d#4,c,a#4,f4,c,a#4,f4,c,16f4

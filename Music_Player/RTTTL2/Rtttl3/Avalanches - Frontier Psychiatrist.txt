@@ -1,0 +1,1 @@
+Frontier:d=4,o=6,b=100:a#.5,8f,f#,f,a.5,8f,f#,f,a#.5,8f,f#,f,a.5,8f,f#,f,a#.5,8f,f#,f,a.5,8f,f#,f,a#.5,8f,f#,f,a.5,8f,f#,f,a#.5,8f,f#,f,a.5,8f,f#,f,a#.5,8f,f#,f,a.5,8f,f#,f,a#.5,8f,f#,f,a.5,8f,f#,f,a#.5

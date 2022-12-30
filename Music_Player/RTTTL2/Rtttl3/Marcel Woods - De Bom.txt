@@ -1,0 +1,1 @@
+DeBom:d=16,o=5,b=140:8c,8p,8c,8p,8c,8p,8c,8g,8c,8p,8c,8p,8c,8g#,8c,8g,8c,8p,8c,8p,8c,8p,8c,8g,8c,8p,8c,8p,8c,8g#,8c,8g,8c,8p,8c,8p,8c,8p,8c,8g,8c,8p,8c,8g#,8c,8g,8c,8p

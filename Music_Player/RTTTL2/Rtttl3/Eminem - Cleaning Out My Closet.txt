@@ -1,0 +1,1 @@
+Cleaning:d=16,o=5,b=285:4f,4f,4g#,4c6,4p,4c6,4g#,4g,c,p,8p,2p,c,p,8p,2p,c,p,8p,4p,4f,4f,4g#,4c6,4p,4c6,4g#,4g,c,p,8p,2p,c,p,8p,2p,c,p,8p,4p,4c#,4c#,4f,4g#,4c6,4c6,4g#,4g,c,p,8p,2p,c,p,8p,4e6,4f6,4g6,4e6,2f.6,f,p,8p,2p,f,p,8p,4p,f,p,8p,2p,f,p,8p,2p,f,p,8p,8f,8p

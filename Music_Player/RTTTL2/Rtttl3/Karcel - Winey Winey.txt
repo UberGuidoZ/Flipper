@@ -1,0 +1,1 @@
+WineyWin:d=4,o=6,b=125:8c,8p,g,16d_,p,8p,d_,16d,p,8p,d,16b5,p,8p,b5,16c,p,8p,g,16d_,p,8p,d_,16d,p,8p,d,16b5,p,8p,b5,16c,8p,8c,8p,g,16d_,p,8p,d_,16d,p,8p,d,16b5,p,8p,b5,16c,8c,8p,g,16d_,p,8p,d_,16d,p,8p,16d

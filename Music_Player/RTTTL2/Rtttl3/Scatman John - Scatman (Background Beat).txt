@@ -1,0 +1,1 @@
+Scatman(:d=8,o=5,b=90:c#6,f#,32a.,f#,c#6,f#,a,32f#,a,c#6,f#,32a.,f#,c#6,f#,a,32f#,a,b,e,32g#.,e,b,e,g#,32e,g#,b,e,32g#.,e,b,e,g#,32e,32g#.

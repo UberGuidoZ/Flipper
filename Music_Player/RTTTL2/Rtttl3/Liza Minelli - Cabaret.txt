@@ -1,0 +1,1 @@
+Cabaret:d=4,o=5,b=200:32p,d,2e,g,b,2d6,d#6,e6,d6,b,1d6,p,e6,2d6,b,2d6,2e6,1b,e6,2g6,e6,2g6,2e6,f#6,2d6,1b,p,b,2d6,b,2d6,2e,1g

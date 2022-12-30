@@ -1,0 +1,1 @@
+WadaRaha:d=4,o=6,b=125:g.5,d_,8d,d_.,8p,d,8d_,2f,8d_,8d,8c,8d,8c,a_5,8p,d_,d,c,b.5,d.,b5,2c,8p,2e,8e,f,g,8e,f.,8p,8f,8g,8f,d_.,8d,8c,8c,2d,8c,8a_5

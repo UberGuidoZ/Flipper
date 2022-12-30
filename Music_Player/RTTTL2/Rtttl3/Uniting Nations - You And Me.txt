@@ -1,0 +1,1 @@
+YouAndMe:d=4,o=5,b=125:8d,8f,8a#,8a#,8c6,16a,g,16p,f,8p,8a,8d,f,8d,8p,8d,8a#,8a#,8c6,16a,g,16p,8d,8f,8p,8a,8d,8f,p,8d,8f,8a#,8a#,8c6,16a,g,16p,f,8p,8a,8d,f,8d,8p,8d,8a#,8a#,8c6,16a,g,16p,8d,8f,8p,8a,8d,8f,p,8d,8f,8a#,8a#,8c6,16a,g,16p,f,8p,8a,8d,f,8d,8p,8d,8a#,8a#,8c6,16a,g,16p,8d,8f,8p,8a,8d,8f

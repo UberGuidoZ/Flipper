@@ -1,0 +1,1 @@
+Hark,The:d=4,o=6,b=112:c5,8p,8f5,f.5,8e5,f5,a5,a5,g5,c,c,c.,8a_5,a5,g5,2a5,c5,f5,f.5,8e5,f5,a5,a5,g5,8c,8g5,8p,g.5,8p,8f5,8e5,8d5,8p,2c5,8p,c,c,c,f5,a_5,a5,a5,g5,c,8p,8c,c,f5,a_5,a5,a5,g5,d,d,d,c,a_5,a5,2a_5,g5,8a5,8a_5,c,8p,8f5,f.5,8g5,2a5,d.,8d,d,c,a_5,a5,2a_5,g5,8a5,8a_5,c.,8f5,2f5,2g5,2f.5

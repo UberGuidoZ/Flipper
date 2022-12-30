@@ -1,0 +1,1 @@
+MonkeesT:d=32,o=6,b=45:f,16f,d#,c#,p,16f,8f.,g#5,c#,c#,c#,p,c#,d#,c#,d#,p,4f,g#5,16c#,16c#,d#,16c#,16f,8c#.,g#5,16c#,c#,p,c#,d#,16d#,4a#5,g,g,p,16g,f,d#,16g,8g.,d#,p,d#,d#,d#,f,p,d#,f,4g,16d#,d#,p,16f,d#,f,16g,8d#.,a#5,16d#,16d#,f,p,d#,f,4c

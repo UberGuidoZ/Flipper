@@ -1,0 +1,1 @@
+PutEmUp:d=4,o=5,b=160:8c6,8c6,a,8a,8a,a,p,8a#,8a#,8p,8c6,8p,8c6,8c6,8a#,a,1c6,2p,8c6,8c6,a,8a,8a,a,p,8a#,8a#,8p,8c6,8p,8c6,8c6,8a#,a,g,2f,2p,p,8c6,8c6,a,8a,8a,8a,8a,8a,8a,a#,c6,c6,8c6,8c6,a,8a,8a,8a,8a,8a,8a,a#,c6,c6,8c6,8c6,a,8a,8a,a,p,8a#,8a#,8p,8c6,8p,8c6,8c6,8a#,a,g,2f.

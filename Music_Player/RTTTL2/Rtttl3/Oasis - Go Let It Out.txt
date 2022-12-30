@@ -1,0 +1,1 @@
+GoLetItO:d=8,o=5,b=100:f#,a,f#,4b,a,p,16b,16a,b,16c6,b,16a,a,f#,a,a,4b,a,p,16b,16a,b,16c6,b,16a,a,p,c6,16b,16a,2a,4p,c6,16b,16a,2a,4p,c6,16b,16a,2a

@@ -1,0 +1,1 @@
+Camptown:d=4,o=5,b=180:g,g,e,g,a,g,2e,e,2d.,e,2d.,g,g,e,g,a,g,2e,2d,e,d,1c,c.,8c,e,g,1c6,a.,8a,c6,a,1g,g,g,8e,8e,8g,8g,a,g,2e,d,8e,8f,e,8e,8d,2c,2p

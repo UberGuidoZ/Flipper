@@ -1,0 +1,1 @@
+Control:d=4,o=6,b=160:d,d,d,8d,f,8f,f,8f,2e,c,c,c,8c,g5,8g5,g5,8g5,2f5,d,d,d,8d,f,8f,f,8f,2e,c,c,c,8c,g5,8g5,g5,8g5,2f5

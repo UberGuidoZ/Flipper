@@ -1,0 +1,1 @@
+InTheGhe:d=16,o=5,b=80:32p,g,g,8b,d6,8d6,p,d6,d6,8e6,d6,4d6,d6,c6,c6,c6,8c6,b,b,8b,8a,8b,a,g,8g,2b,4p,g,g,8g,2b,4p

@@ -1,0 +1,1 @@
+ArmeniaN:d=4,o=6,b=100:a5,8p,8g5,f_5,d5,a5,8p,8g5,f_5,d5,b5,8p,8c_,d,e,c_,b5,a5,p,b5,8p,8c_,d,e,a5,8p,8g5,f_5,d5,e5,8p,8f_5,g5,8a5,8g5,f_5,g5,a5

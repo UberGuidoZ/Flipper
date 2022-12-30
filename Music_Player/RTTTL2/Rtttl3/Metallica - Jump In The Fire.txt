@@ -1,0 +1,1 @@
+JumpInTh:d=8,o=6,b=180:g5,a#5,c,c#,f,d,c#,16c,16a5,g5,a#5,c,c#,f,d,c#,16c,16a5,g5,a#5,c,c#,f,d,c#,c,p,2c7,4a#.,g5,a#5,c,c#,f,d,c#,16c,16a5,g5,a#5,c,c#,f,d,c#,c,f,d,c#,c,f,d,c#,c,p,2c7,4a#.,4p

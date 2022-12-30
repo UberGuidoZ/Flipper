@@ -1,0 +1,1 @@
+ChopSuey:d=8,o=5,b=225:g#,g,1p,g,g,g,g,g,g,g,g,g,f#,1p,f#,f#,f#,f#,f#,f#,f#,g,g#,g,1p,g,g,g,g,g,g,g,g,g,f#

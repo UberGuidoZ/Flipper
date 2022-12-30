@@ -1,0 +1,1 @@
+Disarm:d=8,o=4,b=140:32p,g,4a,4a,a,4a,4a#,2p,a,d5,4c5,4c5,4a,d5,p,4c5,4a#,4a,p,4a,4a,a,4f,4f,2p,f,d5,4c5,4c5,4a,4d5,4c5,a#,p,4c5,c5,2p,4a,p,a,p,4f,f,f,4g,p,4f,2p,4a,p,a,p,4f,f,f,4a,4d5,c5,2p,g,4c5,c5,d5,4p,4c5,c5,4c5,c5,4p,a,a#,4p,a#,4c5,f,2p,f,a#,p,4c5,d5,p,4c5,p,c5,c5,p,c5,4p,4a,a,a#,4p,a,4a#,4c5,4f

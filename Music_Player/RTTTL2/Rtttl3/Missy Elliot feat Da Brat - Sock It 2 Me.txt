@@ -1,0 +1,1 @@
+SockIt2M:d=16,o=7,b=100:8f,4p.,f,f#,g#,p,d#,p,8c#,2p.,8f,8p,f,f#,g#,p,d#,p,8c#

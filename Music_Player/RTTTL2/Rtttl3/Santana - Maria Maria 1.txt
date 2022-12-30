@@ -1,0 +1,1 @@
+MariaMar:d=8,o=6,b=100:16c,p,16p,c,c,c,c,16c,1d,2p,16d,16c,e,16d,d,16p,c,d,1c,4p,16c,c,c,16p,c,d,c,b5,1g5,4p,e,16e,e,d,d,16p,c,d,e,16d,2c

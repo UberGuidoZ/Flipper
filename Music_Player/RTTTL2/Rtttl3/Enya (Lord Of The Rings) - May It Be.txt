@@ -1,0 +1,1 @@
+MayItBe:d=8,o=6,b=50:16a#5,16c,4d,16c,d,f,4g,p,g,4f,d,a#5,4c,p,16d,16f,4g,16f,g,a#,4f,p,16d,16f,4g,32f,32d,c,d,4f

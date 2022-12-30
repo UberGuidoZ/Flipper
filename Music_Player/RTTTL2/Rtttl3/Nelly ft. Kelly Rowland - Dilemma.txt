@@ -1,0 +1,1 @@
+Dilemma:d=8,o=6,b=225:16f,p,32g#,4p,16p,16f,p,d,4p,32g#,4p.,1g,4p,e,16p,16f,p,32f#,32g,4p,16p,16e,p,c,4p,32f#,g,4p,1f,32e,p,f,16p,16g,p,2a,16f,p,d,4p,32g#,4p.,1g,32p,f,16p,e,p,16f,p,2g

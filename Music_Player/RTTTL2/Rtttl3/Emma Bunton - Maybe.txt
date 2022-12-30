@@ -1,0 +1,1 @@
+Maybe:d=16,o=6,b=180:f#,p,f#.,32p,f.,32p,d#,p,d#,p,8d#.5,8p.,d#5,p,d#,p,d#,p,f#,p,f#.,32p,f.,32p,d#,8p.,32f#,p.,f#.,32p,f.,32p,d#,p,d#,p,4d#5,8p,d#5,p,d#,p,d#,p,f#,p,8f#,f.,32p,d#,8p.,32f#,p.,f#.,32p,f.,32p,d#,p,d#,p,4g#5,8p,g#5,p,d#,p,d#,p,f#,p,f#.,32p,f.,32p,d#,8p.,32f#,p.,f#.,32p,f.,32p,d#,p,d#,p,4g#5,8p,g#5,p,d#,p,d#,p,f#,p,f#,p,f,p,d#

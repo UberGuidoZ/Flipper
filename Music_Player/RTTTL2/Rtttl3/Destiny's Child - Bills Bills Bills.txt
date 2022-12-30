@@ -1,0 +1,1 @@
+BillsBil:b=125,o=5,d=8:32p,f,c,f,c,4f,p,f,e,16e,e,16e,e,4e,p,e,d#,16d#,d#,16d#,d#,4d#,p,d#,d,16d,d,16d,d,4d,p,d,c#6,p,g#,p,c#,p,g#,p,c#6,2p,4f6,4p,c6,p,g,p,c,p,g,p,c6

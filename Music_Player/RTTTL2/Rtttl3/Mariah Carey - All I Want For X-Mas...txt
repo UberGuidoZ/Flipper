@@ -1,0 +1,1 @@
+AllIWant:d=16,o=5,b=140:2c,2e,2g,4b,p,2c6,8p,p,2b,4a,p,2g,8p,p,2d6,2c6,2c6,2b,4c6,p,2b,8p,p,4a,2g,4p,2f,2a,2c6,2d6,2e6,4d6,2c6,2a,4p,2f,4g#,2c6,4p,2d6,4d#6,2d6,4p,4a#,1g#

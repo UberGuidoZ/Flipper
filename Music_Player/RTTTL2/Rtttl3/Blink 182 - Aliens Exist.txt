@@ -1,0 +1,1 @@
+AliensEx:d=4,o=5,b=125:2e6,f6,e6,d6,p,c6,d6,e6,c6,g6,e6,d6,p,c6,d6,e6,c6,b,c6,2c6,p,e6,c6,b,c6,2c6,p,b,b,c6,c6,2c6,p,b,b,e6,c6

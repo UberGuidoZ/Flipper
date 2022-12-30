@@ -1,0 +1,1 @@
+DanceAnd:d=8,o=5,b=140:c#6,c#.6,d#.6,f6,4f6,g#,f,g#,f,g#,f,g#,f,g#,c#6,c#.6,d#.6,f6,4f6,g#,f,g#,f,g#,f,g#.,g#.,g#,4a#,4g#,4p,f#,f,f#,f,f#,f,f#.,f#.,f#,4g#,f#,f,f#,f,f#,f,f#.,f#.,f,f#.,f#.,c#6,c#.6,d#.6,f6,4f6,g#,f,g#,f,g#,f,g#,f,g#,c#6,c#.6,d#.6,f6,4f6

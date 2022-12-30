@@ -1,0 +1,1 @@
+999DoaHo:d=4,o=5,b=160:d6,d6,f6,g6,a6,a6,f6,p,d6,d6,e6,d6,8e6,8d6,c6,a,p,d6,d6,f6,g6,a6,a6,f6,p,d6,d6,e6,d6,8e6,8d6,c6,a

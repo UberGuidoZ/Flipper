@@ -1,0 +1,1 @@
+LaCucara:d=16,o=5,b=100:c,c,c,8f.,a,p,c,c,c,8f.,a,4p,f,f,e,e,d,d,8c,p,c,c,c,8e.,g,p,c,c,c,8e.,g,4p,c6,d6,c,a,g,8f

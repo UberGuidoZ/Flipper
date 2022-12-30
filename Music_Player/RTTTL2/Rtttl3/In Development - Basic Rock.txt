@@ -1,0 +1,1 @@
+BasicRoc:d=32,o=5,b=300:c#.,8p.,c#2,p,c#2,p,c#2,p,c#2,p.,f.,8p.,c#2,p,c#2,p,c#2,p,c#2,p.,g#.,8p.,c#2,p,c#2,p,c#2,p,c#2,p.,a#.,8p.,c#2,p,c#2,p,c#2,p,c#2,p.,h.,8p.,c#2,p,c#2,p,c#2,p,c#2,p.,a#.,8p.,c#2,p,c#2,p,c#2,p,c#2,p.,g#.,8p.,c#2,p,c#2,p,c#2,p,c#2,p.,f.,8p.,c#2,p,c#2,p,c#2,p,c#2,p.,2p.,4p.

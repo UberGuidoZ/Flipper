@@ -1,0 +1,1 @@
+SheHates:d=16,o=5,b=125:g,p,g,p,8g6,8g6,4e6,c,p,8e6,8e6,8d6,8e6,4e6,4d6,d,p,g,p,g,p,8g6,8g6,4e6,c,p,c,p,8e6,8e6,8e6,4d6,d,p,d,p,d,p

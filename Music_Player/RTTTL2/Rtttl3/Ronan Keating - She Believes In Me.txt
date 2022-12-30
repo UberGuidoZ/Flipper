@@ -1,0 +1,1 @@
+SheBelie:d=4,o=6,b=200:g5,c,d,2f.,e,1e,2p,e,e,8e,2f,2e,d,8c,2e.,f,1d,2p,e,e,8e,e,d.,p,8c,b5,2d.,c,2c,2p,8b5,8c.,2d,c,2c,2p,8e,f,1d,2p,a.5,8g5,2g5,p

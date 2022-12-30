@@ -1,0 +1,1 @@
+BurningB:d=8,o=5,b=320:b4,e,p,g#,g#,p,b4,e,p,g#,g#,p,b4,e,p,g#,g#,f#,g#,a,p,f#,f#,p,b4,e,p,g#,g#,f#,e,c#,p,a,a,p,e,b4,p,g#,g#,p,f#,f#,p,e,e,e,e,e

@@ -1,0 +1,1 @@
+Reveille:d=8,o=6,b=120:g5,c,16e,16c,g5,e,c,16e,16c,g5,e,c,16e,16c,g5,c,4e,c,g5,c,16e,16c,g5,e,c,16e,16c,g5,e,c,16e,16c,g5,g5,4c.,e,e,e,e,e,4g,e,c,e,c,e,c,4e,c,e,e,e,e,e,4g,e,c,e,c,g5,g5,2c.

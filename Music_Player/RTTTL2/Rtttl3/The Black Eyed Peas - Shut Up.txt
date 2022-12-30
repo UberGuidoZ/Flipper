@@ -1,0 +1,1 @@
+ShutUp:d=8,o=5,b=112:g,a,b,b,g,c6,4b,g,a,b,b,g,c6,4b,g,a,b,b,g,c6,4b,g,a,b,b,b,b,b,a,a,g,b,a,1a,4p,f#,f#,f#,f#,f#,g,4a,b,b,g,c6,b,a,a,g

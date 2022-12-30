@@ -1,0 +1,1 @@
+You:d=4,o=6,b=140:8f_,8c_,d,d,8c_,d,d,8c_,d,e,8f_,8c_,d,d,8c_,d,d,8d,c_,a5,8f_,8c_,d,d,8c_,d,d,8d,c_,a5,8a,8b,b,b,8b,b7,b7,8b7,a7,e7

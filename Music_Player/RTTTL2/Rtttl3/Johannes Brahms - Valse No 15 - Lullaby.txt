@@ -1,0 +1,1 @@
+ValseNo1:d=8,o=5,b=125:e,e,4g.,e,e,2g,e,g,4c6,4b.,a,4a,4g,d,e,4f,4d,d,e,2f,d,f,b,a,4g,4b,2c6,c,c,2c6,a,f,2g,e,c,4f,4g,4a,2g,c,c,2c6,a,f,2g,e,c,f,16g,16f,4e,4d,2c

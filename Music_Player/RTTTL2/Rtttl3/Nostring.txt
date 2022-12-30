@@ -1,0 +1,1 @@
+Nostring:d=16,o=5,b=100:8g#.6,f6,p,g#6,p,c#6,p,f6,p,g#,p,g#,p,g#,8p,g#,a#,p,g#,p,g#,p,8g#,8c#6,8d#6,8f6,8p,f6,p,g#6,p,c6,p,f6,p,g#,p,g#,p,8g#.,g#,a#,p,g#,p,a#,p,c6,p,4c#6

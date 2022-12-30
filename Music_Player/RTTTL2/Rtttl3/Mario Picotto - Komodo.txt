@@ -1,0 +1,1 @@
+Komodo:d=8,o=6,b=160:e,c5,c5,d,e,c5,c5,d,e,d,e,c5,c5,d,e,b5,c,a4,a4,b5,c,a4,a4,b5,c,b5,c,a4,a4,b5,c,d,e,c5,c5,d,e,c5,c5,d,e,d,e,c5,c5,d,e,f#,g,e5,e5,f#,g,e5,e5,a,b,a,b

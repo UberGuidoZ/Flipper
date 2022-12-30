@@ -1,0 +1,1 @@
+GirlsDem:d=4,o=6,b=180:8g5,8p,8b5,8p,8f_,p,8e,p,8p,8d,8p,8b5,8p,8b5,8p,8e5,8p,8g5,8p,8d,p,8c,p,8b5,8p,8g5,8p,8a5,8g5,8p,8b5,8p,8f_,p,8e,p,8p,8d,8p,8b5,8p,8b5,8p,8e5,8p,8g5,8p,8d,p,8c

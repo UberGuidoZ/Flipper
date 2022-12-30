@@ -1,0 +1,1 @@
+Irresist:d=16,o=6,b=40:32b,d7,c7,b,a.,32g,g.,32a,g.,32g,a.,32a,a,32g,32f#,g.,32b,d7,c7,b,a.,32g,g.,a,g.,32g,8a,32a,a,32g,32f#,g.,g,32b,d7,e7,b,a.,32g,g.,32a,g.,32b,a.,b,a,32g,32f#,g

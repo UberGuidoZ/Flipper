@@ -1,0 +1,1 @@
+PPK:d=4,o=6,b=140:2d,8e,8f,8e,2d,8e,8f,8e,8d,8e,8f,8e,8d,8e,8f,8e,8d,8e,8f,8e,d,a5,1c,1p,a_5,f,8g,8f,8e,2f,8g,8f,8e,8f,8g,8f,8e,8f,8g,8f,8e,8f,8g,8f,8e,f,e,8f,8e,2d

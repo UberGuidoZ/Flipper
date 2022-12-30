@@ -1,0 +1,1 @@
+MrVain:d=8,o=5,b=180:32p,4a,e6,a,p,d6,f,p,f,c6,f,c6,g,d6,g,d6,a,p,a,p,e6,a,e6,a,p,4e6,4a,d6,f,p,f,c6,f,h,g,d6,g,d6,a,p,a,e6,a,e6,p

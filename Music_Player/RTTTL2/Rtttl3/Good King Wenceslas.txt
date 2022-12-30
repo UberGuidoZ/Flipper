@@ -1,0 +1,1 @@
+GoodKing:d=8,o=5,b=112:g,g,g,a,g,g,4d,e,d,e,f#,4g,4g,g,g,g,a,g,g,4d,e,d,e,f#,4g,4g,d6,c6,b,a,b,a,4g,e,d,e,f#,4g,4g,d,d,e,f#,g,g,4a,d6,c6,b,a,4g,4c6,1g

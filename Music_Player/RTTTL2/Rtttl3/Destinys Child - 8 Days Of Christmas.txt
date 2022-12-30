@@ -1,0 +1,1 @@
+8DaysOfC:d=16,o=5,b=100:e,e,8e,e,e,8e,e,e,e,f#,a,f#,8g#,p,a,b,b,b,b,8b,b,b,b,a,g#,f#,8e,e,e,e,e,e,e,8e,e,e,e,f#,a,f#,8g#,p,d#,8d#,8d#,8d#,8d#,p,d#,e,c#,8d#,d#,d#,8e,e,e,8e,e,e,e,f#,a,f#,8g#,p,a,8b,8b,8b,8b,b,a,g#,f#,8e

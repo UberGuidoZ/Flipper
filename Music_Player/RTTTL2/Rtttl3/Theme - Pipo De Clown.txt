@@ -1,0 +1,1 @@
+PipoDeCl:d=4,o=5,b=250:d#,p,d#.,8f,g,d#,g,c6,1a#,2p,g,g,f,8p,8f,f,g,f,d#,g,g,f,8p,8f,f,g,f,d#,2p,d#,p,d#,8p,8f,g,d#,g,c6,1a#,2p,g,g,f,8p,8f,f,f,f,g#,g,f,d#,p,1p,g#,p,8g,8g,g,8f,8f,f,p,d#,d#

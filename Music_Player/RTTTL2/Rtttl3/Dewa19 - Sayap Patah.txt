@@ -1,0 +1,1 @@
+SayapPat:d=4,o=6,b=125:c_,2f_,2e,p,b5,2c_,2a5,p,2c_,d,c_,2b5,32p

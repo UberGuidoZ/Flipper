@@ -1,0 +1,1 @@
+LearnToF:d=16,o=6,b=70:c,g,f,f,d#,4d#,2c,g,f,f,d#,4d#,2c,8c.,a#5,2a#.5,8c.,a#5,4a#5,4f.5,p,c,g,f,f,d#,4d#,2c,g,f,f,d#,4d#,2c,8c,8d,8d#,8d#,8f,8d#,8d,8c,8a#5,2c

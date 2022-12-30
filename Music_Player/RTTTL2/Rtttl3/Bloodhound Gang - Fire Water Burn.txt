@@ -1,0 +1,1 @@
+FireWate:d=8,o=5,b=90:32p,a#4,4c.,a#4,4c.,a#4,c,c,c,c#,2c,d#,d#,d#,d#,d#,4d#,d,c#,c#,c#,c#,2c#,4c#,c#,c#,c#,4c#.,2g#4

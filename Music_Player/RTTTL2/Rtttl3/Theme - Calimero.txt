@@ -1,0 +1,1 @@
+Calimero:d=4,o=5,b=125:8g,8a#,p,8g,8a#,p,a#.,8c6,a#,g#,8f,8g#,p,8f,8g#,p,g#.,8a#,g#,g,8g,8a#,p,8g,8a#,p,g#,c6,f,g#,8g,8a#,8a#,8g,8f,8g#,8g,8f,d#,p,2p,8g,8a#,p,8g,8a#,p,a#.,8c6,a#,g#,8f,8g#,p,8f,8g#,p,g#.,8a#,g#,g,8g,8a#,p,8g,8a#,p,g#,c6,f,g#,8g,8a#,8a#,8g,8f,8g#,8g,8f,d#,p,2p

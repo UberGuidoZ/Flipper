@@ -1,0 +1,1 @@
+KurtAngl:d=4,o=5,b=100:8c6,16c6,16c6,8c6,16c6,16c6,8c6,16c6,16c6,8c6,8c6,c,d#,2p,d#,f,2p,g#,g,2p,g,f,2p,c,d#,2p,d#,f,2p,g#,g,2p,g,f

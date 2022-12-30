@@ -1,0 +1,1 @@
+Written:d=4,o=6,b=185:p,8b.5,8b.5,8d,32p,f_.,e.,p,8p,e,f_,g,c.7,p,b,b.,p,8b.5,8b.5,8d,32p,f_.,e.7,p,8p,e,f_,g,c.7,p,b,g.,p,8b.5,8b.5,8d,32p,f_.,e.,p,8p,e,f_,g,c.7,p,b,b.,p

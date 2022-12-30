@@ -1,0 +1,1 @@
+Wonderch:d=4,o=5,b=180:8f.,16f,16p,16f,8p,f,8d#,8c,c,f,8f,d#.,f,g#,a#,c6,a#,g#,2f,8f.,16f,16p,16f,8p,f,8d#,8c,c,f,8f,d#.,g,8g,8g,g,8f,d#.,2f.,8f.,16f,16p,16f,8p,f,8d#,8c,c,f,8f,d#.,f,g#,a#,c6,a#,g#,2f,f,2g#,a#,c6,a#,8g#,f.,8g.,16g,8p,8g,g,8f,8d#,1f

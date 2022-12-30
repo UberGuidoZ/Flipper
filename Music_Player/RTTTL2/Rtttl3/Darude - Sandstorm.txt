@@ -1,0 +1,1 @@
+Sandstor:d=16,o=5,b=112:d6,d6,d6,d6,8d6,d6,d6,d6,d6,d6,d6,8d6,g6,g6,g6,g6,g6,g6,g6,g6,f6,f6,f6,f6,f6,f6,8f6,c6,c6,d6,d6,d6,d6,8d6,d6,d6,d6,d6,d6,d6,d6,d6,f6,f6,d6,d6,d6,d6,d6

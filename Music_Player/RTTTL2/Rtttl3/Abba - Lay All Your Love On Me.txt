@@ -1,0 +1,1 @@
+LayAllYo:b=125,o=5,d=8:32p,f#6,a#,a,a#,f6,a#,a,a#,d#6,a#,f6,a#,f#6,a#,g#6,a#,f#6,b,a#,b,d#6,b,a#,b,f6,a#,a,a#,d6,a#,a,a#,f#6,b,a#,b,g#6,b,a#6,c#6,g#6,c#6,c6,c#6,g#6,c#6,c6,c#6,4f#6

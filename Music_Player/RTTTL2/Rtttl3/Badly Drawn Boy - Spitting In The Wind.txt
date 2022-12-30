@@ -1,0 +1,1 @@
+Spitting:d=4,o=6,b=125:8c,8c.,c,d.,2e.,8p,8c.,c,d.,2e.,p.,16p,8c,8c.,c,f.,2e.,2p,16p,8f.,e,f,g,2f.,p.,8c,8c.,c,d.,2e.,8p,8c.,c,d.,2e.,p.,16p,8c,8c.,c,f.,2e.,2p,16p,8f.,e,f,g,2f.

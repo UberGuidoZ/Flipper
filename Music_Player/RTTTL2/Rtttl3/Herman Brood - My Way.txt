@@ -1,0 +1,1 @@
+MyWay:d=16,o=5,b=160:4d,2b,4p,4b,4b,4a,2b,4p,4b,4b,4a,2b,4p,4b,4b,4a,4a,2g#,4p,4d,2c,4p,4c,4c,4b,2c,4p,4c,4c,4b,2c,4p,4c,4d6,4a,2c,2b,2p

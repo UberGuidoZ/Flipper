@@ -1,0 +1,1 @@
+Minority:d=8,o=6,b=100:e.,d,16c,c.,c,16c,d.,e.,4c.,e.,d.,c.,c,16c,d.,e.,4c.,e.,d,16c,c.,c,16c,d.,e.,c.,a5,16g5,e.,d,16c,c.,c,16c,d.,e.,4c,16p,16a5,4c,16p,16c,b5,4b5,c,16c,b5,16a5,4g5,16p,16b5,c,16c,c,16c,b.5,b5,16b5,c,16c,b5,16c,d

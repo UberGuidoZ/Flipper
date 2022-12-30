@@ -1,0 +1,1 @@
+AsTheRus:d=8,o=5,b=125:c6,16c6,16c6,p,c6,16p,16c6,p,c6,c6,b,16b,16b,p,b,16p,b.,b,b,a,16a,16a,p,a,16p,a,16a,a,a,g,16g,16g,p,g,16p,g,16g,g,g,a,16a,16a,p,a,16p,a,16a,a,a,g,16g,16g,p,g,16p,g,16g,g,g,e,16e,16e,p,e,16p,e,16e,e,e,e,16e,16e,p,e,16p,e,16e,e,e,c6

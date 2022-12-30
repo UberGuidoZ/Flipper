@@ -1,0 +1,1 @@
+SingForT:d=4,o=5,b=160:8b,8c6,8b,a.,p,8b,8c6,8b,a.,8p,8a,8a,8a,a,8g,8a,8p,8a,8a,8a,8a,a.,p,8b,8c6,8b,a,8b,8p,8b,8b,8c6,8b,a.,8p,8b,8b,8c6,8b,8a,8p,8b,8p,8b,8b,8c6,8b,a,1b,2e.,1p

@@ -1,0 +1,1 @@
+RainingB:d=8,o=5,b=180:d#,d#,4d#,a,a#,4a,g#,a,4g#,g,g#,4g,d#,d#,4d#,a,a#,4a,g#,a,4g#,g,g#,4g,d#,d#,4d#,a,a#,4a,g#,a,4g#,g,g#,4g,d#,d#,4d#,a,a#,4a,g#,a,4g#,g,g#,g,d#,d#,d#,d#

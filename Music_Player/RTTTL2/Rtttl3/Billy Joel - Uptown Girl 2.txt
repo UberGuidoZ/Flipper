@@ -1,0 +1,1 @@
+UptownGi:d=8,o=6,b=125:4e,4e,2e,4p,d#,e,f#,e,d#,c#,4c#,b5,g#5,2b5,4p,a5,g#5,a5,b5,a5,g#5,f#5,4e5,4e,2e,4p,e,d#,e,f#,e,d#,c#,c#,b5,b5,g#5,2b5,p,a5,g#5,a5,b5

@@ -1,0 +1,1 @@
+Hitching:d=16,o=6,b=40:32p,d#,d,c,d#,32c.,d,8c,32c.,32c,g,32f.,d#,4c,32d#.,32c,d,c,d,32c.,d,32c,c,4c

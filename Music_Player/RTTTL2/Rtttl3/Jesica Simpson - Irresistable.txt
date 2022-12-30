@@ -1,0 +1,1 @@
+Irresist:d=8,o=5,b=100:a#.,a.,g,a#.,a.,g,a#.,a.,g,c.6,a#.,4a,a#,a,g,a#.,a.,g,f#,16f#,f#,16g,2a.,a#.,a.,g,a#.,a.,g,a#.,a.,g,c.6,a#.,4a,a#,a,g,a#.,a.,g,4f#.,16d,16d,a#,16a#,a,16g,a,32a#,32a,32p,4g

@@ -1,0 +1,1 @@
+MakeItGo:d=8,o=6,b=112:d5,d,d,d,c5,c,c,c,g5,4b5,4a5,4g5,f#,d5,f#,f#,f#,c5,e,f#,g,g5,4d,d.,16c,4b5,g5,d5,d,d,d,c5,c,c,c,g5,4b5,4a5,4g5,f#,d5,f#,f#,f#,c5,e,f#,g,g5,4d,e.,16d,4c,b5,4g5

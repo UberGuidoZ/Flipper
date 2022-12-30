@@ -1,0 +1,1 @@
+Arise:d=4,o=6,b=160:a5,e,e,8e,8d,e,e,a,8f,8e,f,f,f,8e,8d,e,e,e,8e,8d,a5,e,e,8e,8d,e,e,a,8f,8e,f,f,f,8e,8d,e,e,e,8e,8d,a5

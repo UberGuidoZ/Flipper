@@ -1,0 +1,1 @@
+HeavenMu:d=8,o=6,b=125:d#.,4d#,16p,d.,d#.,2c,p,g#.,g#.,a#,g.,4g,16p,d.,d#.,2c,p,g.,a#.,a#,c.,a#.,a#,16g,16f,d#,c,d#,g#.,g#.,g#,16g,16f,d#,c,d#,d#.,4d#,16p,d.,d#.,2c,p,g#.,g#.,a#,g.,4g,16p,d.,d#.,2c,p,g.,a#.,a#,c.,a#.,a#,16g,16f,d#,c,d#,g#.,g#.,g#,16g,16f,d#,c,d#

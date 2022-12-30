@@ -1,0 +1,1 @@
+Sorcerer:d=16,o=6,b=63:4c,4g,g.5,a5,b.5,c.,p,d#.,c.,p,d#.,d.,c,b.5,c.,p,d#.,c.,p,d#.,d.,c,b.5,c.,p,d#.,c.,d#,d.,c.,d,d#.,d.,f,d#.,d.,p,f#.,c.,p,d#.,d.,f,d#.,d.,p,f#.,c.,p,d#.,d.,d#,f.,g.,g,g.,g.,g,g.,2g.

@@ -1,0 +1,1 @@
+HorrorMi:d=8,o=5,b=160:d6,g,g,d6,g,g,d6,g,d#6,g,d6,g,g,d6,g,g,d6,g,d#6,g,c#6,f#,f#,c#6,f#,f#,c#6,f#,d6,e,a,e,a4,e,g,a,e,c6,e,d6,e,a4,c6,e,a4,e,a,e,a4,e,g,a,e

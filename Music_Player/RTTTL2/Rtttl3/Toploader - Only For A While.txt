@@ -1,0 +1,1 @@
+OnlyForA:d=16,o=5,b=80:g,g,8a.,g,a,4a#.,4p,g,8a.,g,a,2a#.,4p,8a,8a,4a#,4c6,1d6,p,a#,d6,8d.6,c6,a#,d6,4c6,4p,a#,d6,8d.6,c6,a#,d6,2c6,8p.,8a#,8a#,4a#,4c6,1d6

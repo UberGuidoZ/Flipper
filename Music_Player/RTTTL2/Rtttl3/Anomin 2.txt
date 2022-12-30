@@ -1,0 +1,1 @@
+Anomin2:d=4,o=6,b=225:b,g,8g,8b,8a,8g,b,e,8e,8b,8a,8b,d7,f,8f,8d7,8e7,8b,8c,f,8g,8a,8f,b,g,8g,8b,8a,8g,b,e,8e,8b,b,8a,8b,d7,f,8f7,8e7,8b,f7,8c7,8c7,8c7,8b,8a

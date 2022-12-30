@@ -1,0 +1,1 @@
+WhatAbou:d=16,o=5,b=90:c,c,a7,d7,c,c,a7,d7,a,d7,g,g,g,d7,a,c7,c,c,a7,a6,c,c,a7,a6,a,a6,g,e,g,a6,a,c7,c,c,a7,d7,c,c,a7,d7,a,d7,g,g,g,d7,e,d7,c,c,a7,a6,c,c,a7,a6,a,a6,g,e,g,e,a7,a6,8a

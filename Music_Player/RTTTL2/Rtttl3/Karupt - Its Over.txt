@@ -1,0 +1,1 @@
+ItsOver:d=8,o=5,b=100:a,g#,4b,b,g#6,e6,e6,b,a,4a,a,f#6,d#6,d#6,b,g#,4e6,g#,e6,p,a,p,2g#,g#6,4e6,a,g#,4b,b,g#6,e6,e6,b,a,4a,a,f#6,d#6,d#6,b,g#,4e6,g#,e6,p,a,p,2g#,g#6,e6

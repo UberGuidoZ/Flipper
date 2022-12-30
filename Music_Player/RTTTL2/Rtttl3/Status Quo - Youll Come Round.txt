@@ -1,0 +1,1 @@
+YoullCom:d=16,o=5,b=90:g,a,c,f,8d.,p,8d.,c,d,f,8p,g,a,c,f,8d.,p,8d.,c,d,c,8p,g,a,c,f,8d.,p,8d.,c,d,f,8p,g,a,c,f,8d.,p,8d.,c,d,c,8p,g,a,c,f,8d.

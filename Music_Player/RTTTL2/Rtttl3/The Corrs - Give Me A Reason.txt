@@ -1,0 +1,1 @@
+GiveMeAR:d=8,o=5,b=125:d,d,4d,f#,f#,4g,4d.,b,a,g,4f#,d,d,4d,f#,f#,4g,4d.,b,a,g,4f#,d,d,4d,f#,f#,4g,4d.,b,a,g,4f#,4d.,b,a,g,4f#,4d.,b,a,g,4f#,2e.

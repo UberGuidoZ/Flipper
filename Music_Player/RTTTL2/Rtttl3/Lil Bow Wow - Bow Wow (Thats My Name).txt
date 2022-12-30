@@ -1,0 +1,1 @@
+BowWow(T:d=16,o=5,b=100:c6,c6,c6,8p,8c6,8c6,c6,g,a,g,c6,g,a,g,4c6,a#,a#,8a#,8a#.,a#,8p.,c6,c6,c6,8p,8c6,8c6,c6,g,a,g,c6,g,a,g,8c6,8p,a#,a#,8a#,8a#.,a#

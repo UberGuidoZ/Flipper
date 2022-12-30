@@ -1,0 +1,1 @@
+PinkyAnd:d=16,o=6,b=125:b,8e,d#,8e,g,4d#.,b,8e,d#,8e,g,2d#,4e,8e,g,8a#,4a#,a#,8b,a,4g,4f#.,e,8a,g#,8a,b,4g#.,e,8a,g#,8a,b,4g#.,c,8b,4b,b,8b,b,8c#,d#,4e,4d,4c,4b5,4e,4d,4c,4b5,4p,4e,b,a#,b,4c,4b5,8p

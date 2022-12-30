@@ -1,0 +1,1 @@
+YellowRo:d=16,o=5,b=125:d,c,8b4,d,p,8d,d,p,8e,8d.,p,d,c,8b4,8d,8g,8a,4b.,8d,8d,b,p,8b.,b,8b,4a,8g,8f#,8g,8a.,b,4a,8p,d,c,8b4,d,p,8d,p,d,8e,8d.,p,d,c,8b4,8d,8g.,a,4b.,8d,8e,c6,p,8c6,p,c6,c6,p,8b,a,p,g,p,8g,d,p,8b.,a,4g.

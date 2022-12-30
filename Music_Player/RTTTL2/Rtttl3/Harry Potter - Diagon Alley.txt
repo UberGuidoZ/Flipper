@@ -1,0 +1,1 @@
+DiagonAl:d=16,o=5,b=125:b,c6,b,p,b,p,a,p,b,p,g,p,b,c6,b,p,b,p,a,p,b,p,g,p,d6,e6,d6,p,d6,p,b,p,c6,p,a,p,f6,e6,d6,c6,b,a,g,b,8a.,p,b,c6,b,p,b,p,a,p,b,p,g,p,b,c6,b,p,d6,p,a,p,b,p,g,p,c6,b,p,c6,b,a,p,b,a,f,p,2g

@@ -1,0 +1,1 @@
+Rawhide:d=8,o=5,b=125:c,d#,c,d#,c,4d#.,d#,g,d#,g,d#,4g.,g,a#,g,a#,g,4a#,g,2a#,c6,b,c6,b,c6,4g.,a#.,16a#,a#,g#,g,4c,c,a#,a#,a#,a#,c6,a#,d#,f,2g,c6,b,c6,b,c6,4g,g,a#.,16a#,a#,g#,g,4c,c,a#,4a#,g#,g,4c,g.,2a#.

@@ -1,0 +1,1 @@
+TheArche:d=8,o=6,b=155:4d,b5,4g,e,4d,b5,4g5,p,4d,b5,4g,f#,4e.,4d,p,4d,b5,4g,e,4d,b5,4g5,p,4a5,d,c#,d,e,d,d5,e5.,f#5,g5,a5,4c,d,e,f#,e,4a5,b5,c,b5,c,4g5,a5,b5,a5,g5,f#5,p,g5,c,b5,c,4d,b5,4g,e,4d,b5,4g5,p,4d,g,f#,g,a,2g

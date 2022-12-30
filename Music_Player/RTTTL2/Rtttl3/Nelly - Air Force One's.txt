@@ -1,0 +1,1 @@
+AirForce:d=16,o=5,b=180:2d,d6,8p,d6,8p,4f.7,8p,d,8p,d,8p,2f7,d,8p,8d,8p,2e7,d,8p,d,8p,2d7,d,8p,8d,8p,2f7,d,8p,d,8p,2f7,d,8p,8d,8p,2e7,8a7,8p,8f7,8p,8d7,4p,8a.,4p,c,8d,8p,8d,8p,8d,8p,8d,8p,8d.,4p,p,4d,4p,4d.,8p,8a7,8p,8f7,8p,8d7,4p,8a,4p,p,8c,8d,p,8d,8p,8d,8p,8d,8p,8d.,4p,p,8d.,4p,p,2d

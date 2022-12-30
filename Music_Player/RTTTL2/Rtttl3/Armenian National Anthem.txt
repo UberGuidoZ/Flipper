@@ -1,0 +1,1 @@
+Armenian:d=4,o=5,b=100:a,8p,8g,f#,d,a,8p,8g,f#,d,b,8p,8c#6,d6,e6,c#6,b,a,p,b,8p,8c#6,d6,e6,a,8p,8g,f#,d,e,8p,8f#,g,8a,8g,f#,g,a

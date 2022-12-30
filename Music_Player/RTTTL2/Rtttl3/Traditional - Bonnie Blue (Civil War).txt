@@ -1,0 +1,1 @@
+BonnieBl:d=8,o=6,b=160:c5,4a5,a5,4a5,a5,a#5,2a#5,a#5,4c,c,4a5,f5,2g.5,4f,f,4e,f,4d,c,4a5,f5,4a5,g5,4f5,e5,2f5,c5,4a5,a5,4a5,a#5,2a#5,a#5,4c,c,4a5,f5,2g5,c,4f.,4e,f,d,d,c,4a5,f5,4a5,g5,4f5,e5,2f5,c,2f,c,2e,c,4d,d,4d,d,2c,c,4f.,4c,c,e,e,d,4c,a#5,4a5,a#5,4a5,g5,2f.5

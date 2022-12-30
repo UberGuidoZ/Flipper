@@ -1,0 +1,1 @@
+Don'tBot:d=8,o=5,b=125:a#,p,2g#,4p,g#,4c6,a#,c6,4p.,g,16p,g#.,g#,f,4p.,f,16p,c.6,a#,a#,4c6,2p,4a#,c6,4a#.,c6,4a#.,c6,4c#.6,g,g#,2f,p,f,16p,a#.,a#,4g#.,1p,p,g#,4c6,a#,c6,4p.,g,16p,16g#,p,g#,4f.,p,f,16p,a#.,a#,4g#.,4p,c6,4a#.,c6,4a#.,c6,4a#,c6,p,c#6,p,g,p,16g#,2f,p.,f,4a#,a#,g#,p,a#,p,c6,p,2f

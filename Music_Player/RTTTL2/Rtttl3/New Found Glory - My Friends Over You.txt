@@ -1,0 +1,1 @@
+MyFriend:d=4,o=6,b=112:2a5,8a5,8f_,8f_,8e,8f_,8e,2d,p,8a5,d,a5,a5,8f_,8f_,8e,8f_,8e,d,8c_,d,a5,8d,8d,8d,8e,d,8a5,8a5,8g,8f_,8d,8e,f_,8e,8f_,8g,8f_,8e,8f_,8d,8d,8d,8e,8f_,8e,8d,8c,2b5

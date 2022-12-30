@@ -1,0 +1,1 @@
+Badineri:d=16,o=6,b=125:8b,d7,b,8f#,b,f#,8d,f#,d,4b5,f#5,b5,d,b5,c#,b5,c#,b5,a#5,c#,e,c#,8d,8b5,8b,d7,b,8f#,b,f#,8d,f#,d,4b5,8d,8d,8d,8d,8b,8d,32d,32c#,32d,32c#,8c#,8f#,8f#,8f#,8f#,8d7,8f#,32f#,32f,32f#,32f,8f,c#,f#,a,f#,g#,f#,g#,f#,f,g#,b,g#,a,g#,a,g#,f#,a,f#,f,f#,b,f#,f,f#,c#7,f#,f,f#,d7,f#,f,f#,d7,c#7,b,c#7,a,g#,f#,8a,8g#,4f#

@@ -1,0 +1,1 @@
+SweetHom:d=8,o=6,b=180:g,g,g7,p,g,f,f,f7,p,f7,c,c,c7,p,c7,d,e,g,a,g,e,d,e,g,g,g7,p,g7,f,f,f7,p,f7,c,c,c7

@@ -1,0 +1,1 @@
+YouAreMy:d=4,o=5,b=125:g.6,f#6,g6,2d6,8p,8d6,8c6,b,c.6,b,c6,2a,8p,g.6,f#6,g6,2d6,8p,8d6,8c6,b,c.6,g.6,8b,a.,p,e.6,8c,g.,f#,d.6,p,e.6,8c,g.,f#,f#,e6,8b,d.6,p,8g,8g,e6,8c,g.,f#,f#.6,d6,c6,g.6,f#6,e6,b.6,a6,g6,2e6,p,8b6,a6,g6,1e6,1f#6

@@ -1,0 +1,1 @@
+Fly:d=4,o=5,b=112:8b,e,b,8e,8a,8b,8c6,8e,8c6,8e,8b,8a,8g,8a,8b,e,b,8e,8a,8b,8c6,8e,8c6,8e,8b,8a,8g,8a,e,2b.,8b,16b,8b.,16c6,8b,8a,8g.,8f#,e,8b,b.,8c6,2a,8p,g,2a,2b.,8b,16b,8b.,16c6,8b,8a,8g.,8f#,e,8b,2b,8e,d,8a,2a,8p,e,8b,2b,8g,d,8a,a.,g

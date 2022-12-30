@@ -1,0 +1,1 @@
+AThousan:d=32,o=5,b=50:16f,c6,f,c6,b,f,b,8g.,16e,d,16c,c6,f,c6,b,f,b,g,c,g,c,g,c,e,a4,e,16d,c6,f,c6,b,f,b,g,c,g,c,g,c,16e.,d,e,d,c,e,d,c,4g

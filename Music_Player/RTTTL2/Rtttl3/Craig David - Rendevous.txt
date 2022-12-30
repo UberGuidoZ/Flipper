@@ -1,0 +1,1 @@
+Rendevou:d=16,o=5,b=125:g,a#,d6,f6,8a#,8f,d,f,a,c6,8f,8d,c,d#,g,a#,8d#,8c,d,f,a,c6,8a,f,f#,g,a#,d6,f6,8a#,8g,d,f,a,c6,8a,8f,c,d#,g,a#,8g,8d#,d,f,a,c6,8a,8f,c#6,d6,p,c#6,d6

@@ -1,0 +1,1 @@
+LoveCats:d=16,o=6,b=120:8e.,e,p,e,p,e,p,e,8a,8e,8d,p,c,p,8d,c,8e.,8a5,8c,8d,4e,g,g,g,p,8g,8p,d,e,p,8c,8e.,8f,8e,f,8e,4c.,p,8e.,e,e,e,p,8e,e,e,e,e,d,p,8e,8e,8f,8p,8g,8p,8a,8p,4e,a,p,8e,8p.,8e,f,f,8e,f,f,8e,f,f,8e,f,f,8g,g,4e.,8p,8e.,8e,8e,d,8d,8c,p,d,c,p,8e.,c,2a5.

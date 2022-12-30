@@ -1,0 +1,1 @@
+PhantomO:d=4,o=6,b=100:e5,a5,e5,g5,8f5,2f5,d5,g5,8d5,1e5,e5,a5,e5,g5,8f5,2f5,d5,g5,8d5,1e5,e5,a5,c,e,8d,2d,d,g,8d,1e,e,1a,8g,8f,8e,8d,8c,8b5,8a5,1g_5,f5,f5,8e5,1e5

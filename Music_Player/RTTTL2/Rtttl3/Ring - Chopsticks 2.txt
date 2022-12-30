@@ -1,0 +1,1 @@
+Chopstic:d=8,o=6,b=160:16e,16d,g5,g,g,16e,16d,g5,g,g,16e,16d,g5,g,e5,g,d5,f#,f#,16e,16d,d5,f#,f#,16e,16d,d5,f#,f#,16e,16d,d5,f#,e5,f#,g5,g,g,16e,16d,g5,g,g,16e,16d,g5,g,g,16e,16d,g5,g,e5,g,d5,f#,f#

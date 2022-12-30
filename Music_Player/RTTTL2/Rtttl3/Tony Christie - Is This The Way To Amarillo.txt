@@ -1,0 +1,1 @@
+IsThisTh:d=8,o=5,b=140:b,b,4b,b,4b,c6,4c6,4c6,2p,b,b,4b,b,4b,a,4a,4a,2p,g,g,4g,a,g,p,d,4e,4d,2p,c6,c6,4b,f#,a,p,g,4g,4g,2p,b,b,4b,b,4b,c6,4c6,4c6,2p,b,b,4b,b,4b,a,4a,4a,2p,g,g,4g,a,g,p,d,4e,4d,2p,c6,c6,4b,f#,a,p,g,4g,4g

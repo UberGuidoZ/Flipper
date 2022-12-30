@@ -1,0 +1,1 @@
+HeyJoe:d=4,o=6,b=180:c,e,f,f#,g5,b5,c,c#,d,8f#,g5,g#5,a5,c#,d,d#,e,8p,8e,e,p,a#5,8d,8b5,8g,e,8p,8e,e

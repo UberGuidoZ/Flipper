@@ -1,0 +1,1 @@
+24:d=32,o=6,b=355:f,f,f,8p,f,f,f,f,f,f,4p,b,b,b,b,b,b,p,b5,b5,b5,b5,b5,b5,b5,b5,b5,b5,b5,b5,16p,1p,1p

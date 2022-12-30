@@ -1,0 +1,1 @@
+Superstr:d=16,o=5,b=112:2g,p,2g,p,2a.,4p,8a,p,2a#,4p,2g,p,2g,p,1f,1p,2g,p,2g,p,2a.,4p,8a,p,2a#,4p,2g,p,2g,p,1f,p

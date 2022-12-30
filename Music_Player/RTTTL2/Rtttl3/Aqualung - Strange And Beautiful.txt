@@ -1,0 +1,1 @@
+StrangeA:d=8,o=7,b=285:g5,4p,g5,p,c,d,p,16g5,16p,c,4p,a#4,4p,a#4,4p,d,4p,4c,16d5,16p,f6,4p,d,p,16f5,16p,c,p,a#6,a6,p,2g6,16g5,p.,a6,d,4p,c,4p,a#4,4p,a#4,4p,d,4p,4c,16d5,16p,f6,4p,d,4p,c,p,a#6,a6,p,2a6,4g6,c,4d,16g5,16p,4c.,a#4,4p,a#4,4p,16d#,16e,f,p,4e.,4d,p,4c,p,4a#.6,4a6,p,2g6

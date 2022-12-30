@@ -1,0 +1,1 @@
+GottaMan:d=16,o=5,b=90:d#,f,8g#,d#,f,8g#,d#,8d#,d#,p,d#,8g#,8f,8p,d#,d#,f,8f,d#,p,d#,p,d#,8g#,8d#,g#,d#,g#

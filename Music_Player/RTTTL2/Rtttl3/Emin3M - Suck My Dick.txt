@@ -1,0 +1,1 @@
+SuckMyDi:d=4,o=6,b=160:a5,e5,a5,b5,c,b5,a5,e5,f5,p,p,a5,e5,p,p,a5,a5,e5,a5,b5,c,b5,a5,e,f,p,p,f,e

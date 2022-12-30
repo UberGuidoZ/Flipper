@@ -1,0 +1,1 @@
+FriendOr:d=4,o=5,b=112:8g,a,a#,g,8g,8g,8a,8a#,8p,a.,8a,8a,8a#,8c6,8p,c.6,8c6,8c6,8a#,8a,8p,g.,8p,8g,a#,8f,g.,8g,8g,8a,8a#,8p,a.,8a,8a,8a#,8c6,8p,c.6,8c6,8c6,8a#,8a,8p,g.,8g,8g,a,a#,g,8g,8g,8a,8a#,8p,a.,8a,8a,8a#,8c6,8p,c.6,8c6,8c6,8a#,8a,8p,g.,8p,8g,a#,8f,g.,8g,8g,8a,8a#,8p,a.,8a,8a,8a#

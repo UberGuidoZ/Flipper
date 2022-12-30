@@ -1,0 +1,1 @@
+SanFranc:d=4,o=5,b=90:8c,8c,2a,g,g,16e,2d.,8c,8c,2a,8g.,16a,8g,16e,2d.,16c,16d,8c,16g,e.,8d,c,c,16a4,2g.4,8c,8d,e.,8a,8g.,16a,8g,16e,2d

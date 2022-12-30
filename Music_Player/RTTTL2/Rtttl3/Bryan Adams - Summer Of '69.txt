@@ -1,0 +1,1 @@
+SummerOf:d=4,o=6,b=140:8a5,8d,8d,d,d,f_,8e,8d,p,8p,e,8e,8e,8e,f_,e,2e,p,8p,d,8d,8d,8d,f_,8e,8d,2d,p,8a5,8e,8e,8e,e,f_,e,2e,8a5,8d,8d,d,d,f_,8e,8d,p,8p,e,8e,8e,8e,f_,e,2e,p,8p,d,8d,8d,8d,f_,8e,8d,2d,p,8a5,8e,8e,8e,e,f_,e,2e

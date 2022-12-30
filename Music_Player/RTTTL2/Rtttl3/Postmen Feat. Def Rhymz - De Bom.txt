@@ -1,0 +1,1 @@
+DeBom:d=4,o=5,b=125:f6,f6,8e6,8c6,8c6,8c6,f6,f6,8e6,8c6,8c6,8c6,f6,f6,e6,8c6,e6,2d6,c6,c6,8b,8g,8g,8g,b,b,8a,8f,8f,8f,g,e,d,d,2c

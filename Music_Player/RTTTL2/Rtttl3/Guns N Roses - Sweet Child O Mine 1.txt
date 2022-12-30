@@ -1,0 +1,1 @@
+SweetChi:d=16,o=6,b=80:f5,f,c,a5,a#,c,a,c,f5,f,c,a5,a#,c,a,c,g5,f,c,a#5,a#,c,a,c,g5,f,c,a#5,a#,c,a,c,a#5,f,c,a#5,a#,c,a,c,a#5,f,c,a#5,a#,c,a,c,f5,f,c,a5,a#,c,a,c,f5,f,c,a5,a#,c,a,c,f5,f,c,a5,a#,c,a,c,f5,f,c,a5,a#,c,a,c,g5,f,c,a#5,a#,c,a,c,g5,f,c,a#5,a#,c,a,c,a#5,f,c,a#5,a#,c,a,c,a#5,f,c,a#5,a#,c,a,c,f5,f,c,a5,a#,c,a,c,f5,f,c,a5,a#,c,a,c

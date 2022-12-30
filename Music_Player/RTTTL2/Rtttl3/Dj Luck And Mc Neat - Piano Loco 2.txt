@@ -1,0 +1,1 @@
+PianoLoc:d=8,o=5,b=125:f#,16d,f#,g,f#,c#,16e,g,g,f#,16d,f#,g,f#,c#,16e,g,g,f#,16d,f#,g,f#,c#,16e,g,g,f#,16d,f#,g,f#,d,16d,b,b,f#,16d,f#,g,f#,c#,16e,g,g,f#,16d,f#,g,f#

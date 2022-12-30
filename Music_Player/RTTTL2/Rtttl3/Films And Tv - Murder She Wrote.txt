@@ -1,0 +1,1 @@
+MurderSh:d=16,o=6,b=125:8p,8g#5,8c#,8f,8f#,8d#,8p,8f#,8f,8c#,8p,8a#5,4g#5,8p,g#,f#,f,p,g#,p,c#,p,f,p,d#,p,f#,p,c,p,d#,p,c#,p,f,p,a#5,p,c#,p,8c#murder:d=16,o=6,b=125:8p,8g#5,8c#,8f,8f#,8d#,8p,8f#,8f,8c#,8p,8a#5,4g#5,8p,g#,f#,f,p,g#,p,c#,p,f,p,d#,p,f#,p,c,p,d#,p,c#,p,f,p,a#5,p,c#,p,8c#

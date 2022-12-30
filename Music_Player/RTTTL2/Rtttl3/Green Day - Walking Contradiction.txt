@@ -1,0 +1,1 @@
+WalkingC:d=1,o=6,b=635:32p,d,d,d#,2d#,d#,d#,2f,2f,2d#,2d,2a#5,d,d,d#,2d,c,c,2d,d.,2a#5,d,d,2d#,d#,d#,d#,f,2d#,2d,2a#5,d,d,2c,a#5,c,g#5,2a#5,a#.5

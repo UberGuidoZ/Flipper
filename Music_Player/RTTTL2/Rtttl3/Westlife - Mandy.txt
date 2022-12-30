@@ -1,0 +1,1 @@
+Mandy:d=4,o=6,b=112:g,f,d5,8p,8a5,8g,f,8d5,8g,f,8d5,8g,f,a5,p,8a5,8a5,8g5,8g,8g5,16g,f.,8g,f,d5,8p,8a5,8g,f,8d5,8g,f,8d5,8d5,f,2f,8a5,a5,2g.5,2a5

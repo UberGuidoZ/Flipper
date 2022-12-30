@@ -1,0 +1,1 @@
+StarryEy:d=16,o=5,b=225:4a,4f,4f,8f,8a.,p,8f.,p,8f.,p,8f,8f,8f,4a,4f,4f,8f,8a.,p,8f.,p,8f.,p,8p,4p,4a,4f,4f,8f,8a.,p,8f.,p,8f.,p,8f,8f,8f,4a,4f,4f,8f,8a.,p,8f.,p,8f.,p,8p,4p,4a,4f,4f,8f,8a.,p,8f.,p,8f.,p,8f,8f,8f,4a,4f,4f,8f,8a.,p,8f.,p,8f.,p,8p,4p

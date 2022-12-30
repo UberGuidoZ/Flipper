@@ -1,0 +1,1 @@
+Cool:d=8,o=5,b=112:16c,p.,c6,c6,c6,b,p,4b,a,p,b,p,b,c6,b,f#6,d6,p,4d6,4b.,d6,b,p,4a,4g.,16c,p.,c6,c6,c6,b,p,4b,a,p,b,p,c6,4p,f#6,d6,p,4d6,b,4p,d6,b,p,4a,g,g,g,c6,c6,p,4c6,b,p,4a.,p,g,b,g,4g

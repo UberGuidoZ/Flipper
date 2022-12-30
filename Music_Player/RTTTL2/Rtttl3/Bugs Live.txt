@@ -1,0 +1,1 @@
+BugsLive:d=4,o=5,b=200:c,e,2g,g.,8a,g,c,e,g,c6,a,g,f,e,g,c,e,2g,g.,8a,g,c,f,e,1d,c,e,2g,g.,8a,g,c,e,g,c6,a,g,f,e,2g

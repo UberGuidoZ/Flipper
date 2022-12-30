@@ -1,0 +1,1 @@
+BackToBa:d=4,o=5,b=125:8e,8g,b,2p,8g,8g,8p,8a,2p,8e,8g,8b.,16c6,8b.,16c6,8b,8a,8g,8g,8p,8a,8p,e.,8e,8g,b,2p,8g,8g,8p,8a,2p,8e,8g,b,p,8p,8c6,8p,8d6,8p,8c6,8p,a.,8e,8g,b,2p,8g,8g,8p,8a,2p,8e,8g,8b.,16c6,8b.,16c6,8b,8a,8g,8g,8p,8a,8p,e.,8e,8g,b,2p,8g,8g,8p,8a,2p,8e,8g,b,p,8p,8c6,8p,8d6,8p,8c6,8p,a

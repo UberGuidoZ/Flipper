@@ -1,0 +1,1 @@
+StuckInT:d=8,o=6,b=125:d,d,4d,d,d,c,c,b5,b5,b5,4a.5,4p,d,d,c,d,d,c,4c,b5,b5,b5,4a.5,4p,f,d,4f,d,d,c,d,d,c,2f,4p,d,c,4d,d,d,c,c,b5,b5,b5,2a.5,p,4d.,16d,16c,4d,c,a5,4f,f,16f,16d,f,p,f,c,4d,d,d,c,c,b5,b5,b5,4a5

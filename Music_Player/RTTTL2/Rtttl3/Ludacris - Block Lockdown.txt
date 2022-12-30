@@ -1,0 +1,1 @@
+BlockLoc:d=8,o=5,b=160:g,g,g,d6,d6,c6,c6,a#,c,c,p,4d,d6,c6,d6,g,g,g,d6,d6,c6,c6,a#,c,c,p,4d,d6,c6,d6,g,g,g,d6,d6,c6,c6,a#,c,c,p,4d,d6,c6,d6,g,p,g,4p.,g,g,c,c,p,d,p,d,d,d

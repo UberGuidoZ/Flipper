@@ -1,0 +1,1 @@
+Frontin:d=4,o=5,b=200:8c,8p,2p,g,e6,d6,c6,a#,8p,8a#,8g,8a,a#,a#,e6,d6,c6,a#,8p,8a#,8g,8a,2a#,a#,g,a#,2d6,e6,8c,8p,p,8c,8p,p,2p,8c,8p,2p,g,e6,d6,c6,a#,8p,8a#,8g,8a,a#,a#,e6,d6,c6,a#,8p,8a#,8g,8a,2a#,a#,g,a#,2d6,e6,8c,8p,p,8c,8p,p,2p,8c

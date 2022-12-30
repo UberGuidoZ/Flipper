@@ -1,0 +1,1 @@
+DreamOn:d=8,o=5,b=100:g,f#,g,f#,g,4f#,g#,a,g#,a,a,4g#,p,g,f#,g,f#,g,f#,g#,a,g#,a,g#,a,4g#,4p,2a,g#,2b,g#,a,g#,4a,p,2a,g#,2b,g#,a,g#,4a,4p,a.,a.,4c#6,b,a#,4a

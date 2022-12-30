@@ -1,0 +1,1 @@
+WelcomeT:d=16,o=5,b=45:32p,b,32b,b,d6,c#6,b,a.,b.,32a,4g#,b,32b,b,d6,c#6,b,a.,g,g,32g,a,4b

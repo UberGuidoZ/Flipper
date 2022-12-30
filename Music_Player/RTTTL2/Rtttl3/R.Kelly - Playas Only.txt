@@ -1,0 +1,1 @@
+PlayasOn:d=8,o=5,b=180:4c6,g,4c.6,4g,p,g,g,g,g,g,g,g,f,f,g,4g#.,4g,p,g,g,g,g,g,g,g,f,f,g,4g#.,4g,p,g,g,g,g,g,g,g,p,f,g,4g#.,4g,p,c,d,d#,f,g,g#,g,4c6,g,4c.6,4g,4p,g,g,4g,4g,f,f,g,4g#,g,4g,4p,g,g,4c,4g,f,g,p,4g#,g,4g,4p,g,g,g,g,g,g,f,d#,p,4g.,4g

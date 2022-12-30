@@ -1,0 +1,1 @@
+StrikeDa:d=4,o=6,b=140:c.5,c.5,p,c.,c.,p,c.7,c.7,2p,16c7,16p,16c7,16p,16c7,16p,8p,16c7,8p,16p,c,p,c,p,c,p,c,8p,16p,16c_,c,p,c,p,c,b5,c,8b.5,16c_5,c,p,c,p,c,b5,c,c_

@@ -1,0 +1,1 @@
+SanfordA:d=8,o=5,b=125:g,g,e6,4d6,4p,g,g,e6,d6,a#,b,4g,g,g,b,4a,4p,b,d6,b,a,e,f,4d,d,d,e,g,g,e,a#,4c6,4d6,4g.6

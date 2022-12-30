@@ -1,0 +1,1 @@
+Daydream:d=8,o=5,b=125:a,p,a,p,4b.,16a,16p,a,2g.,p,4f,f,p,g,g,p,4e,d,4p,c,4d.,4p,c,p,4g.,16a,16p,g,f,p,e,p,4f,4p,g,4f,f,e,1d.

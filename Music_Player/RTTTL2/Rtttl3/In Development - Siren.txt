@@ -1,0 +1,1 @@
+Siren:d=32,o=5,b=300:a2,p,a#2,p,h2,p,c4,p,c#4,p,d4,p,d#4,p,e4,p,f4,p,f#4,p,8p.

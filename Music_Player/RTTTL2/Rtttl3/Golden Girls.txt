@@ -1,0 +1,1 @@
+GoldenGi:d=8,o=7,b=100:d,c,a#6,c,a#6,g6,2a#6,2p.,d,c,c,a#6,a#6,g6,d,c,c,4a#.6,4p,g6,c,4c,4d.,c,a#6,4d,c,a#6,4c,a#6,4a#.6

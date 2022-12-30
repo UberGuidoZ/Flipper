@@ -1,0 +1,1 @@
+Finns:d=1,o=6,b=160:8d,p,8d,8p,8e,f,p,f#,4p,8f#,p,8f#,p,8f,8p,e,p,d,4p,8d,p,8d,p,8e,p,f,p,f#,4p,c,p,b5,p,a5,p,f#,p,8b5,8p,a5,p,d#,e,8f,p,8e,p,a5,p,8d,p,8d,p,8e,8p,8f,p,f#,4p,8f#,p,8f#,p,8f,p,e,p,d,4p,8d,p,8d,8p,8e,p,f,p,8f#,4p,b5,c,p,f#,a5,p,8b.5,8p,a5,p,e,8f,p,e,p,d,p,c5,c5,c5,c5,c5,c5,8a5,8p,b5,p,2

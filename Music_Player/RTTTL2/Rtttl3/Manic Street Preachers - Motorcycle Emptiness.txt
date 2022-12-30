@@ -1,0 +1,1 @@
+Motorcyc:d=4,o=6,b=125:f#,8e,d#,8d#,8p,d#,8e,f#,2p,f#,8e,d#,8c#,8p,c#,8e,d#,8c#,8b5,p,f#,8e,d#,8d#,8p,d#,8e,f#,2p,f#,8e,d#,8c#,8p,c#,8e,d#,8c#,8b5
