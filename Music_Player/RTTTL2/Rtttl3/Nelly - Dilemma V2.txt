@@ -1,0 +1,1 @@
+DilemmaV:d=8,o=5,b=160:4a,f,4d,a,p,2g,4p,e,f,4g,e,4c,g,p,2f,4p,f,g,4a,f,d,p,a,p,2g,p,e,f,e,f,4g,e,4c,g,p,2f

@@ -1,0 +1,1 @@
+Carlio:d=8,o=5,b=140:4c,e,16d,16e,e,c,p,c,16d,16e,c,e,c,c#,p,c#,16d,16e,c#,e,c#,d,p,d,f#,d#,p,d#,f#,e,p,e,16a,16b,e,b,e,b,p,e,16b,16c6,e,c6,e,c6,p,f#,16a,16a#

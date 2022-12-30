@@ -1,0 +1,1 @@
+ComeAsYo:d=16,o=5,b=225:8c,8c,8c#,8d,4p,4p,8f,8d,8f,8d,8d,8c#,8c,8g,8c,8c,4p,4p,8g,8c,8c#,8d,4p,4p,8f,8d,8f,8d,8d,8c#,8c,8g,8c,8c,4p,4p,8g

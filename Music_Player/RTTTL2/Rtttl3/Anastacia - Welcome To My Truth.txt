@@ -1,0 +1,1 @@
+WelcomeT:d=4,o=5,b=125:a,8a,8g,a,8a,8g,a,8a,8g,8a,8a#,8a,1g,1p,8g,a,8a,8g,8a,8g,8f,a.,8a,8a,8a,8a#,a,g,1g,2p,8p,8f,c6,8p,8f,8p,8f,2f,8p,8f,8g,8a,8g,8f,c6,8p,f,8f,2e,8f,8g,8a,8g,8f,d,2d,8f,c.6,8f,f.,8f,8f,8p,1g,p,8f,8g,8a,8g,8f,d,2d,8p,8f,c6,8f,f.,8f,2e,8d,1c

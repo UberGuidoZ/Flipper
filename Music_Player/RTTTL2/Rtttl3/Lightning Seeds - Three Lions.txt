@@ -1,0 +1,1 @@
+ThreeLio:d=8,o=5,b=112:d6,16p,c6,16p,a#,16p,a,4g,2p,c6,16p,c6,4a,c6,4d6,4a,4p,f,16p,g,16p,f,g,16p,4f,f,4f,d,16p,f,16p,f,f,16p,4d,a,16p,a,16p,a,4g,f,16p,g,16p,f,g,16p,4f

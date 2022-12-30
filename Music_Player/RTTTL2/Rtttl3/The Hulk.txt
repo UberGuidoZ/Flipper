@@ -1,0 +1,1 @@
+TheHulk:d=8,o=5,b=160:d6,d6,d7,d6,d7,d7,d6,f7,a#,a#,a#,a#,d7,d7,a#,f7,c6,c6,c6,c6,d7,d7,c6,g7,g,g7,g,f7,g,g7,g,f7,d6,d6,d6,d6,d7,d7,d6,f7,a#,a#,a#,a#,g7,f7,a#,g7,g,g,g,g,g,g,g,g,c6,c6,c6,c6,c6,c6,c6,c6

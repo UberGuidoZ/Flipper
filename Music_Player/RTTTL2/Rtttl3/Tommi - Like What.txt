@@ -1,0 +1,1 @@
+LikeWhat:d=32,o=6,b=100:g,p,g,p,16c.,p,a#,p,a#,p,8a,g,p,g,p,16c7,16p,a#,p,16a,8p,g,p,g,p,c7,p,c7,p,a#,p,a#,p,8a,g,p,g,p,16c7,16p,a#,p,16a,8p,a,p,a,p,a,p,a,p,a,p,a,p,16a,16p,a,16p.,16a,16p,a,p,16a.,16p.,a,p,a,p,a#,p,a#,p,a#,p,a#,p,a#,16p.,a#,16p.,16g5,8p,16g,8p,16g5

@@ -1,0 +1,1 @@
+AllIWant:d=4,o=6,b=180:c5,e5,g5,8b5,32p,c,16p,32p,b5,8a5,32p,g5,16p,32p,d,c,c,b5,8c,32p,b5,16p,32p,8a5,g5,8p,f5,a5,c,d,e,8d,c,a5,8p,f5,8g_5,c,8p,d,8d_,d,8p,8a_5,2g_5,a.5,g5,8p,f.5,e5,f.5,8e5,p,8p,8d5,p,c.5,g.5,8f5,p,f.5,e5,f5,8p,8e5,p,8d5,p,c.5,2p,a_5,8a5,a5,8g5,p,a5,8p,8d,p,8g5,p,f.5,8p,a_.5,c_,g5,8p,8f5,p,g.5,8f5,p,c_.5,8c5,8c5,8d5,8e5,f5

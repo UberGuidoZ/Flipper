@@ -1,0 +1,1 @@
+Bachelor:d=4,o=5,b=200:d6,d6,d6,f#,g,a,2b,b,e,2p,c#6,c#6,b,a,a,g,f#.,1p,8p,d6,d6,d6,f#,g,a,b,a,g,b,p,b,2a,g,e,f#,e,d,2p,a,b,c#6,2d6.,f#,g,a,b,a,g,b,p,b,2c#6,b,2a,g,f#,2a.,2p,2d6.,f#,g,a,b,a,g,b,p,b,2a,g,e,f#,e,2d.,2p,p

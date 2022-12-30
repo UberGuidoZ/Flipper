@@ -1,0 +1,1 @@
+Independ:d=8,o=5,b=100:16a,g#,f#,e,c#,16f#,a,b,16a,16a,d.,d,e,f#.,a,g#,16f#,16c#,a.,g#,a,f#.,f#,a,16f#,16d,b.,a,f#,d.,a,g#,f#,f#,16f#,f#,16f#,16f,16f,b,c#,c#,16c#,16c#

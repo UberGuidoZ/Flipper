@@ -1,0 +1,1 @@
+GrafelPi:d=16,o=5,b=160:8d,8p,d6,8p,8e,8p,e6,8p,8f,8p,f6,8p,8g,8p,g6,8p,1a.,8p,32p,8a,8p,a6,8p,8g,8p,8f,8p,f6,8p,8e,8p,e6,8p,1d.

@@ -1,0 +1,1 @@
+HashPipe:d=4,o=7,b=125:8d.,16c,2a6,p,d,8c,d,e.,p,d,8e,8d.,d,8c,d,e,2d.,8e,8d.,d,16c.,d,e,2p,d,8e,8d.,d,8c,d,e,2p,d,16e.,8d.,d,8c,d,e,2d#.,p,d,8c,d,2c.

@@ -1,0 +1,1 @@
+Lejonkungen:d=4,o=5,b=160:8f,b,8a,8b,8a,8g,p,8e,8g,a,8b,8a,g,p,8g,b,8a,8b,8a,8g,p,e,8g,a,8g,a

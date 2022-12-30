@@ -1,0 +1,1 @@
+JamesBon:d=8,o=6,b=180:4b5,a#5,b5,a#,g#,a#,4g#,4p,4b,4p,4a,g#,a,g#,f#,g#,4f#,4p,4e,4p,4g,f#,g,f#,e,f#,4e,4p,4b,4p,d#,e,4f#

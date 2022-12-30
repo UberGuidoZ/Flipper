@@ -1,0 +1,1 @@
+Huntersolo:d=4,o=5,b=500:a#4,c#,f,a#,c#6,f6,a6,f6,d#6,c#6,c6,a#,d#,f#,a#,c#6,2f6,2d#6,p,f#,a,c6,d#6,2f#6,2f6,d#6,c#6,c6,a#4,c#,f,a#,2c#6,2a#

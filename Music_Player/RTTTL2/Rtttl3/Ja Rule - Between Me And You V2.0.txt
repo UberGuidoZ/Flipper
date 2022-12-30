@@ -1,0 +1,1 @@
+BetweenM:d=4,o=5,b=160:8g6,8g6,8g6,f6,8c6,8d6,c6,p,p,8a,8a,8a,a,8c6,8d6,c6,2p,p,8g,8g,8g,8c6,8b,8a,8b,a,2p,8g,8g,8g,g,8c6,8d6,c6,c6,a

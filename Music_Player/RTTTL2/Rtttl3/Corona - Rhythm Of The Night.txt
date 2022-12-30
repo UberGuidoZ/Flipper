@@ -1,0 +1,1 @@
+RhythmOf:d=16,o=5,b=63:g#,g#,g#,c#6,b,g#,f#,e,8c#.,8p,8b,b,8g#.,8p,8g#,4f#,8p,g#,c#6,b,g#,32f#,e.,8c#.

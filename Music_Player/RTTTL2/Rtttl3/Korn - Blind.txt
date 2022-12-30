@@ -1,0 +1,1 @@
+Blind:d=16,o=5,b=90:a,8b,a,8c6,a,8b,a,c6,p,c7,c7,c7,c7,a,8b,a,8c6,a,8b,a,c6,p,c7,c7,c7,c7,a,8b,a,8c6,a,8b,a,c6,p,c7,c7,c7,c7,a,8b,a,8c6,a,8b,a,c6,p,c7,c7

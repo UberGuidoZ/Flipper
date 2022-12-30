@@ -1,0 +1,1 @@
+LeftOfCe:d=4,o=5,b=200:8c,8p,d#6,d#6,d#6,d#6,d#6,d#6,d#6,8f,8p,c6,f6,d#6,8f,8p,c6,f6,d#6,8d#,8p,d#6,d#6,d#6,d#.6,8p,a#,a#,8d,8p,2g,g,f,g,g,f,8c,8p,d#6,d#6,d#6,d#6,d#6,d6,d#6,8f,8p,c6,f6,d#6,8f,8p,c6,f6,d#6,8d#,8p,p,d#6,p,d#6,p,a#,g,8d,8p,g#,2g,g,f,d#,p,8c

@@ -1,0 +1,1 @@
+TheSound:d=4,o=6,b=140:d,p,c_,8d,2b5,8p,b5,2a5,p,2a5,2d,e,1c_,p,c_,d,c_,2b5,p,2b5,2c_,d,1b5,p,2b5,p,2f_,p,2f_,2e,f_,1e,2p

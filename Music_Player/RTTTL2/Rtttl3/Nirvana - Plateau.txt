@@ -1,0 +1,1 @@
+Plateau:d=16,o=5,b=40:32p,g,g,8a#,g,g,8a#,g,g,8a#,4f,g,g,a#,a#,g,8f.,g,g,f,d#,4c

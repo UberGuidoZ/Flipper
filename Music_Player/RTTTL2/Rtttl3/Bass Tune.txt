@@ -1,0 +1,1 @@
+BassTune:d=4,o=6,b=160:8g5,8a5,8b5,c,8g5,c,8g5,8c,b5,g5,8b5,8g5,8a5,8b5,a5,e5,a5,8e5,8a5,g5,e5,8g5,8e5,8f5,8g5,f5,c5,f5,8c5,8f5,e5,g5,c,c,d,a5,d,8a5,8b5,c,b5,a5,b5,2c

@@ -1,0 +1,1 @@
+Perdono:d=16,o=5,b=125:b,p,b,p,8b.,p,b,p,b,p,b,p,b,p,b,p,b,p,b,p,8b,8c#6,4p,8p,b,p,b,p,8b,8p,b,p,b,p,8b,8p,b,p,b,p,b,p,8b,8c#6,4p,8p,a,p,a,p,8a,8p,a,p,a,p,a,p,a,p,a,p,a,p,a,p,8a,8b.,4p,p,a,p,a,p,8a,8p,a,p,a,p,a,p,a,p,a,p,4a,8p,8b.,4p,p,b,p,b,p,8b.,p,b,p,b,p,8b,b,p,b,p,b,p,8b,8p,8a,c#6

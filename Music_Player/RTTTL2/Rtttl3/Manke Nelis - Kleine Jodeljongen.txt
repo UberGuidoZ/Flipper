@@ -1,0 +1,1 @@
+KleineJo:d=4,o=5,b=112:2g,8f#,8g,8f#,8g,8b,2a.,8p,2f,8e,8f,8e,8f,8a,2g,8p,8e,8g,8c.6,16c6,8c6,8c6,c6,g,8f,2d,8p,8d,8f,8b.,16b,8b,8b,b,g,8e,2c.,8p,2g,8f#,8g,8f#,8g,8b,2a.,8p,2f,8e,8f,8e,8f,8a,2g,8p,8e,8g,8c.6,16c6,8c6,8c6,c6,g,8f,2d,8p,8d,8f,8b.,16b,8b,8b,b,g,8e,2c.,8p

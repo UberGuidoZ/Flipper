@@ -1,0 +1,1 @@
+Rect-She:d=4,o=6,b=125:8e5,8p,8a,8g,8e5,8g,f_,8e,8f_,8f_,8g,f_,e,8e5,8p,8a,8g,8e5,f_,8e,8f_,8f_,8g,f_,e,8c5,8p,8a,8g,8c5,8g,f_,8e,8f_,8f_,8g,f_,e,8d5,8p,8a,8g,8d5,f_,8e,8f_,8f_,8g,f_,e,8e5,8p,8a,8g,8e5,8g,f_,8e,8f_,8f_,8g,f_,e

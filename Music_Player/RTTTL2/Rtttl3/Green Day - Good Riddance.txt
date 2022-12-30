@@ -1,0 +1,1 @@
+GoodRidd:d=8,o=5,b=90:b,b,16c6,d6,c6,b,16b,c6,b,b,16a,b,4p,b,b,16c6,d6,c6,b,c6,b,b,16a,b,4p,g,g,e,g,16a,b,a,g,e,g,16e,g,b,p,g,g,e,g,16a,4a,f#,16g,4g

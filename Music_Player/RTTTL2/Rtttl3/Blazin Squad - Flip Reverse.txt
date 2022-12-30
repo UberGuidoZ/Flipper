@@ -1,0 +1,1 @@
+FlipReve:d=16,o=5,b=100:8a,f,f,8g,8f.,d,8d,8d,d,d,8a,f,f,8g,8f.,d,8d,8d,d,d,8d#,d#,d#,8d#,8d#.,d#,8d#,8d#,d#,d#,8d,d,d,8d,8d.,d,d,8d,d,d,d,8a,f,f,8g,8f.,d,8d,8d,d,d,8a,f,f,8g,8f.,d,8d,8d,d,d,8d#,d#,d#,8d#,8d#.,d#,8d#,8d#,d#,d#,8d,d,d,8d,8d.,d,d,8d,d,d,d,8a,f,f,8g,8f.,d,8d,8d,d,d,8a,f,f,8g,8f.,d,8d,8d,d,d,8d#,d#,d#,8d#,8d#.,d#,8d#,8d#,d#,d#,8d,d,d,8d,8d.,d,d,8d,d,d,32d

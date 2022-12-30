@@ -1,0 +1,1 @@
+TheseBoo:d=4,o=5,b=180:c6,c6,8a#,c.6,a#,c6,a#,c6,g,8p,2g.,2p,p,8a#,c6,8a#,c.6,f,g,8g,a#.,f,1g,1p,a,8g,8a,8p,8g,8a,8g,a,8g,8a,8p,8g,8a,8g,a,1c6,2p,p,a#,8c6,8a#,c6,g,g,8g,f.,f,8f#,1g,2p,8p,g,a#,a#,a#,a#,8c6,g.,2p,a#,a#,a#,a#,c6,2p,p,8a#,8a#,a#,a#,a#,c6,g,8g,f#.,f#,f,8d#,d.

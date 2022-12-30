@@ -1,0 +1,1 @@
+ToughEno:d=4,o=6,b=90:16d,16e,8f,8g,8f,e,8d,8c,8d.,16c,a_5,2p,16g,16a,a_,8a_,a.,8f,g.,2p,8p,16d,16e,8f,8g,8f,e,8d,8c,8d.,16c,a_5,2p,16d,16c,d,16d,16p,d,p,32d,32p,32c,32p,d,16c,16p,8a5,c

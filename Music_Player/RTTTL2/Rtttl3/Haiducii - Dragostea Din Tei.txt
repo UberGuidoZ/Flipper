@@ -1,0 +1,1 @@
+Dragoste:d=8,o=5,b=160:4d6,c#6,4d6,4b.,b,c#6,b,a,2f#,d6,f#6,e6,d6,2a,a,e6,d6,c#6,d6,c#6,4b,b4,c#,b4,2b,p,b4,c#,b4,2a,p,b4,c#,b4,2a,p,b4,c#,b4,4d6,b

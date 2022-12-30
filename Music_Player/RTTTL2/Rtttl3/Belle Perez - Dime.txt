@@ -1,0 +1,1 @@
+Dime:d=4,o=5,b=200:g,d#,2p,c6,8p,c6,g,8d#,f,8d#,8d,1p,p,8d,8d,8d,8d#,8p,2c.6,8p,b,b,8g,8f,8p,8d#,1p,p,g,d#,2p,c6,8p,8c6,8p,g,8d#,f,8d#,8d,1p,p,8d,8d,8d,8d#,8p,2c.6,8p,b,g,8f,8d#

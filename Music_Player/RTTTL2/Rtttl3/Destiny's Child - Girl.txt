@@ -1,0 +1,1 @@
+Girl:d=16,o=5,b=90:8b.,a,8g,d,e,g,e,d,e,g,e,d,d,g,e,d,e,g,e,d,g,8a.,b,p,a,8g,8b.,a,8g,d,e,g,e,d,e,g,e,d#,f,g,f,d#,f,g,f,d#,f,8g.,d#,4c,8d6,8b,8b,8d6,d6,b,8b,8a,2g.,8p,8d6,8b,4b,8d6,8b,4b,8d6,8b,4b,8d6,8b,8b,a,g,8a,8b,8b.,a,2g

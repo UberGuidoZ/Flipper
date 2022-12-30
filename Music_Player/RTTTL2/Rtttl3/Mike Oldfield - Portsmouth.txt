@@ -1,0 +1,1 @@
+Portsmou:d=8,o=7,b=140:4g6,4c,p,d,e,d,c,b6,4a6,4p,4a,4p,4g,4e,f,e,d,c,2d,4p,g6,16a6,16b6,4c,c,d,e,d,c,b6,4a6,4p,4a,4p,4g,4e,f,e,d,e,2c,4p,g,g,4c,c,d,e,d,c,b6,4a6,4p,4a,4p,g,g,4e,f,e,d,c,2d,4p,g6,16a6,16b6,4c,c,d,e,d,c,b6,2a6,2a,4g,4e,f,e,d,e,2c,4p

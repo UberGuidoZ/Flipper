@@ -1,0 +1,1 @@
+ThereMus:d=8,o=6,b=90:g5,a5,e,d,c,b5,g5,2a5,4d.,b5,2b5,4e.,d,16d,16c,16a5,2c,4p.,g5,a5,e,d,c,b5,g5,2a5,4d.,b5,2b5,4d.,c,16d,2c,a.5,2c

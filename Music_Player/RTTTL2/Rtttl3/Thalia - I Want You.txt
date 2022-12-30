@@ -1,0 +1,1 @@
+IWantYou:d=4,o=5,b=180:2a6,g6,8c,8p,a6,a6,8g6,8e6,16c,16p,16d,16p,a6,a6,g6,c7,8a6,8e6,a6,8g6,8e6,8a,8g,d,8p,8g,p,8c,8p,2p,p,8c,8d,8e,p,8g#,p,a,8p,8a,p,8b,8p,8c6,8p,2a6,g6,8c,8p,a6,a6,8g6,8e6,16c,16p,16d,16p,a6,a6,g6,c7,8a6,8e6,a6,8g6,8e6,8a,8g,d,8p,8g,p,8c,8p,2p,p,8c,8d,8e,p,8g#,p,a,8p,8a,p,8b,8p,8c6,8p,8c

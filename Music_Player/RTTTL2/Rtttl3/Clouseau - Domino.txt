@@ -1,0 +1,1 @@
+Domino:d=16,o=5,b=80:8c,4a,8a#.,p,4a,8g,4g.,4f.,4p,a,p,4a,g,p,4g,f,p,4f.,4p,8p,8a.,p,a,8p,p,4a,g,8p,p,8a,8p,2g,2p,g,8p,p,4g,8a,8p,4a#,c6,p,4c.6,4a,4p,8a,8p,4a,8a#,8p,4a,g,p,4g.,4f,4p,8p,8c,a,8p,p,a,8p,p,8a.,p,8g,2f,4p,8p,a,8p,p,4a,8g,8p,4a,8a#,2g,2p,g,p,8g,8p,8a,8p,4a#,a,p,4a.,8p,8f

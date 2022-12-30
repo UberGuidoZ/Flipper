@@ -1,0 +1,1 @@
+JustADay:d=8,o=6,b=180:f#,p,f#,e,p,4e.,f#,p,f#,e,p,4b.5,f#,p,f#,e,p,4e.,32f#,g#,p,f#,e,p,4c#.,f#,p,f#,e,p,4e.,f#,p,f#,e,p,4b.5,f#,p,f#,e,p,4e.,32f#,g#,p,f#,e,p,4c#.

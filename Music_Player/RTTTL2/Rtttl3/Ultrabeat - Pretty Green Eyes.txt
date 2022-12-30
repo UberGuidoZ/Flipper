@@ -1,0 +1,1 @@
+PrettyGr:d=4,o=5,b=160:8c#,p,8c#,p,8c#,p,8e,p,8e,8p,8e,8p,8d#,p,8d#,p,8d#,p,8d#,p,8e,8p,8e,8p,8c#,p,8c#,p,8c#,p,8g#,p,8g#,8p,8g#,8p,8d#,p,8d#,p,8d#,p,8d#,8p,8e,8g#,8p,8g#

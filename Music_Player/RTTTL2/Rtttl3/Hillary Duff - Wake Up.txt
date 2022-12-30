@@ -1,0 +1,1 @@
+WakeUp:d=8,o=5,b=112:c6,f,p,c6,4f,f,f,e,f,f,2f,p,f,f,f,4f,f,f,4a,a,g,g,2f,c6,f,p,c6,4f,f,f,e,f,f,4f.,p,f,f,f,f,4f,f,f,a,p,a,g,g,4f,e,2d.,p,f,2d.,d,e,2f.

@@ -1,0 +1,1 @@
+FightSon:d=4,o=5,b=140:e,f#,g#,a,g#,a,8g#,8a,8g#,8a,b,a,e,f#,2g#.,8p,g#,a,a#,b,a#,b,8a#,8b,8a#,8b,c#6,b,e,d6,2c#.6,8p,e,f#,g#,a,g#,a,8g#,8a,8g#,8a,e6,c#6,b,a,2d.6,8p,8a,8a,b.,8b,c.6,8c6,c#.6,8d6,8e6,8c#6,8b,8a,2c#6,2b,2a

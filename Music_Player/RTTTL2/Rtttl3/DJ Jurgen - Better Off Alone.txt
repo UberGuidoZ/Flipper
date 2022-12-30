@@ -1,0 +1,1 @@
+BetterOf:d=16,o=5,b=140:8c6,8p,8c6,8a,8p,8c6,8p,8c6,8p,8b,8p,8g,8g6,p,8g6,p,8e6,8c6,8p,8c6,8a,8p,4c6,8c6,8p,8b,8p,8g,8f6,p,8f6,p,8e6,8c6,8p,8c6,8a,8p,8c6,8p,8c6,8p,8b,8p,8g,8g6,p,8g6,p,8e6,8c6,8p,8c6,8a,8p,8c6,8p,8c6,8p,8b,8p,8g,8f6,p,8f6,p,8e6

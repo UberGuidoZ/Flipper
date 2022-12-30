@@ -1,0 +1,1 @@
+TextAler:d=16,o=7,b=225:e6,p,g6,p,e,p,c,p,d,p,2g

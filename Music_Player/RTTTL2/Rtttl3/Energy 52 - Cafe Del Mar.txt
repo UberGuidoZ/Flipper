@@ -1,0 +1,1 @@
+CafeDelM:d=16,o=5,b=125:g6,e,e6,e,g6,e,e6,e,g6,e,e6,e,g6,e,e6,e,g6,c,e6,c,g6,c,e6,c,a6,d,f#6,d,a6,d,f#6,d,a6,d,f#6,d,a6,d,f#6,d,a6,d,f#6,d,a6,d,f#6,d,e6,a,c6,a,e6,a,c6,a,e6,a,c6,a,e6,a,c6,a

@@ -1,0 +1,1 @@
+Electric:d=8,o=5,b=140:4c6,4b,g,4g,g,g,g,4f.,g,g,g,a,g,b,2g.,4d6,b,a,g,4f,4c6,4b,g,4g,g,g,g,4f.,g,g,g,a,g,b,2g.,d6,b,d6,d6,b,c6,4d6,2b,b,b,c6,c6,d6,b,b,2g.,d6,b,c6,d6,b,e6,4d6,2b,4b,4c6,d6,b,a,4g,4b,4b,b,a,g,4f,4c6,4b,g,4g,g,g,g,4f.,g,g,g,a,g,b,2g.

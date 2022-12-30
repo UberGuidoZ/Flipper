@@ -1,0 +1,1 @@
+Airwolf1:d=16,o=6,b=100:4e5,a5,b5,d,4e,g,f#,d,4e,g,f#,d,4e,8d,f#,4b5,4a5,8g5,a5,8f#5,d5,4g5,c,d,f,4g,c,b,f,4g,c,b,f,4g,8f,a,4d,4c,8b5,d,8a5,f5,4g5

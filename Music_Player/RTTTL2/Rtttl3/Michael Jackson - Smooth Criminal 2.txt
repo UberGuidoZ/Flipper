@@ -1,0 +1,1 @@
+SmoothCr:d=8,o=6,b=125:c,c,16c,16c,d,d,p,16d,16d,d#,d#,p,16d#,16d#,d,a#5,d,c,p,c,16c,16c,16c,16c,d,d,p,16d,16d,d#,d#,p,16d#,16d#,d,a#5,d,c,p,c,c,16c,16c,d,d,p,16d,16d,d#,d#,p,16d#,16d#,d,a#5,d,c,g,f,g,g,p,p,g,f,g,g,p,d#,4g,16f,16d#,c,2p,4p,p

@@ -1,0 +1,1 @@
+LesMeser:d=8,o=5,b=125:d6,16p,c6,a#,16p,c6,d6,16p,d#6,f6,p,16d6,c6,a#,a,16p,g,a,16p,a#,f,p,f,16p,d#,d,16p,f,a#,16p,d6,c6,16p,b,c6,16p,g,a#,16p,a,a,16p,a#,c6

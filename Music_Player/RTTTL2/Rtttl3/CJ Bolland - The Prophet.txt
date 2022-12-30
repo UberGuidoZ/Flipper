@@ -1,0 +1,1 @@
+TheProph:d=4,o=6,b=140:8d,8e,f,8d,g,8e,f,8d,g,8e,f,8d,8e,f,8c,d,8e,f,8c,2d,8d,8e,f,8d,g,8e,f,8d,g,8e,f,8d,8e,f,8c,d,8e,f,8c,2d,8d,8e,f,8d,g,8e,f,8d,g,8e,f,8d,8e,f,8c,d,8e,f,8c,d

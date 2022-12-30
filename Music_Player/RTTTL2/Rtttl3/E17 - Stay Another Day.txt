@@ -1,0 +1,1 @@
+StayAnot:d=8,o=5,b=125:4f#,e,d,f#,f#,f#,f#,4f#,f#,4f#.,g,2e.,p,4e,4f#,f#,f#,4f#,g,2f#.,4g,f#,4e,f#,4e.,d,1d.,4f#,4f#,16f#.,f#,f#,4f#,4g,2e.,p,4e,4f#,f#,f#,4f#,g,2f#.,4g,f#,4g,f#,4g.,a,1a,4f#,e,d,f#,f#,f#,f#,4f#,f#,4f#.,g,2e.,p,4e,4f#,f#,f#,4f#,g,2f#.,4g,f#,4e,f#,4e.,d,1d.,4f#,4f#,f#,f#,f#,4f#,4g,2e.,p,4

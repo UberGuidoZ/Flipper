@@ -1,0 +1,1 @@
+EveryTim:d=4,o=5,b=200:g#,b,e6,f#6,2e.6,g#,f#,1e,2p,e,a,a,b,c#6,2g#.,8f#,8e,1f#.,2p,g#,b,e6,f#6,2e.6,g#,f#,1e,2p,e,a,a,b,c#6,2g#.,8f#,8e,1f#.,2p,g#,g#,a,b,2b,d#,1e.

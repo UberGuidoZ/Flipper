@@ -1,0 +1,1 @@
+YaMamma:d=8,o=5,b=250:32p,d,d,d.,16p,2d,f,f,f.,16p,2c,d,d,d.,16p,2d,f,f,f.,16p,2c

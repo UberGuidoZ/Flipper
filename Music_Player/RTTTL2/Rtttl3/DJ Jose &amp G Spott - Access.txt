@@ -1,0 +1,1 @@
+Access:d=16,o=5,b=140:g,g,8p,g,g,8p,g,g,8p,g,g,8p,f#,f#,8p,f#,f#,8p,f#,f#,8p,f#,f#,8p,b,b,8p,b,b,8p,b,b,8p,b,b,8p,a,a,8p,a,a,8p,a,a,8p,a,a,8p,a,g,d6

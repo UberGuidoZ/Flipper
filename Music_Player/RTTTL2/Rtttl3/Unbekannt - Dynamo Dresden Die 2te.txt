@@ -1,0 +1,1 @@
+DynamoDr:d=4,o=5,b=100:e,2a,16p,8a,8b,8c#6,1b,8c#6,8d6,e6,c#6,a,c#6,2b,2p,e,2a,16p,8a,8b,8c#6,1b,8c#6,8d6,e6,c#6,f#6,e6,2a6,1p,g,2g,e,16g,a,g,f,8p,f,8e,8e,8g,8g,8f,8e,d

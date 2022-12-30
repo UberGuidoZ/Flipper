@@ -1,0 +1,1 @@
+Lian-Kid:d=8,o=6,b=160:c5,p,e,e,4e,e,e,4d,d,g5,4p.,g,e,c5,p,e,e,4e,e,e,4d,d,g5,4p,g,e,c5,p,e,e,4e,e,f#,d5,f#,e,d,16d5,16p,e,f#,e,e5,p,4e,4e,4f#,g.,16d,16g5,16p,b5,2g5,d5,p,4f#,4f#,4a,g.,16f#,16c5,16p,e,4e,d,e,16e5,p.,4e,4e,4f#,g.,16d,16g5,16p,b5,2g5,16d5,p.,4f#,4f#,4a,g.,16f#,16c5,16p,e,4e,d,e,e5

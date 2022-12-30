@@ -1,0 +1,1 @@
+KingOfTh:d=16,o=6,b=100:g#,p,f,p,g#,8f,f,g#,p,8f,8p,f,p,8g#,f,p,g#,8f,f,g#,p,8f,g#,p,f,p,g#,g#,8f,g#,p,f,f,g#,p,8f,8p,f,p,c7,p,a#,a#,a#,8a#,a#,c7,p,8g#,f

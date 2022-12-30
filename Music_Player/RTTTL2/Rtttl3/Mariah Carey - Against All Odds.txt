@@ -1,0 +1,1 @@
+AgainstA:d=8,o=6,b=140:a5,f#,a,f#,e,d,4d.,e,2f#,a5,b5,4d,b5,4f#.,4e,d,2b5.,a5,b5,4d,b5,4b.,4a,f#,f#,4g.,f#,4e.,e,f#,4g,f#,4e.,4d,2e.

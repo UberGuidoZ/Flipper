@@ -1,0 +1,1 @@
+Somethin:d=16,o=5,b=125:d,p,8d,8d.,4p,p,1d,4p,d,p,8d,8d,4p,8p,1d,8p,d,p,d,p,d,p,8d,4p,8p,8d,8p,8d,8p,d,p,8d.,4p,p,d,p,d,p,d,p,8d,8p,8d.,4p,p,d,p,d,p,8d,8p,8d.,4p,p,2d,4p,8p,d,p,8d.,p,8d,8p,4d,8p,d,p,d,p,d,p,8d.,p,d,p,8d,8p,d,p,d,p,d,p,d,p,d,p,8d,8d,8p,d,p,d,p,d,p,8d,8p,d

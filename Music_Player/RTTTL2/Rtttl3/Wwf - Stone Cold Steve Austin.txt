@@ -1,0 +1,1 @@
+StoneCol:d=8,o=6,b=160:f5,b5,p,f5,b5,p,f5,b5,p,f5,b5,p,4b5,4c,f5,b5,p,f5,b5,p,f5,b5,p,f5,b5,p,4c,b5,p,f,b,p,f,b,p,f,b,p,f,b,p,4b,4c7,f,b,p,f,b,p,f,b,p,f,b,p,4c7,b

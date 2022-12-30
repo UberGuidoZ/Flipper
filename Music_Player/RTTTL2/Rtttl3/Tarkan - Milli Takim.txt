@@ -1,0 +1,1 @@
+MilliTak:d=4,o=6,b=180:8e,8e,8e,8e,8e,8d,8f,8e,8d,8d,8d,8d,8d,8d,8c,8e,8d,8c,8c,8c,8c,8c,8c,8b5,8d,8c,8b5,8b5,8g5,8a5,8b5,8g5,8a5,8b5,p,8d,8d,d,8d,8c,8e,8d,8c,8c,8c,8c,8c,8c,8b5,8d,8c,8b5,8b5,8b5,b5,8b5,8d,8c,8b5,8a5,a5

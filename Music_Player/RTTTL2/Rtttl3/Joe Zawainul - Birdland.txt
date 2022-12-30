@@ -1,0 +1,1 @@
+Birdland:d=4,o=5,b=160:c.6,b,a,8f#,a.,f#,a,8b,c.6,b,a,8f#,8e,8p,a.,p,c.6,b,a,8p,a,f#,a,8b,c.6,b,a,8f#,8e,8p,a.,8p,c.7,8b6,8c7,8b6,a6,8f#6,a6,f#6,a6,8b6,c7,b6,a6,8f#6,8e6,8p,a.6,8p,c7,8b6,8b6,p,8a,b6,8a6,8a6

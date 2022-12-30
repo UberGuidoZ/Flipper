@@ -1,0 +1,1 @@
+MyNeck,M:d=16,o=5,b=225:1d#6,c,p,4p,c,p,4p,c,p,8p,c,p,4p,c,p,4p,c,p,8p,2d6,2c6,1d#6,c,p,4p,c,p,4p,c,p,8p,c,p,4p,c,p,4p,c,p,8p,2d6,2c6,1d#6,c,p,4p,c,p,4p,c,p,8p,c,p,4p,c,p,4p,c,p,8p,2d6,2c6

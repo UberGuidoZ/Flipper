@@ -1,0 +1,1 @@
+Crush:d=8,o=5,b=112:32p,4g#,4c#6,4p,p,g#,g#,b,b,4p,p,f#,f#,a,4g#,p,4g#,f#,e,f#,f#,4e.,4p,4g#,4c#6,4p,p,g#,g#,b,4b,p,f#,e,4a,a,g#,f#,f#,4e.,p,c#,e,g#,f#,16e.,c#,2c#,e,4d#,d#,c#,c#,16b4,4g#4

@@ -1,0 +1,1 @@
+Mary'sBo:d=16,o=6,b=40:32g,32p,g,g,c7,c7,a,f,d,32a,32a,g,b,a,f,4e,g,e7,d7,c7,a,f,d.,g,c7,b,d7,4c7,e7,e7,f7,f7,d7,d7,e.7,32e7,c7,c7,d7,c7,8b.,a,g,e7,d7,c7,a,f,d.,32a,g,c7,b,d7,4c7,32g,32p,g,g,c7,c7,a,f,d,32a,32a,g,b,a,f,8e.,32p,g,e7,d7,c7,a,f,d.,32a,g,c7,b,d7,4c7,e7,e7,f7,f7,d7,d7,e.7,32e7,c7,c7,d7,c7,8b

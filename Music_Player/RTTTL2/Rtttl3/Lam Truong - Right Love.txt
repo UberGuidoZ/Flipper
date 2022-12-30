@@ -1,0 +1,1 @@
+RightLov:d=4,o=6,b=165:8a5,8b5,c,b5,a5,8b5,1c,8c,8c,d,b5,g5,8g5,2a5,p,8a5,8b5,c,b5,a5,8b5,1c,8c,8c,d,b5,g5,b5,2a5,p,c,c,8d,8c,a5,8a5,8a5,c,2d,1b5,8p,d,1d,8b5,8a5,g5,a5,b5,d,1a5

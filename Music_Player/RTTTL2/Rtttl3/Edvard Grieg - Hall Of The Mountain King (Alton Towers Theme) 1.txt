@@ -1,0 +1,1 @@
+HallOfTh:d=4,o=6,b=260:a5,b5,c,d,e,c,2e,d#,b5,2d#,d,a#5,2d,a5,b5,c,d,e,c,e,a,g,e,c,e,2g.,a5,b5,c,d,e,c,2e,d#,b5,2d#,d,a#5,2d,a5,b5,c,d,e,c,e,a,g,e,c,e,2g.

@@ -1,0 +1,1 @@
+RhythmOf:d=8,o=5,b=180:32p,c,p,f,p,e,p,f,a#,p,a,p,g,p,a,f,p,c,p,f,p,e,p,f,a#,p,a,p,g,p,a,f,2p

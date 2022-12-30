@@ -1,0 +1,1 @@
+TakeOnMe:d=8,o=5,b=160:g,g,g,4d#,4c,4f,4f,f,a,a,a#,c6,a#,a#,a#,4f,4d#,4g,4g,g,f,f,g,f,g,g,g,4d#,4c,4f,4f,f,a,a,a#,c6,a#,a#,a#,4f,4d#,4g,4g,g,f,f,g,f

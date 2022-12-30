@@ -1,0 +1,1 @@
+AfterAll:d=4,o=5,b=160:8g,a#,8g,a#,8g,a#,8g,2c6,p,8g,a#,8g,a#,8g,a#,8g,2c6,2p,a#,p,a#,8p,8d#,8d#,8d#,8p,8d#,d#,p,a#.,8p,2a#,2g,p,8g,a#,8g,a#,8g,a#,8g,2c6,p,8g,a#,8g,a#,8g,a#,8g,2c6,8p,8c6,d#6,8d6,8c6,8p,8a#,c.6,a#.,8p,8a#,a#,a#,8g,8a#,8p,8g,a#.,2d#,8f,g,2f.,8d#,8f,8g,8f,d#,1d#,p,8d#,8f,g,d#

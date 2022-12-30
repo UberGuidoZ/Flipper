@@ -1,0 +1,1 @@
+Don'tSto:d=16,o=5,b=112:d6,c#6,c6,b,a,b,c6,c#6,d6,c6,b,8a,p,a4,b4,c,b4,a4,p,c,b4,a4,p,c,b4,a#4,8a4,p,c6,c#6,d6,c#6,c6,b,a,b,c6,c#6,d6,c6,b,a,p,d,p,d,d,d,d,d,d,d,a4,p,c,d,p,d,c,b4,a#4,a4

@@ -1,0 +1,1 @@
+UncleFuc:d=16,o=5,b=160:32p,e6,p,e6,p,e6,p,e6,p,4e6,d6,p,c6,p,a,p,2c6,8p,c6,p,d6,p,e6,p,e6,p,e6,p,e6,p,e6,p,e6,p,d6,p,c6,p,a,p,2c6,8p,c6,p,c6,p,d6,p,d6,p,d6,p,a,p,c6,p,d6,p,8e6,p,e6,f6,f6,e6,p,d6,p,c6,p,a,p,c6,p,8d6,8p

@@ -1,0 +1,1 @@
+AllApolo:d=16,o=5,b=63:32p,f#,g,f#,a,a,g,8f#,f#,g,f#,d6,d6,c6,8b,f#,g,f#,a,a,g,8f#,f#,g,f#,f#6,f#6,e6,8d6

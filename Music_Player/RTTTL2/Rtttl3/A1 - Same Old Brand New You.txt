@@ -1,0 +1,1 @@
+SameOldB:d=8,o=5,b=100:f#,f#,a,a,d,d,f#,e.,4p,p,d,d,a,g.,4p,p,d,d,a,4g,4f#,e,4d,4d,f#,f#,a,a,d,d,f#,e.,4p,p,d,d,a,g.,4p,p,d,d,a,4g,4f#,e,4d,4d

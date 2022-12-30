@@ -1,0 +1,1 @@
+TheLionS:d=16,o=5,b=140:8g.,32p,8a,32p,8b.,p,4a,32p,b,32p,8c.6,p,b.,p,8a.,p,8g.,32p,a,p,b.,p,d.,8p,d.,8p,32p,d.,8p,32p,1d,p.,4g,8a,8b.,p,4a,32p,b,32p,8c.6,p,b.,p.,8a.,32p,8g.,p,a,32p,b.,p,d.,8p,32p,d.,8p,32p,d.,8p,1d

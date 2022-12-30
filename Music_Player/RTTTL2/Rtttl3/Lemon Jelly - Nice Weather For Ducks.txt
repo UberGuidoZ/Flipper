@@ -1,0 +1,1 @@
+NiceWeat:d=16,o=5,b=125:8b.,p,4b,c.6,8p,32p,8c6,8p,d.6,32p,e6,p,d6,p,c.6,32p,8b.,p,8a,8p,8g,p,32a,32p,g.,32p,f#,p,4e,8d,8p,8g.,a,g.,32p,f#,p,4e,d.,32p,32g,p.,8b,8p,4b,8c6,8p,c.6,8p,32p,d.6,32p,e.6,32p,d.6,32p,c.6,32p,8b.,p,8a.,32f#,32p,8g.,a,g.,p.,f#,4e,8d,8p,8g.,a,g.,32p,f#,p,4e,8d

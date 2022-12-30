@@ -1,0 +1,1 @@
+Rollin:d=16,o=5,b=180:4d,4d,4d,4a,4a,4a,4f,4f,4d,4d,4d,4a,4a,4a,4f,4f,4d,4d,4a,4a,4a,4f,4f,4d,4d,4a,4a,4a,4f,4f,4d,4d,4a,4a,4a,4f,4f

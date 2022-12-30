@@ -1,0 +1,1 @@
+JustWant:d=4,o=5,b=112:8c6,8c6,8p,c6,16c6,1b,8p,16p,8d,8b,8b,8b,8b,8b,8b,8p,8a,1a,8b,8a,8b,8a,8b,8b,8p,8e,1e,8d,8e,8p,8d,p,b,8c6,b,8c6,8p,b,8d,8c6,8c6,8c6,8c6,8c6,16c6,1b,8p,16p,8d,8b,8b,8b,8c6,8d6,d6,8a,1a,8b,8a,8b,8a,8b,b,8e,1e,p,8e,d.,b,8c6,b.,8c6,a.,8p,8a,8a,8g,8p,1g

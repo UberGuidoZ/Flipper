@@ -1,0 +1,1 @@
+ElCapiti:d=8,o=6,b=112:4g5,16d,d,c,c,16c,e,g,4g5,16d,d,c,c,16c,e,g,4g5,16d,d,c,c,16c,e,g,4p.,g,g,16g,4g,16p,4g5,16d,d,c,c,16c,e,g,4g5,16d,d,c,c,16c,e,g,4g5,16d,d,c,c,16c,e,g,4p.,g5,g5,16g5,4g5

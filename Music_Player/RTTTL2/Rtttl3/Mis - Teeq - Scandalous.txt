@@ -1,0 +1,1 @@
+Teeq-Sca:d=4,o=6,b=200:a_5,c,8c,c,8p,a_5,c,8c,c,8p,a_5,c,c,c,c,2c,d,2d_,8p,8f,8f,8f,8f,8g,f,d_,d_,c,p,8f,8f,8f,8f,8g,f,d_,d_,c,p,8d_,8d_,8d_,8d_,8c,d_,c,f,c

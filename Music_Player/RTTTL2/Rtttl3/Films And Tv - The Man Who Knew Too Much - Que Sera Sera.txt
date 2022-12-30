@@ -1,0 +1,1 @@
+TheManWh:d=8,o=6,b=100:a5,c#,d,4e,c#,4e,c#,4e.,c#,e,c#,f#,4e,f#,e,c#,2d.,g#,a,b,a,4g#,f#,g#,a,4g#.,d,e,f#,4e,g#5,4a.5,4a,g#,4f#,d,2f#,p,g#,b,a,f#,4e,a5,2c#,p,e,f#,e,c#,4e,b5,2e,b5,c#,4d,g#5,2a.5

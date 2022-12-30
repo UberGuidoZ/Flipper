@@ -1,0 +1,1 @@
+BlaydonR:d=32,o=6,b=100:4f,p,d,p,4a#5,p,d,p,c,16p,c,p,c,16p,c,p,8d.,p,8a#5,p,d#,p,d#,p,d#,p,16d#,16p,d#,p,d,16p,d,p,d,16p,d,p,16c,p,16d,c,16p,a#5,p,8a5,p,16f5,16p,a#5,p,a#5,p,a#5,p,8a#5,16p,a#5,p,a#5,p,a#5,p,a#5,16p,a#5,p,c,16p,c,p,c,16p,c,p,8d,8p,8a#5,p,d#,16p,d#,p,d#,16p,d#,p,16d,p,d#,p,2f.,p,f,p,16f

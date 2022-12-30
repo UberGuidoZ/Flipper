@@ -1,0 +1,1 @@
+Unwritte:d=4,o=5,b=180:c6,b,b,p,8b,8b,8p,8b,8p,8a,8p,8a,8p,8g,8p,g,8a,p,8b,8b,8p,8b,8p,8a,8p,a,8g,8p,8g,2p,b,8a,8a,2p,b,8a,a.,g,c6,b,g,g,c6,b,b,p,8b,8b,8p,8b,8p,8a,8p,8a,8p,8g,8p,g,8a,p,8b,8b,8b,8b,8p,8a,8p,8a,8p,8g,8p,g,8a,p,b,2a.,b,8a,g,8a,2a,8p,8g,a,g,a,8b,a,2g

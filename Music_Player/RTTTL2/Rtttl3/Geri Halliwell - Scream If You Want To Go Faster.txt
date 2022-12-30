@@ -1,0 +1,1 @@
+ScreamIf:d=8,o=5,b=140:4b,b,b,a,g,e,4g,4e,4d,4e.,4b,b,b,a,g,e,4g,2e.,p,4b,b,b,a,g,e,4g,4e,4d,4e.,4b,b,b,a,g,e,4g,2e.,p,4b,b,b,a,g,e,4g,4e,4d,4e.,4b,b,b,a,g,e,4g,2e.,p,4b,b,b,a,g,e,4g,4e,4d,4e.,4b,b,b,a,g,e,4g,2e.

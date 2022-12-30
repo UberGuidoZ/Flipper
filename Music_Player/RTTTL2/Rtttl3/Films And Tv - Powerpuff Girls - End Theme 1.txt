@@ -1,0 +1,1 @@
+Powerpuf:d=4,o=5,b=125:g,e,8g.,16p,g,8e.,8g.,8a.,16p,8g.,16p,8f.,16p,f,8e.,8f.,g,e,2g,8p,8g.,c6,g,8a.,2f

@@ -1,0 +1,1 @@
+Fatoumi:d=4,o=6,b=200:1a.5,a5,a5,b5,c,c,2b5,16p,g_5,g_5,g_5,a5,b5,b5,2a5,16p,a5,e5,a5,c,e,e,2d,16p,c,b5,a5,b5,c,b5,2a5,16p,e,e,e,e,e,e,2e,2d,2c,2b5,d,d,d,d,d,d,2d,2c,2d,2e,c,c,c,c,c,c,2c,e,c,d,c,2b5,b5,b5,b5,b5,d,d,2c,b5,b5,a5,g_5,2a5

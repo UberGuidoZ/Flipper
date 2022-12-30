@@ -1,0 +1,1 @@
+Lithium:d=4,o=5,b=140:e,8p,8e,8g#,8g#,8c#,8p,8c#,8a,8a,8a,8a,c,8c,8d,8d,8d,8d,b,8b,8b,8d,8d,8d,8d

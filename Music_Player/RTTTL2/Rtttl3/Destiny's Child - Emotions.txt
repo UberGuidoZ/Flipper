@@ -1,0 +1,1 @@
+Emotions:d=16,o=5,b=90:4c6,4a,8a,8a,8e,4g,4e,8p,8a,8g,8a,4c6,4a,4c6,8a,8g,4a,4g,p,g,8a,8g,8a,4c6,8a,8p,8c6,8a,8g,8e,4g,4e.,8c,8d,8e,8f,8g,g,g,8g,8a,8g,8f,8e,8e,8f,4a.,8c,8d,8e,8f,8a,a,a,8a,8b,8a,8g,8f,8f,8e,4g.

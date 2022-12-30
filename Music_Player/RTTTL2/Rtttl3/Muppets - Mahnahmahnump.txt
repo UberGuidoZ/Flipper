@@ -1,0 +1,1 @@
+Mahnahma:d=8,o=5,b=250:c,b4,a#4,a4,p,e,p,4g,p,a,f#,d,4p,c,b4,a#4,a4,p,e,p,g,a,p,f#,2p,c,b4,a#4,a4,p,e,p,4g,p,e,f#,d,p,e,f#,d,p,e,f#,d,p,e,f#,d,b4,a4,d,p,d,p,4d,p,4d,4p,c,b4,a#4,a4,p,e6,p,4g6,p,a6,f#6,d6,4p,c,b4,a#4,a4,p,e6,p,g6,a6,p,f#6,2p,c,b4,a#4,a4,p,e6,p,4g6,p,e6,f#6,d6,p,e6,f#6,d6,p,e6,f#6,d6,p,e6

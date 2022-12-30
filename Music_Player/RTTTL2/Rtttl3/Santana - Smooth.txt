@@ -1,0 +1,1 @@
+Smooth:d=4,o=5,b=112:8d,8d,8c,e,2a4,8p,8d,8d,8c,8d,8c,8d,8c,8e,a4,c,8p,8d,8d,8c,8d,8c,8d,8c,2d,8d,8d,8c.,2b4,8e,8e,8p,e,2e,p,8d,8d,8c,e,2a4,p,8d,8d,8c,8d,8c,8d,8c,e,8a4,c,8p,8d,8d,8c,8d,8c,8d,8c,2d,8d.,8d,8c.,b4,p,8e.,8d,8e,2e

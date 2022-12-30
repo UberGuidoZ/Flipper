@@ -1,0 +1,1 @@
+IfIWereA:d=16,o=5,b=63:32p,g#,f#,g#,f#,8f,8c#.,p,f,f#,g#,f#,g#,f#,f,f#,g#,a#,b,a#,b,a#,8g#,8p,8a,8g#,8g,8f#,e,d#,c#,d#,8e,8p,e,d#,c#,d#,8e,8c#,4g#

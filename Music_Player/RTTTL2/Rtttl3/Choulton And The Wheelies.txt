@@ -1,0 +1,1 @@
+Choulton:d=8,o=5,b=200:4d6,4d6,4d6,d6,c6,b,a,g,a,b,c6,4d.6,b,4e6,b,1d6,4p,4c6,4c6,4c6,c6,a#,a,g,f,g,a,a#,4c.6,a,4d6,a,1c6,4p,4a#,4a#,a#,4a#,g#,g,g#,2a#,4p,4a#,4a#,a#,4a#,g#,g,g#,a#,c6,d6,d#6,2d.6,d#.6,16p,2d.6,4d#6,4d6,d#6,f6,g6,f6,e6,d#6,4d6,4c6,4a#,4a,4g

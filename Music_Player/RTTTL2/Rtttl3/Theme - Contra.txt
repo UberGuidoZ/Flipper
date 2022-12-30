@@ -1,0 +1,1 @@
+Contra:d=4,o=6,b=285:a#5,a#5,c#,a#5,e.,d#.,c#,a#5,a#5,c#,a#5,e.,d#.,c#,a#5,a#5,c#,a#5,e.,d#.,c#,a#5,a#5,c#,a#5,d#.,e.,f,c,c,d#,c,f#.,f.,d#,c,c,d#,c,f#.,f.,d#,c,c,d#,c,f#.,f.,d#,c,c,d#,c,f.,f#.,g

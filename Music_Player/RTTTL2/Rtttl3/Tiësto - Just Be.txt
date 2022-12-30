@@ -1,0 +1,1 @@
+JustBe:d=16,o=6,b=125:e5,8p,g,e5,g,8g,e5,8p,g,e5,g,8g,e5,8p,f#,e5,f#,8f#,e5,8p,f#,e5,f#,8f#,e5,8p,e,e5,e,8e,e5,8p,e,e5,e,8e,e5,8p,d,e5,d,8d,e5,8p,d,e5,d,8d,c5,8p,e,c5,e,8e,c5,8p,e,c5,e,8e,c5,8p,d,c5,d,8d,c5,8p,d,c5,d,8d,c5,8p,c,c5,c,8c,c5,8p,c,c5,c,8c,c5,8p,b5,c5,b5,8b5,c5,8p,b5,c5,b5,8b5,8e.5

@@ -1,0 +1,1 @@
+GoodTime:d=4,o=7,b=112:a5,c6,e6,g5,c6,e6,f5,c6,e6,a#5,d6,e6,a5,c6,e6,g5,c6,e6,f5,c6,e6,a#5,d6,e6,2a,p,2a,p,2a,8p.,16c,e,8d.,16p,8d.,16c,8d.,16c,a.6,8p,2a,p,2a,8p.,16c,e,8d.,16p,8d.,16c,8d.,16c,a6

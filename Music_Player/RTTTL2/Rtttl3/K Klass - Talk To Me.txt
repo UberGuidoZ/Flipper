@@ -1,0 +1,1 @@
+TalkToMe:d=16,o=5,b=125:8c6,8c6,8c6,4d6,8d#6,c,p,8c6,4c6,8a#,8g,c,p,c,p,c,p,8p,8c6,8c6,8c6,8d6,c,p,8d6,4d#6,c,p,8p,c,p,8p,c,p,c,p,c,p,8p,8c6,8c6,8c6,8d6,c,p,8d#6,c,p,8c6,4c6,8a#,8g,c,p,c,p,c,p,8p,8c6,8c6,8c6,8d6,c,p,8c6,c,p,8p,8c,8p,c,p,8p,c,p,c,p,c,p,c,p

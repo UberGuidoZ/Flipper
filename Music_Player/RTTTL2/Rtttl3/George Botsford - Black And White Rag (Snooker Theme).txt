@@ -1,0 +1,1 @@
+BlackAnd:d=16,o=6,b=125:f,g,b,f,g,b,f,g,b,f,g,8b,a,g,f,d#,e,a,d#,e,a,d#,e,a,d#,e,8a,g,f,e,8f,e,8f,e,8f,8d,c#,8d,c#,8d,8c,8b5,8a5,g5,8c,c,8b5,8a5,8g5,f,g,b,f,g,b,f,g,b,f,g,8b,a,g,f,d#,e,a,d#,e,a,d#,e,a,d#,e,8a,g,f,e,a,e,g#,8a,g,f,e,a,d,g#,8a,g,f,d,e,g5,d#,8e,c,8d,2c

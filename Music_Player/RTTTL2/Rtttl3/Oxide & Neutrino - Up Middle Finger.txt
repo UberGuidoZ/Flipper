@@ -1,0 +1,1 @@
+UpMiddle:d=16,o=6,b=140:4c.5,4g.5,8c.,c,c,c,c,c,8c,8c,8d,8d,8c,8p,4c.5,4g.5,8c.,c,c,c,c,c,8c,8c.,c,c,c,8c,8c.,c,c,c,8c,8c,8d,8d,8c,8p,4c.5,4g.5,4c,c,c,c,c,8c,8c,8d,8d,8c,8p,4c.5,4g.5,8c.,c,c,c,c,c,8c,8c.,c,c,c,8c,8c,4c.5,4g.5,4c

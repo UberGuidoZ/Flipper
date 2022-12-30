@@ -1,0 +1,1 @@
+SoYoung:d=8,o=5,b=112:b,b,c6,e6,c6,p,4c6,e,e,f,g,f,p,4g,4f,2d,4p,b,b,c6,e6,c6,p,4c6,p,e,4f,g,g,4g,4f,2d

@@ -1,0 +1,1 @@
+HeadLike:d=8,o=5,b=120:a,4e,16a.,4a,g,16a.,d,e,c#,a,g#,a#,4a,32a,p,4e,32a#,16a.,4e,g,16a.,32a.,d,e,4g#,2a,32a.,p,4e,32a#,16a.,4e,g,16a,16a,d,e,g#,a,g#,a#,4a,32a,p,4e,32a#,16a.,4a,g,16a.,32a.,d,e,4g#,4e.

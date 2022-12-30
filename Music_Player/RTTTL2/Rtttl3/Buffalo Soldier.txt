@@ -1,0 +1,1 @@
+BuffaloS:d=4,o=6,b=100:8d5,8g7,8g,8g,8g7,8g7,8g,8g,2g5,g5,g,d_

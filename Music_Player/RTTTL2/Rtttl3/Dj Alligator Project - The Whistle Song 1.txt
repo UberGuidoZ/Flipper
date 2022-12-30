@@ -1,0 +1,1 @@
+TheWhist:d=16,o=5,b=112:8e6,e,8b,e6,e,8e6,e,8b,e6,e,8e6,e,8b,e6,e,8e6,b,e,8c6,a,e,8e6,a,8b,e6,a,8e6,a,8b,e6,a,8e6,a,8b,e6,a,8e6,b,a,8c6,a,a,8e6,b,8b,e6,b,8e6,b,8b,e6,b,8e6,b

@@ -1,0 +1,1 @@
+BabyItsY:d=16,o=5,b=90:b,c#6,p,8c#6,a#,a#,g#,a#,8g#,8f#,8p,f#,p,f#,f#,p,f#,8p.,8f#,g#,p,f#,p,c#6,p,b,c#6,p,8c#6,a#,a#,g#,a#,8g#,8f#,8p,f#,p,f#,f#,g#,g#,f#,8p,8f#,g#,p,f#

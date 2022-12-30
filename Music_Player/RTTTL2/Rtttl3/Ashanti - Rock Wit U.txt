@@ -1,0 +1,1 @@
+RockWitU:d=4,o=5,b=180:f,a,8c6,8c6,p,2p,f,a,8c6,8c6,p,8f,8f,8a,8a,f,a,8c6,8c6,8p,a,8g,8p,8g,8g,8g,a,f,f,d,8p,a,8g,8p,8g,8g,8g,a,f,f,d,p,f,a,8c6,8c6,p,2p,f,a,8c6,8c6,p,8f,8f,8a,8a,f,a,8c6,8c6,8p,a,8g,8p,8g,8g,8g,a,f,f,d,8p,a,8g,8p,8g,8g,8g,a,f,f,d,p

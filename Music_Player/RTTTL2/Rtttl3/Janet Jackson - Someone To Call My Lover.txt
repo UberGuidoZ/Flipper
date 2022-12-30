@@ -1,0 +1,1 @@
+SomeoneT:d=4,o=6,b=140:f#,a,2g,f#,c#,2b5,c#,d,2a5,f#,f#,8e,8d,8b5,8a5,b5,d,8e,8d,8b5,8a5,f#,a,8g,8f#,8e,8d,e,f#,8e,8d,8b5,a5.,f#,a,2g,f#,c#,2b5,c#,d,2a5

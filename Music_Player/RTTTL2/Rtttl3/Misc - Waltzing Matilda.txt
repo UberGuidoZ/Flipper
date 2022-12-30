@@ -1,0 +1,1 @@
+Waltzing:d=16,o=5,b=90:8c.,8c6,c.,8c6,4a,8f.,8f.,f6,8e.,4d6,8c.,8c6,c6,8d6,c.,c.,8c.,a#.,8a,4g,p,f,g.,8a.,a,a.,8g.,g,g.,f.,g,a.,f.,d,e,4f,8c.,f,a.,8c6,8a#,a.,8g.,g,8g,4f.

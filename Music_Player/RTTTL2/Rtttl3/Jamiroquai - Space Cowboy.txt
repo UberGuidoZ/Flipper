@@ -1,0 +1,1 @@
+SpaceCow:d=4,o=5,b=225:8d6,d6,c6,a,2g,8p,d,d,a.,g,2f,8d,8d,f,g,a,2f.,8p,8f,f,c,2d,p.,8c6,a#,a,g,g,2f.,8p,8c6,c6,c6,c6,c.6,2a.,8p,8f,8a,a#,a,g,f,d,f.,2g,c.6,2a

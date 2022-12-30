@@ -1,0 +1,1 @@
+CocaCola:d=8,o=6,b=160:2f#,2a,2d,4f#,d,4e,2d.,b5,d,f#,g,f#,2e.,2f#,4a.,2b.,4f#,d,4e,2d.,d,f#,4g,4e,4d.,2f#,2a,2d,4f#,d,4e,2d.,b5,d,f#,g,f#,2e.,2f#,4a.,2b.,4f#,d,4e,2d.,d,f#,4g,4e,4d.

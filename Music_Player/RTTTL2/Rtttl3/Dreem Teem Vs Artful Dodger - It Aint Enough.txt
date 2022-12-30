@@ -1,0 +1,1 @@
+ItAintEn:d=16,o=6,b=125:8a#5,8p,8a#5,p,8a5,p,8a5,8p,8c,8d,4p,p,c,d,d7,d,p,c,c7,c,8a#5,8p,8a#5,p,8a5,p,8a5,8p,8c,8d,4p,p,c,d,d7,d,p,c,c7,c

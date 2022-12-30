@@ -1,0 +1,1 @@
+YourDisc:d=4,o=6,b=160:8a5,b.5,d,8c,c,b5,2c,8p,8a5,b.5,d,8c,c,b5,2g5,8p,8f5,e.5,d5,8e5,f5,g5,b5,a5,c,b5,1g#5,p.,8g#5,g#5,g#5,8g#5,a5,8a,a,2e,8p,8e,e,2c,8p,8c,c,c.,2b5,2e,p,8a,a,2e,8p,8e,e,2c,8p,8c,c,c.,2b5,2e

@@ -1,0 +1,1 @@
+DontPani:d=4,o=5,b=160:e.,g,8f,e,e.,g,8f,e,d,8e,1c,2p,8p,e.,g,8f,e,e.,g,8f,e,d,8e,1a,2p.,d6,d6,8d6,8d6,8c6,8c6,8e6,b,16c6,16b,1a,p.,e6,g6,8f6,8e6,e6,8p,d6,d6,8d6,8d6,8c6,8c6,8e6,b,16c6,16b,1a

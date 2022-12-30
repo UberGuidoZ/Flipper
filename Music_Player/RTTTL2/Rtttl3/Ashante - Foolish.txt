@@ -1,0 +1,1 @@
+Foolish:d=32,o=6,b=125:e,p,g,p,16a,p,g,p,16g,16p,e,p,16a,p,8g,4p,c,p,c,p,16d,p,c,p,16d,p,c,p,16e,16p,8e.,8p,e,p,e,p,g,p,16a,p,g,p,16g,p,e,16p.,16d,16p,e,16p.,16e,16p,d,8p,p,16d,p,e,p,16d,p,c,p,8c,4p.,e,p,g,p,16a,p,g,p,16g,16p,e,p,16a,p,8g,4p,c,p,c,p,16d,p,c,p,16d,p,c,p,16e,16p,8e.

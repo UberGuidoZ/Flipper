@@ -1,0 +1,1 @@
+SwearItA:d=16,o=5,b=63:4e6,d6,c#6,b,a,8b,8c#6,8a.,d,4e6,d6,c#6,b,a,8b,8a,4f#,4e6,d6,c#6,b,a,8b,b,c#6,4d6,8p,e,e,d6,d6,d6,8c#6,b,a,4a,8p,a,8g#,8a,32p,8b,2f#

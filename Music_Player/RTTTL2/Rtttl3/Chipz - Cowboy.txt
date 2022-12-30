@@ -1,0 +1,1 @@
+Cowboy:d=4,o=6,b=160:c,a5,c,a5,8c,8c,8a5,8d,8c,8c,a5,8a_5,8a_5,8a_5,8a_5,d,d,c,p,2p,c,a5,c,a5,8c,8c,8a5,8d,8c,8c,a5,8a_5,8a_5,8a_5,8c,a5,a5,f5,p,2p,c,a5,c,a5,8c,8c,8a5,8d,8c,8c,a5,8a_5,8a_5,8a_5,8a_5,d,d,c,p,2p,c,a5,c,a5,8c,8c,8a5,8d,8c,8c,a5,8a_5,8a_5,8a_5,8c,a5,a5,f5

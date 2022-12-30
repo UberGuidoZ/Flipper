@@ -1,0 +1,1 @@
+KnivesOu:d=16,o=6,b=63:g5,2d#,4d.,p,g5,1c,4p.,p,g5,c#,4d.,p,4d.,p,d,1c#,4p.,p,2d#,4d.,8d#,8d#,d,1c,8p.,d,c,8d,4d.,4d.,g#5,2g5

@@ -1,0 +1,1 @@
+AllTheTh:d=16,o=5,b=100:8f,8f,8f,8f,4f,8f,8f,8f,8e,4e,8e,8e,8e,8e,4f,8f,8f,8f,8f,4f,8f,8f,8f,8f,4f.,p,2f,p,2f,p,2g,p,4g,p,2g,p,2f.,p,2d6,p,2d6,p,2d#6,p,4d#6,p,2d#6,p,2d.6

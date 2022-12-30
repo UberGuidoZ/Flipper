@@ -1,0 +1,1 @@
+TeddyBea:d=16,o=5,b=140:a.4,8d,32p,f.,e,f.,e.,8d,32p,f.,8e,32p,f.,d,e.,f.,8e,32p,f.,4d.,32p,c.,8f,32p,a.,g,a.,g.,8f,32p,a.,8g,32p,a.,f,g.,a.,8g,32p,a.,4f.,32p,c.6,8d6,32p,c.6,8d6,32p,c.6,g,a.,c.6,8a,32p,g.,8g,32p,f.,8g,32p,f.,c,d.,f.,8d,32p,c.,8d,32p,f.,8c,32p,f.,d,e.,f.,8c,32p,a.,2g,4f

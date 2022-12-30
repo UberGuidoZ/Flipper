@@ -1,0 +1,1 @@
+ADesignF:d=16,o=6,b=90:d,f#,d7,c#7,d7,a,d,f#,d7,c#7,d7,a,d,f#,d7,c#7,d7,a,d,f#,d7,c#7,d7,a,e,g,d7,c#7,d7,g,e,g,d7,c#7,d7,g,e,g,d7,c#7,d7,g,e,g,d7,c#7,d7,g,a5,e,a,c#7,a,e,a5,e,a,c#7,a,e,a5,e,a,c#7,a,e,a5,e,a,c#7,a,e,d,f#,d7,c#7,d7,a,d,f#,d7,c#7,d7,a

@@ -1,0 +1,1 @@
+Prologue:d=4,o=5,b=140:g4,c,d,g4,2f,e,d,c,8b4,8c,d,c,2c,2b4,a4,d,e,a4,2g,f,e,d,8c#,8e,d,a4,2e,2d,g4,c,d,g4,2f,e,d,c,8b4,8c,d,c,2c,2b4,a4,d,e,a4,2g,f,e,d,8c#,8e,d,a4,2e,2d,2a.,a,2g.,e,f,8f,8e,d,c#,d,e,f,g,2a#.,a#,2a.,f,g,8g,8g#,g,8g,8g#,g,f,e,d

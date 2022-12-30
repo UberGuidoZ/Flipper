@@ -1,0 +1,1 @@
+HallOfTh:d=16,o=6,b=140:b5,p,c#,p,d,p,e,p,f#,p,d,p,8f#,8p,f,p,c#,p,8f,8p,e,p,c,p,8e,8p,b5,p,c#,p,d,p,e,p,f#,p,d,p,f#,p,b,p,a,p,f#,p,d,p,f#,p,2a6

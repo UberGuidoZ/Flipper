@@ -1,0 +1,1 @@
+BornToMa:d=32,o=5,b=40:b4,f#,f#,f#,f#,16f#,e,e,p,d,p,e,f#,p,f#6,d6,16a6,f#6,g6,p,f#6,p,16p,d6,8p,f#,f#,f#,f#,f#,16g,f#,e,p,d,p,16d,p,d6,d6,16a6,f#6,g6,p,f#6,p,e6,p,16d.6,b4,f#,f#,f#,f#,16f#,e,e,p,d,p,e,f#,p,f#6,d6,16a6,f#6,g6,p,16p,p,16d6,8p,f#,f#,f#,f#,f#,16g,f#,e,p,d,p,16d,p,d6,d6,16a6,f#6,g6,p,f#6,p,e6,p,16d.6,b4,f#

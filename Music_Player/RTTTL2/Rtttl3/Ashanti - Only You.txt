@@ -1,0 +1,1 @@
+OnlyYou:d=4,o=5,b=180:g,d6,a#,a#,g,g,a#,2f,g,f,f,d#,f,c,d#,g,d6,a#,a#,g,g,a#,2a#,d,d#,d,d#,f,g,g,g,d6,a#,a#,g,g,a#,2f,g,f,f,d#,f,c,d#,g,d6,a#,a#,g,g,a#,2a#,d,d#,d,d#,f,g,g

@@ -1,0 +1,1 @@
+DoSometh:d=8,o=6,b=125:e5,e5,e5,e5,g5,e5,g5,e5,e5,e5,e5,e5,a5,a5,g5,e5,e5,e5,e5,e5,g5,e5,g5,e5,4e.5,4e5,e5,4e5,e5,g,g,e,g,g,e,g,e5,e,g,e,g,a,g,g,e5,e,g,e,g,g,e,g,e5,e,e,e,a,e5,a,a,e5,g,g,e,g,g,e,g,e5,e,g,e,g,a,g,g,e5,e,g,e,g,g,e,g,e5,d,d,d,d,e5,d,c

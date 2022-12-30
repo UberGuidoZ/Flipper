@@ -1,0 +1,1 @@
+Heaven:d=4,o=5,b=180:8g,8p,8g,8p,8g,8p,b6,8b6,8a6,g6,g6,g6,8d,8p,2a6,8d,8p,8d,8p,d6,8d6,8e6,g6,a6,8e,8g6,2e6,8e,8p,b6,8b6,8a6,g6,a6,8c,8g6,2e6,c,e6,8e6,8d6,c6,8g,8p,8g,8p,8g,8p,b6,8b6,8a6,g6,g6,g6,8d,8p,2a6,8d,8p,8d,8p,d6,8d6,8e6,g6,a6,8e,8g6,2e6,8e,8p,b6,8b6,8a6,g6,a6,8c,8g6,2e6,c,e6,8e6,8d6,c6,g

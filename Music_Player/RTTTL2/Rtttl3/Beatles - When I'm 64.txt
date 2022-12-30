@@ -1,0 +1,1 @@
+WhenI'm6:d=8,o=6,b=180:e5,d#5,e5,g5,e5,g5,a5,g5,4c,c,e,c,a5,4d,2p,b5,c,c#,d,b5,c,c#,d,b5,a#5,a5,4a5,4p,4b5,4c,4c#,4d,4e,4d#,d,c,p

@@ -1,0 +1,1 @@
+BadBoyFo:d=16,o=5,b=90:8f6,8g6,8p,4p,8a#6,p,8g6,p,8f6,8g6,4p,8f6,8d6,4p,8d6,8c6,8d6,4p,d6,p,d6,c6,a#,p,8g,8g,p,d6,c6,p,8a#.,g,p,f,8g

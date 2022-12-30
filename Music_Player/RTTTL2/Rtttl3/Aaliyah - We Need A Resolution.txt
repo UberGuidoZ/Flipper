@@ -1,0 +1,1 @@
+WeNeedAR:d=16,o=5,b=80:d#,c7,c,c,c6,c,c7,c,d#,c7,c,c,c6,c,c7,c,f,c7,d,c7,d#,f,g,c6,b,c6,d,d#,f,g,b,c7,c7,g,c6,d,d#,d,c,d,c7,g,c6,d,d#,d,c,d,g,g7

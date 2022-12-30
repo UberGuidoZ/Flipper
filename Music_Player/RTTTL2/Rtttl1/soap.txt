@@ -1,0 +1,1 @@
+Soap:d=4,o=5,b=125:g,8a,8c6,8p,8a,c6,p,8a,8g,8e,8c,p,g,8a,8c6,p,b,p,8a,8g,8e,8c#,2p,p,8a,8c6,2p,p,8a,8g,2p,8a,8g,8e,c

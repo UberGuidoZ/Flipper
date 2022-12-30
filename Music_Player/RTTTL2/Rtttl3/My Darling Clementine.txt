@@ -1,0 +1,1 @@
+MyDarlin:d=4,o=5,b=180:g,8g,g,8p,d,8p,b,8b,b,8p,g,8p,g,8b,2d6,8p,8d6,c6,8b,2a,p,a,8b,c6,8p,c6,8p,b,8a,b,8p,g,8p,g,8b,2a,8p,8d,f#,8a,2g

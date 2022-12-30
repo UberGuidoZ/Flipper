@@ -1,0 +1,1 @@
+RapSuper:d=4,o=6,b=200:d5,f5,a5,d5,a#5,d5,a5,f5,d5,f5,a5,a5,a#5,d5,a5,f5,d5,f5,a5,d5,c,d5,a#5,a5,d5,f5,a5,d5,c,c5,a#5,a5,d5,f5,a5,d5,a#5,d5,a5,f5,d5,f5,a5,d5,c,d5,a#5,a5

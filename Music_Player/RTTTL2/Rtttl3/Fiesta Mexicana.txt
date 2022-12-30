@@ -1,0 +1,1 @@
+FiestaMe:d=16,o=5,b=250:d.,8p,8d,8p,d.,p,c#,p,d.,p,e.,p,8f#.,p,8f#,p,8f#,p,e,p,8f#,p,g,p,a,p,a,p,b,p,a.,8p,e,p,8g.,p,4f#,2p,d.,8p,8d,8p,d.,p,c#,p,d.,p,e.,p,8f#.,p,8f#,p,8f#,p,e,p,8f#,p,g,p,a,p,a,p,b,p,a.,8p,e,p,8g.,p,4f#

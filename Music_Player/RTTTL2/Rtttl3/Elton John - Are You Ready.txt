@@ -1,0 +1,1 @@
+AreYouRe:d=16,o=7,b=250:d5,8p.,d5,8p.,4b6,4d,d,8e.,e,e,e,e,4f#,d5,8p.,d5,8p.,d5,8p.,8b6,8p,4b6,4d,4e,f,8f#.,8e,8d,4b6,e5,8p.,e5,8p.,e5,8p.,e5,8p.,8b6,8p,8a6,8p,c#,8d.,g5,8p.,f,8f#.,f#,f#,f#,f#,8e,8p,d5,8p.,d5,8p.,4b6,4d,4e,e,e,e,e,e,4f#,d5,8p.,d5,8p.,d5,8p.,8b6,8p,4b6,4d,4e,f,8f#.,8e,8d,4b6,e5,8p.,e5,8p.,e5,8p.,e5,8p.,8b6,8p,8a6,8p,c#,8d.,g5,8p,f,8f#.,f#,f#,f#,f#,4e

@@ -1,0 +1,1 @@
+BlueMoon:d=16,o=5,b=125:d6.,32p,b.,32p,1d6,8p,c6.,32p,d6,p,e6,p,8d6,p,8d6,p,8c6,1d6,8p,a.,32p,b.,32p,c6.,32p,8b,p,8b.,a.,32p,2b.,4p,8p,g.,32p,a,p,b,p,8g,p,8g,p,8e6,4f#6.,p,2d6.,1p,p,8d6,b.,32p,1d6,8p,c6.,32p,d6,p,e6,p,8d6,p,8d6,p,8c6,1d6,8p,a.,32p,b.,32p,c6.,32p,8b,p,8b.,a.,32p,2b.,4p,8p,g.,32p,a,p,b,p,8g,p,8g,p,8g,1g

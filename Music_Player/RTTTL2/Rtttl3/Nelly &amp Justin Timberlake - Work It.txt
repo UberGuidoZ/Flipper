@@ -1,0 +1,1 @@
+WorkIt:d=4,o=5,b=180:8c,8p,g6,8p,8f6,p,8f6,p,d#.6,p,8c,8p,8g6,p,8f6,p,f6,8p,2d#6,8p,8c,8p,p,8c6,8d6,8p,8d#6,8p,8d6,8p,8c6,8p,8a#,8p,d6,8c6,8a#,c.6,p,1p,8c,8p,g6,8p,8f6,p,8f6,p,d#.6,p,8c,8p,8g6,p,8f6,p,f6,8p,2d#6,8p,8c,8p,p,8c6,8d6,8p,8d#6,8p,8d6,8p,8c6,8p,8a#,8p,d6,8c6,8a#,c.6,p,1p

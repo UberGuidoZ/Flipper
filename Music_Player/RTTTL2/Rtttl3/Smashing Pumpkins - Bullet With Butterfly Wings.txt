@@ -1,0 +1,1 @@
+BulletWi:d=4,o=6,b=120:8a5,p,8c,p,8p,d,p,8p,8d,8p,c,2e,2p,2d,p,8p,8e,e,8e,8d,c,8a5,8c,e,8d,8c,8e,8d,8d,8c,2a5,p

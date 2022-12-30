@@ -1,0 +1,1 @@
+Scotland:d=4,o=5,b=250:c,32p,2f,f.,8g,a,f,a,c6,2f6,f.6,8f6,f6,c6,a,f,2a#,d.6,8a#,a,c6,a,f,2g,c.6,8d6,8c.6,16p,8c6,8d6,8c6,8b,8a,8g,2f,f.,8g,a,f,a,c6,2f6,f.6,8f6,f6,c6,a,f,2a#,d.6,8a#,a,c6,a,f,2g,f.,32p,8g,32p,2f,32p,f,32p,c6,32p,2f6,f.6,8f6,f6,32p,a,32p,f,32p,8a.,32p,2f6,f.6,8f6,f6,c6,a,f,2a#,d.6,8a#,a,c6,a,f,2g,f.,32p,8g,32p,1f

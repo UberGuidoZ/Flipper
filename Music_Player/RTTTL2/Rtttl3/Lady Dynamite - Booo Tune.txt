@@ -1,0 +1,1 @@
+BoooTune:d=16,o=5,b=100:4c,8p,8c,4c#,c.,c.,c.,c,32p,8c,4c#,4c,8p,8c,4c#,c.,c.,c.,c,326,p,8c,4c#,4c,8p,8c,4c#,c.,c.,c.,c,32p,8c,4c#,4c,8p,8c,4c#,c.,c.,c.,c,32p,8c,4c#

@@ -1,0 +1,1 @@
+NastyGir:d=16,o=5,b=125:8b,4c6,b,b,b,b,8b,b,2b,8a,8a,8b,8b,4a,8p,8b,4c6,b,b,b,b,8b,b,b,8p,g,g,8a,8a,8b,8b,4a,8p,8b,4c6,b,b,b,b,8b,b,2b,8a,8a,8b,8b,4a,8p,8b,4c6,b,b,b,b,8b,b,b,8p,g,g,8a,8a,8b,8b,4a

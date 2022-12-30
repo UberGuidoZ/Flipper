@@ -1,0 +1,1 @@
+RollWith:d=8,o=6,b=125:d,e,d,4f,e,d,p,d,e,d,4f,e,d,p,d,e,d,4f,e,d,4f,e,d,f,f,e,d,c,b5,c,4d,c,b5,4g5,4g5,4g.5,p,e5,4g5,a5,b.5,16a5,2g5

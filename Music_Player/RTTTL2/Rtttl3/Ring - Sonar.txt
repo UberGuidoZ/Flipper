@@ -1,0 +1,1 @@
+Sonar:d=32,o=6,b=100:4a,a,2p,4a,a,2p,4a,a,2p,4a,a,2p,4a,a,2p,4a,a,2p,4a,a,2p,4a,a,2p,4a,a,2p,4a,a,2p,4a,a,2p,4a,a

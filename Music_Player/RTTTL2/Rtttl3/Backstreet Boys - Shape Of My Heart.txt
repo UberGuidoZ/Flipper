@@ -1,0 +1,1 @@
+ShapeOfM:d=4,o=5,b=112:32p,f,g,8a,8a,8a#,a,f,g,p,a#,a,8g,8g,8g,g,d,c,p,g,e,f,p,8f,8f,8g,8a,d,p,8a,8g,8f,e,f,g,a,g,8e,f

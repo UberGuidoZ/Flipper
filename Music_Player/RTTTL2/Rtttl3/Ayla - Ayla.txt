@@ -1,0 +1,1 @@
+Ayla:d=8,o=5,b=140:16e,16e,c6,b,2c,16e,16e,b,a,2b.,16e,16e,a,g,2a.,e,a,g,2d.,16e,16e,c6,b,2c,16e,16e,b,a,2b.,16e,16e,a,g,2a.,e,a,g,2d.,16e,16e,c6,b,c6,c6,c6,c6,c6,16e,16e,b,a,b,b,b,b,b,16e,16e,a,g,a,a,a,a,a,e,a,g,2d.,16e,16e,c6,b,c6,c6,c6,c6,c6,16e,16e,b,a,b,b,b,b,b,16e,16e,a,g,a,a,a,a,a,e,a,g,2d.

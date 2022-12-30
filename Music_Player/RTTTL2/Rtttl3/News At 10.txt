@@ -1,0 +1,1 @@
+NewsAt10:d=16,o=5,b=320:8a,8p,8a,8p,4a,4p,4g,4a,2p,1e6,4p,4f6,4c6,2d6,2f,2f,2f,2e,8e,8p,2e,4c6,4d6,4e6,2d6,2f,2f,2f,2e,4e,2e.,2p,a,a4,a6,8p,a,a4,a6,2p,a,a4,a6,2p.,a,a4,a6,2p.,a,a4,a6,8p,a,a4,a6

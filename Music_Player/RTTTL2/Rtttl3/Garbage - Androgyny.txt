@@ -1,0 +1,1 @@
+Androgyn:d=8,o=5,b=100:e,e,4e6,16a,16b,4d6,16a,16b,e,b,a,16g,a.,4g.,e,b,a,16g,a.,2g,b,a,g,a,g,e,g,b,d6,2b.,e,b,a,16g,a.,4g.,e,b,a,16g,a.,2g,b,a,g,a,g,e,g,b,d6,2b.

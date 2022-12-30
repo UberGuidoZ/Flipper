@@ -1,0 +1,1 @@
+Anaconda:d=4,o=5,b=140:8a,8b,8d6,b,8b,8a,b,8b,8a,8b,8a,8a,f#,8a,8b,8d6,8b,16b,16b,8b,8a,16b,16b,16b,16b,8b,8a,2f#,8a,8b,8d6,b,8b,8a,b,8b,8a,8b,8a,8a,f#,8a,8b,8d6,8b,16b,16b,8b,8a,16b,16b,16b,16b,8b,8a,2f#

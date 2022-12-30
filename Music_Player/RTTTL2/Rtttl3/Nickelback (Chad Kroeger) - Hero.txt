@@ -1,0 +1,1 @@
+Hero:d=16,o=5,b=35:c,c,g,f,d#,d,8c,32d,g,f.,32d#,d,d#,d,d,4c.

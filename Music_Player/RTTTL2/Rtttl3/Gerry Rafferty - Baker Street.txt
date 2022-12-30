@@ -1,0 +1,1 @@
+BakerStr:d=4,o=6,b=225:16f5,16a5,16c,f.,e.,8d,8c,8d,8e,2d.,2p,16f5,16a5,16c,f.,e.,8d,8c,2a5.,2p,a5,f.,e.,8d,8c,2c.,c,2c.,c,2a5.,a5,f.,e.,8d,8c,8f,8e,2d,c,8f,8e,2d,c,f.,e.,d.,c.,2a5,2g5

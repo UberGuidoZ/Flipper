@@ -1,0 +1,1 @@
+BubbleBo:d=4,o=6,b=265:e,f#,g#,a,g#,f#.,8e,g#,f#,e.,8d,f#,e,8d,c#,2e,p,8c#,8b5,a5,b5,c#,d,8b5,c#,d.,8p,8e,e,f#,8g#,f#,e,8p,e,f#,g#,8a.,16a5,g#,f#.,8e,8g#.,16a5,f#,e.,8d,8f#.,16a5,e,8d,c#,2e,p,8c#,8b5,8a5.,16e5,b5,c#,d,8b5,c#,e.,8p,8e,e,f#,8g#,f#,e

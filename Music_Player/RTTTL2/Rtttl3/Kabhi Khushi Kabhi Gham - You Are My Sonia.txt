@@ -1,0 +1,1 @@
+YouAreMy:d=4,o=6,b=225:b5,d,d,a5,a5,p,d,b5,d,d,b5,b5,b5,p,b5,d,d,a5,a5,a5,a5,d,b5,d,d,b5,b5,p,p,e,e,e,e,f_,g,f_,e,p,a,a,a,b,a,g

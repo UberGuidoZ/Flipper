@@ -1,0 +1,1 @@
+BobbyJoe:d=8,o=7,b=140:e,p,b6,g,e,p,g,a,b,b,a,g,b,p,d,b,a,p,d,b,a,p,g,a,b,b,a,g,e,p,b6,g,e,p,b6,g,e,p,g,a,b,b,a,g,b,p,d,b,a

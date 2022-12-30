@@ -1,0 +1,1 @@
+DeBostel:d=4,o=5,b=125:1a,8p,8a,8c6,8a#,8a,8g,8f#,8a,8g,1d,8p,p,2p,1g,8p,8g,8a#,16a,8g.,8f,8e,8g,8f,1c,8p,p,2p,2c#.,p,8p,8c#,8d#,16f,8g.,8f,8d#,8c#,1c,8p,8a,8c6,8a#,8a,16g,8f#.,8a,8g,2d.,8p,p,g,f,e,1f

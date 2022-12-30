@@ -1,0 +1,1 @@
+Crush:d=32,o=6,b=125:f,p,f,p,f,p,f,p,16d,4p,16p,16a.,p,8g.,16p,16g,16p,f,16p.,16f.,16p.,16f,16p,e,p,16f,16p,16f.,p,g,16p.,f,16p.,f,p,16d.,2p,16p.,d,16p.,4e,f,16p.,4f.,16e.,8p,p,f,p,f,p,f,p,f,p,16d.,4p,p,16a.,p,8g,16p,g,p,16c7,16p,16a,16p,16g.,p,a,p,16g,16p,g,p,f,16p.,16f.,p,g,16p.,16f,16p,f,p,16d.,2p,16p.,d,16p.,4e,f,16p.,4f.,16e

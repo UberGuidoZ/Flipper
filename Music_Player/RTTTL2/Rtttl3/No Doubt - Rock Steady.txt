@@ -1,0 +1,1 @@
+RockStea:d=16,o=5,b=100:8c.,p,8b.,p,8b.,p,2c,4c,4g,1p,4d.,8p,4c,4g,4p,8c.,p,4p,8b.,1p,4p,p,8c.,p,4p,2b,4a,2p,4p,8b.,p,8b.,p,8b.,p,2c,4c,8g.,1p,p,4d.,8p,4c,4g

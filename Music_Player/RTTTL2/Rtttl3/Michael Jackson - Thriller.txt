@@ -1,0 +1,1 @@
+Thriller:d=8,o=5,b=112:b,d6,b,e6,16p,2d6,4p,d6,16p,c#6,16p,b,4p,p,b,b,32a,16p,32p,a,16g,g,16p,e,g,a,b,a,a,16g,b

@@ -1,0 +1,1 @@
+HanginAr:d=4,o=5,b=100:8c6,8c.6,8a.,8g,8p,8g,8p,8g,p,8e,8f,8g,8g,p,8g,8g,8g,8g,8g,8a,8p,8g,p,8c6,8c.6,8a.,8g,8p,8g,8p,8a,p,8e,8f,8g,8g,p,8g,8g,8g,8g,8g,8a,p,p,16g,8g,16g,16a,16b,2c6,8a.,8g,8p,8g,8p,8a,8p,16g,16p,8g.,16g,16a,16b,8c.6,8c6,16b,8c.6,c6,8c6,8b,2g

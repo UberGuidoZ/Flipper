@@ -1,0 +1,1 @@
+HeartSha:d=16,o=5,b=28:32p,32a,32b,32c6,d6,e6,d6,c6,b,8c6,b,a,8a.,32a,32b,32c6,d6,e6,d6,c6,b,8c6,b,a,8a

@@ -1,0 +1,1 @@
+Pager:d=16,o=6,b=160:8d,p,2d,p,8d,p,2d,p,8d,p,2d

@@ -1,0 +1,1 @@
+Roja:d=4,o=6,b=160:2g,2a#,a,g,2f#,2g,2a#,a,g,2f#,2g,2b,8g,8b,8c7,8b7,2d7,2a#,2a,p,b,b,2c7,a#,a,p,b,b,2c7,a#,a,p,8g,a,8a#,g,p,8c7,d7,8d#7,c7,p,1a7,a7

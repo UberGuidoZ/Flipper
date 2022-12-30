@@ -1,0 +1,1 @@
+WaitingT:d=8,o=5,b=90:d6,4b,4a,4p,b,a,a,16g,g,4e,4b,c6,b,4a,b,a,4g,4p,d6,4b,4a,4p,b

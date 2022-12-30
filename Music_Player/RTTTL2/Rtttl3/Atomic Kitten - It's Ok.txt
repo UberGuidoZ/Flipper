@@ -1,0 +1,1 @@
+It'sOk:d=16,o=5,b=100:8f,4f,8p,f,f,8g,8f,8p,8g,4g,8p,g,g,8a,8g,8p,8f,4f,8p,f,f,8g,8f,8a#,8a,8p,8a,8p,8g,8f,4p,8f,4f,8p,f,f,8g,8f,8p,8g,4g,8p,g,g,8a,8g,8p,8f,4f,8p,f,f,8g,8f,8a#,8a,8p,8a,8p,8g,8f

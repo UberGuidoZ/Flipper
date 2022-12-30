@@ -1,0 +1,1 @@
+YourHome:d=4,o=6,b=225:c5,c5,a5,a5,a5,g5,a5,f5,d5,p,c5,a5,a5,a5,c5,a5,f5,d5,f5,d5,c5,p,c5,c5,a5,f5,d5,a5,p,f5,c5,a5,f5,d5,a5,p,p,f5,e5,a5,g5,d5,2c5,2g5,2f5

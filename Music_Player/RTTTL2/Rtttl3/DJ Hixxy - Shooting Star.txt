@@ -1,0 +1,1 @@
+Shooting:d=4,o=6,b=180:a5,b5,8c,8c,8p,c,8a5,8b5,8c,8c,8p,c,8p,b5,8c,8c,8c,c,8c,8c,8d,8c,b5,b5,a5,b5,c,b5,a5,8g5,8a5,8g5,8a5,c,a5,p,b5,8c,8c,8c,c,8c,8c,8d,2c,2c5,1a5

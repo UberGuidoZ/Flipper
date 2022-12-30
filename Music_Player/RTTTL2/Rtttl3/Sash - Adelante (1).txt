@@ -1,0 +1,1 @@
+Adelante:d=16,o=5,b=140:8g,8g,8g,8f,8d#,8c,4p,8g,8g,8g,8f,8d#,8c,4p,8g#,8g#,8g#,8g,8f,8c,4p,8g#,8g#,8g#,8g,8f,8c

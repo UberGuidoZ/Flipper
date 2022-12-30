@@ -1,0 +1,1 @@
+PuppetOn:d=8,o=5,b=90:g,a,b,c6,b,4g6,b,a,4f6,a,4g.,a,g,a,b,c6,b,4g6,b,a,4f6,a,4g,g,a,b,c6,d6,e6,1g6

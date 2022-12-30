@@ -1,0 +1,1 @@
+Bailamis:d=16,o=5,b=100:32p,8d,8f,2a,4p,8p,a,a#,c6,8c6,8c6,8c6,8c6,p,8a#,8a,8g,2a,4p,8p,a,a#,a,g,4p,g,a,g,f

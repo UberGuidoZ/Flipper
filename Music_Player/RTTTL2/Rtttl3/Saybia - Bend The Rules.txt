@@ -1,0 +1,1 @@
+BendTheR:d=4,o=5,b=125:8a,8a,8g,a,8g,8a,8p,8b,8p,2c.6,8c6,8c6,8b,c6,8b,8a,8p,8g,8p,e.,2b,8p,1a,8d,d,2c6,8p,2b.,a.,2a,8p,8a,8a,8g,a,8g,8a,8p,8b,8p,2c.6,8c6,8c6,8b,c6,8b,8a,8p,8g,8p,e.,2b,8p,1a,8d,d,2c6,8p,2b.,a.,1a

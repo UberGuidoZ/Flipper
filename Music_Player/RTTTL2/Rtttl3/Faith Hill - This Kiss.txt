@@ -1,0 +1,1 @@
+ThisKiss:d=16,o=5,b=50:8f,g,32a,32a,f,d,c,p,8f,g,32a,32a,f,g,a,p,8f,32g,a.,f,d,8c,4f,a,32g,32f,8e,8c6,8c6,8c6,4d6,p,a,32g,32f,8e

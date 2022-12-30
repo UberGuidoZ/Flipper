@@ -1,0 +1,1 @@
+AnchorsA:d=8,o=5,b=100:4c,e,g,a.,16e,4a,4c6,d6,g,2c6,4a,c6,a,g,a,b,c6,f#,a,d6,c6,b,g,f,d,4c,e,g,a.,16e,4a,4c6,d6,g,2c6,4a,c6,a,g,a,b,c6,16e6,16g,16f#,16g,16d6,16g,16f#,16g,2c6

@@ -1,0 +1,1 @@
+OurHouse:d=4,o=5,b=160:32p,2b,p,2b,p,8b,8b,8e6,8e6,8e6,8e6,8e6,8d6,c6,2b,p,b,c6,d6,c6,8b,2b,p,8p,b,c6,8d6,c6,b,8p,8b,8a,g,p,8b,c6,8p,8d6,c6,8p,b,b,a,8g,d,8p,2e

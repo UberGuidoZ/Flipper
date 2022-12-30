@@ -1,0 +1,1 @@
+WhatCome:d=16,o=5,b=112:8c#,8c,c,8c,c,8d#,8c#,c#,8c#,c#,8c#,8c,c,8c,c,c,a#,a#,a#,a#,a#,a#,a#,8c#,8c,c,8c,c,8d#,8c#,c#,8c#,c#,8c#,8c,c,8c,c,c,a#,a#,a#,a#,a#,a#,a#

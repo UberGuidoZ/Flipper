@@ -1,0 +1,1 @@
+BreakYaN:d=16,o=5,b=180:8c6,8p,8b,8p,8a,8p,8f,8p,8f,8p,8f,8p,8g,4p,8p,8e,8p,8e,8p,8e,8p,8g#,4p,8p,8g#,8p,8c6,8p,8b,8p,8a,8p,8a,8p,8e,8p,8f,8p,8f,8p,8f,8p,8g,8p,8e,8p,8e,8p,8e

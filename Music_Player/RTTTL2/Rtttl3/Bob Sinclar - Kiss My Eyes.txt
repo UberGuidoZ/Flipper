@@ -1,0 +1,1 @@
+KissMyEy:d=4,o=5,b=125:16b,8b,16b,8b,8b,c6,b,16b,8g,16b,8b,8b,c6,b,16b,8b,16b,8b,8b,c6,b,16b,8f#,16b,8b,8b,c6,b,16b,8b,16b,8b,8b,c6,b,16b,8g,16b,8b,8b,c6,b,16b,8b,16b,8b,8b,c6,b,16b,8f#,16b,8b,8b,c6,b,16b,8b,16b,8b,8b,c6,b,16b,8g,16b,8b,8b,c6,b,16b,8b,16b,8b,8b,c6,b,16b,8f#,16b,8b,8b,c6,b,8e

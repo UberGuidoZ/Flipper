@@ -1,0 +1,1 @@
+BetweenT:d=4,o=6,b=180:e.5,8e5,p,e,2b.5,8c5,8p,p,8c5,8p,p,2e,d,c,8d5,c.,c,b5,8c,b.5,8e5,8p,p,8f_5,8p,p,g5,d,8c5,8p,c,8c5,8p,g5,8g5,2a.5,8p,8c5,8p,p,8c5,8p,p,8c5,8p,e,8c5,8d,p,e.,8d,8d5,8p,2d.,c,c,8e5,b.5,8e5,8p,p,8f_5,8p,p,2f_5,8c5,8p,p,f_5,2g.5,8c5,8p,p,8c5,8p,p,8c5,8p,p,8c5,8p,p,8c5,8p,p,e5

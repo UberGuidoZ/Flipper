@@ -1,0 +1,1 @@
+Boswande:d=16,o=5,b=125:a,p,a,p,a,8p,p,8a.,p,g,8p,p,4g,4p,4f,4p,f,p,f,p,f,8p,p,8f.,p,8e,8p,4d,4p,4c.,8p,g,p,g,p,g,8p,p,8g.,p,8e,8p,4d,4p,4c.,8p,e,p,e,p,e,8p,p,8e.,p,d,8p,p,4d,4p,4c,4p,a,p,a,p,a,8p,p,8a.,p,g,8p,p,4g,4p,4f,4p,f,p,f,p,f,8p,p,8f.,p,8e,8p,4d,4p,4c.

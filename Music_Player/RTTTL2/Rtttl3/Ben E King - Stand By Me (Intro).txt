@@ -1,0 +1,1 @@
+StandByM:d=8,o=5,b=112:c#6,e#6,f#6,2p,c#6,e6,2p,16a,16b,c#.6,b.,4a,2p,a,c#6,b,a.,2p,a,c#6,b,a.,2p,b.,b.,4a

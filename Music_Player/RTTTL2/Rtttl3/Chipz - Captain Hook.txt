@@ -1,0 +1,1 @@
+CaptainH:d=4,o=6,b=140:8e5,8f5,g5,8c,8g5,a5,8p,8c5,e5,8d5,8c5,d5,8e5,8f5,g5,8c,8g5,a5,8p,8g5,a5,c,d,8e5,8f5,g5,c,d,8p,8c,b5,c,c,p,a5,c,c,8a5,8c,2d.,p,8g5,8e5,8g5,8c,a5,8p,8c5,8p,8c5,8e5,8c5,e5,d5,8g5,8e5,8g5,8c,a5,8p,8c5,8p,8c5,8e5,8c5,e5,d5,c5

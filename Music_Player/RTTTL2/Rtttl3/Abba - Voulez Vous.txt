@@ -1,0 +1,1 @@
+VoulezVo:b=225,o=5,d=8:32p,e6,f6,e6,f6,4e6,2c6,4a#,f,g,a#,c6,f,g,a#,c6,4f,4g,4c,4c#,4a#4,4c,e6,f6,e6,f6,4e6,2c6,4a#,f,g,a#,c6,f,g,a#,c6,4f,4g,4a#4,4b4,4c

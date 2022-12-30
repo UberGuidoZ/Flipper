@@ -1,0 +1,1 @@
+BadMeets:d=8,o=6,b=160:32p,4a#,a#,b,a#,g#,f#,2g#,4f#,f#,f#,4g#.,f,f#,f,d,d#,f,4f#,4a#,f,f#,f,d#,32a#,1a#5,a5,a#5,1d#,4d,2a#.5,d#,f#,4a#,a#,b,a#,g#,f#,2g#,4f#,f#,f#,4g#.,f,f#,f,d,d#,f,4f#,4a#,f,f#,f,d#,32a#,1a#5,a5,a#5,1d#,4d,2a#.5

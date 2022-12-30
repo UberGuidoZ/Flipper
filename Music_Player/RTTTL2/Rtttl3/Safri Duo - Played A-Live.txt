@@ -1,0 +1,1 @@
+PlayedA-:d=16,o=5,b=140:8b,b,p,g#,b,p,b,8b,b,p,g#,8b,a#,8a#,a#,p,f#,8a#,f#,8a#,a#,p,f#,8a#,a#,8f#,f#,p,d#,8f#,d#,8f#,f#,p,d#,f#,p,f#,8f#,e6,p,c#,8e,c#,8e,e,p,c#,d#,d#

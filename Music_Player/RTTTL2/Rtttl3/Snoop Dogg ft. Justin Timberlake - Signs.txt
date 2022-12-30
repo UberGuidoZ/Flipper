@@ -1,0 +1,1 @@
+Signs:d=8,o=5,b=112:g#,a#,c.6,16f,p,4d#,d#,d#,d#,f,16d#,16f,2p,g#,a#,c6,c6,g#,g#,d#,d#,4a#,2p,p,g#,g#,a#,c.6,16g#,p,4d#.,a#,a#,a#,a#,4a#.,p,g#,a#,c6,c6,g#,g#,d#,d#,2a#,2p,g#,a#,c.6,16f,p,4d#,d#,d#,d#,f,16d#,16f,2p,g#,a#,c6,c6,g#,g#,d#,d#,4a#,2p,p,g#,g#,a#,c.6,16g#,p,4d#.,a#,a#,a#,a#,4a#.,p,g#,a#,c6,c6,g#,g#,d#,d#,2a#

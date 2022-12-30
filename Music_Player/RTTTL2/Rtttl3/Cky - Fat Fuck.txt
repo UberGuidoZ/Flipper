@@ -1,0 +1,1 @@
+FatFuck:d=8,o=4,b=100:a,16g,p,a,32g,32f,e,16f,p,c,c#,c,p,a,16g,p,a,32g,32f,e,16f,p,c#,c#,c#

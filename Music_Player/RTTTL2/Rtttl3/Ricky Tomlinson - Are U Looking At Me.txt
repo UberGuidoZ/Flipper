@@ -1,0 +1,1 @@
+AreULook:d=8,o=5,b=200:a,a,a,4a,c#6,4b,g#,f#,e,e,a,a,a,a,c#6,c#6,b,b,b,4b,a,4a,a,4a,c#6,b,b,4b,p,c#6,4d.6,e6,b,g#,4a.,4p,a,4a.,a,a,a,a,2p,a,4a.,a,a,f#,e,2p,a,4a.,a,a,a,4a,4p,a,a,e,e,e,e,e,e,e,e,e,e

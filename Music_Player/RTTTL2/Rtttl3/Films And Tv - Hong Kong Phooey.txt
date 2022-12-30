@@ -1,0 +1,1 @@
+HongKong:d=16,o=6,b=112:32c,8f,f,32f,32a5,8d,d,32d,32g5,8c,c,c,g#5,g5,8f5,1d5,4d,4d,8c,4a5,8p,a5,a5,8a5,g5,p,f5,2d5,p,4d,4d,8c,4a5,8p,g,g,g,g,8g,e,2c,p,32e,8f,d,p,8d,8p,32c,8d,a5,p,8a5,8p,32g#5,4a5,g5,p,f5,2a5

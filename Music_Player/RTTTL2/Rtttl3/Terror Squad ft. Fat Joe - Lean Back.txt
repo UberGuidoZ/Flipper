@@ -1,0 +1,1 @@
+LeanBack:d=16,o=5,b=160:8c,4p,8c,4p,8f,8g,g#,a#,g#,g,8c,8p,g#,a#,g#,g,4p,8c,4p,8c,4p,8f,8g,g#,a#,g#,c6,8c,8p,g#,a#,g#,g,4p,8c,4p,8c,4p,8f,8g,g#,a#,g#,g,8c,8p,g#,a#,g#,g,4p,8c,4p,8c,4p,8f,8g,g#,a#,g#,c6,8c,8p,g#,a#,g#,g,4p,4c

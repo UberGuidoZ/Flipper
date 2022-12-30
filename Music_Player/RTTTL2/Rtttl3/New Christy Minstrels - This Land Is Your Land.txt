@@ -1,0 +1,1 @@
+ThisLand:d=4,o=5,b=180:16c,8p,16p,8d,8p,16e,8p,16p,f,16p,32p,2f,p,8c,8p,8c,8p,16d,8p,16p,e,16p,32p,2e,p,8c,8c,16c,8p,16p,8c,8p,d,16p,32p,2d,p,8c,8c,8c,8p,16d,8p,16p,e,16p,32p,e,8p

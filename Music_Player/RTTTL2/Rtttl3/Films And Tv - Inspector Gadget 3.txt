@@ -1,0 +1,1 @@
+Inspecto:d=16,o=6,b=125:a5,b5,c,d,8e,8c,8d#,8b5,8d,8c,a5,b5,c,d,8e,8a,8g#

@@ -1,0 +1,1 @@
+BrownEye:b=140,o=5,d=8:g,a,16p,b,16p,a,g,16p,c6,d6,16p,e6,16p,d6,c6,16p,g,a,16p,b,16p,a,g,16p,4a,16p,f#.,g,a,16p,g,a,16p,b,16p,a,g,16p,c6,d6,16p,e6,16p,d6,c6,16p,g,a,16p,b,16p,a,g,16p,4a,16p,f#.,g,a.,4g.

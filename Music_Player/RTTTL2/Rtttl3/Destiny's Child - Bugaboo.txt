@@ -1,0 +1,1 @@
+Bugaboo:b=80,o=6,d=16:32p,8e,c,a5,g5,8d,8c,8d,c,8d,c,8e,8e.,d,8d,c5,c,8d,c,8e,8c,p,8d,8c,8d,8c,8d,8c,8e,a5,d5,d,c,8d,c,d,c,8a.5,8p

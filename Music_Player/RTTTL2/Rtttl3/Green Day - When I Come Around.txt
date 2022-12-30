@@ -1,0 +1,1 @@
+WhenICom:d=16,o=5,b=50:32p,b,c6,b,a,32b,4g.,b,32d6,e.6,d6,32b,d6,4d.6,b,32d6,e.6,d6,b,32d6,e.6,d6,b,32d6,d.6,d6,g6,32g6,e.6,8d6,b,8b,a,b,c6,b,a,g,b,b,b,8g

@@ -1,0 +1,1 @@
+TheNobod:d=8,o=5,b=100:a,c6,a,c6,a,c6,a,c6,c,c6,a,c6,a,c6,a,c6,e,c6,g#,e,e,c6,g#,e,a,c6,a,c6,g,c6,g,c6,a,c6,a,c6,a,c6,a,c6,c,c6,a,c6,a,c6,a,c6,e,c6,g#,e,e,c6,g#,e,a,c6,a,c6,g,c6,g,c6,a,c6,a,c6

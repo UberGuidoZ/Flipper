@@ -1,0 +1,1 @@
+SlagetVi:d=4,o=6,b=180:8e,8d,8e,8f_,g,8f_,8e,f_,8e,8d,e,b5,8e,8d,8e,8f_,g,8f_,8e,8f_,8p,8d,8p,e,p,8e,8d,8e,8f_,g,8f_,8e,f_,8e,8d,e,b5,8e,8d,8e,8f_,g,8f_,8e,8f_,8p,8d,8p,e,p

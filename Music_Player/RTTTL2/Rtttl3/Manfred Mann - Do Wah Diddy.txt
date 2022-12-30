@@ -1,0 +1,1 @@
+DoWahDid:d=8,o=5,b=140:a,16p,32p,a,4a,16p,32p,a,a,b,b,b,g,a,p,f#,32g,16p,32p,a,16p,32p,a,a,16p,32p,a,32a,16p,32p,a,b,p,b,g,4a

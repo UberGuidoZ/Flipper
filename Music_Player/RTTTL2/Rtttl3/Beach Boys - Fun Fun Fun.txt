@@ -1,0 +1,1 @@
+FunFunFu:d=32,o=6,b=40:32p,16d,c,d,d,c,c,d#,d#,d,d,c,c,a5,a5,c,c,f,16g,4f,d,d,c,d,d,c,16d#,d#,d,d,c,c,a5,a5,c,d,c,16c,4g5,d,d,c,d,d,c,16d#,d#,16d,c,c,a5,a5,c,c,f,16g,4f

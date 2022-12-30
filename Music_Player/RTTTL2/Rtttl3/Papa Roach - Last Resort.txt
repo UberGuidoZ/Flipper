@@ -1,0 +1,1 @@
+LastReso:d=16,o=5,b=100:e,g,f#,g,b,g,f#,g,g,g,f#,g,b,g,f#,g,c,g,f#,g,b,g,f#,g,b,g,f#,g,a,g,f#,g,e,g,f#,g,b,g,f#,g,d,g,f#,g,b,g,f#,g,c,g

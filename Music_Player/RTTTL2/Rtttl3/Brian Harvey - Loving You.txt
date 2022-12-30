@@ -1,0 +1,1 @@
+LovingYo:d=16,o=5,b=90:8c6,c6,4c6,p,8c6,b,4a,p,8b,b,4b,g,a,b,a,4g,p,8c6,c6,4c6,c6,c6,c6,c6,b,a,8b,8b,8g,8a,8b,b,b,g,g,a,8b.,p,8c6,c6,4c6,p,8d6,e6,4d6,p,8b,b,4b,g,a,b,a,8g.,p,c6,c6,8c6,8c6,4c6,4p,8g6,d6,c6,8a#,g,f,8a#,4g

@@ -1,0 +1,1 @@
+Lindenstraße:d=4,o=5,b=180:g,e,g,2c.6,2e.6,d.6,8e6,f6,2a,p,a,c6,a6,2g6,p,d6,e6,f6,2e6,c6,d6,e6,2d.6,2c.6,2b,p,g,e,g,2c.6,2e.6,d.6,8e6,f6,2a,p,a,c6,a6,2g6,p,d6,e6,f6,1d6,p,c6,1c6

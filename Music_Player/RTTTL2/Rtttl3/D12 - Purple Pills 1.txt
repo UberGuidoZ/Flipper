@@ -1,0 +1,1 @@
+PurplePi:d=8,o=6,b=120:4c7,4a,g,a,b,p,4c7,4a,g,a,b,p,c7.,4a,g.,a,b,32c7,32a,32g#,a,c7,a,4c7.,a,p,4c7,4a,g,16a.,b,p,4c7,4a,g,a,b,p,4c7,4a,g,a,b,c7,a,c7,a,4c7.,2a

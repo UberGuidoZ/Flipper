@@ -1,0 +1,1 @@
+PippiLon:d=4,o=6,b=250:g5,c,e,c,d,p,8f,8e,8d,8c,b5,d,g5,b5,2c,e,p,g5,c,e,c,d,p,8f,8e,8d,8c,b5,d,g5,b5,2c,2p,2e,e,e,2f,f,8f,8e,d,8d,8d,d,8c,8c,b5,c,d,p,2e,e,e,2f,f,e,d,d,c,b5,1c

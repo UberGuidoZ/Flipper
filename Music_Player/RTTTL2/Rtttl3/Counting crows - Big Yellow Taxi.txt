@@ -1,0 +1,1 @@
+BigYello:d=16,o=5,b=180:4d6,8p,8d6,4d6,8b,8c6,8p,8b,8p,8d6,2p,4c6,4b,8a,8g,8p,8e,8p,8e,4d,4c,4p,4e,8g,8e,4g,4p,8e,8g,8p,8g,8p,8a,8p,4g.,4p,2p,1p,4d6,8p,8d6,4d6,8b,8c6,8p,8b,8p,8d6,2p,4c6,4b,8a,8g,8p,8e,8p,8e,4d,4c,4p,4e,8g,8e,4g,4p,8e,8g,8p,8g,8p,8a,8p,4g.,4p,2p,1p

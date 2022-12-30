@@ -1,0 +1,1 @@
+ItsALong:d=4,o=6,b=125:8e5,8f5,g5,g.5,8g5,8a5,8b5,c,2e,8e,8d,c,2a5,c,2g5,p,8e5,8f5,g5,g.5,8g5,8a5,8b5,c,2e,8c,8c,d,a5,b5,c,2d,p,g5,2g5,8a5,8b5,c,2e,f,a5,c,d,2e,p,8c,8d,e,e,8e,8c,8d,8c,2a5,2g5,c,e,2c,d,2c

@@ -1,0 +1,1 @@
+BakitNga:d=4,o=5,b=160:b4,d.,g,f#.,8d.,2d,p,b4,d.,b,b.,e,e.,b,a.,d,d.,b4,2c,p,8c,8d,2e,8c,2d,p,b4,d.,g,f#.,8d.,2d,p,b,8b,8e,e,2e,8b,a,d,2d,16p,b4,8b4,2c,p,8c,d,e.,8g,2a,p,b,c6,d6,2d6,16p,d6,d6,c6,b,c6,d6,2d6,16p,b,c6,d6,d6,d6,d6,d6,c6,b,c6,d6,2d6

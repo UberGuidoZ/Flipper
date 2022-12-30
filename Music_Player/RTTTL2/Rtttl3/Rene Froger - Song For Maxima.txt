@@ -1,0 +1,1 @@
+SongForM:d=16,o=5,b=125:2g,4g7,4p,4g7,4p,4f#,4g,2a,2g,2f#,4e,4g,4p,8c#,4p,8c#,4p,8c#,4p,p,4g,2a,2g,2f#,8e.,p,4g,8c,4p,8c,4p,8c,4p,4f#,4g,2a,2g,2f#,4e,4e7,2d,8g

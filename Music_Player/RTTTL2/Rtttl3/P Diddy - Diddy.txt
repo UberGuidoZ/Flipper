@@ -1,0 +1,1 @@
+Diddy:d=16,o=6,b=112:f5,c5,d5,8p.,f,d,p,d,8p,d,p,d,d,8p,d,d,8p,d,d,p,d,8p,d,p,d,d,p,c,8d.,d,8d.,e,8f#.,e,d,d,p,c,8b5,p,b5,b5,b5,p,c,8d,p,c,b5,b5,a5,p,8a5,4b5,d,p,4f#,8d,a5,p,8a5,4b.5

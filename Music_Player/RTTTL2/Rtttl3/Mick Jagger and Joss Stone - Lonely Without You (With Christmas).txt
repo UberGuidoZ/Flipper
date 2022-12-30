@@ -1,0 +1,1 @@
+LonelyWi:d=4,o=6,b=200:8f5,2p,8p,a,a,a,g,2f,8f5,8p,2a,g.,f.,1f,a#5,f,g,2a,a,2g,f,2a,p,a,2g,g,1f,p,8a#5,2p,8p,8a#5,p.,f,2a,a,8d5,8p,g,f,8g,8f,2d,8d5,8p,2a,g,8p,1f,8p,8a#5,2p,8p,2f,f,2a,a,2g,f,2a,g,f,g,g,2g,g,8c5,8p,d,8p,2c.,8p,8c5,2p,8p,f5

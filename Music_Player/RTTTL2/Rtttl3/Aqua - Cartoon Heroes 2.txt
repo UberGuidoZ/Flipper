@@ -1,0 +1,1 @@
+CartoonH:d=16,o=5,b=63:a,a,a,8c#,8e,8g#,b,8g#,a,b,8a,a,a,a,a,a,a,8g#,8a,8b,8c#.,a,8a,c#6,c#6,8e6,8g#,8g#6,e6,b6,8a6,a6,a6,a6,a6,a6,a6,a6,8e7,a,2p

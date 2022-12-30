@@ -1,0 +1,1 @@
+JustALit:d=8,o=5,b=125:d,a,g,f#,g,16f#,g,16f#,16g,16a,d,a,g,f#,g,16f#,4a,d,a,g,f#,g,16f#,g,16f#,16g,16a,d,a,g,f#,g,16f#,d

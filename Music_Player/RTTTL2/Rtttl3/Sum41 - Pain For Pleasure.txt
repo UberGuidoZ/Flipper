@@ -1,0 +1,1 @@
+PainForP:d=16,o=6,b=80:a#,g#,f#,g#,f#,8f.,a#,g#,f#,g#,f#,8d#.,a#,g#,f#,g#,f#,8d.,a#,g#,f#,g#,f,8f#.,a#,g#,f#,g#,f#,8f.,a#,g#,f#,g#,f#,8d#.,a#,g#,f#,g#,f#,8d.,a#,g#,f#,g#,f,f#

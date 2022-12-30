@@ -1,0 +1,1 @@
+BadTouch:d=8,o=5,b=125:f,f,f,16f,g#.,4a#,f,g#,g#,a#,4g#,f,g#,g#,d#,d#,d#6,16d#6,c.6,4a#,f,g#,g#,a#,4g#,f,16g#,4a#

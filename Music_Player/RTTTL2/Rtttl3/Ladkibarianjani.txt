@@ -1,0 +1,1 @@
+Ladkibar:d=8,o=5,b=125:4a,b,4c6,b,a,b.,c.6,2e6,p,4a,b,4c6,b,a,b.,d.6,2g,4p,g,f6,e6,16f6,16e6,4d.6,p,g,f6,e6,16f6,16e6,4d.6,p,g,f6,e6,4d6,b,a,b.,d.6,4g.,p,b,16c6,16b,2a.,g,b,16c6,16b,2a

@@ -1,0 +1,1 @@
+DoinIt:d=16,o=5,b=100:8g,8a,8b,b,a,8b,b,a,b,a,g,8a,8g,a,8b,b,a,8b,b,a,b,a,g,8a.,4b,p,8a,g,4g,p,d6,e6,d6,e6,d6,8a6,2g6,4p,8g,8a,8b,b,a,8b,b,a,b,a,g,8a,8g,a,8b,b,a,8b,b,a,b,a,g,8a.,4b,p,8a,g,4g,p,d6,e6,d6,e6,d6,8a6,2g6

@@ -1,0 +1,1 @@
+WeThuggi:d=4,o=6,b=200:d_,c,8c,d_,8d_,d_,c,p,8d_,8d_,8d_,c,8p,d_,8d_,d_,c,8p,8c,8d_,d_,8c,p,d_,8d_,d_,8d_,d_,d_,8d_,d_,8c,8p,c,d_,c,g,8d_,d_,d_,f,g,8f,d_,c

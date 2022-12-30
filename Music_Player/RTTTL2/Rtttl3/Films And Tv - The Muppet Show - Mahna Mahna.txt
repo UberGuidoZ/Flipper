@@ -1,0 +1,1 @@
+TheMuppe:d=8,o=6,b=180:e,c,a5,g5,p,e,p,4f,p,g,e,4c,4p,e,d,a5,g5,p,e,p,f,4g,4e,2p,e,d,a5,g5,p,e,p,4f,p,g,e,4c,d,e,4c,d,e,4c,d,e,c,a5,g5,c,p,c,p,c,c,p,c

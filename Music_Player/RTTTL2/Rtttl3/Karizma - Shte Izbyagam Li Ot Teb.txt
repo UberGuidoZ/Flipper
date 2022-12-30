@@ -1,0 +1,1 @@
+ShteIzby:d=4,o=6,b=160:8g,8a,a_,8a,g,f,2d,p,8g,8a,a_,8a,g,f,8g,2a,8p,8a,8a_,c7,8a_,a,g,8p,a_,8a,g,f,8p,a_,8a,g,8f,8p,f,d_,d,c,8p,f,8d_,d,8c,2d,p

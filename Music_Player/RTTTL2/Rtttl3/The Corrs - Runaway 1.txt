@@ -1,0 +1,1 @@
+Runaway1:d=4,o=5,b=160:a,c6,8c6,8a,8a#,8a,8g,2f,16g,16f,8e,f,16g,16f,8e,8f,8e,8f,8g,a,c6,8c6,8a,8a#,8a,8g,2f.,d6,2c6,8a#,8a,2f,a,c6,8c6,8a,8a#,8a,8g,2f,16g,16f,8e,f,16g,16f,8e,8f,8e,8f,8g,a,c6,8c6,8a,8a#,8a,8g,2f.,d6,2c6,8a#,8a,2f

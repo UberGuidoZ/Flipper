@@ -1,0 +1,1 @@
+BugsBunn:d=8,o=7,b=200:4a,g,2a,p,4e,d,2e,p,4a,g,2a,g,4e,d,4e,p,d,4b6,4d,g,4a,g,g,e,g,4f#,p,a,4b,a,g,4f#,4e,2a

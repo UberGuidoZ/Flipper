@@ -1,0 +1,1 @@
+Crossroa:d=8,o=6,b=320:b5,c#,e,p,e,p,b5,p,c#,16d,16d#,2e,2p.,b5,p,c#,p,e,16g,16g#,a,p,b,p,b,p,a,p,4c#7,16f#5,p.,4b,16f#5,p.,4c#7,16f#5,p.,4b,16f#5,p.,4c#7,16g#5,p.,4b,16g#5,16p,16g,16g#,a,p,b,p,b,p,a,p,4b,16a5,p.,4e,16a5,p.,4b,16a5,p.,4e,16a5,p.,4b,16a5,p.,4e,b,p,b,c#7,4e7

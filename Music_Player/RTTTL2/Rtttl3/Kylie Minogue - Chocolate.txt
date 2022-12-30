@@ -1,0 +1,1 @@
+Chocolat:d=8,o=6,b=180:d#,f,4g.,4f,4d#,c,g,f5,f,4p,f5,d#,f,4g.,4f,4d#,c,g,f5,f,4p,f5,d#,f,4f.,4d#,4d,c,4f.,4d#,4d,c,f,c5,p,4d#,4d,c,c,c5,4p.,c5,c,d#,f,4g,4f,4d#,c,g,f5,f,4p,f5,d#,f,4g.,4f,4d#,c,g,f5,f,4p,f5,4p,4f.,4d#,4d,c,f,c5,p,4d#,4d,c,4f.,4d#,4d,c,4c.

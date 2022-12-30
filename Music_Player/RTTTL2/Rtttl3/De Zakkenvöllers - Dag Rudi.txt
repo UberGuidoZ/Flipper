@@ -1,0 +1,1 @@
+DagRudi:d=4,o=6,b=225:2a,a,a,a,2a,8f5,8p,8g5,8p,2p,8g5,8p,8g5,8p,e,a,e,2g,a,e,g,2g,p,8c5,8p,2p,8c5,8p,8c5,8p,p,2p,2e,f,g,2a.,1g,8g5,8p,8g5,8p,f,e,d,2c,c,b5,2a.5,1b5,8g5,8p,8g5,8p,p,8g5,8p,8g5,8p

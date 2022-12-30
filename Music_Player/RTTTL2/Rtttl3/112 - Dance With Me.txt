@@ -1,0 +1,1 @@
+DanceWit:d=16,o=5,b=160:8e,p,8e,p,8e,4p,e.,e.,e.,8e,8p,e.,e.,e.,8p,e.,e.,e.,8p,e.,e.,8e.,e.,8e.,8p,e.,e.,e.,e.,8e,p,8e,e.,e.,p,8e,p,e.,8e.,e.,e.,e.,8p,8f#,p,e.,8e.,4p,8f#,p

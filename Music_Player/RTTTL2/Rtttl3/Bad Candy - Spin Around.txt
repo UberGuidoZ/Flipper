@@ -1,0 +1,1 @@
+SpinArou:d=4,o=5,b=160:8f,8g,8p,8a,8p,8a#,8p,8c6,8p,8a,p,2a#,g,8p,2f.,8p,p,2p,8f,8g,8p,8a,8p,8a#,8p,8c6,8p,8a,p,2a#,g,8p,2f.,p,2p,8f,8f,8g,8p,8a,8p,8a#,8p,8c6,8p,8a,p,2a#,g,p,2f,d,p,2a#,g,p,2f,d,2f.,p,1p,2p

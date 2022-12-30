@@ -1,0 +1,1 @@
+BackToTh:d=8,o=6,b=125:4d.,p,4g.5,p,4c#.,4p.,16d,16e,d.,b.5,g5,4c#,16p,16d,16e,4d,4a5,4d,4a,4a.,p,4g#.,16f#,16g#,4a.,2p,p,4g.,16f#,16e,f#,e,d,4e.,p,a5,a,4g,16f#,16e,f#,e,d,4e.,p,b5,c#,4d,16c#,16b5,c#,a5,e,4e,16d,16c,d,g5,g,4g,16f,16e,4e.,g,f,e,e,f,g,4a,16a,16a,4a

@@ -1,0 +1,1 @@
+BattleWo:d=32,o=6,b=125:8p,c,d,e,f#,g,a,b,c7,p,c7,p,c7,p,4c7,4g#,4a#,c7,8p,16a#,2c7

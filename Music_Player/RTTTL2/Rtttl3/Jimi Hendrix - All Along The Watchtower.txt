@@ -1,0 +1,1 @@
+AllAlong:d=16,o=5,b=140:8b,16a,p.,16b,p.,8p,b,8p.,8d6.,p,16a,p.,b,p,2p.,8a,b,p,16d6,p.,p.,8b,8b,8b,2p,8b,16a,p.,b,p,8a,d6,8p.,8b,4p,2p.,8a,b,p,16d6,4p,p.,8b,4b

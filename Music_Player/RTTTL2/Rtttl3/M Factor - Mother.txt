@@ -1,0 +1,1 @@
+Mother:d=16,o=6,b=125:32a#,32p,f,g,f,32a#,32p,f,g,f,32a#,32p,f,g,32f,32p,32a#,32p,f,c7,f,d7,f,c7,32f,32p,a#,f,g,f,g,f,g,f,g,32f,32p,d,f,2g.,8p,32a,32c7,32d7,32e7,2g.7

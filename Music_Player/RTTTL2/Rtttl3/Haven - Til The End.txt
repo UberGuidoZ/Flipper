@@ -1,0 +1,1 @@
+TilTheEn:d=16,o=5,b=90:d,a,a,a,e6,a,a,d,g#,a,d,a,e6,a,a,g#,b4,a,a,a,8e6,a,8c#6,b4,b4,c#6,c#6,c#6,8b4,a4,c#,e,a4,8e,a4,a4,f#,a4,8g#,c#,c#,c#,g#,e,e,8g#,8g#,e,e,g#,e,e,g#,f#,e,8d,8d6,8c#6,8d6,8a.6,d,8d,d,d,8d,8d6,8c#6,8d6,b6,8b4,b4,4a6,8g#6,8g#6,a4,a4,8a4,a4,8a4,a4,8a4,c#,c#,8c#,e,e,e,e,8e,d,8e,d,8e,e,e,8

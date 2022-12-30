@@ -1,0 +1,1 @@
+OkV2:d=4,o=5,b=180:8c6,8a#,8g#,f.,p,8g,8g,8g,8g,8g,8g,8g,8g#,g,8f,8p,2f,8g,8g,8g,8g,8g,8g,8g,8g#,g,8f,8p,f.,8g#,g,8f,8p,f.,8p,8g,8g,8g,8g,8g,8g,8g,8g#,8a#,8g#,8f,f.,p,8c6,8a#,8g#,f.,p,8g,8g,8g,8g,8g,8g,8g,8g#,g,8f,8p,2f,8g,8g,8g,8g,8g,8g,8g,8g#,g,8f,8p,f.,8g#,g,8f,8p,f.,8p,8g,8g,8g,8g,8g,8g,8g,8g#,8a#,8g#,8f,f.,p

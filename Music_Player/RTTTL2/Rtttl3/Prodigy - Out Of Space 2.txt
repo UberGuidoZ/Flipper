@@ -1,0 +1,1 @@
+OutOfSpa:d=16,o=5,b=125:8e,8g,a,8a,a,a,8a,4e6,e6,8d6,p,c6,d6,8e6,8a.,4p,8e,8g,a,8a,a,a,8a,4e6,e6,8d6,p,c6,d6,8e6,8a.,4p,8e,8g,a,8a,a,a,8a,4e6,e6,8d6,p,c6,d6,8e6,4a

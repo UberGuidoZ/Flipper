@@ -1,0 +1,1 @@
+YouSpinM:d=8,o=5,b=140:f#,p,f#,p,f#,p,a,p,a,p,16e,16p,e,b,p,a,16f#,16p,16f#,16p,16f#,16p,16b,16p,16b,16p,16a,16p,a,e,p,e,p,b.,16p,a.

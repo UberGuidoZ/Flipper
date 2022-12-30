@@ -1,0 +1,1 @@
+MusicToW:d=8,o=5,b=131:f#,g,g#,4a,a,g,4a,a,g,4a,a,g,a,g,d,g,4a,g,2c#.,4d6,c6,2g.,g,f,d#,d,c,4c#.,c#,c#,4c#,2d.,4f.,2d.,4d#.,2c.,c6,c#6,d6,d#6,4d#.,2d.,4c.,2a.,4a#.,2g.,g,a,g,a,4a,2a.,f#,g,g#,4a,a,g,4a,a,g,4a,a,g,a,g,d,g,4a,g,2c#.,4d6,c6,2g.,g,f,d#,d,c,4c#.,c#,c#,4c#,2d.

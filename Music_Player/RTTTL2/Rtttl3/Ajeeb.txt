@@ -1,0 +1,1 @@
+Ajeeb:d=16,o=6,b=100:a,p,8g,p,a,p,8g,p,e,p,8d,p,c,p,4e,2p,a,p,8g,p,a,p,8g,p,e,p,8d,p,c,p,4d,2p,e,p,8d,p,e,p,8d,p,c,p,8b5,p,a5,p,8b5,p,2a5,8p,a,p,8g,p,a,p,8g,p,e,p,d,p,c,p,a5,p,2c,8p,a,p,8g,p,a,p,8g,p,e,p,8d,p,c,p,4e,2p,a,p,8g,p,a,p,8g,p,e,p,8d,p,c,p,4d,2p,e,p,8d,p,e,p,8d,p,c,p,8b5,p,a5,p,8b5

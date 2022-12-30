@@ -1,0 +1,1 @@
+MoreThan:d=16,o=5,b=140:2g,4f,8e,4d,2e,2p,8p,4g,8g.,p,8g,4f,4e,4p,4c,8p,2g,4g,8g,4f,2e,4p,8p,e.,32p,e.,32p,e.,32p,4f,f.,32p,f.,32p,4g,8f,4e,4d,4p,2g,4f,8e,4d,2e,2p,8p,4g,8g.,p,8g,4f,4e,4p,4c,8p,2g,4g,8g,4a,2e,4p,8p,8a,a.,32p,a.,32p,4a,8b,4c6,1a.

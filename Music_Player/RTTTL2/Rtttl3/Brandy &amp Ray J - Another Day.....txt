@@ -1,0 +1,1 @@
+AnotherD:d=16,o=5,b=225:4g,4p,4p,4g,4a,4p,4g,4p,4f#,4e,4d,4p,4e,4p,4p,4p,4g,4p,4p,4g,4a,4p,4g,4p,4f#,4e,4d,4p,4c,4p,4p,4p,4g,4p,4p,4g,4a,4p,4g,4p,4f#,4e,4d,4p,4e,4p,4p,4p,4e,4e

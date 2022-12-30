@@ -1,0 +1,1 @@
+Baroque:d=32,o=5,b=300:f4,p,g4,p,f4,p,g4,p,g4,a4,c4,p,c4,p,f4,p,g4,p,f4,p,g4,p,g4,a4,d4,p,d4,p,a#4,p,a4,p,g4,p,f#4,p,16f.4,p,c4,16p.,16f.4,p,c4,16p.,f4,16p.,c4,p,16g.4,8f.4,p,16h.2,8p.,c4,d4,a.3

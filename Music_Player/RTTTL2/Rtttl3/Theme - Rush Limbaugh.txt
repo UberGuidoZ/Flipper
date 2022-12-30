@@ -1,0 +1,1 @@
+RushLimb:d=8,o=6,b=112:4a,4g,g,g#,a,4d,d,f#,d,f#,d,b5,a5,4a,4g,g,g#,a,4d,d,f#,d,f#,d,b5,a5,p,c,c,c,c,a5,g5,a5

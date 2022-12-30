@@ -1,0 +1,1 @@
+OutOfCon:d=16,o=5,b=225:2b,2f#,b,4p,2f#,b,4p,2g,b,4p,2g,b,4p,2g,b,4p,2a,b,4p,2a,b,4p,2b,2b,2f#,b,4p,2f#,b,4p,2g,b,4p,2g,b,4p,2a,b,4p,2a,b,4p,2a,2a,2e

@@ -1,0 +1,1 @@
+BridgeOv:d=8,o=6,b=125:g#,g#,4g,f,1d#,g#,4a#,1g,4c7,4c#7,c7,2a#.,d#7,4c7,a#,2g#,c7,c7,a#,16g,16f,2d#.,1d#7,4g,4f,4d#,2f.,2a#,a#,g,f,d#,16d#,16f,1g,4d#,4g,4f,2d#,4f,d#,2f,4g,4f,2d#,4d,4c,c,4a#,c,2d#,c,d#,4f,g,2d#,4g,4f,2d#,4d,4c,c,4a#,c,2d#,c,d#,4f,g,1d#

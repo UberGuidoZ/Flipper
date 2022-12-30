@@ -1,0 +1,1 @@
+Gulam:d=16,o=5,b=140:4g,2p,a#,p,a,p,g,p,4d,4p,4g,2p,a#,p,a,p,g,p,4d,8p,4d6,p,a#,p,4c6,p,a#,p,a#,p,a#,p,a,p,g,p,8g,4p,4d6,p,a#,p,4c6,p,a#,p,a#,p,a#,p,a,p,a,p,4g,8p,c6,p,d6,p,d6,p,c6,p,d6,p,d6,p,c6,p,d6,p,d6,p,c6,p,d6,p,d6,p,c6,p,d6,p,d6,p,d6,p,c6,p,a#,p,a,p,g,2p,4g,2p,a#,p,a,p,g,p,4d,4p,4g

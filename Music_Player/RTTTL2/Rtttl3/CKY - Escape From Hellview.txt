@@ -1,0 +1,1 @@
+EscapeFr:d=4,o=6,b=200:d5,8d5,a5,8d,d5,8d5,a5,8a_5,d5,8d5,f5,8d5,g5,8f5,d5,8f5,a5,8c5,g5,8a5,c,8d,c,8c5,c,8c,a5,8c,c_,8c_,a5,c_

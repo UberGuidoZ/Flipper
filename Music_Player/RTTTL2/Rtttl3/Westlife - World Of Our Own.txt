@@ -1,0 +1,1 @@
+WorldOfO:d=16,o=6,b=112:d#,8f,d#,8f,d#,8f,d#,8f,4d#,d#,8f,d#,8f,d#,8f,d#,8f,4d#,d#,8f,d#,8f,d#,8f,d#,8f,4d#,4p.,g#5,a#5,g#5,8c#,c#,8d#.,8c#,d#,8f,d#,8f,d#,8f,d#,8f,4d#,d#,8f,d#,8f,d#,8f,d#,8f,4d#,d#,8f,d#,8f,d#,8f,d#,8f,8d#,8c#,4c#,p,g#5,a#5,g#5,8c#,c#,8d#.,4c#

@@ -1,0 +1,1 @@
+AreYouLo:d=8,o=5,b=125:e,g,c6,p,4b,p,c6,4b,4p,e,g,b,p,4a,p,b,4a,4p,e,g,a,p,4g,p,32a.,p,g,p,4f,e,p,4a

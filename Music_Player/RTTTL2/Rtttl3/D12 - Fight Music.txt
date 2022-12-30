@@ -1,0 +1,1 @@
+FightMus:d=16,o=5,b=180:4e,4e,1p,2p,4e,4e,1p,2p,4f#,4f#,1p,2p,4f#,4f#,2p,2a.,p,4g,4g,1p,2p,4g,4g,1p,2p,4a,4a,1p,2p,4a,4a,2p,4c6,4c6,4b,4b,4e,4e

@@ -1,0 +1,1 @@
+Processe:d=4,o=5,b=200:1d,p,d,f,g,1a,p,c6,a,g,1a,p,d,f,2c,1d.,p,1d,p,d,f,g,1a,p,c6,a,g,1a,p,d,f,2c,1d.,p,1d,p,d,f,g,1a,p,c6,a,g,1a,p,d,f,2c,1d

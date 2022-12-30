@@ -1,0 +1,1 @@
+LoveYouA:d=8,o=6,b=140:f,d#,f,d#,f,d#,g,f,f,16f,16f,f,g,f,d#,4d#,f,d#,f,d#,f,d#,g,f,f,16f,16f,f,g,f,d#,4d#,f,d#,f,d#,f,d#,g,f,f,16f,16f,f,g,f,d#,d#,16f,16g,16f,16d#,d#,16d#,16p,16f,16g,f,d#,d#,16d#,16d#,16f,16f,16f,16d#,16f,16f,16f,16d#,g,g,d#

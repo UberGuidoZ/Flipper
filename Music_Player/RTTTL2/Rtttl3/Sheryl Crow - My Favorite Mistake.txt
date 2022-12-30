@@ -1,0 +1,1 @@
+MyFavori:d=32,o=6,b=28:d#,f,16f,d#,f,16f,d#,f,f,f,d#,16f,p,d#,f,16g,16a#.5,p,a#5,a#5,c,d#,f,c,16c

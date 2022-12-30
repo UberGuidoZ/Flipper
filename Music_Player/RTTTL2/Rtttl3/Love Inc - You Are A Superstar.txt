@@ -1,0 +1,1 @@
+YouAreAS:d=16,o=5,b=125:8c7,8c7,8b6,8b6,8g6,8g6,8g6,8g6,c,p,c,p,8p,c,p,8p,c,p,8p,c,p,8c7,8c7,8b6,8b6,8g6,8g6,8g6,8g6,c,p,c,p,8p,c,p,8p,c,p,8p,c,p,8c7,8c7,8b6,8b6,8e6,8e6,8e6,8e6,c,p,c,p,8p,c,p,8p,c,p,8p,c,p,8f6,8f6,8e6,8e6,8c6,8c6,8c6,8c6,c,p,c,p,8p,c,p,8p,c,p,8p,c,p

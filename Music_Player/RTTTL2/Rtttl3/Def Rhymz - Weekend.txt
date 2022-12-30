@@ -1,0 +1,1 @@
+Weekend:d=16,o=5,b=200:1g7,4p,2g#.7,8p,4a7,p,8a.7,p,4a7,p,4a7,p,8a.7,p,4a7,4p,p,2a7,8p,8a.7,p,4a7,p,4a7,4p,p,8a.7,p,4a7,p,2a7,8p,2g7,4p,8p,8g.7,4p,p,g7,2p,4p,p,2g7,4p,8p,p,8g.7,4p,p,g7,2p,4p,8p,8g.7,p,4g7,p,4g7,p,4g7,p

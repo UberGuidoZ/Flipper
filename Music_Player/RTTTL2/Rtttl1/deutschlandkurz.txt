@@ -1,0 +1,1 @@
+Deutschlandlied:d=4,o=5,b=160:g.,8a,b,a,c6,b,8a,8f#,g,e6,d6,c6,b,a,8b,8g,2d6,g.,8a,b,a,c6,b,8a,8f#,g,e6,d6,c6,b,a,8b,8g,2d6,a,b,8a,8f#,d,c6,b,8a,8f#,d,d6,c6,b.,8b,c#6,8c#6,8d6,2d6,g.6,8f#6,8f#6,8e6,d6,e.6,8d6,8d6,8c6,b,2a,16b,16c6,8d6,8e6,8c6

@@ -1,0 +1,1 @@
+Survivor:d=8,o=5,b=140:d.6,c.6,a#,4d6,g,p,g.,g.,g,4a#,g,p,g.,g.,g,4f#,d,p,a.,a.,a#,4a,g,p,d.6,c.6,a#,4d6,g,p,g.,g.,g,4a#,g,p,g.,g.,g,4f#,d,p,a.,a.,a#,4a,g

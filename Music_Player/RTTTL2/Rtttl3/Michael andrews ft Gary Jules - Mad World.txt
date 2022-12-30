@@ -1,0 +1,1 @@
+MadWorld:d=8,o=6,b=90:b5,b5,d,d,b5,b5,f#,4f#,4f#,4d.,e,4e,4e,4c#.,e,4e,4e,d,c#,4c.,b5,b5,d,d,f#,f#,g#,e,p,e,g#,g#,e,e,b5,p,b5,b5,d,d,f#,f#,g#,4e,e,g#,g#,e,e,4b5

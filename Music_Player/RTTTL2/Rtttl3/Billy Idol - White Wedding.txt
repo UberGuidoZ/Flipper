@@ -1,0 +1,1 @@
+WhiteWed:d=8,o=5,b=63:32p,c,16d#,16f,g,16g,c,d#,f,4f.,c,16d#,16f,g,16g,a#,g,f,16g,4g.,c,16d#,16f,g,16g,a#,g,f,16g,g,c,16d#,16f,g,16g,a#,g,f,16g,c,c,16d#,16f,g,16g,a#,4g,16d#,c,d#,d#,c.,a#,16g,16f,4g.,16d#,4c,d#,d#,16c,4c,d#,16d#,2d#

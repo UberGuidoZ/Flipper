@@ -1,0 +1,1 @@
+IsItCosI:d=8,o=5,b=125:c,d,d#,f,p,2g,f,d#,f,p,g,p,4d#,f,d#,f,p,g,p,4d#,f,d#,16f,16g,2d#,c,d,d#,f,p,2g,f,d#,f,p,g,p,4d#,f,d#,f,p,g,p,4d#,f,d#,16g,16f,2f,c,d,d#,f,g,2g,f,d#,c6,p,a#,p,4g,f,d#,c6,p,a#,p,g,2f,g,4f.,g,f,d#,f,1c,2p,g,f,d#,f,1d#

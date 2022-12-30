@@ -1,0 +1,1 @@
+TwoTribe:d=16,o=5,b=125:g4,a4,a4,a4,d4,a4,g4,g4,g4,a4,a4,a4,d4,a4,g4,g4,p,a4,a4,a4,d4,a4,g4,g4,g4,a4,a4,a4,c,b4,a4,g4,g4,a4,a4,a4,d4,a4,g4,g4,p,g4,a4,a4,d4,a4,g4,g4,g4,a4,a4,p,d4,a4,g4,g4,g4,a4,a4,p,c,b4,a4,p,g4,a4,a4,a4,d4,a4,g4,g4,g4,a4,a4,a4,d4,a4,g4,g4

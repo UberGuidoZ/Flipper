@@ -1,0 +1,1 @@
+Scotland:d=16,o=5,b=112:4c,8c.,d,8e,8c,8e,8g,4c6,8c.,b,8c6,8g,8e,8c,4f,8a.,f,8e,8g,8e,8c,4d,8g.,a,8g,b,a,g,f,e,d,4c,8c.,d,8e,8c,8e,8g,4c6,8c.,b,8c6,8g,8e,8c,4f,8a.,f,8e,8g,8e,8c,4d,8g.,a,8g,b,a,g,f,e,d

@@ -1,0 +1,1 @@
+DontGive:d=4,o=5,b=125:8g,8d#6,8d#6,8d6,8c6,8c6,8g,8p,8g,f,8p,8c,8f,8f,8g,8g,f,8p,8c,8f,8f,8g,8g,f,8p,8c,8d#,8f,8g,8g,8p,8f,p,8d#6,8d#6,8d#6,8d6,8c6,8c6,8g,8p,8g,f,8p,8c,8f,8f,8g,8g,f,8p,8c,8d#,8f,8g,8f,8p,8c,8p,8c,8p,8c

@@ -1,0 +1,1 @@
+Hawaii50:d=8,o=6,b=180:g5,g5,a#5,4d,2c,1g5,g5,g5,f5,4a#5,1g.5,g5,g5,a#5,4d,2c,1g,f,f,d,4a#5,1g,4a#,g,f,d#,c,d#,f,d#,1c,4c7,a,g,f,d,c,a#5,c,4d,c,4a#5,4c.,2g.,f,f,d,4a#5,2c

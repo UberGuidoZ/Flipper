@@ -1,0 +1,1 @@
+IDoCheri:d=4,o=5,b=180:32p,c,1g.,b4,c,1g.,8e,8f,g,f,e,2d.,8e,8f,g,f,e,2d.,c,1g,b4,c,1g.,8p,8g,8g,g,f,e,2d.,8p,8e,8f,g,f,e,2e,2d.,32p,d,d,e,d,2c,8p,8c,8a.4,c,d,e,2e.,8p,8e,e,f,e,d,c,c,d,e,1d.,p,2c,1c

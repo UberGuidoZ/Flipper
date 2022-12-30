@@ -1,0 +1,1 @@
+AwayFrom:d=8,o=6,b=140:g5,4c,c,2c,p,4b5,g5,g5,p,4g.5,4a5,g5,4c.5,p,c,e,f,g,4d,c,c,4a.5,g5,2g5,c,4c,c,b5,p,4g.5,4a5,a5,4a.5,p,c,e,f,g,4d,4c,g5,4c,c,2c,p,4b5,g5,g5,p,4g.5,4a5,g5,4c.5,p,c,e,f,g,4d,c,c,4a.5,g5,2g5,c,4c,c,b5,p,4g.5,4a5,a5,4a.5,p,c,e,f,g,4d,2c

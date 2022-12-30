@@ -1,0 +1,1 @@
+Beautifu:d=8,o=6,b=120:e,4d,4c,4g5.,e5,g5,a5,2g5,e,4d,4c,4g5,c5,e5,g5,a5,2g5.,2a5,2c,4g5,g5,d5,e5,g5,4a5,2c5.,2e,2e,2e,e,d,4c,4d.,c,2a5,4b5,4c,2d,2d,2d,d,c,4a5,4c.,a5,2g5,4c,4d,2e,2e,2e,e,d,4c,4d.,c,2a5,d,c,a5,g5,2a5,2c,4g5,g5,d5,e5,g5,4a5,2c5.

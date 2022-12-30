@@ -1,0 +1,1 @@
+SunRisin:d=4,o=5,b=125:8c,8c,8c,8d,2p,p,8c,8d,8e,8c,8c,8d,1p,8c,8c,8d,8e,8c,8c,8d,1p,8c6,8c6,8d6,8e6,8c6,8c6,16c6,2d.6,1p,p,16p,8c,8c,8c,8d,2p,p,8c,8d,8e,8c,8c,8d,1p,8c,8c,8d,8e,8c,8c,8d,1p,8c6,8c6,8d6,8e6,8c6,8c6,16c6,2d.6

@@ -1,0 +1,1 @@
+Shakalak:d=4,o=6,b=180:8c,8b,8c,8b,a,e,8c,8b,8c,8b,a,e,8b5,8a5,8b5,8a5,8b5,8a5,8g_5,8a5,2b5,p,8c,8b,8c,8b,a,e,8c,8b,8c,8b,a,e,8b5,8a5,8b5,8a5,8b5,8a5,8g_5,8a5,2b5,p

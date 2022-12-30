@@ -1,0 +1,1 @@
+24:d=8,o=5,b=125:g,f#,2e.,f#,g,2a.,b,c6,2c6,1b,4p,g,f#,4e,4f#,4g,d6,b,4a,b,c6,4c6,b,g,1a,2p.,g,f#,2e.,f#,g,2a.,b,c6,2c6,1b,4p,g,f#,4e,4f#,4g,d6,b,4a,b,c6,4c6,b,g,1a

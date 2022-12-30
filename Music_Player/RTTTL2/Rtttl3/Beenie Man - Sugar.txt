@@ -1,0 +1,1 @@
+Sugar:d=16,o=5,b=90:g,a,a,a,8a,8a,g,a,4p,d6,c6,8c6,8a#,8a#,8a,g,a,4p,a,8g.,8a,8a,8a,g,a,4p,d6,c6,8c6,8a#,8a#,a,8p.,8a,g,a,g,g,g,a,a,a,8a,8a,g,a,4p,d6,c6,8c6,8a#,8a#,8a,g,a

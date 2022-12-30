@@ -1,0 +1,1 @@
+Somethin:d=4,o=5,b=140:8c,8c,g,g,g,e,b,g.,p,8c,8c,g,g,g,e,b.,p,8c,8c,8c,g,8p,8g,8g,8g,8e,b,g,p,8c,8c,g,g,8g,8g,8e,c6,b,p,d6,8c6,8b,8a,b,p

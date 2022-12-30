@@ -1,0 +1,1 @@
+1NightSt:d=8,o=6,b=112:d,f,16d,16d,f,16d,c,16c,d,d,p,d,4d,p,16c,16c,d,p,f,d,f,16d,c,16c,d,d,p,4d,4d,p,c,d,d,f,d,d,f,4d.,p.,4a,4g,4f,e,4d

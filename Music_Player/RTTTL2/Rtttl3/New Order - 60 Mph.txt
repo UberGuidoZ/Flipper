@@ -1,0 +1,1 @@
+60Mph:d=8,o=5,b=125:e,e,g,e,4b,a,g,a,4e,4e.,e,g,e,g,a,4b,a,g,a,4a,g,4e.,e6,d6,d6,b,4d6,d6,b,d6,4e6,b.,16a,4g,e,e,g,e,g,4a#,a,g,a,4e,2e,e,g,e,g,4a#,a,g,a,4e,2e,e,e,g,a,4a#,a,g,a,4a,g,2e

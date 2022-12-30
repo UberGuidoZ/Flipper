@@ -1,0 +1,1 @@
+KkhhThem:d=4,o=6,b=90:p,8e,16f,8e,16d,8c,e,8p,8e,16f,8e,16d,8c,e,8p,16e,8d,16c,8b5,8d,g5,16p,8d,16c,8d,16c,c,16p,8c,8d,16e,a,g,16p,c,8d,16e,8a,8a,g,16p,8d,16e,8d,16c,8b5,8a5,g.5

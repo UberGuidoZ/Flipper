@@ -1,0 +1,1 @@
+KolNedra:d=16,o=5,b=225:4g,4g#,4g,p,8f,4d#,4d,4c,p,8g,4g,4c6,4a#,p,8g#,8g,8f,8g,8g#,4g,p,8g,4g,4b,4c6,p,8g,8g,4f,4d#,p,8e,4f,8a#,8g#,4g,p,8f,4d#,4d,4c

@@ -1,0 +1,1 @@
+HappyBir:d=8,o=5,b=100:16c,16c,d,c,f,e.,16p,16c,16c,d,c,g,f.,16p,16c,16c,c6,a,f,e,d.,16p,16a#,16a#,a,f,g,f.

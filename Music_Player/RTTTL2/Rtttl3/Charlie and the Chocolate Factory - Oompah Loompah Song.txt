@@ -1,0 +1,1 @@
+OompahLo:d=8,o=6,b=125:g,p,c,p,g,p,c,p,16g,32p,16f,32p,e,p,4f.,p,f,p,16e,32p,16d,32p,g,p,f,p,16e,32p,16d,32p,c,p,4d.,p,g,p,c,p,g,p,c,p,16g,32p,16f,32p,e,p,4f.,p,g,p,c,p,g,p,c,p,g,p,c,p,16g,32p,16a,32p,b,p,2c.7

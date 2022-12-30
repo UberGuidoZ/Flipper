@@ -1,0 +1,1 @@
+BellyDan:d=4,o=5,b=200:2c6,b,a,c6,c6,b,a,c6,8c6,8c6,b,a,c6,c6,b,a,8e,8a,8p,8a,a,a,e,8e,f.,e,8p,8a,8p,8a,8a,8a,8a,8a,g#,8a,b.,a,2c6,b,a,c6,c6,b,a,c6,8c6,8c6,b,a,c6,c6,b,a,8e,8a,8p,8a,a,a,e,8e,f.,e,8p,8a,8p,8a,8a,8a,8a,8a,g#,8a,b.,a

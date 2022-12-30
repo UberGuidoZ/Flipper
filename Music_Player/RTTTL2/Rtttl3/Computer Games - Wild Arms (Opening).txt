@@ -1,0 +1,1 @@
+WildArms:d=4,o=6,b=200:a5,d,e,2f.,g,2e,c,g5,2a5.,d,f,g,2a.,c7,2b,a,g,2a.,a,d7,e7,f7,2d7.,a,2e7.,d7,c7,d7,2a,f,2c7,d,e,2f,2g,2d,c,g5,2a5.

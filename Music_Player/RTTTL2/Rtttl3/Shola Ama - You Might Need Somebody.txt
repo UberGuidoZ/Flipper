@@ -1,0 +1,1 @@
+YouMight:d=16,o=6,b=100:a#,a#,8p,a#,p,g#,p,8g#.,f#,4p,a#,a#,8p,a#,p,g#,p,8g#.,8f#,p,8f.,d#,2c#,4p,p,c#,d#,p,c#,p,8d#,c#,2f#

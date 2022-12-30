@@ -1,0 +1,1 @@
+RightHer:d=8,o=5,b=125:a,b,c6,b,d6,c6,b,a,g,a,b,a,c6,b,a,g,a,b,c6,b,d6,c6,b,a,g,a,b,a,c6,b,a,b,a,4p,a,e,4p,b,a,4p,a

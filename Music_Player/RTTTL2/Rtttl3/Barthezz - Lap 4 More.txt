@@ -1,0 +1,1 @@
+Lap4More:d=4,o=5,b=225:g,8e,8g,8c6,8p,8c6,8g,8p,8g,8e,8e,8f,8f,8f#,8f#,g,8e,8g,8c6,8p,8c6,g,2p,g,8e,8g,8c6,8p,8c6,8g,8p,8g,8e,8e,8f,8f,8f#,8f#,g,8e,8g,8c6,8p,8c6,g

@@ -1,0 +1,1 @@
+Piccolo:d=4,o=6,b=127:d7,g7,g,g7,8d7,8e7,8d7,8b,g,d,8g,8a,8b,8c7,d7,g7,1d7,d7,g7,g,g7,8d7,8e7,8b,g,d,8f,8g,8a,8b,c7,f7,1c7

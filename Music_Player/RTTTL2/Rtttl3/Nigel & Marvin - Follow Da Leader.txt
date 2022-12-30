@@ -1,0 +1,1 @@
+FollowDa:d=8,o=5,b=125:f,16c,f,16c,f,c,4f,c,e,16c,e,16c,4f,f,f,c,f,16c,f,16c,f,c,f,f,c,e,16c,e,16c,f,p,f,f,c,f,16c,f,16c,f,c,16a#6,16c7,a#6,4a#6,4g#6,4f6,f,f,p,f.,f.,f,c,4f.,e,16p,c,16p,4f

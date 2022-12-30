@@ -1,0 +1,1 @@
+DoubleDr:d=4,o=6,b=140:8a5,8c,2d,8p,8f,8e.,16d,2e,8p,8g,8f.,16e,2f,8p,8a,8g,8f,g,8d,g.,32p,8g,8a,2a#,8p,8f,8f,8a#,2a,8p,8f,8f,8a,2g,8p,8g,8a#,2c.7

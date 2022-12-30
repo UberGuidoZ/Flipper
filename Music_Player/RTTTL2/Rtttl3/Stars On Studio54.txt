@@ -1,0 +1,1 @@
+StarsOnS:d=4,o=6,b=125:f,e,f,g,f,c,2f,8d_,8d_,d_,d,d,8c,1c,f,e,f,g,f,c,2f,8d_,8d_,d_,8d,8d,8d,c,1c,8c,8c,c,d,1d_,8d,8d_,8g,f,2f,g,a,g,f,g,2f,2d5,f,8e,2d,d

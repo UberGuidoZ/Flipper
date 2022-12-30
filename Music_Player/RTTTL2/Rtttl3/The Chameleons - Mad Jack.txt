@@ -1,0 +1,1 @@
+MadJack:d=4,o=5,b=140:8c,8c,8c,d,8d,8d,8f,8f,8f,e,f,g,8g,8g,8g,e,8e,8e,8f,8f,8f,d

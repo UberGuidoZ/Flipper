@@ -1,0 +1,1 @@
+Sonne:d=8,o=5,b=160:d,d,g#,g,g#,g,4d,d,d,g#,g,g#,4g.,d,d,g#,g,g#,g,4d,d,d,g#,g,g#,4g

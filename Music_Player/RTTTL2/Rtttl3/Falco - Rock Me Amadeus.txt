@@ -1,0 +1,1 @@
+RockMeAm:d=4,o=5,b=355:a#,a#,a#,2f6,a#,a#,2d#6,a#,a#,2c#6,a#,2c6,a#,a#,a#,2f6,a#,a#,2d#6,a#,a#,2c#6,a#,2c6,a#,a#,a#,2f6,a#,a#,2d#6,a#,a#,2c#6,a#,2c6,1a#,p,p,a#,a#,a#,a#,a#,a#,f6,1f6,2a#,a#,f6,f6,a#,a#,a#,a#,a#,a#,f6,1f6,2a#,a#,f6,f6,a#,a#,a#,a#,a#,a#,f6,1f6,2g#,2g#,g#,g#,g#,g#,8a#.

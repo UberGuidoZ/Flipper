@@ -1,0 +1,1 @@
+IfYouGot:d=16,o=5,b=100:8f,g,8g,e,e,p,8e,d,8e,d,e,p,e,e,d,8d,d,c,4p,p,c,e,p,8f,f,8f,d,e,p,8e,d,8e,p,e,e,d,8e,8d,4c,8p,c,e,p,8g,e,8g,e,e,p,8e,d,8e,d,e,p,e,e,d,8e,d,c,4p,p,c,e,p,8g,e,8g,e,e,p,8e,d,8e,d,d,p,d,d,d,8d,8c,4c

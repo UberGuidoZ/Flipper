@@ -1,0 +1,1 @@
+ThePatri:d=4,o=6,b=125:c,b5,g5,a#5,a5,f5,16d,16d#,16d,c,b5,8c,16f5,2f5,d5,c,16g5,8g,16f,2e,d5,2c,8e,16d,c,b5,2c

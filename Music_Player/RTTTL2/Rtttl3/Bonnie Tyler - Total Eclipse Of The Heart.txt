@@ -1,0 +1,1 @@
+TotalEcl:d=32,o=6,b=40:c#,e,e,c#,16e,e,c#,e,e,c#,8f#,b5,c#,c#,c#,d,c#,c#,b5,4a5,8p,a5,f#5,a5,f#5,16a5,a5,f#5,g#5,g#5,a5,16b5,a5,g#5,4a5

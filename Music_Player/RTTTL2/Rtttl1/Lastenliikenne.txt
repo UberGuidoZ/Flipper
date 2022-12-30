@@ -1,0 +1,1 @@
+Lastenliikenne:d=4,o=5,b=250:2f,f,8p,8f,2f,2f,2a#,a,8p,8g,2f,d.,8p,2g,f.,8d#,2d,2a#4,1c,1p,2p,f.,8e,2d#,d#,p,2p,g.,8f#,2f,f,p,2p,d.6,8a#,2a,2a,2g,2a,1a#

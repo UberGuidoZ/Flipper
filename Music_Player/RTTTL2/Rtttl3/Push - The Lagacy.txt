@@ -1,0 +1,1 @@
+TheLagac:d=4,o=6,b=180:b5,f_5,b5,f_5,b5,f_5,b5,f_5,b5,f_5,8b.5,b5,g5,b5,g5,b5,g5,b5,g5,b5,g5,8a.5,d,a5,d,a5,d,a5,d,a5,d,a5,8d.,c_,a5,c_,a5,c_,a5,c_,a5,c_,a5,16c_.,16d

@@ -1,0 +1,1 @@
+ClintEas:d=4,o=5,b=180:8c#6,d#6,d#6,a#,p,8f,8f#,g#,a#,8a,a#,d#6,a#,p,8g#,a#,a#,a#.,a#,a#,p,8f#,g#,8g#,g#.,g#,f#,d#,p,d#,c#,8d#,2d#

@@ -1,0 +1,1 @@
+LittleL:d=8,o=6,b=125:4g,4f,4d,d,d,4g,4f,d,d,2p,p,a5,a5,a5,a5,4a5,4p,16d,16c,e,16c,4p,16p,4g,4f,4d,d,d,4g,4f,4d,2p,p,a5,a5,a5,a5,4a5,p,16d,16d,16p,16d,16e,16e,4p.,4g,4f,4d,g,g,f,f,4d,c,d,2p,p,c,d,f,d,d,4p,16d,16d,16p,16d,16e,16e,4p,d,4g,4f,4d,d,d,4g,2f,2p,d,16c,d,16c,d,4d.,p,d,16c,d,16c,d,d,d,e,16c

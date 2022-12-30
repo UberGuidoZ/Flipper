@@ -1,0 +1,1 @@
+MyHero:d=16,o=6,b=40:32p,c,c,d.,c,8c.,a5,32c,4a5,c,c,d.,c,8c.,a5,32c,4a5,8e,8f,g.,32f,32d,32d,8c.,32c,32a,g,g,f,8c

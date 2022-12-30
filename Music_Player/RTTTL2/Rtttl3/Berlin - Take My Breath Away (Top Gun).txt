@@ -1,0 +1,1 @@
+TakeMyBr:d=8,o=6,b=100:g#,g#,g#,g#,4g#,d#,4g,g,g,g,4g,d#,f.,16d#,4c,4p,g#,g#,g#,g#,4g#,d#,4g,g,g,g,4g,g#,f.,16d#,4c,4p,a#,a#,a#,a#,4a#,f,4g#,g#,g#,g#,4g#,a#,g.,16f,4d#,4p,g#,g#,g#,g#,4g#,d#,4g,g,g,g,4g,g#,f,16d#,4c#.,4p,f,2d#,d#,f,g#,a#,2g#

@@ -1,0 +1,1 @@
+YoMama:d=4,o=5,b=225:d,p,d,8p,32a,32a#,32b,32c,32c#,16d,32a,32d6,32a,16d,p,d,f,p,f,p,f,c,p,c,32b,32a#,16a,8p,d,p,d,8p,32a,32a#,32b,32c,32c#,16d,32a,32d6,32a,16d,p,d,f,p,f,p,f,c

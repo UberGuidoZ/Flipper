@@ -1,0 +1,1 @@
+OverProt:d=16,o=6,b=125:4f,4g,8g#,g,8g,8f,4f.,8p,d#,8g,f,8f,8d#,8g,8f,8f,8d#,d#,8g#,g,8g,8f,4f.,p,d#,f,g,p,d#,f,g,p,d#,f,8g,g#,8g,8f.,4p,c,c,c,d#,8d,d,8d,8d#,4d#.,p,d#,d#,8f,f,8d#,8d,8c,8d#,p,c,c,c,d#,8d,d,8d,8d#,8d#

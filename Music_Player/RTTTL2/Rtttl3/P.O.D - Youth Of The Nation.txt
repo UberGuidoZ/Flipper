@@ -1,0 +1,1 @@
+YouthOfT:d=4,o=6,b=180:g5,a5,b5,g5,g5,a5,b5,g5,32p,b5,c,d,8p,b5,c,d,8p,g5,a5,b5,g5,g5,a5,b5,g5,32p,b5,c,d,8p,b5,c,d

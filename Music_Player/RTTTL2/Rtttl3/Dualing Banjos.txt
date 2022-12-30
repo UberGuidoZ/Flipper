@@ -1,0 +1,1 @@
+DualingB:d=4,o=6,b=127:8c_,8d,e,c_,d,b5,c_,d,b5,p,16c_7,16p,16d7,16p,8e7,8p,8c_7,8p,8d7,8p,8b,8p,8c_7,8p,8a,8p,b,p,a5,a5,b5,c_,a5,c_,b5,p,8a,8p,8a,8p,8b,8p,8c_7,8p,8a,8p,8c_7,8p,8b

@@ -1,0 +1,1 @@
+NakedGun:d=16,o=5,b=90:f#,32p,8c6,4c#6,8a,8f#,32p,f#,8c6,8c#6,f#,g#,a,f#,8b,32p,f#,8a#,4b,8g#,8f#,32p,e,8a#,8b,f#,g,g#,e,b

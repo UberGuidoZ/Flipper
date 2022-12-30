@@ -1,0 +1,1 @@
+ColonelB:d=4,o=6,b=127:8g,8e,p,8p,8e,8f,8g,e7,e7,2c7,8g,8e,2p,8e,8f,8e,g,g,2f,8f,8d,p,8p,8d,8e,8f,8g,8e,p,8p,8e,8f_,8e,8d,8g,8p,8e,8f_,8d,8p,8a,8g.,16f_,8g,8a,8g,8f,8e,8d,8c

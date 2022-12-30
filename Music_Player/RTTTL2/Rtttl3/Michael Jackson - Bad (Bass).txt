@@ -1,0 +1,1 @@
+Bad(Bass:d=4,o=5,b=140:a4,c,d,8d#,8e,8p,8a4,c,d,8d#,8e,a4,c,d,8d#,8e,8p,8a4,c,d,8d#,8e,a4,c,d,8d#,8e,8p,8a4,c,d,8d#,8e,a4,c,d,8d#,8e,8p,8a4,c,d,8d#,8e

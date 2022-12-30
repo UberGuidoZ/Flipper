@@ -1,0 +1,1 @@
+WakeMeUp:d=8,o=6,b=125:e,16g,p,16a,4p,16p,16e,g.,a,16e,p,16c,p,16c,d,16e,p,f.,16e,d,16c,e.,g,16e,p,16c,p,16c,e,16g,16p.,4a,p,16e,g.,a,16e,p,16c,p,16c,p,16c,p,16p,e.,c,d.,16e,d,d.,c.

@@ -1,0 +1,1 @@
+Kontrole:d=4,o=6,b=225:8e,8e,e,c_,8e,8d,8d,d,8d,d,c_,b5,d,e5,2p,8e5,e5,8e,d,c_,p,a5,p,8d,8d,8p,8f_,a,e,f_,2e

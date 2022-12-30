@@ -1,0 +1,1 @@
+LetMeBeW:d=4,o=6,b=125:8a,d,8a,2d,8a,d,8a,2d,8a,d,8a,d.,f_,g,f_,8e,8d,8e,8a,d,8a,2d,8a,d,8a,2d,8a,d,8a,d.,f_,g,f_,8e,8d,8e,1d

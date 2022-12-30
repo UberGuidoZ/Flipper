@@ -1,0 +1,1 @@
+3rdEdgeI:d=32,o=6,b=160:16f5,8p,f,16p,f,16p,f,16p,f5,16p,8d#7,8p,16c5,8p,c,16p,c,16p,c,16p,c,16p,c,16p,c5,8p,16b5,8p,16g5,8p,16d5,8p,8c7,f5,g,a#,p,c7,p,a#,p,g,p,c7,16p,d#7,p,f7,p,d#7,p,c7,p,f7,16p,a#7,p,c5,p,a#7,p,c5

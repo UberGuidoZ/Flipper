@@ -1,0 +1,1 @@
+HelloDol:d=4,o=6,b=200:e5,8p,f5,8p,f_5,8p,1g5,e5,c5,p,e5,8p,g5,8p,1a5,e5,c5,p,e.5,g5,8p,d.,c,8p,d.,c,8p,d.,c,8p,d.,8c,8p,1a5,8p,1b5,p,8p,2c.,8a5,p,2g.5,e5,g5,2p,8p,8c,8c,8c,c,8p,8a5,p,2g.5,e5,g5,p,e,8e,8e,p,e,8p,8e,8p,e.,d,8p,8f,p,8p,e,1c

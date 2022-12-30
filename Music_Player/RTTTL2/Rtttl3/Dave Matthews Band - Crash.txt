@@ -1,0 +1,1 @@
+Crash:d=2,o=5,b=355:32p,1f6,1f6,g6,f6,a#,1a#,1a,1c6,1f6,a,a,a,a,4a,a#,1c6,d6,g,g,g,4g,a,1a,f6,f6,f6,4f6,f6,f6,e6,e6,d6,d6,c6,1c6,1a,g,g,4g,g,1g,1g,g,f,f,f,1f

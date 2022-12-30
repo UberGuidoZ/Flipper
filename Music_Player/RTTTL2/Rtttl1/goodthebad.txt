@@ -1,0 +1,1 @@
+goodbad:d=16,o=5,b=125:a,d6,a,d6,2a,4f,4g,2d,4p,a,d6,a,d6,2a,4f,4g,2c6,4p,a,d6,a,d6,2a,4f,8e,8d,2c,4p,a,d6,a,d6,2a,4g,2d.

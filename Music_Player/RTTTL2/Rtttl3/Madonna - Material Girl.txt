@@ -1,0 +1,1 @@
+Material:d=8,o=6,b=140:4c,p,d,16p.,d,d,d,d,16p,16e,d,4e,16p.,c,4c,c,c,c,d,16p,16e,d,e,4p,g,4a,g,e,d,4c,p,d,16p.,d,d,d,d,16p,16e,d,4e,16p,d,4c,32p,c,c,c,32p,e,e,32p,d.,4c

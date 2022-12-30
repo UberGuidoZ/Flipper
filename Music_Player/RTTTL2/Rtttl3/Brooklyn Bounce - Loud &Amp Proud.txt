@@ -1,0 +1,1 @@
+Loud&Amp:d=16,o=5,b=125:c6,8p,c6,p,c6,b,p,c6,p,8p,c6,p,b,p,g,8p,g,p,g,f#,p,g,p,8p,a,p,8p,a#,8p,a#,p,a#,a,p,a#,p,8p,a,p,a#,p,f,8p,f,p,f,e,p,f

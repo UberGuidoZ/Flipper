@@ -1,0 +1,1 @@
+DonkeyKo:d=4,o=5,b=125:32p,8c,8c,a.,p,8f,8g,8f,d.,p,8d,8d,a#.,p,8g,8a,8g,e.,p,8e,8e,c.6,p,8a,8a#,8c6,d.6,p,8f,8g,a,f,8p,8e,8f,8g,d.

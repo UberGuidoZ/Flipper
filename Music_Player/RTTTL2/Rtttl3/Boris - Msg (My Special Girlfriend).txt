@@ -1,0 +1,1 @@
+Msg(MySp:d=8,o=5,b=100:c6,c6,c6,c6,c6,c6,c6,c6,b,b,a#,2b,g,b,b,b,b,b,b,b,g,a,a,g#,4a.,p,a,c6,c6,c6,c6,c6,c6,c6,c6,a,b,a#,2b,g,b,b,b,4b.,p,g#,g#,a,g#,4a.

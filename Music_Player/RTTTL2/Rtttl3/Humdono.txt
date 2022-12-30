@@ -1,0 +1,1 @@
+Humdono:d=8,o=5,b=250:d,16p,g,16p,g,16p,a,16p,a,16p,b,16p,b,16p,c6,16p,d6,16p,c6,16p,b,16p,a,16p,g,16p,f#,16p,a,16p,2g,16p,d,16p,g,16p,g,16p,a,16p,a,16p,b,16p,b,16p,c6,16p,d6,16p,c6,16p,b,16p,a,16p,g,16p,f#,16p,a,16p,4g,4p,d,16p,g,16p,g,16p,a,16p,16b,16p,16a,16p,f#,16p,g,16p,a,16p,b,16p,c6

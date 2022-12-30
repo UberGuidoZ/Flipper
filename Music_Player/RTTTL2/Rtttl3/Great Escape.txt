@@ -1,0 +1,1 @@
+GreatEsc:d=16,o=5,b=112:a#,8p,f,8p,a#,8p,8c#6,c6,a#,8p,f,8p,a#,8p,8c#6,c6,f,p,a#,4p,f,p,8d6,p,c#6,p,a#,p,8g#,2p,c6,p,c6,8p,a#,p,8a,p,a#,p,a,p,g#,p,f,p,d,4p,d,p,d#,p,e,p,f,p,a#,4p,f,p,8d6,p,c6,p,a#,p,g,2p,c6,p,c6,8p,a#,p,a,p,f,8p,c6,p,8a#

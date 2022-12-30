@@ -1,0 +1,1 @@
+ZootSuit:d=4,o=6,b=180:32p,8e5,g5,a5,d#,1d,d,8c,d,1c,2d#,d,8c,d,8c,g5,a5,1d#,d,8c,d,1c,32c,8e5,g#5,2a5

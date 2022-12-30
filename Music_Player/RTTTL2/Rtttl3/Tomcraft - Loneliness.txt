@@ -1,0 +1,1 @@
+Loneline:d=16,o=5,b=140:8c,c6,p,8c,c6,p,8c,c6,p,8c,8c6,8c,c6,p,8c,c6,p,8g#,g#6,p,8g,8g6,8d#,d#6,p,8f,f6,p,8f,f6,p,8f,8f6,8f,f6,p,8f,f6,p,8f,f6,p,8f,8f6,8g,g6,p,8g#,g#6,p,8g#,g#6,p,8g#,8g#6,8g#,g#6,p,8g#,g#6,p,8c#,c#6,p,8c#,8c#6,8c#,c#6,p,8c#,c#6,p,8c,c6,p,8c,8c6,8c,c6,p,8c,c6,p,8d#,d#6,p,8f,f6,p,8c,8p,4p,2p

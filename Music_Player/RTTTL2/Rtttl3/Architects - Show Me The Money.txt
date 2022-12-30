@@ -1,0 +1,1 @@
+ShowMeTh:d=8,o=6,b=125:a#5,a#5,a#5,c#,d#,c#,f,4f.,f,4f.,f,f,a#5,a#5,a#5,c#,d#,c#,f,4f.,f,4f.,f,f,a#5,a#5,a#5,c#,d#,c#,f,4f.,f,4f.,f,4f.,f,4f.,f,4f.,f,4f.,f,f,a#5,a#5,a#5,c#,d#,c#,f,4f.

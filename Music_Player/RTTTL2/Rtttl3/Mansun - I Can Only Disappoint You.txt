@@ -1,0 +1,1 @@
+ICanOnly:d=8,o=7,b=120:a6,16c#.,p,16a#6.,c#,p,d,p,4c#,p,16a#6.,c#,p,d,p,4c#,p,16a#6.,c#,p,d,p,4c#,p,16a#6.,c#,p,d,p,c#,p,p,a6,4d,a6,16p.,a6,d,4c#.,32a6.,d,p,16c#.,a6,4p,4d,4p.,d

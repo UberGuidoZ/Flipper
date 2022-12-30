@@ -1,0 +1,1 @@
+HalfwayA:d=32,o=7,b=50:f,4a#.,f,f,16f,4d#,f,4a#.,f,f,16f

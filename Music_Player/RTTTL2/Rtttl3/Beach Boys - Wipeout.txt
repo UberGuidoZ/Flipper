@@ -1,0 +1,1 @@
+Wipeout:d=8,o=6,b=180:g5,a#5,b5,c,c,c,a#5,g5,g5,a#5,b5,c,c,c,a#5,g5,c,d#,e,f,f,f,d#,c,c,d#,e,f,f,f,d#,c,g5,a#5,b5,c,c,c,a#5,g5,g5,a#5,b5,c,c,c,a#5,g5,c,e,f,g,g,g,f,d,d,g,g,f,f,f,d#,c,g5,a#5,b5,c,c,c,a#5,g5,g5,c,a#5,g5,g5,g5,4g5

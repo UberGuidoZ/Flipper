@@ -1,0 +1,1 @@
+OhBoy:d=8,o=6,b=160:b5,4b5,4p,b,g#,p,b5,4b5,b.,16p,b,g#,p,b5,4b5,d#.,16p,b,g#,p,b5,4b5,4b5,b,g#,4p,4b5,p,b5,b,g#,p,b5,c#7,b,4p,c#7,b,4p,c#7,b,4p,c#7,b

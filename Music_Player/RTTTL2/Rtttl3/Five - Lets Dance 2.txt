@@ -1,0 +1,1 @@
+LetsDanc:d=4,o=5,b=160:a,a,8a.,a,g,8e.,a,a,8a.,a,g,8e.,a,a,8a.,a,g,8g.,g,16a.,2b,8p,e.,2g,16e,a,8g.,8e.,16d,a,8g.,8e.,16d,e.,e.,2g,16e,a,8g.,8e.,16d,a,8g.,8a.,16b,b.,e.,2g,16e,a,8g.,8e.,16d,a,8g.,8e.,16d,e.,e.,8d.6,8a.,8a.,8a.,8a.,8g.,8b.,a,16g,e

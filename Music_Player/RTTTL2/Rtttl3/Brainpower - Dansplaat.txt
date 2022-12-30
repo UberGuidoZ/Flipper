@@ -1,0 +1,1 @@
+Dansplaa:d=16,o=5,b=180:8g,8p,p,8g,4p,8p,a#.,a#.,a#.,a#.,a.,a.,f.,f.,d.,8p,p,8d,4p,8p,8d,8p,p,8d,4p,8p,8g,8p,p,8g,8p,8g.,a#.,a#.,a#.,a#.,a.,a.,f.,f.,d.,8p,p,8d,4p,8p,8d6,8p,p,4d6

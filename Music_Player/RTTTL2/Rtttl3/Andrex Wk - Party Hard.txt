@@ -1,0 +1,1 @@
+PartyHar:d=8,o=5,b=200:e,e,e,e,e,p,e,p,a,a,a,p,g#,g#,g#,g#,f#,f#,f#,f#,f#,p,f#,p,b,b,b,b,b,d#6,p,4e6,e,e,e,e,p,e,p,a,a,a,p,g#,g#,g#,g#,f#,f#,f#,f#,f#,p,f#,p,b,b,b,b,b,d#6,p,4e6,e,e,e,e,p,e

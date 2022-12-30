@@ -1,0 +1,1 @@
+BrokenWi:d=8,o=7,b=112:4e,4p,a6,c,e,4e,4p,a6,c,e,e,16d,4d,d,16c,d,e,16d,16c,4a6,4p,a6,c,e,4e,4p,a6,c,e,4e,4p,16a6,c,e,e,16d,d,c,d,16c,d,e,16d,16c,a6

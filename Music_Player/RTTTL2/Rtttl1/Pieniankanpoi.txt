@@ -1,0 +1,1 @@
+Pieniankanpoi:d=4,o=5,b=160:8a4,8a4,8d,8d,8f#,8f#,2d,8f#,8f#,8e,8d,c#,8e,8a4,8c#,8c#,8e,8e,2c#,8e,8e,8d,8c#,d,8f#,8d,g,8b,8b,g,8b,8g,a,f#,f#,8p,8f#,8e,8e,8e,8e,8p,8e,8f#,8g#,8a,a4,a4,8b4,8c#,8d,8d,8f#,8f#,2d,8f#,8f#,8e,8d,c#,e,a,p,c#,p,d,p

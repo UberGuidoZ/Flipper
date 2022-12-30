@@ -1,0 +1,1 @@
+StoleV2:d=4,o=5,b=160:g,a#,a#,a#,a#,d,d,8d,8d,d,d#,d#,d#,2p,d#,f,g,a#,a#,a#,a#,d,d,d,d,d#,d#,f,g,f,2p,g,a#,a#,a#,a#,d,d,8d,8d,d,d#,d#,d#,2p,d#,f,g,a#,a#,a#,a#,d,d,d,d,d#,d#,f,g,f,2p,g,a#,a#,a#,a#,d,d,8d,8d,d,d#,d#,d#,2p,d#,f,g,a#,a#,a#,a#,d,d,d,d,d#,d#,f,g,f,2p

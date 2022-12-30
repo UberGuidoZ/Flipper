@@ -1,0 +1,1 @@
+sesamestreet:d=4,o=5,b=160:2c6,a,2f,8f,8g,a,p,2c6,a,1f,p,2c6,a,2f,8f,g,a,2b,c6,2d6,p,8c6,8d6,d#6,d6,c6,a,g,8g,8a,a#,a,8g,8c,8c,1c

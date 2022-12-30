@@ -1,0 +1,1 @@
+PowderPu:d=8,o=5,b=200:c,4p,c,p,d#,g,a#,4a.,g,2p,c6,4p,c6,p,d#6,g6,a#6,4a#.6,c7,4p.,c6,c,4p,c,p,d#,g,a#,2c.6,4p,1c,4d#.,4c.,4g,1f#,4p,g,c6

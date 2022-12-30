@@ -1,0 +1,1 @@
+Spain:d=16,o=5,b=125:e6,p,e6,8p,8e6,b6,c7,b6,g6,p,g6,a6,a6,e6,p,e6,8p,8e6,b6,c7,b6,g6,p,g6,a6,a6,e6,p,8p,8e6,a6,g6,f#6,d6,p,d6,b,d6,e6,p,e6,8p,8e6,a6,g6,f#6,d6,p,d6

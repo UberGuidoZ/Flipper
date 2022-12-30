@@ -1,0 +1,1 @@
+Lightnin:d=16,o=6,b=40:32p,32e,e.,e,f,e,c,8d,32e,32d,c,d,e,f,e,32d,32c,8b.5,32f,32f,f,e,32d,32c,4c,32c,c.,4c,32c,32c,c,32b5,c,32d,4d

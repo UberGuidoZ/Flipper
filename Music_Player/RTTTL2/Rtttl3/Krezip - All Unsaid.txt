@@ -1,0 +1,1 @@
+AllUnsai:d=16,o=5,b=125:8d,8d,8p,8d,8f,8f,8p,8f,8a,8a,8a,4g,p,8f,8p,8d,8d,8p,8d,8f,8f,8p,8f,8a,8a,8a,4g,p,8f,8p,8d,8d,8p,8d,8f,8f,8p,8f,8a,8a,8a,4g,p,8f,8p

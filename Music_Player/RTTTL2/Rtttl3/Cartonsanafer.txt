@@ -1,0 +1,1 @@
+Cartonsa:d=8,o=6,b=200:a,b,p,a,f#,p,a#,4g#.,4p,g,a,p,g,f,p,g,4f#.,4p,f#,g#,p,f#,d#,p,f#,4e.,4p,f,f#,p,e,c#,p,e,4d#.,a5,p,a5,c,p,c,c#,p,c#,d,2p,a,b,a#5,a#,f#,a5,a#,4g.,4p,g,a#,a5,g,e,a5,g#,4f#.,4p,f#,g,a5,f#,d#,a#5,f#,4f.,4p,f,f#,a5,f,c#,a5,e,4d.

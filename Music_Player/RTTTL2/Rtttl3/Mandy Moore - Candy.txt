@@ -1,0 +1,1 @@
+Candy:d=16,o=5,b=50:32p,8g,8g,f,d#,d#,d#,c#,d#,d#,c#,f,d#,d#,4g.,8g,g.,32g,f,8g,g,g#,g#,f#,f,d#,f,d#,a#,8g

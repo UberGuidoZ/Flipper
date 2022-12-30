@@ -1,0 +1,1 @@
+Beatnuts:d=4,o=6,b=180:d,a,g,8f,8e,8d,e,8e,d,2p,d,a5,e,8a5,f,8e,d,p,a5,d,8a5,e,a.5,8f,8e,d,2p,d,a5,e,8a5,f,8e,d,p,a5,d,8a5,e,a.5,8f,8e,d,p,d,a,g,8f,8e,8d,e,8e,d

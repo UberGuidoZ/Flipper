@@ -1,0 +1,1 @@
+Sunglass:d=8,o=7,b=125:a6,a6,f,f,e,e,d,d,b6,b6,f,f,e,e,d,d,b6,b6,f,f,e,e,d,d,a#6,a#6,f,f,e,e,d,d,c,c,f,f,e,e,d,d,a6,a6,f,f,e,e,d,d

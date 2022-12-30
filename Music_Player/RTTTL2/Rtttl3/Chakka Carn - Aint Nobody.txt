@@ -1,0 +1,1 @@
+AintNobo:d=32,o=7,b=100:d#5,p,d#6,p,d#5,p,d#6,p,f#,16p.,f#,16p.,f#,p,d#,p,a#6,p,g#,16p.,g#,p,f,p,c#,p,d#5,p,d#6,p,d#5,16p.,f#,16p.,f#,16p.,f#,p,d#,p,a#6,p,g#,16p.,g#,p,f,p,c#,p,d#5,p,d#6,p,d#5,p,d#6,p,f#,16p.,f#,16p.,f#,p,d#,p,a#6,p,g#,16p.,g#,p,f,p,c#,p,d#5,p,d#6,p,d#5,16p.,f#,16p.,f#,16p.,f#,p,d#,p,a#6,p,g#,16p.,g#,p,f,p,c#

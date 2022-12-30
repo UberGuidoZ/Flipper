@@ -1,0 +1,1 @@
+MerryChr:d=4,o=6,b=200:8c,8a_5,c,8c,d_.,c,8c5,8p,2p,2g,2p,a_5,8a_5,8c,8p,8c,8p,d_,c.,a_5,2p,c5,p,2p,c,8a5,g.5,p,c5,2a_5,a_5,a_5,8c,c.,8f5,2d_.5,8p,p,8f5,8p,2p,a_5,a_5,8c,8c,8p,8c,8p,8c,d_.,2c,8p,c5,p,2p,c5,p,2p,8c5,2p,8c,8c,8c,d,8d,d.,d.,8c,p,d_,d,f5,p,2p,8a_5,8c,8p,8c,8p,8c,8p,8c,d_,8c,2c,8p,8c5,8p,p,2p,8g5,8p,p,2p,g5,p,2p,c5

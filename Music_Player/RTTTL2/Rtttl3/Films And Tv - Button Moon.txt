@@ -1,0 +1,1 @@
+ButtonMo:d=4,o=6,b=200:2g5,e.,8d,8c,8d,2e,p,2g5,8e,d.,c,d,2e,8e,d.,2c,2g5,8e,c.,2d,2g5,g5,p,e.,8d,8c,8d,2e,p,g5,g5,8e,d.,c,d,2e,8e,d.,2c,2g5,8e,c.,2d,2c

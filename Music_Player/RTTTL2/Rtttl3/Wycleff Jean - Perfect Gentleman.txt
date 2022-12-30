@@ -1,0 +1,1 @@
+PerfectG:d=16,o=5,b=140:8e6,8c,8g,8c6,8e,8c,8g,8c6,8d,8b,8g,8b,8d6,8b,8g,8b,8c6,8a,8f,8a,8c6,8a,8f,8a,8c6,8a,8f,8a,8d6,8b,8g,8b,8e6,8c,8g,8c6,8e,8c,8g,8c6,8d,8b,8g,8b,8d6,8b,8g,8b,8c6

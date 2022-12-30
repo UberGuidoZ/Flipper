@@ -1,0 +1,1 @@
+LoverBoy:d=16,o=6,b=100:g,g,g,a,f,8g.,e,8e,8e.,8a.,g,8e.,d,e,g,4e.,f,f,f,f,8g,8f.,e,8e,f,8e,8g.,f,8e.,d,e,g,4e.,g,g,g,g,a,f,8g.,e,8e,8e.,8a.,g,8e.,d,e,g,4e

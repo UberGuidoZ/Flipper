@@ -1,0 +1,1 @@
+OopsIDid:d=8,o=5,b=100:32p,g#,f#,e,d#,c#,4g#,4c#,c,c#,d#,4c#,4p,h4,h4,d#,f#,4e,4p,h4,f#,g#,f#,4e,4p,g#,f#,e,c#,c,4g#,4c#,c,c#,d#,16e,16d#,4c#,p,16h4,16h4,h4,d#,f#,4a,4g#,4f#,e,p,e,4g#,4g#,f#,e,4c#

@@ -1,0 +1,1 @@
+StarskyA:d=8,o=5,b=200:c,d#,4p,d#,f,4p,f,g#,4p,g#,a#,p,4c.6,4d#6,4d#6,4f6,16c6,16a#,16g#,4f,g#,a#,p,1g#,2p,4d#,d#,4f,2p,c,d#,4p,d#,f,4p,f,g#,4p,g#,a#,p,4c.6,4d#6,4d#6,4f6,16c6,16a#,16g#,4f,g#,a#,p,1g#,2p,4d#,d#,4f,2p,c6,a#,g,4c6,4p,4c6,g,a#,p,a,4a#.,c6,a#,g,4c,4p,4e,f,f#,g,2a#,c6,a#,g,4c6,4p,4c6,g,a#,p,a,4a#.,c6,a#,g,4d#,e

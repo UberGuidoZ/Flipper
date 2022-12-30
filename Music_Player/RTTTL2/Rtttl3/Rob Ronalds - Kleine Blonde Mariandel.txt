@@ -1,0 +1,1 @@
+KleineBl:d=4,o=5,b=140:f,g,8a,8f,8a,8f,a,2f,f,a,d6,8c6,8g,8c6,8g,c6,2g,c6,a#,a,g.,8c,g.,8c,g,a#,g,a,1f,2p,f,g,8a,8f,8a,8f,a,2f,f,a,d6,8c6,8g,8c6,8g,c6,2g,c6,a#,a,g.,8c,g.,8c,g,a#,g,a,1f,2p,f,g,8a,8f,8a,8f,a,2f,f,a,d6,8c6,8g,8c6,8g,c6,2g,c6,a#,a,g.,8c,g.,8c,g,a#,g,a,1f

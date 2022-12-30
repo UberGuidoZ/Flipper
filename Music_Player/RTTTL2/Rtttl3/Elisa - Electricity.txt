@@ -1,0 +1,1 @@
+Electric:d=16,o=7,b=80:c,p,c,p,c,p,8c.,8d,p,4d,8p,e.,32p,d,8e,4d,8p.,c,p,c,p,8c.,8d,p,4d,8p,e.,32p,d,8e,4d,8p.,c,p,c,p,c,p,8c.,8d,p,4d,8p,e.,32p,d,8e,4d,p,c,c,8e,d,c,d,e,4c

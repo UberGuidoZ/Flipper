@@ -1,0 +1,1 @@
+TheRealL:d=8,o=6,b=160:a5,a5,a5,a5,a5,a5,a5,a5,c,c,c,c,c,c,c,c,d,d,d,d,d,d,d,d,f,f,f,f,f,f,f,f,2a5,2c,2d,2f.,a5,a5,a5,a5,a5,a5,a5,a5,c,c,c,c,c,c,c,c,d,d,d,d,d,d,d,d,f,f,f,f,f,f,f,f,2a5,2c,2d,2f.

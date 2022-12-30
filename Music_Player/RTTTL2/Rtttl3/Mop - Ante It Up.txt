@@ -1,0 +1,1 @@
+AnteItUp:d=16,o=6,b=100:f5,f5,f5,f5,f5,8p,f5,d#,p,d#,p,d#,8p.,d,d,d,d,d,8p,d,c#,p,c#,p,c#,c#

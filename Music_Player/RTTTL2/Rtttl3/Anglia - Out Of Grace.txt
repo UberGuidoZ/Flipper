@@ -1,0 +1,1 @@
+OutOfGra:d=16,o=5,b=140:f#,f#,p,f#,p,f#,f#,f#,f,f,f,f,a#,c6,c6,c#6,c#6,p,c#6,p,c#6,c#6,c#6,d#6,d#6,d#6,d#6,c#6,c#6,c6,c6,f#,f#,p,f#,p,f#,f#,f#,f,f,f,f,f,f,f

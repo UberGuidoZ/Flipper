@@ -1,0 +1,1 @@
+TheWayIA:d=16,o=5,b=80:a,c6,8e6,a,c6,8e6,a,c6,8f6,b,d6,8f6,g#,b,8d6,g#,b,8d6,g#,b,8e6,a,c6,8e6,e,a,8c6,e,a,8c6,e,a,8d6,g#,b,8d6,e,g#,8b,e,g#,8b,e,g#,8a,e,g#,8a

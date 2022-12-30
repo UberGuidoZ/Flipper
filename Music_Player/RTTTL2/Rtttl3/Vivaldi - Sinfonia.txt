@@ -1,0 +1,1 @@
+Sinfonia:d=8,o=6,b=160:a5,e,c7,e,d7,a5,c7,4d,g5,e,b,e,c7,e,b,4a,f5,d,a,d,b,f5,a,g#,e5,g#,e5,a,e5,b,4e5

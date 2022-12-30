@@ -1,0 +1,1 @@
+CaptainP:d=16,o=5,b=140:4d,g,g,g,4g,g,g,g,8g,d.6,8b,g.,8b,d.6,8g6,d.6,8b,g.,d,d,d,4d,d,d,d,8d,a.,8f#,d.,8f#,a.,8d6,a.,8f#,d.,g,g,g,4g,g,g,g,8g,d.6,8b,g.,8b,d.6,4g6,8g6,g.6,8f#6,a.6,8g6,f#.6,8e6,g.6,8f#6,e.6,4d6,4f#6,4d6

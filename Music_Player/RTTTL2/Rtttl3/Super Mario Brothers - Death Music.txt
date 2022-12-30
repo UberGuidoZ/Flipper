@@ -1,0 +1,1 @@
+DeathMus:d=16,o=5,b=70:b,f6,p,f6,f6,f.6,e.6,d6,c6,g,p,e,c

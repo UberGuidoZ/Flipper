@@ -1,0 +1,1 @@
+DasGlock:d=16,o=6,b=40:c,c,f,f,g,8g.,g,g,d#,d#,f,8f.,c,c,f,f,g,8g.,g,g,d#,d#,f,8f.,c,c,f,f,g,8g.,g,g,d#,d#,f,8f.,c,c,f,f,g,8g.,g,g,d#,d#,f,32f

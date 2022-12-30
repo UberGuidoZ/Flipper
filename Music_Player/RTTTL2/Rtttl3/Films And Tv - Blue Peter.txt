@@ -1,0 +1,1 @@
+BluePete:d=8,o=5,b=225:f6,e6,4f6,4f,4f,c6,a#,a,c6,f6,e6,f6,a6,g6,f6,4g6,4g,4g,g,f,e,g,4c6,4c6,d6,e6,f6,e6,d6,c6,d6,c6,a#,a,a#,a,g,f,f,e,d,c,d,f,e,g,f,a,g,a#,4a,4f,4f

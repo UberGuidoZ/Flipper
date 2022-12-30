@@ -1,0 +1,1 @@
+Drifting:d=8,o=6,b=140:d,a,g,a,f,a,e,a,d,a,g,a,a#,g,f,e,d,g7,c7,d7,a#,d7,a,d7,g,d7,f,d7,g,d7,a,d7,d,d7,c7,d7,a#,d7,a,d7,f7,e7,d7,c7,a#,a,g,f

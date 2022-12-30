@@ -1,0 +1,1 @@
+ComeOutA:d=32,o=5,b=40:p,c,c#,e,f,g,f,e,c#,c,c,c,c#,16c,16p,c,c#,e,f,g,f,e,c#,16c,16p

@@ -1,0 +1,1 @@
+Spitting:d=4,o=6,b=160:8g,8a,8a,8a,a,2g,8g,g,g,1f_,p,8d,8a,8a,8a,8a,a,2g,8g,g,d,1a5,p,8g,8a,8a,8a,a,2g,8g,g,g,1f_,p,8d,8a,8a,8a,8a,a,2g,8g,g,d,a.5,2f_.

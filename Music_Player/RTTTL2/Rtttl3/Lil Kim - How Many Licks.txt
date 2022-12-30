@@ -1,0 +1,1 @@
+HowManyL:d=16,o=5,b=160:4g,8g,8g,8g,8p,8g,8g,8g,8p,8g,8g,8g,8p,8g,8g,8g,8g,8g,8g,4p,4g,4f,4p,4g,4p,4g,8g,8g,8g,8p,8g,8g,8g,8p,8g,8g,8g,8p,8g,8g,8g,8g,8g,8g,4p,4g,4f,4p,4g

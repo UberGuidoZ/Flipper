@@ -1,0 +1,1 @@
+GreenOni:b=100:8g,g,p,2p,4p,g,p,g,8a#.,8c6,a#,8g,g,4p,2p,p,c,p,c,8f.,8g,f,8g,g,2p,4p,p,8d6,f6,c6,a#,g,8g,f,8g,g,1p,8p,g,8a,g,8a.6,8a.6,f6,d6,p,8g.6,8g.6,8g.6,8g6,p,8g6,f6,8g6,g6

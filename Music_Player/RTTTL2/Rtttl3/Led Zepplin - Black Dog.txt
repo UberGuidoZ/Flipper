@@ -1,0 +1,1 @@
+BlackDog:d=16,o=5,b=80:e,g,g#,a,e,8c6,8a,d6,e6,32c6,32d6,c6,a,a,8c6,8a,g,a,a,d,e,c,d,8a4,4a4

@@ -1,0 +1,1 @@
+LifeIsAM:d=4,o=6,b=140:8c,8c,8c,c,b5,8b5,8d,8d,8d,d,c,8c,d,8d,d,c,8e,8d,8c,e,8c,8d,c,8c,8c,8c,c,b5,8d,8d,8d,e,8c,c,8c,d,8d,d,c,8e,8d,8c,e,8c,8d,c

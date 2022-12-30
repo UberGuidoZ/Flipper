@@ -1,0 +1,1 @@
+TakeMeTo:d=8,o=7,b=125:f#,a,b,d5,d5,d5,d5,d5,d5,f#,4e,f#,a4,16a4,16e,f#,a,f#,e,e

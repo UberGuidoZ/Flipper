@@ -1,0 +1,1 @@
+WalkOfLi:d=4,o=5,b=160:g#.,g#.,p,8p,8f#,8g#,b,8g#,f#,e.,e.,1p,8f#,8g#,b.,b.,p,8p,8f#,8g#,b,8g#,8f#,e.,e.,p,8p,8f#,8g#,b,8g#,8f#,16e

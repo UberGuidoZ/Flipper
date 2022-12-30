@@ -1,0 +1,1 @@
+M:d=4,o=5,b=255:c.6,8b,a,p,a,g,g,g,g,g,g,e,e,8g,a,8p,c.6,8b,a,p,a,g,g,g,g,g,g,e,e,8g,a,p,c.6,8b,a,p,a,g,g,g,g,g,g,2c6,1a.

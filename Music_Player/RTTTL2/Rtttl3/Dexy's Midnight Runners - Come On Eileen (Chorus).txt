@@ -1,0 +1,1 @@
+ComeOnEi:d=8,o=5,b=140:1p,d6,a,b,4d6,p,d6,d6,c#6,a,b,4c#6,a,b,4e6,2f#6,a,a,4g6,g6,f#6,2e6,p,d6,a,b,4d6,4d6,p,c#6,a,b,4c#6,a,b,4e6,2f#6,a,a,4g.6,f#6,2e6

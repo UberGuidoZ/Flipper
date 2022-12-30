@@ -1,0 +1,1 @@
+Terrible:d=4,o=5,b=355:32p,d,d,2c,2d,c,2f,f,2d,1c,d,d,2c,2d,c,2f,f,2d,g,g,g,2a.

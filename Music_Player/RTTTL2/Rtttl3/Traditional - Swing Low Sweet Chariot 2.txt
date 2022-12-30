@@ -1,0 +1,1 @@
+SwingLow:d=8,o=5,b=112:4b,2g,4b,4g.,g,e,4d.,g,g,g,g,b,b,4d6,2d.,e6,d6,2b,4d6,4g.,g,e,4d.,g,g,g,g,b,b,4a,2g.,4b,4d6,g,e,g,4g,g,g,g,4g,e,4d.,g,g,g,g,b,b,4d6,2d.,4d6,e6,d6,4b,4b,4g,g,g,g,g,e,4d.,g,g,g,g,b,b,4a,2g.

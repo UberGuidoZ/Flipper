@@ -1,0 +1,1 @@
+TheyThin:d=8,o=6,b=285:a5,4c,a5,2c,p,a,a4,p,a5,4c,a5,4d#,4e.,4a4,p,a5,4c,a5,2c,p,a,a4,p,a5,4c,a5,4g,4f#.,4a4,p,a5,4c,a5,2c,p,f5,f5,p,a5,4c,a5,4e,4g.,4g5,p,e,4d,2e.,c5,c5,p,c,4d,c,4d.,4c,4e,p,a5,4c,a5,2c,p,a,a4,p,a5,4c,a5,4d#,4e.,4a4,p,a5,4c,a5,2c,p,a,a4,p,a5,4c,a5,4g,4f#.,4a4,p,a5,4c,a5,2c,p,f5,f5,p,a5

@@ -1,0 +1,1 @@
+Resurect:d=8,o=7,b=160:g,p,d6,p,g6,a,a#,a,g,p,d6,p,g6,a,a#,a,g,a,a#,a,g,a,a#,a,g,a,a#,a,g,p,d,p,f,p,a5,p,d6,p,a5,p,g,p,d6,p,g6,a,a#,a,g,p,d6,p,g6,a,a#,a,g,a,a#,a,g

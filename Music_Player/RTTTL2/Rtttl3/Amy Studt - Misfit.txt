@@ -1,0 +1,1 @@
+Misfit:d=4,o=5,b=160:2c6,2f,2c6,f,p,8d6,8c6,8c6,8a,8a,8g,8g,8f,g,a,g,f,8p,8f,8g,8g,8g,8f,8g,8f,g,a,2p,8p,8g,8g,8f,a,f,2c,2p,2c6,2f,2c6,f,p,8d6,8c6,8c6,8a,8a,8g,8g,8f,g,a,g,f,8p,8f,8g,8g,8g,8f,8g,8f,g,a,2p,8p,8g,8g,8f,a,f,2c,2p,2f

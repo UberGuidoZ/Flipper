@@ -1,0 +1,1 @@
+Bittersw:d=4,o=6,b=127:p,e5,g5,e5,f5,d5,2f5,a_5,f5,2a_5,a5,f5,2a5,p,e5,g5,e5,f5,d5,2f5,a_5,f5,2a_5,a5,f5,2a5

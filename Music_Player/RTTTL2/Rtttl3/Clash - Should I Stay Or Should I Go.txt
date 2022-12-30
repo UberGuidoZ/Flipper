@@ -1,0 +1,1 @@
+ShouldIS:d=8,o=5,b=125:32p,g,g,g,g#,g#,g#,g#,g.,2p,32a#,4p,32a#,4p,32a#,2p,g,g,g,g#,g#,g#,g#,g.,2p,16a#.,16c#6,2p,g#,g#,g#,f#,f#,f#,f#,g#.,1p,g,g,g,g#,g#,g#,g#,g.,1p,a#,a#,a#,a#,a#,a#,a#,g#.,1p,g,g,g,g#,g#,g#,g#,g.

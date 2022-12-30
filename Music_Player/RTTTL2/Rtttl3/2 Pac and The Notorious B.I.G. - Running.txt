@@ -1,0 +1,1 @@
+Running:d=4,o=5,b=250:2c.,1p.,c,p,d,f6,8d#6,d6,8c6,d6,8c6,a#,8g,a#,8g,f,8d#,f,8d#,d,8a#4,2c.,1p.,c,p,d,f6,8d#6,d6,8c6,d6,8c6,a#,8g,a#,8g,f,8d#,f,8d#,d,8a#4,2c.,1p.,c,p,d,f6,8d#6,d6,8c6,d6,8c6,a#,8g,a#,8g,f,8d#,f,8d#,d,8a#4,2c

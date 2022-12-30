@@ -1,0 +1,1 @@
+ICantLet:d=8,o=6,b=125:4f#,4f#,f#,16f,p.,4c#,16p,16c#,p,c#,f#.,16f#,p,f#,g#.,16g#,p,g#,b.,16b,p,b,b.,16b,p,a#,d#.,16d#,p,d#,d#.,16d#,p,d#,b.,16b,p,b,b.,16b,p,a#,g#,4f#,f#,4f#,4c#,b.,16b,p,b,b.,16b,p,a#,f#.,16f#,p,f#

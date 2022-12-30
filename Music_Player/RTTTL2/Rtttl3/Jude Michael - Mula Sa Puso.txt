@@ -1,0 +1,1 @@
+MulaSaPu:d=4,o=5,b=80:8g4,8g4,8g4,8c,8c,d,8c,8g4,8g4,8g.4,16d,8d,d,p,8d,8e,8f,8f,8e,8e,8d,8d,8c,e,d.,p,8g4,8g4,8g4,8c,8c,8c,p,8g4,8g4,8g4,8d,8d,8d,p,8d,8e,8f,8f,8e,8e,d,8c,8e,2d,p,8e,8f,8g,8g,8g,8g,p,8g.,16g,g,8f,8f,e,8d,8e,8f.,16f,8f,8f,p,8f,8f,8e,8e,8d,c,8p,8g#4,g4,8c,d,e,8p,8g4,f,8e,8d,c,8b4

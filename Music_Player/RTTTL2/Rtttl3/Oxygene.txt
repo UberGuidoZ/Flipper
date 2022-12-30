@@ -1,0 +1,1 @@
+Oxygene:d=4,o=6,b=100:8g_5,b5,e,c_,8b5,c_,1g_,g_,8e,d_,1b,8a,g_,1e,8g_5,b5,e,c_,8b5,c_,1g_,g_,8e,d_,1b,8a,g_,1e,8b,c_,2e,8g_,a,2c_,8f_,c_,1g_,8b,c_,2e,8g_,a,2c_,8f_,c_,1g_,8g_5,b5,e,c_

@@ -1,0 +1,1 @@
+RudolphT:d=8,o=6,b=160:g.,a,p,16g,e,p,c7,4p,2g,16a,g.,16a,g,p,c7,p,1b,f.,g,p,16f,d,p,b,p,a,p,2g,4p,g.,16a,g.,16a,g,p,d7,p,1c

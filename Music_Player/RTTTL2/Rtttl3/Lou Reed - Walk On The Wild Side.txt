@@ -1,0 +1,1 @@
+WalkOnTh:d=16,o=5,b=100:8p,g,8p,g,g,8p,g,g,8p,g,p,g,f,p,d#,8p,d#,d#,8p,d#,d#,8p,d#,p,d#,f,p,g,8p,g,g,8p,g,g,8p,g,p,g,f,p,d#,8p,d#,d#,8p,d#,d#,8p,d#,p,d#,f,p

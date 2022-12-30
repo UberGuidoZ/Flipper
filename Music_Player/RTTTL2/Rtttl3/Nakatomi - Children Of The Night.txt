@@ -1,0 +1,1 @@
+Children:d=4,o=6,b=180:d7,d7,a,8a,8a,8d7,d7,a,8a,8b,8a,b,b,f#,8f#,8f#,8b,b,f#,f#,8f#,g,g,b,g,8f#,f#,a,f#,8f#,e,e,a,8a,8a,8b,a,b,8a,8b,2c#7

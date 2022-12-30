@@ -1,0 +1,1 @@
+FromRuss:d=4,o=5,b=125:b4,e,2g,e,2c.6,b,2a#.,b,2f#.,b4,e,2g,e,2d.6,c#6,2c.6,b,2d#.6,b,e6,2b,g#,2e.,d6,2d.6,c6,2a.,f#,2c.6,b,b4,2d#,f#,1e,d#,e,d6,2c.6,d6,2c6,a,c6,2b,a#,c6,2b,g,1a,p,b,8a.,8g,8a.,1b

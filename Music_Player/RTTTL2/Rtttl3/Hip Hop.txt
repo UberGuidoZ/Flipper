@@ -1,0 +1,1 @@
+HipHop:d=8,o=5,b=112:d,f,a,2p,2c#,2p,d,f,a,2p,2a#,2p,d,f,a,2p,d,2c#,2p,d,f,a,2p,d,2a#

@@ -1,0 +1,1 @@
+LetMeBlo:d=16,o=5,b=90:32p,e,p,g,p,a,p,b,p,a,p,g,p,8e,2p,8e,2p,8e,8p,e,p,g,p,a,p,b,p,a,p,g,p,8e,2p,8e,2p,8e

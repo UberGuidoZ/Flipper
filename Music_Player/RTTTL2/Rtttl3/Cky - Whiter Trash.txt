@@ -1,0 +1,1 @@
+WhiterTr:d=8,o=4,b=100:16c5,16b,a,g,f,4e,4d,16c6,16b,a,g,f,4e,4d,16c6,16b,a,g,f,4e,4d,16c6,16b,a,g,f,4e,4d,16c6,16b,a,g,f,4e,4d,16c6,16b,a,g,f,4e,4d,c6,g6,f6,4e6,f6,4d6,c6,g6,f6,4e6,f6,4d6,c5,g5,f5,4e5,f5,4d5,c5,g5,f5,4e5,f5,4d5

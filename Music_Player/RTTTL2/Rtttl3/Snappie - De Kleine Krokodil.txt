@@ -1,0 +1,1 @@
+DeKleine:d=4,o=6,b=125:c,c,8a5,g.5,8f5,8g5,8f5,8g5,g5,p,c,c,8a5,g.5,8f5,8g5,8f5,8g5,c5,p,c,c,8a5,g.5,8f5,8g5,8f5,8g5,g5,p,c,c,8a5,g.5,8f5,8g5,8f5,8g5,c5,p,c,c,8a5,g.5,8f5,8g5,8f5,8g5,g5,p,c,c,8a5,g.5,8f5,8g5,8f5,8g5,c5,p,c,c,8a5,g.5,8f5,8g5,8f5,8g5,g5,p,c,c,8a5,g.5,8f5,8g5,8f5,8g5,c5

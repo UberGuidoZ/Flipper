@@ -1,0 +1,1 @@
+Rivfader:d=4,o=6,b=112:e,8b,8e,8b,8e,8a,8p,8a,8g,8f_,8g,8d,8p,8d,8e,8f_,8g,2f_,e,e,8b,8e,8b,8e,8a,8p,8a,8g,8f_,8g,8d,8p,8d,8e,8f_,8g,2e

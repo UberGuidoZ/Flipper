@@ -1,0 +1,1 @@
+ATownCal:d=4,o=6,b=195:8d.,16d.,c#,8c#.,c#.,8c#.,c#,d,c#,16c#.,8c#.,16c#.,d,d,8d.,e,2d,d,c#,8c#.,16c#.,c#,8c.,c#,d,c#,16a5.,b5,d,8d.,d,e,2d,2e,d,d,8d.,e,e.,d.,16d.,8e.,e.,e,8e.,d,2c#,8c#.,e,e,e,d,e,e,e,16e.,e,e,8d.,e,e,2f#,16b5.,d,d,8d.,2b5.

@@ -1,0 +1,1 @@
+BabyBaby:d=8,o=5,b=125:g,32p,g,p,g,32p,a,32p,a,p,g,32p,b,32p,b,p,g,32p,a,32p,a,32p,b,32p,b

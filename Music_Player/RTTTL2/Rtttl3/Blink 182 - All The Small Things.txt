@@ -1,0 +1,1 @@
+AllTheSm:d=16,o=5,b=160:2a,2f,2p,4p,2e,2f,1p,2a#,2f,2p,4p,2e,2f,1p,4a,4a,4a,4p,2a,4p,2a,4a#,4a,8p,p,2g,4p,8p,4g,4g,2g,4f,8p,p,4f,2a#,4a#,2a,2f

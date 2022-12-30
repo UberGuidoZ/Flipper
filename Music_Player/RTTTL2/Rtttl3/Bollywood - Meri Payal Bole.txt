@@ -1,0 +1,1 @@
+MeriPaya:d=4,o=6,b=180:g5,a5,g5,a5,8p,c,8c,8c,8b5,a5,32p,c,8c,8c,8b5,8b5,8a5,g5,a5,b5,a5,32p,e5,8d5,e5,e5,8e5,g5,8e5,g5,g5,8g5,a5,8g5,a5,a5,8a5,2c,b5

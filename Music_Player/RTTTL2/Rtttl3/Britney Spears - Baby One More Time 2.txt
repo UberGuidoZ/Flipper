@@ -1,0 +1,1 @@
+BabyOneM:d=32,o=5,b=50:d,p,d,p,d,p,8d,16p,d,p,16c#,16d,8e,8a,16g,16f,16p,f,p,f,p,16p,16f.,16p,f,p,16g,16a,16a#,16a,16p,16d6,16c#6,16d6,16p,d,p,d,p,d,p,8d,16p,d,p,16c#,16d,8e,8a,16g,16f,16p,f,p,f,p,f,p,8f,16p,f,p,16g,16a,16a#,16a,16p,16d6,c#6,p,d6,16p,p,p,d,p,d,p,8d,16p,d,p,16c#,16d,8e,8a,16g,16f,16p,f,p,f,p,f,p,8f,16p,f,p

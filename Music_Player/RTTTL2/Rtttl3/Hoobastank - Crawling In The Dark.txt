@@ -1,0 +1,1 @@
+Crawling:d=4,o=6,b=200:a.,f#.,8e,f#,g#.,2p,a.,f#.,8e,f#,g#.,2f#,p,c#,d,e,8d,c#,b5,c#.,p,c#,d,e,8d,c#,2a5,8p,a.,f#.,8e,f#,g#.,2p,a.,f#.,8e,f#,g#.,2f#,p,c#,d,e,8d,c#,b5,c#.,p,c#,d,e,8d,c#,2a5

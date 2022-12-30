@@ -1,0 +1,1 @@
+MadeForL:d=4,o=6,b=140:a5,b5,c,8d,e,8e,d,c,b5,a5,b5,c,8d,e,8e,2d,p,a5,b5,c,8d,e,8e,d,c,b5,a5,b5,c,8d,e,8e,2d,p,8e,8d,8e,d,8c,8d,8e,8g,e.,2p,8e,8d,8e,d,8c,8d,8e,8g,e.,p,8e,e,e.,8d,d.,p,8d,e,d.,8c,c

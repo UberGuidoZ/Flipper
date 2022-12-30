@@ -1,0 +1,1 @@
+Accident:d=8,o=5,b=140:a,a,p,a#,4a#,p,4a,a#,a,g,4f,4g,a,a,p,a#,4a#,a,4c6,a#,a,a#,4g,4a,a,a,p,a#,4a#,a,a#,p,a#,a#,a,4g,4g,2f,p,g,a,2g.,a,g,1f,1p,p,a,a,p,a#,4a#,p,4a,a#,a,g,4f,4g,a,a,p,a#,4a#,a,4c6,a#,a,a#,4g,4a,a,a,p,a#,4a#,a,a#,p,a#,a#,a,4g,4g,2f,p,g,a,2g.,a,g,2f.

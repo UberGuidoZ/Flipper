@@ -1,0 +1,1 @@
+TalesOfT:d=4,o=6,b=225:2g.,2f.,2g.,f5,a5,c,f,2f,e,2e,d,2d,g5,a#5,d,2f.,2e.,2d.,f5,a5,c,f,2f,e,2e,d,2d,2c.,c,2c,2g.,2f.,f5,a5,c,2f.,2e.,d,2d,g5,a#5,d,f,2f,e,2e,d,2d,f5,a5,c,f,2f,2e.,d,2d,2c.,c,2c,2g.,f,2f,f5,a5,c,f,2f,2e.,d,2d,g5,a#5,d,2f.,e,2e,2d.,f5,a5,c,1d,1e,2f.,2g.,2f.

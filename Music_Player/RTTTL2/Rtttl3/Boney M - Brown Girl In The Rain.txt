@@ -1,0 +1,1 @@
+BrownGir:d=8,o=6,b=112:4e,4e,e,16d,16c,4p,e.,16d,e,16f,16g,4p,c,c,4d,4d,d,16c,16b5,4p,4g.,a,g,f,e,d,4e,4e,e,16d,16c,4p,e.,16d,e,16f,16g,4p,g,g,c7,p,g,g,e,e,d,d,c,2p,4p,p

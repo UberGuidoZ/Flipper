@@ -1,0 +1,1 @@
+Kinder:d=4,o=5,b=160:g.,8a,b,c6,d6,e6,d6,a6,f#6,a6,d6,b,g.,8a,b,c6,d6,e6,1d.6,p,g.,8a,b,c6,d6,e6,d6,g6,f#6,g6,d6,b,g.,8a,b,a,g,f#,1g

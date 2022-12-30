@@ -1,0 +1,1 @@
+ChotiCho:d=4,o=7,b=140:f6,a#6,c,c#,c,c#,p,f6,a#6,c,c#,c,c#,p,f6,8a#6,c,8c,c#,c,c#,p,f6,a#6,c,c#,c,2c#,p,f6,a#6,c,c#,c,c#,p,f6,8a#6,c,8c,c#,c,c#,p,f6,a#6,c,c#,c,2c#

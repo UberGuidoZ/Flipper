@@ -1,0 +1,1 @@
+InGameMu:d=32,o=6,b=35:16d,b5,g5,16g,f#,e,16d,g,b5,a5,8d,d,d,d,d,b5,a5,16g5,g,g,g,a,g,f#,e,d,16b5,b5,16g,16b5,d,8a.5,b5,b5,c,d,e,f#,8e.,c,c,d,16e,f#,g,4f#

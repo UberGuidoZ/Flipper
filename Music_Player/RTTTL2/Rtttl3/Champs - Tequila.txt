@@ -1,0 +1,1 @@
+Tequila:d=16,o=5,b=100:c#,f#,p,f#,f#,g#,e,p,f#,p,c#,4p,c#,f#,p,f#,f#,g#,e,p,f#,4p,c#,f#,p,f#,f#,g#,e,p,f#,p,c#,4p,c#,f#,p,f#,f#,g#,e,p,f#,4p,c#,f#,g#,2a,f#,4p,c#,f#,g#,2a,f#,4p,g#,p,g#,p,g#,g#,p,c#6

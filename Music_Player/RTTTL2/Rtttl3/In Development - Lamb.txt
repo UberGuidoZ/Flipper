@@ -1,0 +1,1 @@
+Lamb:d=32,o=5,b=300:16e.2,p.,d2,p,c.2,p.,d.2,p.,e.2,p.,c,p,p.,e.2,p.,d.2,p.,c.2,p.,d.2,p.,c,p,p.,d.2,p.,c.2,p.,h.,p.,c.2,p.,c,p,p.,c,p,p.,c,p,2p.,8p.

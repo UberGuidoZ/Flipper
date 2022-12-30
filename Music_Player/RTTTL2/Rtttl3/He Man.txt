@@ -1,0 +1,1 @@
+HeMan:d=8,o=6,b=160:g,g,g,4g,4e,g,a,g,f,4g,4c,g,a,g,f,4g,4e,c,2d.,4p,4e.,4a5,4c,e,f#,e,d,4e,4a5,e,f#,e,d,4e,4a5,g5,2a5

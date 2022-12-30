@@ -1,0 +1,1 @@
+WildWorl:d=32,o=5,b=112:4e6,8d6,16p,16b,c6,p,d6,p,d6,p,c6,p,4c6,4a,4p,c6,p,c6,p,16c.6,p,8a,16g,16f.,p,16f,16g,16a,16f,2g,4p,4e6,16d.6,p,16b.,p,c6,p,d6,p,d6,p,c6,p,4c6,4a.,4p,b,p,b,p,b,p,b,p,16a.,p,a,p,8g,8p,g,p,g,p,8e,8p,e,p,d,p,4c

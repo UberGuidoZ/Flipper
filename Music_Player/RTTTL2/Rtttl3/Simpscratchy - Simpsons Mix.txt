@@ -1,0 +1,1 @@
+Simpsons:d=4,o=6,b=160:c.,e,f_,8a,g.,e,c,8a5,8f_5,8f_5,8f_5,2g5,8p,8p,8f_5,8f_5,8f_5,a_.5,8c,8c,8c,c,8c,8a5,p,8c,8a,p,8c,8a5,8c,8a5,8c,8a,p,8p,8c,8d,8e,8p,8e,8f,8g,p,8d,8c,d,8f,a_

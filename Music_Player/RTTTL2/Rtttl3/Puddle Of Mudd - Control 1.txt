@@ -1,0 +1,1 @@
+Control1:d=32,o=5,b=40:c6,c6,c6,16d6,c6,16c6,c6,a,8g.,g,g,f,16g,f,16g,16a,8f.,d,d,c,16d,d,16f,g,16a,g,8g,f,f,d,16f,d,16f,d,8f.

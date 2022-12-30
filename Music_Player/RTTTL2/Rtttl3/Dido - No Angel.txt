@@ -1,0 +1,1 @@
+NoAngel:d=16,o=5,b=50:b4,4f#,p,a,p,d,p,4c#,8p,a4,b4,d,e,d,e,d,p,e,f#,e,32e,32p,8e,32d,e,p,e,4f#,a,p,d,p,4c#,8p,a4,b4,d,e,d,e,d,p,e,f#,e,32e,32p,8e.,p,b4,4f#,p,a,p,d,p,4c#,8p,a4,b4,d,e,d,e,d,p,e,f#,e,32e,32p,e.,d,e,p,e,4f#,a,p,d,p,4c#,8p,a4,b4,d,e,d,e,d,p,e,f#,e,32e,32p,8e.,p,b4,4f#,p,a,p,d,p,4c#,8p,a4

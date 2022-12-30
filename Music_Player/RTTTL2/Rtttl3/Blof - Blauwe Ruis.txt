@@ -1,0 +1,1 @@
+BlauweRu:d=16,o=5,b=140:8g#,4p,32p,8g#,8p,8g,1p,2p,p,8f.,4p,p,8g#,4p,p,4g,p,8f,4p,32p,4d#,4p,8f.,4p,32p,4f,1p,1p,4p,8p,p,8g#,4p,p,8g#.,32p,8g.,1p,4p,8p,p,32p,4f,p,32p,8g,32p,4g#,8p,p,32p,8g,8p,p,8f,4p,32p,8d#.,4p,32p,4f,8p,p,32p,4f

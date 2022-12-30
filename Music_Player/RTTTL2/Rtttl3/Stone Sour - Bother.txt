@@ -1,0 +1,1 @@
+Bother:d=16,o=5,b=100:4c6,4a,4d,8d,4e,4d.,2p,4c6,4a,4d,8d,2e,8p,2p,4c6,4a,4d,8d,4e,4d.,2p,8e,8d,8c,4e.,8p,8e,8g,4g,4g,4g,8p,4c6,4a,4d,8d,4e,4d.,2p,4c6,4a,4d,8d,2e,8p,2p,4c6,4a,4d,8d,4e,4d.,2p,8e,8d,8c,4e.,8p,8e,8g,4g,4g,4g,8p

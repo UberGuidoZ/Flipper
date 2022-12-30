@@ -1,0 +1,1 @@
+Starman:d=8,o=6,b=100:g5,a5,2f5,2f,e,d,c,d,4c,p,d,e,d,c,d,c,d,c,d,e,d,c,d,4c,g5,a5,2f5,2f,e,d,c,d,4c,p,d,e,d,c,d,c,d,c,d,e,d,e,f,4g

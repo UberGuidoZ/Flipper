@@ -1,0 +1,1 @@
+ThroughT:d=4,o=6,b=180:8a5,8b5,c.,a.5,8a5,8b5,c,e,d,c,b.5,8a5,2g5,8p,f.,f.,8f,f,e,2e,8c,e,8e,2g,8e,f,8e,2d,8d,e,d,c,8b5,1a5

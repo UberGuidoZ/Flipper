@@ -1,0 +1,1 @@
+OFortuna:d=8,o=6,b=70:d5,f,f,e,e,p,d5,f,f,e,e,p,d5,f,f,e,4f,4g,f,4e.,16d.5,32f,a,a,g,g,p,16d.5,32f,a,a,g,g,p,16d.5,32f,a,a,g,4f,4g,f,4e.

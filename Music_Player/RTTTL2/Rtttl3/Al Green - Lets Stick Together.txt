@@ -1,0 +1,1 @@
+LetsStic:d=16,o=6,b=125:4a,4p,a,p,8a,8a#,8c7,p,4e7,8c7,8c7,2p,f,p,8a,8a#,8c7,p,4d7,8a#,8a#,2p,f,p,8a#,p,4a#,p,8a#,p,2c#7,p,2a#,p,2f,8p

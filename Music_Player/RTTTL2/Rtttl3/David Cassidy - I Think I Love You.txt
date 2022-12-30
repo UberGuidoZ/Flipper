@@ -1,0 +1,1 @@
+IThinkIL:d=8,o=5,b=100:a#,b,4a#,32p,a#,b,16a#,16a#,16a,16a,16a#,16a#,b,4a#,32p,16a#,b,a#,a,a#,b,4a#,32p,a#,b,a#,c#6,b,a#,g#,g#,g,4g#,p,g#,a#,g#,g#,g,g#,g#,a#,g#,g#,g,g,f#,4g,p,g,g,f,f,f,4f,f,g,f,d#,d#,c,d#,c6,c6,c6,c6,2a#,p

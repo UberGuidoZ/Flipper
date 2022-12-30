@@ -1,0 +1,1 @@
+WithoutY:d=4,o=6,b=112:8b5,d,e,8e,e,8d,d,b5,b5,d,e,e,e,8d,d,2b5,8b5,8d,d,c,c,b5,b5,a5,a5,g5,2b5,b5,b5,a5,g5,8b5,b5,e,e,g,g,e,2e,8e,g,d,8e,2b5,8d,8b5,8a5,8g5,8a5,8b5

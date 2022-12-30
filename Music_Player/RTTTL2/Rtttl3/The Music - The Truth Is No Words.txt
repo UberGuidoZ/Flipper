@@ -1,0 +1,1 @@
+TheTruth:d=16,o=6,b=112:a,p,a,p,a,p,8b,4p,b,p,8a,4p.,a,8p,a,8p,a,8p,a,8p,a,p,a,p,4b,8p,b,p,8a.,p,f#,8p.,d.7,p.,c#7,8p,8b.,p,a,p,a,p,f#,p,4b,8p,b,p,8a.,p,32f#,8p.,32p,a,8p,a,8p,a,8p,a,8p,a,p,a,p,4b,8p,b.,32p,8a.,p,f#,4p,p,e,d,e,p,f#,p,e,b5,p,8d

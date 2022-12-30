@@ -1,0 +1,1 @@
+Radio1-C:d=4,o=6,b=180:e,c,e,c,e,c,8g5,8a5,b5,c,2p,8c,8g5,8g5,8g5,8g5,8a5,b5,c,2p,f,8c,8c,8c,8d,e,f,2p,g,g,f,f,d,8p,8g,8g,8f,8e,8e,e,c,e,c,e,c,e,c,e,c,8g5,8a5,b5,c

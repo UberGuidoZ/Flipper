@@ -1,0 +1,1 @@
+StoneByS:d=8,o=5,b=100:g,g,g,g,g,g,g,a,4g,4f,g,g,g,a,4g,4e,4g,16a,2g.,g,g,g,g,g,g,g,a,4g,4f,g,g,g,a,4g,4e,4g,16a,2g.

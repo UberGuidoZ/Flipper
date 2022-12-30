@@ -1,0 +1,1 @@
+Daydream:d=16,o=5,b=90:4f,4f,f,f,f,f,g#,g#,g#,8d.,4d,d,d,c#,c#,c#,c#,d#,8d#.,4f,8p,f,f,f,f,f,f,g#,f,a#,8b.,4a#,a#,a#,b,b,b,b,a#,8a#.,4f,4f,f,f,f,f,g#,g#,g#,8d.,4d,d,d,c#,c#,c#,c#,d#,8d#.,4f

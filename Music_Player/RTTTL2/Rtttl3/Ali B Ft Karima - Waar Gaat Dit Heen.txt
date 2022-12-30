@@ -1,0 +1,1 @@
+WaarGaat:d=4,o=5,b=180:e,g,2c6,b,p,c6,c6,b,a,b,c6,b,p,c6,b,e,g,2c6,b,p,b,b,a,a,a,b,b,p,2p,e,g,2c6,b,p,c6,c6,b,a,b,c6,b,p,c6,b,e,g,2c6,b,p,b,b,a,a,a,b,b,p,2p,e,g,2c6,b,p,c6,c6,b,a,b,c6,b,p,c6,b,e,g,2c6,b,p,b,b,a,a,a,b,b,p,2p

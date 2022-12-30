@@ -1,0 +1,1 @@
+Flipper:d=4,o=5,b=200:g,e,g,1c6,e,g,f,e,1f.,f,d,f,1b,a,a,g,f#,1g.,g,e,g,2c.6,2e.6,e6,d6,a,1d6,c6,2b.,2b.,b,a,b,1c.6,c,e,g,c6,2a,c6,2a,c6,b,a,2g.,2e.,g,f,e,1f,f,a,g,f#,1g.,c,e,g,c6,2a,c6,a,b,c6,b,a,2g.,2e.6,g,f,e,2f.,2d.6,d6,c6,b,1c.6

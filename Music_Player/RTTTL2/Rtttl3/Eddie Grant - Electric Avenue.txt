@@ -1,0 +1,1 @@
+Electric:d=4,o=7,b=250:c#,b6,a6,f#6,p,d,p,c#,p,a6,a6,p,a6,a6,a6,2f#6,p,a6,a6,a6,b6,a6,c#,a6,1p,c#,p,c#,b6,a6,f#6,p,d,p,c#,p,a6,a6,p,a6,a6,a6,2f#6,p,a6,a6,a6,b6,a6,c#,a6,1p,e,c#,d,e,c#,d,2e,1c#,p,c#,c#,c#,c#,2d,e,c#,b6,1a6,1p,e,c#,d,e,c#,d,2e,1c#,p,c#,c#,c#,c#,2d,e,c#,b6,2a6

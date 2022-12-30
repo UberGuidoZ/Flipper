@@ -1,0 +1,1 @@
+EstoyAqu:d=16,o=5,b=125:1d,4d,4e,4f#,4g,1a,4a,4g,4f#,4e,1g,4g,4f#,4e,4d,1f#,2e.,4d,4e,2d.,4d,4e,4f#,4g,4a,4b,4a.,8p,4a,4g,4f#,4e,1g,4g,4f#,4e,4d,1f#,1e,1e,4g,p,4g.,4g,p,2e,4d,2d,2f#,2e,8c#,8b,1a

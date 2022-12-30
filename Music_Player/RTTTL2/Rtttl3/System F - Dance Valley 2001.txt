@@ -1,0 +1,1 @@
+DanceVal:d=16,o=5,b=125:8d7,p,8a7,p,8c7,p,d7,p,8e7,p,a7,d6,d7,p,8c7,p,8d7,p,8a7,p,8d7,8c7,p,d7,p,8e7,p,8a7,e7,p,8d7,p,8c7,p,8d7,p,8a7,p,8c7,p,d7,8e7,p,8a7,8d7,p,8c7,p,8d7,p,8a7,p,8d7,p,8c7,p,d7

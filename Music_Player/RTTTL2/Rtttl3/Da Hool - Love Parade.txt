@@ -1,0 +1,1 @@
+LovePara:d=16,o=5,b=70:c6,c,8c,8a#,8a#,4a,8a,4a,a,a,8a#,8a#,4c6,8c,8c,d,d,8d,8c,8a#,4a,8a,4a,a,a#,8c6,8a#,2a,c6,c,8c,8a#,8a#,4a,8a,4a,a,a,8a#,8a#,4c6,8c,8c,d,d,8d,8c,8a#,4a,8a

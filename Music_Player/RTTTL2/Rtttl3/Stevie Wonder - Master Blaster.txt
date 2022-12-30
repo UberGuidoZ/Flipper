@@ -1,0 +1,1 @@
+MasterBl:d=8,o=6,b=140:16f,16g,g#,a#,c7,p,c7,a#,f.,4p,16p,f,e,d#,d,c#.,4p.,16p,c,c,p,f.,4p,16p,f,e,d#,d,c#.,4p.,16p,c,16c,p.,16f,16c7,32p,32c7,16p,16g#,16g#,32p,32g#,16p,16f,16f,32p,32f,16p,16c7,16p.,16c7,32p,a#.,16g,2p.,f.,4p,16p,f,e,d#,d,c#,2p,c,c,p,f.,4p,16p,f,e,d#,d,c#

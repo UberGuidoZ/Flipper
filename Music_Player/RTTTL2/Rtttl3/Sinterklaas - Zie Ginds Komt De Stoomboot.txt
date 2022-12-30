@@ -1,0 +1,1 @@
+ZieGinds:d=4,o=5,b=125:c,f,f,a,g,g,a#,e,e,g,2f,c,f,f,a,g,g,a#,e,e,g,2f,c6,g,g,c6,a,a,c6,a#,a#,a,2g,c,f,8f,8g,8a,8a#,c6,a,f,a#,g,e,2f

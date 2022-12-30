@@ -1,0 +1,1 @@
+5Colours:d=4,o=6,b=200:g5,8b5,d.,g,f#,8e,d.,8b5,d.,8e,d.,8e,d.,8e,2d,8p,g5,8b5,d.,g,f#,8e,d.,8b5,d.,8e,d.,8e,d.,8e,2d,8p,c,c,8d,e.,1d,d,d,8e,f#.,2e.,b5,c,b5,a5,g5,8c,b.5,8a5,g.5,1g5

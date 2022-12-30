@@ -1,0 +1,1 @@
+DrivingH:d=16,o=5,b=100:e,p,8c#.6,p,b,p,4b,8p,a,8p,b,8p,p,2f#,1p,2p,8p,p,e,p,8f#,8p,8a,8p,8c#.6,p,b,p,4b,8p,8a,8p,8b,8p,2f#.,1p,2p,4p,8e,8p,8c#.6,p,b,p,4b,8p,8a,8p,8b,8p,2c#6,2e.,1p,8f#.,p,8f#,8p,8a.,p,8a,8b,8p,f#,8p,p,2f#.

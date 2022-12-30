@@ -1,0 +1,1 @@
+Goin'Cra:d=4,o=6,b=180:c,g5,c,g5,8c,8d,8d_,8f,8g.,p,g,8g,8f,d_,8g.,16p,8f,8g,8f,8d_,d,a_5,32p,c,g5,c,g5,8c,8d,8d_,8f,8g.,p,g,8g,8f,d_,8g.,16p,8f,8g,8f,8d_,d,a_5

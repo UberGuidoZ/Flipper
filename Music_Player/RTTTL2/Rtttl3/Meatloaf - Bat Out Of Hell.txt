@@ -1,0 +1,1 @@
+BatOutOf:d=8,o=5,b=180:g,g,c6,c6,c6,4c6,c6,c6,4a.,a,a,a,4g.,1g,2p,p,g,g,g,4c6,c6,4c6,c6,c6,c6,b,b,b,4b,b,4b,4a.,4g.,2f

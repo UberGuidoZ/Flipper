@@ -1,0 +1,1 @@
+InSpiteO:d=4,o=5,b=180:c.6,b.,p,1e,c6,b,2e,c6,b,e,p,c.6,b.,p,1e,p,d,e,g,f,g,2f,c.6,b.,p,1e,c6,b,2e,c6,b,2e,c.6,b.,p,1a,p,g,f,8e,8f,8p,8g,8p,8f,8p,8f,1e

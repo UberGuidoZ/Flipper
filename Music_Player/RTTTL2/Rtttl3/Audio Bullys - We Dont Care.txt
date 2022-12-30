@@ -1,0 +1,1 @@
+WeDontCa:d=4,o=5,b=125:c6,b,a,p,c6,b,a,8p,16b,16b,c6,b,a,8p,8c6,c6,b,a,p,c6,b,a,p,c6,b,a,8p,16b,16b,c6,b,a,8p,8c6,c6,b,a,p,c6,b,a,p,c6,b,a,8p,16b,16b,c6,b,a,8p,8c6,c6,b,a,p,c6,b,a,p,c6,b,a,8p,16b,16b,c6,b,a,8p,8c6,c6,b,a

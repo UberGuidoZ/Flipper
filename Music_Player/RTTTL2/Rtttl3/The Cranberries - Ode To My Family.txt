@@ -1,0 +1,1 @@
+OdeToMyF:d=4,o=5,b=90:f#,8e,f#,f#.,f#,8e,f#,f#.,f#,8e,f#,f#.,f#,8g,d,d.,g,8e,f#,f#.,f#,8e,f#,f#.,f#,8e,f#,f#.,f#,8g,d,d.,p

@@ -1,0 +1,1 @@
+Proximus:d=16,o=5,b=50:d#7,d#,d#,d#,8d#,8d#,8c#,8c#,d#,d#,d#,d#,8d#,8d#,8f#,f,f,f,f,8f,8f,8f,8c#,8c#,4c#,d#,2d#,g,g,g,g,8g,8g,8a#,8a#,f,f,f,f,8f,8f,8f,8f,8g#,8g,d#,d#,d#,d#,8d#

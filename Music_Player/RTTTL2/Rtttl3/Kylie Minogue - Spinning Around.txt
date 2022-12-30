@@ -1,0 +1,1 @@
+Spinning:d=8,o=6,b=112:2d,d,e,f,2e,d,e,f,g,2f,d,f,d,4a,g,g,f,g,f,g,d,2d,d,e,f,2e,d,e,f,g,2f.,d,f,d,4a,g,g,f,g,f,g,d

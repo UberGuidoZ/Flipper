@@ -1,0 +1,1 @@
+Ignition:d=16,o=5,b=112:8g#,g#,g#,p,g#,8p,8g#,g#,c6,p,8f.,8g#,g#,g#,p,8g#,g#,8g#,g#,c6,p,8f.,8g#,g#,g#,p,g#,g#,g#,8g#,g#,c6,p,8f.,8g#,g#,g#,p,8g#,g#,8g#,g#,c6,p,8f,p,8g#,g#,g#,p,g#,8p,8g#,g#,c6,p,8f.,8g#,g#,g#,p,8g#,g#,8g#,g#,c6,p,8f.,8g#,g#,g#,p,g#,g#,g#,8g#,g#,c6,p,8f.,8g#,g#,g#,p,8g#,g#,8g#,g#,c6,p,8f,p

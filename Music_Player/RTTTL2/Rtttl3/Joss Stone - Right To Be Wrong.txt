@@ -1,0 +1,1 @@
+RightToB:d=4,o=5,b=180:f,a,c6,c6,2d6,2p,8f,8f,a,c6,f6,8c6,d6,2c6,8p,f,a,c6,c6,2c6,a.,8f,8f,8g,g#,8g,g#,8f,8p,2f.,8p,f,a,c6,d6,2d6,2c6,8f,8f,a,c6,f6,8c6,d6,2c6,8p,8a#,8a#,c6,8a#,c6,8a#,c.6,2a,8p,8f,8g,g#,8f,g#,8f,2f.,8p,8d,8d,f,p,f,8a,8a,8p,2g.,2p,1p,8c,8c,8c,a,p,8g,8d,2f

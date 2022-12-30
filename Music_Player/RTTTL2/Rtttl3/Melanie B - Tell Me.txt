@@ -1,0 +1,1 @@
+TellMe:d=8,o=5,b=112:4g,2g,4g,p,g,f,d#,f,d#,2f,4f,p,g,f,d#,f,d#,2f,4f,p,g,f,d#,2c,4c,p,a#,2a#,4a#,p,4g,2g,4g,p,g,f,d#,4f,2f,4f,p,g,f,d#,4f,2f,16f,g,f,d#,2c,16c,f,4d#

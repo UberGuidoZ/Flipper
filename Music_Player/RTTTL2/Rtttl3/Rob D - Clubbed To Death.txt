@@ -1,0 +1,1 @@
+ClubbedT:d=8,o=5,b=125:p,d,g,d,a#,d,g,d,c6,d,f#,d,a,d,f#,d,p,d,g,d,d6,d,a#,d,a#,c,d#,c,a,d#,c6,d#,p,d,g,d,a#,g,d6,a#,g6,g,a#,g,d#6,a#,g6,a#,g6,g,b,g,d6,b,f6,b,f6,g,c6,f6,d#6,g,c6,d#6,d6,d,g,d,a#,d,g,d,a#,c,d#,a#,a,c,d,f#,g,g4,a#4,d,g,d,a#,g,d6,a#,g6,d6,a#6,g6,d7,d7

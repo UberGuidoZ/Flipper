@@ -1,0 +1,1 @@
+StickWit:d=8,o=5,b=160:g#,g#,p,4g#,g#,4g#,4c6,4a#,4g#,4p,d#,d#,p,d#,p,d#,4g#,4d#,4c#,4c,4p,g#,g#,p,g#,g#,g#,4g#,4c6,4a#.,c6,4p,d#,d#,p,d#,p,d#,2g#.,2p,g#,g#,p,g#,p,g#,4g#,4c6,4a#.,c6,4p,d#,d#,p,d#,p,d#,4g#,g#,a#,4c6,a#,g#,4p,g#,g#,p,g#,g#,g#,4g#,4c6,4a#,c6,4g#.,d#,d#,p,d#,p,d#,4a#,2g#.

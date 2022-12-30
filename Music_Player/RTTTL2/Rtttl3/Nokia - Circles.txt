@@ -1,0 +1,1 @@
+Circles:d=16,o=5,b=180:a6,a,c6,e6,8a6,8a,8c7,8b6,8a6,8f.6,f,a,c6,8f6,8f,8a6,8g6,8f6,8g.6,g,b,d6,8g6,8g,8c7,8b6,8a6,4a6,2p,f,a,c6,f,f6,p,g,b,d6,g,g6,2p

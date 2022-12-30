@@ -1,0 +1,1 @@
+TakeMeHo:d=8,o=5,b=100:c,d,2e,p,c,2d,16p,e,d,2c,16p,e,g,2a,p,a,16a,g,2e,p,16d,16c,16p,d,2e,p,e,d,2c,p,c,d,2c

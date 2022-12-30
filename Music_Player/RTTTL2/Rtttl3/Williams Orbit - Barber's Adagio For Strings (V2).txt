@@ -1,0 +1,1 @@
+Barber's:d=4,o=6,b=140:a_5,a_5,a_5,a_5,a5,a5,a_5,a_5,c,c,a5,a5,a_5,a_5,c,c,a_5,a_5,c,c,c_,c_,a_5,a_5,c,c,c_,c_,c,c,c_,c_,d_,d_,c,c,c,c,c,c

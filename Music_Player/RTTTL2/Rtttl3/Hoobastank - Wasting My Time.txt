@@ -1,0 +1,1 @@
+WastingM:d=16,o=6,b=90:8a,d,8d,d,8a,d,8d.,p,b5,8b5,8a,d,8d,d,8a,d,4d,p,8b5,8f#.,8f#,p,4a,4b5,8b5,8f#.,8f#,p,4a,8b5,b5,8a.5,8a,d,8d,d,8a,d,8d.,p,b5,8b5,8a,d,8d,d,8a,d,4d,p,8b5,8f#.,8f#,p,4a,4b5,8b5,8f#.,8f#,p,4a,4b5

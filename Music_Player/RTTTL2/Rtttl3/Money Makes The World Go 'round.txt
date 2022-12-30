@@ -1,0 +1,1 @@
+MoneyMak:d=8,o=6,b=250:a#5,p,4d#,d,p,4c,b5,p,a#5,p,g,g,4g,b5,p,a#5,p,g,g,4g,b5,p,a#5,p,g,g,g,p,a#5,p,4d#,d,p,4c,b5,p,a#5,p,g,g,g,p,g,p,g#,p,4f,4d#,4d,2a#,4p,4a#,b,p,4a,4g,4b5,2c

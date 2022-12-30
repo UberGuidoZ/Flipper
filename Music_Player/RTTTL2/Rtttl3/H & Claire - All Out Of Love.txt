@@ -1,0 +1,1 @@
+AllOutOf:d=8,o=6,b=140:c7,p,c7,p,c7,p,c7,b,a,4g,b.,16p,4b,g,c7,g,c7,g,c7,g,c7,b,a,4g,d.7,16p,4d7,g,b,g,d7,4c7,b,4c.7,a5,c,a5,c,a5,c,a5,c,a5,d7,4c7,b,4c.7,d5,f#5,d5,f#5,d5,f#5,g5,4a5

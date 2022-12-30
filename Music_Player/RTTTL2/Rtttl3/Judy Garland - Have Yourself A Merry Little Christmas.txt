@@ -1,0 +1,1 @@
+HaveYour:d=16,o=5,b=100:b,8c,8e.,4g.,b,8c6,8g,4f,p,8e,d,4c,c,4d.,8p,b,8c,8e,4g.,b,8c.6,2g,4p,4e,4g,4c6,d6,8e.6,8d.6,8c6,8b,8a,4g,e,4f,2e,p,8f,g,d,d,8c,8d,a,4c.,4e,4g,b,8c.6,8g,4f.,p,8e,d,8c,d,e,8d.,8e,8p,c,8e,4g.,b,8c6,2g,4p,4e,4g,4c6,4d6,8d.6,c6,p,8b,a,4g#.,8b.,b,2c.6,p

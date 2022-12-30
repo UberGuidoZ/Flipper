@@ -1,0 +1,1 @@
+SingWhen:d=8,o=6,b=125:4c7,c7,c7,c7,4c7,4p,g#,c7,g#,4a#,c7,g#,a#,4a#,p,4g,g#,a#,2c7,2a#,p,c7,g#,f,4d#,d#,d,2c,2a#5

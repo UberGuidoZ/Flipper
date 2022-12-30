@@ -1,0 +1,1 @@
+Rect-Adr:d=16,o=5,b=90:8g#,g#,c#7,c7,g#,8g#,g#,g#,c#7,c7,g#,8a#,a#,a#,c#7,c7,a#,8a#,a#,a#,c#7,c7,a#,g#6,f,f6,f,d#6,f,f6,f,d#6,f#,f#,c#6,f#,c#6,d#6,f#,8c#,c#,c#,c#,c#,c#,c#,c#,c#,c#,c#,c#,c#,c#,32c#

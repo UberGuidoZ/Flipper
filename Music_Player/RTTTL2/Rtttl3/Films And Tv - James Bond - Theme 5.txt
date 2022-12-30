@@ -1,0 +1,1 @@
+JamesBon:d=8,o=5,b=140:e,16f#,16f#,f#,4f#,e,e,e,e,16g,16g,g,4g,f#,f#,f#,e,16f#,16f#,f#,4f#,e,e,e,e,16g,16g,g,4g,f#,f,e,d#6,2.d.6,b,a,1b

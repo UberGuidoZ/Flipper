@@ -1,0 +1,1 @@
+DipItLow:d=4,o=6,b=160:8f5,8p,8f,8f,2f,8d_,8f,f,2f,8d_,8f,8f,8f,f,8d_,8f,f,8d_,8f,f,c,8c5,8p,d_,8c5,8d_,p,d_,c_,8c_,c.,8d_,8f,8f,8f,8d_,8f,8f,8f,f,2c,g,8f5,8p,8f,8f,2f,8d_,8f,f,2f,8d_,8f,8f,8f,f,8d_,8f,f,8d_,8f,f,c,8c5,8p,d_,8c5,8d_,p,d_,c_,8c_,c.,8d_,8f,8f,8f,8d_,8f,8f,8f,f,2c,g,f5

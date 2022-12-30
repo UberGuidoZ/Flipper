@@ -1,0 +1,1 @@
+WonderWo:d=16,o=5,b=125:a6,a6,p,a6,a6,a6,p,a6,p,a6,p,a6,a6,a6,2p,4p,8p,c#.6,32p,c#6,c#6,p,2d6,8p,p,c#.6,32p,c#6,c#6,p,2d.6,4p,8p,p,d,p,d,d,p,c#,p,c#,p,c#,p,c#,p,2d.,4p,8p,p,d,p,d,d,p,c#,p,c#,p,a4,p,2a.4,2p,p,d,p,a#4,d,p,e,p,e,2p,c,p,a4,c,p,d,p,d,2p,d,p,d,d,p,e,p,e,p,d,p,1e

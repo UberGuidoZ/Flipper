@@ -1,0 +1,1 @@
+Runnin:d=8,o=5,b=140:d,d6,d,d6,f,f6,16f#,f#6,g.,g6,g,g6,f#,f#6,16f,f6,d.,d6,d,d6,f,f6,16f#,f#6,g.,g6,g,g6,16f#,16f#6,f#,f,16f6,16f,d,d6,d,d6,f,f6,16f#,f#6,g.,g6,g,g6,f#,f#6,16f,f6,d.,d6,d,d6,f,f6,16f#,f#6,g.,g6,g,g6,16f#,16f#6,f#,f,16f6,16f,d

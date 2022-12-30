@@ -1,0 +1,1 @@
+Question:d=8,o=6,b=180:d5,d5,f#,d5,f#,e,d,d5,e,p,f#,4e,a4,a4,a4,b4,b4,f#,b4,f#,e,d,b4,g,g5,f#,4d,a5,e,d,d5,d5,f#,d5,f#,e,d,d5,e,a5,f#,4e,a4,a4,a4,b4,b4,f#,b4,f#,e,d,b4,g,g5,f#,4d,a4,e,d,d5

@@ -1,0 +1,1 @@
+Alive:d=16,o=5,b=90:2f,p,f,8f,8f,g,2a,8p,a,a,a,a,8a,2f,8p,8f,8f,d,8f,4c,8p,c,f,d,f,4f,p,4f,4d,p,f,8f,8f,g,8a,f,8f,8f,g,8a,a,a,a,a,a.,8f.,a,a,a,a,a.,8f.,p,f,f,f,f,8d,4f.,8p,f,e,d,8e,d,4c

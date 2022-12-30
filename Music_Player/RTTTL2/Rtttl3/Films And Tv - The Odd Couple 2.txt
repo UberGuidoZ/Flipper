@@ -1,0 +1,1 @@
+TheOddCo:d=16,o=5,b=130:b.4,e,p,32p,b,32p,b,p,32p,a.,2b.,a,p,32p,g.,4a,g,p,32p,f#.,4g.,32p,1e,2p,e,32p,32a,8p,e6,32p,e6,p,32p,d.6,2e.6,32d6,8p,c.6,4d6,32c6,8p,b.,4c.6,32p,1a.,4p,p,32p,4b.,32p,g,32p,a,p,32p,e,32p,4g.,32p,2a,4p,p,32p,4b.,32p,g,32p,32a,p,32b,32p,32d6,p,4e6,4d6,b,p,32p,a,32p,32g,8p,e,32p,2g,8p,32p,e,32p,32g,8p,e,32p,2g,8p,32p,e,32p,g,p,32p,e,32p,1g.

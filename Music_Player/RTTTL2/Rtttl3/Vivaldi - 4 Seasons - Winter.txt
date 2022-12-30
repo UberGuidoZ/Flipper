@@ -1,0 +1,1 @@
+4Seasons:d=8,o=6,b=220:g#,a#,g#,g,f,g,f,d#,c#,d#,c#,c,a#,c,a#,g#,g,g#,g,f,e,f,e,d,4c,4c,4c,4b5,4b5,4b5,2c,g#,a#,g#,g,f,g,f,d#,c#,d#,c#,c,a#,c,a#,g#,g,g#,g,f,e,f,e,d,4c,4c,4c,4b5,4b5,4b5,2c.

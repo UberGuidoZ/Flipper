@@ -1,0 +1,1 @@
+YouSpinR:d=4,o=5,b=180:g,g,g,a#,a#,8f,8f,c6,8a#,8g,8g,8g,8c6,8c6,8a#,8a#,f,f,c6,a#,p,g,g,a,a#,a,g,f,2g6

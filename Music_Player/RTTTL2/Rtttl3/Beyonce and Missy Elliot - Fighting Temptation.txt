@@ -1,0 +1,1 @@
+Fighting:d=8,o=6,b=100:16c5,p.,d#,c,d#,c,g,g,4g,d#,c,4d#,d#,f,d.,16c,4a#5,d,a#5,a#5,f,d,a#5,a#5,g5,a#5,a#5,a#5,g,4g,d#,c,d#,c,g,g,4g,d#,c,4d#,d#,f,d.,16c,4a#5,d,a#5,a#5,f,d,a#5,a#5,g5,a#5,a#5,a#5,g,4g,d#,c,d#,c,g,g,4g,d#,c,4d#,d#,f,d.,16c,4a#5,d,a#5,a#5,f,d,a#5,a#5,g5,a#5,a#5,a#5,g,4g

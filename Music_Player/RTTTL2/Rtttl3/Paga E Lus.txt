@@ -1,0 +1,1 @@
+PagaELus:d=4,o=6,b=140:f,g,a,a_,c7,a_,1d7,8p,8d7,8c7,8d7,8c7,a_,8a_,8c7,8d7,8d_7,1d7,p,d7,d7,c7,8a_,8c7,8a_5,a_,p,a_,d_7,d7,8d7,8c7,8c7,p,8f,8g,f,8g,8f,8g,8a_,2f

@@ -1,0 +1,1 @@
+IWishItC:d=8,o=6,b=90:16g,a,16g,b.,c.7,b.,a,g.,4a.,16g,f,4a.,16g,1e,g,16g,f#.,g,f#.,16f#,e,16e,d.,e,4d,c.,e.,f#,2d,16d5,d5,d.5,16g,a,16g,b.,c.7,b.,a,g.,4a.,16g,f,4a.,16g,1e,g,16a,2b,16p,b.,2a,16p,b.,a.,g.,b.5,a.5,g.5

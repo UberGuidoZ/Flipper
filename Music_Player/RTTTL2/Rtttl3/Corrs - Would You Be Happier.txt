@@ -1,0 +1,1 @@
+WouldYou:d=16,o=6,b=125:8c#,8d,8g,8g,8g,d,d,p,8c#.,8p.,e,8g,8g,8g,d,8e,8p,e,8f#,8a,f#,e,4d,d,d,e,p,d,8e.,d,8e,8b5,2p,f#,8f#,8a,f#,e,4d,d,d,e,p,d,8e.,d,8b5,2p,8p,f#,8f#,8a,f#,e,4d,d,d,e,p,d,8e.,d,8e,8b5,8p.,8b5,8g,f#,8f#,8a.,f#,e,4d,8p,8c#,d,8d,8d.,4d

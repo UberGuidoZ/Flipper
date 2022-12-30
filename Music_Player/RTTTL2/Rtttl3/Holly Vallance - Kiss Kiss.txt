@@ -1,0 +1,1 @@
+KissKiss:d=16,o=5,b=90:8a,a,a,8b,c6,b,b,c6,b,c6,8b,8a,8g,g,g,8a,8b,a,b,a,b,8a,8g,8a,a,b,c6,b,8a,b,c6,b,c6,8b,a,g,g,g,g,g,8a,2b

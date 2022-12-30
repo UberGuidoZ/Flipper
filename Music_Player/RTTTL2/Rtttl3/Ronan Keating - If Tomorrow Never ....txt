@@ -1,0 +1,1 @@
+IfTomorr:d=16,o=5,b=125:8g,a,8b.,4d6,c6,b,2e,2p,4p,8p,c6,c6,8c6,8c6,c6,8d.6,4d.6,b,a,2g,4p,8p,b,b,8c6,8b,8a,8g,4a.,p,d,8c6,8b,8a,g,2a,d,8c6,8c6,c6,d6,8b,a,4g,a,2b,4p,p,d,g,8a.,8b,8d6,8c.6,b,e,d,4c.,2p,8p,p,c,c6,8c6,8c.6,8c6,8d.6,d6,8d6,2b,2p,b,b,8b,b,8c.6,b,8a,g,2g,g,g,8c6,b,8a,g,2a,d,d,8c6,4b,a,g,32a,b,32a,1g

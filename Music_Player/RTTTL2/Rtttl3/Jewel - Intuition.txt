@@ -1,0 +1,1 @@
+Intuitio:d=4,o=5,b=200:8c,8p,p,g,g,2g,2c6,8f,8p,g#,g#,g,g#,d6,2d6,8c,8p,c6,c6,c6,d6,d#6,8c,8p,f6,8g#,8p,g6,d#6,d6,d#6,d6,d6,p,8c,8p,p,g,g,2g,2c6,8f,8p,g#,g#,g,g#,d6,2d6,p,g,8g,8g,g,2g,c6,d6,d#6,d6,c6,d6,d#.6,8p,d6,2c6

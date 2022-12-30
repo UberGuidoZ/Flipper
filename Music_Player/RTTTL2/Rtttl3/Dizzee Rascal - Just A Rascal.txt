@@ -1,0 +1,1 @@
+JustARas:d=4,o=6,b=160:8g5,8g5,8g5,d,d,8p,8a_,8a,8a_,g,g,8p,8g5,8g5,8g5,d,d,8p,8a_,8a,8a_,g,g,8p,8g5,8g5,8g5,d,8p,8a_,8a,8a_,g,g,8d,8d,8d,d_,d,p,8d,8d,d_,d

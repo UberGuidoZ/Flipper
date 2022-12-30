@@ -1,0 +1,1 @@
+LaBamba:d=8,o=6,b=180:g5,a5,b5,4c,e,c,4f,a,4g,g5,b5,d,f,f,e,d,4c,e,c,4f,a,4g,f,f,f,4f,f,4e,1c,f,f,f,4f,f,4e,4c,c,c,4c,4d,4b5,4d,f,e,d,4e,2c

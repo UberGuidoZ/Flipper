@@ -1,0 +1,1 @@
+WhoLetTh:d=8,o=5,b=140:32p,4g,16g.,32p,g,4g,4g,32p,4c,p,c,p,c,16p,c,16p,c,32p,16g.,32p,16g.,32p,16g.,32p,4g,4g,32p,4c,p,c,p,c,16p,c,16p,c,4p

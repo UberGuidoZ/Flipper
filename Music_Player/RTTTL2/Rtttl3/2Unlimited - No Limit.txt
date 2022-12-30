@@ -1,0 +1,1 @@
+NoLimit:d=16,o=5,b=140:4p,4e,8e,4p,4g,8g,4e,8e,4p,4g,8g,4e,8e,4p,4g,8e,4a,4a,4b,4b,2p

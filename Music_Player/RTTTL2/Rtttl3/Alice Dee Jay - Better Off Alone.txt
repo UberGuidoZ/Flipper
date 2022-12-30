@@ -1,0 +1,1 @@
+BetterOf:d=8,o=5,b=140:32p,c6,p,c6,a,p,c6,p,c6,p,b,p,g,g6,16p,g6,16p,e6,c6,p,c6,a,p,c6,p,c6,p,b,p,g,f6,16p,f6,16p,e6,c6,p,c6,a,p,c6,p,c6,p,b,p,g,g6,16p,g6,16p,e6,c6,p,c6,a,p,c6,p,c6,p,b,p,g,f6,16p,f6,16p,e6

@@ -1,0 +1,1 @@
+Selecta:d=16,o=5,b=63:8f,g,8c#,4p,8a#,c6,8f#,4p,8b,c#6,d6,8c#6,8p,8f,g#,8c#,4p,8a#,c6,8f#,8p,c6,a#,g,a#,b,d#6,8c6,4p,8f,g,8c,4p,8a,c6,8f,4p,8b,c6,d6,8c6,8p,8e,g,8c,4p,8a,c6,8f,8p,b,a,g,a,b,d6,8c6

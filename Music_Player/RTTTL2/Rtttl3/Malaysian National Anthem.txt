@@ -1,0 +1,1 @@
+Malaysia:d=4,o=5,b=100:8c.,16p,c,16p,a,16p,2f.,16p,8f.,16p,f,16p,c6,16p,8a.,16p,f,16p,e.,p,8f,16p,2g.,8p,c,16p,e,16p,f,16p,2g.,16p,a,16p,a#,16p,d6,p,c.6,16p,8a#,16p,1a,8p,c,16p,f,p,a,p,2c.6,16p,a

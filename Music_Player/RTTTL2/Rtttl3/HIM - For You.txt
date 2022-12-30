@@ -1,0 +1,1 @@
+ForYou:d=4,o=6,b=200:f5,c,f,c,g_,f,c,a_,f,c7,a_,f,g_,f,f5,g5,g_5,c,d_,c,d_7,g_,d_,g_,f,c_7,a_,f,c7,a_,f,2d_7

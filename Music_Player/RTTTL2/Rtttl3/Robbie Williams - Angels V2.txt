@@ -1,0 +1,1 @@
+AngelsV2:d=4,o=6,b=160:c5,e5,g5,p,2d,8p,8c,d,8c,d,8c,e,d,2p,8p,8c,c,8a5,c,8a5,d,2c.,p,8a5,8a5,a5,a5,g5,2g.5,8p,8c5,e5,8e5,g.5,1d,8p,8c,d,8c,d.,c,e,d,p,8p,8a5,c,8a5,c.,a5,d,c,2p,a5,8a5,8a5,8p,8g5,1g5,e5,d5,8c5,e.5,1d5,1p,f5,f5,f5,e5,d5,c5,1c5

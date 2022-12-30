@@ -1,0 +1,1 @@
+PieterPo:d=16,o=5,b=100:8f#,8p,8a,8p,4b,4p,8f#,8p,8a,8p,4b,4p,8f#,8p,8a,8p,8b,8p,8d6,8d6,8c#6,8c#6,8a,8p,2b.,4p,f#,8g,8p,8a,8p,8b,8p,8g,8p,4f#.,4e,4p,f#,8g,8p,8a,8p,b.,b.,8g,8p,4f#.,4e,4p,f#,8g,8p,8a,8p,8b,8p,8g,8p,8f#,8p,8e,8p,8d,8p,8c#,8p,1d

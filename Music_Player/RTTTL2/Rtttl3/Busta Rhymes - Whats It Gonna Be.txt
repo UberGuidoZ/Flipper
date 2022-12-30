@@ -1,0 +1,1 @@
+WhatsItG:d=16,o=5,b=125:d#6,d#6,d#6,p,c6,c6,c6,p,a#,a#,a#,p,8g,8f,8d#,8d#,8p,2g,8p,d#6,d#6,d#6,p,c6,c6,c6,p,a#,a#,a#,p,8g,8f,8d#,8f,8d#,4g.,2p,d#6,d#6,d#6,p,c6,c6,c6,p,a#,a#,a#,p,8g,8f,8d#,8d#,2p,8d#,8f,8g,4d#

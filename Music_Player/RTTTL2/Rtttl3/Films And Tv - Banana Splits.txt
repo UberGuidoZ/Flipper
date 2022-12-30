@@ -1,0 +1,1 @@
+BananaSp:d=4,o=5,b=200:8c,8c,8c,8c,8e,8e,8e,8e,8g,8g,8g,8g,8e,8p,p,8f,8f,8f,8f,8f,8f,8f,8f,8e,8c,8c,8p,8c,8p,p,8c,8c,8c,8c,e,e,8g,8g,8g,8g,8e,8p,p,8f,8f,p,8f,8f,p,8e,8c,8c,8p,8c,8p,p,c6,a,g.,c6,8c6,a,2g,c6,a,g.,e,8e,d,2c,c6,a,g.,c6,8c6,a,2g,c6,a,g.,e,8e,d,1c

@@ -1,0 +1,1 @@
+RussianS:d=4,o=6,b=40:g5,b5,8d,a,a_,p,f_7,8f_7,16a,16a7,8b,c5

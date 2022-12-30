@@ -1,0 +1,1 @@
+CupOfLif:d=8,o=5,b=140:32p,b,p,b,p,4b,p,g,a,a,c6,a,4b,4p,b,p,b,p,4b,p,g,a,a,g,f#,4g

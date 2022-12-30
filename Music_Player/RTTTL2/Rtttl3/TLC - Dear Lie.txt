@@ -1,0 +1,1 @@
+DearLie:d=4,o=5,b=90:8e,16d,16d,8c,c,p,8p,8e,16d,16d,8c,c,d,8p,8e,16d,16d,8c,c,d,8p,8e,16d,16d,8c,8p,8c,8d,8d,8p,8e,16d,16d,8c,8e,16d,16c,8p,8c,8f,8g,f,8e,8d,8e,8p,8e,16d,16d,8c,c,d,8p,8e,16d,16d,8c,16d,16d,8c,8p,16d,16d,c,16d,16d,8c,c

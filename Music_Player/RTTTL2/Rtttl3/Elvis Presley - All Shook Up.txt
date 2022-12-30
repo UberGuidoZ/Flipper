@@ -1,0 +1,1 @@
+AllShook:d=4,o=5,b=225:8c,f,8p,8f,p,f,8c,d,8c,f,f,8p,8f,2p,8p,8c,f,8p,8f,p,f,8c,d,8c,f,f,8p,8f,2p,8p,8c,f,8p,8f,p,f,8c,d,8c,f,f,8p,8f,p,8c,d,8c,f,1p,8p,8f,f,f,8p,8f,p,8c,d,8f,1p,p,8p,8g,1p,p,8p,g#.,1f

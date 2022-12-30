@@ -1,0 +1,1 @@
+ProtectY:d=16,o=5,b=285:a,p,a,p,4a,a,p,a,p,4a,a,p,a,p,4a,c6,p,c6,p,4c6,b,p,b,p,4b,b,p,b,p,8c6,8b,a,p,a,p,4a,g,p,g,p,4g,a,p,a,p,4a,a,p,a,p,4a,e,p,e,p,4e,e,p,e,p,4e,e,p,e,p,4e,e,p,e,p,4e,e,p,e,p,4e,g,p,g,p,4g

@@ -1,0 +1,1 @@
+Snake:d=16,o=5,b=112:d,8p.,8a,8a#,8c6,8c6,8a#,8a,4c6,c,8p.,c,8p.,c,8p.,d,8p.,d,p,c6,d6,d,8c6,a,8c6,8d6,c,8p.,c,8p.,c,8p.,c,8p.,d,8p.,8a,8a#,8c6,8c6,8a#,8a,4c6,c,8p.,c,8p.,c,8p.,d,8p.,d,p,c6,d6,d,8c6,a,8c6,8d6,c,8p.,c,8p.,c,8p.,c,8p.,8d

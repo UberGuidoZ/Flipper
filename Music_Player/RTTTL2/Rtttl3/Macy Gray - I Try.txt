@@ -1,0 +1,1 @@
+ITry:d=16,o=5,b=80:32p,g,a,c6,a,8c6,a,p,g,p,8c6,4p,g,a,c6,a,8c6,a,p,g,p,8d6,8c6,8p,g,a,c6,a,8c6,8a,p,e6,p,8c6,8p.,8g,8f6,e6,8c6,32g,32p,g,8f,8e,8c6,1p

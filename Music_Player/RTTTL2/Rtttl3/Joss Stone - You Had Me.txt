@@ -1,0 +1,1 @@
+YouHadMe:d=4,o=5,b=180:8c,p,8d#6,d6,c6,8c,p,8d#6,d6,c6,8c,p,8d#6,d6,c6,8c,p,8d#6,f6,d#6,8c,p,8d#6,d6,c6,8c,8p,d#6,d6,p,8b,8b,8p,8b,8p,8c6,8g,2c6,8p,8c,8p,p,8c,p,8d#6,d6,c6,8c,p,8d#6,d6,c6,8c,p,8d#6,d6,c6,8c,p,8d#6,f6,d#6,8c,p,8d#6,d6,c6,8c,8p,d#6,d6,p,8b,8b,8p,8b,8p,8c6,8g,2c6,8p,8c,8p,p,c

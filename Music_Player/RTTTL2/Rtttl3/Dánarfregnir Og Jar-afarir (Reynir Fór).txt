@@ -1,0 +1,1 @@
+Dánarfre:d=4,o=6,b=100:f5,f5,e5,d5,e5,f5,g5,1c5,f5,f5,f5,e5,d5,e5,f5,g5,1a5,c,c5,b5,a5,b5,c,d5,1g5,f5,f5,e5,d5,e5,f5,g5,1a5

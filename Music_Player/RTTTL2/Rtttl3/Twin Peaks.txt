@@ -1,0 +1,1 @@
+TwinPeak:d=4,o=6,b=90:8c5,f5,2c7,8p,8c5,d5,2a,8p,8c5,f5,2c7,8p,8c5,d5,2a,8p,8c5,8f5,8c,8f,8g,8a,8g,8f,8c5,d5,2a

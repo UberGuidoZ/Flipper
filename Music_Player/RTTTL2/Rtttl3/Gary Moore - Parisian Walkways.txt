@@ -1,0 +1,1 @@
+Parisian:d=4,o=6,b=112:2a,8g,32p,f,8e,8p,8d,8c,a_5,8p,a,2g,p,2g,8f,32p,e,8d,8p,8c,8a_5,a5,8p,g,2f,p,2f,8e,32p,d,8c,8p,8a_5,8a5,g5,8p,f,2e,8p,c,2d

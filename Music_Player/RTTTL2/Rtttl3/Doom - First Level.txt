@@ -1,0 +1,1 @@
+FirstLev:d=16,o=5,b=112:e,e,e6,e,e,d6,e,e,c6,e,e,a#,e,e,b,c6,e,e,e6,e,e,d6,e,e,c6,e,e,4a#,p,e,e,e6,e,e,d6,e,e,c6,e,e,a#,e,e,b,c6,e,e,e6,e,e,d6,e,e,c6,e,e,4a#,p,a,a,a6,a,a,g6,a,a,f6,a,a,d#6,a,a,e6,f6,a,a,a6,a,a,g6,a,a,f6,a,a,4d#6

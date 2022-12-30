@@ -1,0 +1,1 @@
+DancingI:d=4,o=5,b=140:g,8f,g,8p,8g,8f,g,f,a,g,g,f,a.,8g,2f,a,8g,8g,8f,f,a.,8g,8f,g,f,a,g,g,f,f,d,d,f,a.,8g,g,8f,g,8p,8g,8f,g,f,a,g,g,f,a.,8g,2f

@@ -1,0 +1,1 @@
+BaggyTro:d=8,o=6,b=140:4f,4e,2d#,2d,d,d,c,d,16d5,f5,16d5,16f5,p.,d,d,c,d,16d5,16f5,16p,16d5,f5,p,d,d,c,d,16d5,f5,16d5,16f5,p.,4f,4e,2d#,2d,d,d,c,d,16d5,16f5,16p,16d5,f5,p,d,d,c,d,16d5,f5,16d5,16f5,p.,d,d,c,d,16d5,16f5,16p,16d5,16f5,p.,4f,4e,2d#,2d

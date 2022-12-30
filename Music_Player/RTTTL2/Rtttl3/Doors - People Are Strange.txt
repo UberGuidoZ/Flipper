@@ -1,0 +1,1 @@
+PeopleAr:d=8,o=6,b=125:f,g,f,4g#,f,p,a#,c7,a#,g#,p,f,4p,a#,c7,a#,g#,p,4f,p,g,g#,g,4f,4c7,c7,2c7,4p,g#,g#,g#,g#,g#,g#,a#,4c7,p,c7,e7,4c7,4p,c7,e7,4p,2c7,4c7,4a#,4g#,4g

@@ -1,0 +1,1 @@
+Boes:d=4,o=5,b=180:g#,f,d#,8f,8g#,8p,8g#,8p,8g#,a#,g#,p,a#,a#,2p,g#,g#,p,g#,f,d#,8f,8g#,8p,8g#,8p,8g#,a#,g#,p,a#,a#,2p,g#,g#,p,g#,f,c#,8f,8g#,8p,8g#,8p,8g#,a#,g#,g#,f,g#,8c6,a#.,p,2p,g#,f,d#,8f,8g#,8p,8g#,8p,8g#,a#,g#,p,a#,a#,2p,g#,g#,2p,a#,a#,2p,g#,g#

@@ -1,0 +1,1 @@
+DukesOfH:d=4,o=5,b=250:8g,8e,8c,8p,8c,8p,8c,8d,8e,8f,8g,8p,8g,8p,g,e,8a,8p,8a,8p,a,8p,8g,a,8p,8g,8a,8b,8c6,8d6,2e6,p,8c6,8g,2c6,p,8g,8e,2g,p,8d,8e,2c

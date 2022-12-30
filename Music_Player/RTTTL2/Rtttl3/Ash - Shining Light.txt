@@ -1,0 +1,1 @@
+ShiningL:d=8,o=6,b=70:f#,f#,16f#,16f#,16g,16a,16g,f#.,d,b,16b,16b,16b,b,16b,a,p,f#,f#,f#,16g,16a,16g,f#.,d,b,16b,16b,16b,b,16b,a,p,e,f#,f#,16e,e,4d

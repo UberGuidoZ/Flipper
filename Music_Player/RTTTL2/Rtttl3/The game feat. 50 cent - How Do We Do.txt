@@ -1,0 +1,1 @@
+HowDoWeD:d=8,o=6,b=100:e7,16p,e7,16p,b,16p,b,16p,c7,p,c7,16p,c7,16p,a,16p,b,16p,e,p,e7,16p,e7,16p,b,16p,b,16p,c7,p,c7,16p,c7,16p,a,16p,b,16p,e

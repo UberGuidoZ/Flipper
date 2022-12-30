@@ -1,0 +1,1 @@
+GetchaGr:d=16,o=5,b=90:4g,4e,4p,4d,8f,8d,8f,8d,8f,p,8p,8d,8p,4g,4e,p,4p,8d,8f,8d,8f,8d,8f,8d,p,8p,8d,8p,4g,4e,4p,4d,8f,8d,8f,8d,8f,8p,2p,4c#,8c#,8d,4f,8d

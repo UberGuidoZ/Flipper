@@ -1,0 +1,1 @@
+MrBenn:d=8,o=6,b=200:a5,g#5,g5,p,c,e,p,g,2f#,g,a,g,p,e,c,p,g5,2f#5,g5,a5,g5,p,e,d#,p,f,e,d,c,e,g,a,2a#.,p,c,d,e,f,g,a,p,g#,a,p,c,2d,e,f,4g.,4e.,4c.,p,e,d,e,d,c,b5,c,4d.,4p,a,g,a,g,f,g,f,e,f,e,d,b5,a5,g5,p,c,e,p,g,2f#,g,a,g,p,e,c,p,g5,2f#5,g5,a5,g5

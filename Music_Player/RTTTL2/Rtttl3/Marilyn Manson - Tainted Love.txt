@@ -1,0 +1,1 @@
+TaintedL:d=16,o=5,b=112:8e,p,8e.,8g,p,8g,p,8c6,p,8c6,p,8g,4a,8e,p,8e,p,8g,p,8g,p,8c6,p,8c6,p,8g,4a,4b.,4e.,8g.,8e.,8g.,8a,4p,4b,8e.,4g

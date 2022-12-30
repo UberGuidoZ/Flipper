@@ -1,0 +1,1 @@
+AllGood:d=16,o=5,b=125:d6,p,c6,p,b,a,b,c6,p,g,e,p,4p,d6,p,c6,p,b,a,b,c6,p,g,e

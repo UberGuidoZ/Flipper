@@ -1,0 +1,1 @@
+Grease-S:d=8,o=6,b=125:d7,a,2b,a,b,a,4f#.,4a,4g,e,b,a,b,a,4d,a5,a5,b5,b5,c#,c#,d,4d,a,a,4b,b,b,4b,b,b,a,b,a,4f#.,a,a,4b,b,b,4b,b,b,a,b,a,d7

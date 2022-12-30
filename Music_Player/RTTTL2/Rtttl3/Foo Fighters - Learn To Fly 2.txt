@@ -1,0 +1,1 @@
+LearnToF:d=4,o=5,b=125:8d6,8d6,8d6,8d6,c6,8b,a,2g,p,8d6,8d6,8d6,8d6,c6,8b,a,2g,p,8p,8a#,16a,8p,16p,a,8p,8g,a#,8p,8a,8g,8g,8a,1g

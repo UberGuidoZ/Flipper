@@ -1,0 +1,1 @@
+Soldier:d=8,o=6,b=140:c,c,c,4g,f,d#,2d#,16c5,4p.,16p,16c5,16p,c,c,c,4g,f,d#,2d#,16c5,4p.,16p,16c5,16p,c,c,c,4g,f,d#,d#,f,2d#.,16c5,16p,c,c,c,f,d#,f,d#,2d#,16c5,4p.,16p,16c5,4p.,16p,c5

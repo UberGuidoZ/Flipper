@@ -1,0 +1,1 @@
+SheMoves:d=4,o=6,b=225:g,8p,8g,p,f,g,8p,8g,p,f,p,g,p,g,g,8p,8g,p,a,a_,8p,8a_,p,a,8p,8a_,p,a_,8p,8a,p,8a_,p,a_,a_,8p,8a_,p,a,g,8p,8g,p,f,g,8p,8g,p,f,p,g,p,g,g,8p,8g,p,a,a_,8p,8a_,p,a,8p,8a_,p,a_,8p,8a,p,8a_,p,a_,a_,8p,8a_,p,a

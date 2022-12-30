@@ -1,0 +1,1 @@
+Eurotras:d=8,o=6,b=160:g5,g5,b5,4c,4d.,d,c#,d,4g,4f.,e,f,e,d,c,4b5,2g.5,4p,g5,g5,b5,4c,4d.,d,c#,d,4g,4f.,e,f,e,d,c,4b5,2g.5,p,4d,4d,16c,16d,a#5,a5,g5,4a5,a#5,2a5,p,4d,4d,16c,16d,a#5,a5,g5,4a5,a#5,2a5,p,4d,4d,16c,16d,a#5,a5,g5,4a5,a#5,2a5

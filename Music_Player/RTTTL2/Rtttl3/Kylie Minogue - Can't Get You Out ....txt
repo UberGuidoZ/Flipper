@@ -1,0 +1,1 @@
+Can'tGet:d=16,o=5,b=140:4f,4f,4f.,p,4f,4f,8f,4f,8g,8p,4e,4e,4e.,p,4e,4e,8e,4e,8d,8p,4f,4f,4f.,p,4f,4f,8f,4f,8g,8p,4e,4e,4e.,p,4e,4e,8e,4e,8d,8p

@@ -1,0 +1,1 @@
+PleaseSa:d=16,o=5,b=140:8g,g6,d,8g6,8g,8g6,8d,8g,a,g6,8g,g6,d,8g6,8g,8g6,8d,8g,d,g6,8a#,g6,g,8g6,8a#,8g6,8g,8a#,g,g6,8a#,g6,g,8g6,8a#,8g6,8g,8a#,8g,8g,d#7,d,8d#7,8g,8d#7,8d,8g,d,d#7,8g,d#7,d,8d#7,8g,8d#7,8d,8g,d,d#7,8d,a#6,d#,8a#6,8d,8a#6,d,a#6,8d#,8d,8c,c7,d,8c7,8c,8c7,c,c7,8d,8c,4g

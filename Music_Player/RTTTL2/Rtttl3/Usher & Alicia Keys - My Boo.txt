@@ -1,0 +1,1 @@
+MyBoo:d=4,o=5,b=180:8b,8c6,8c6,8c6,8c6,b,c6,g,g,e,g,1f.,p,8b,8b,8c6,8c6,8c6,8c6,b,c6,8g,8g,8g,8g,e,8g,1f.,8p,p,8g,8g,c6,c6,b,c6,d6,c6,b,c6,1a.,8p,8e,8e,8e,c6,c6,b,c6,a,g,e,g,f,e,f,g,a,g,a,b,2a.

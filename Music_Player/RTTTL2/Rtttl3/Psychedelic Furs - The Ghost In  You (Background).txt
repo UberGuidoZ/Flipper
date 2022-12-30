@@ -1,0 +1,1 @@
+TheGhost:d=8,o=5,b=125:4f,4d#6,d6,4a#,4f.,f.,16p,f,g,f,g,4g,4d#6,d6,4a#,f.,16p,f,g,4a#,g,c6,d6,4f,4d#6,d6,4a#,4f,p,f.,16p,f,g,f,16g,16p,4g,4d#6,d6,4a#,f.,16p,f,g,4a#,g,c6,d6

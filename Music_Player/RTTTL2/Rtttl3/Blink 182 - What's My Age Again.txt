@@ -1,0 +1,1 @@
+What'sMy:d=4,o=5,b=320:32p,g,b,c6,1b.,a,a,a,a,b,2b.,g,b,c6,1b.,a,a,b,a,g,2g.,g,g,g,g,g,2g.,e,g,g,g,g,2g.,g,c6,c6,b,a,g,b,1a.,a,b,a,b,a,b,a,g,a,2b.,a,1a.,g,g,g,b,a,g,a,2b.,a,1a.,g,g,a,b,a,g,a,2b,2b,1a,g,g,g,g,b,a,g.,8g,b,b,b,b,b,a,1a,b,b,b,b,1b,a,b,g,g,1g

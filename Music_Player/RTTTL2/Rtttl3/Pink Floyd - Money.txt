@@ -1,0 +1,1 @@
+Money:d=8,o=5,b=180:4g,p,4g6,d6,g,4p,4d,p,4f,p,4g,p,4a,p,4g,p,4g6,d6,g,4p,4d,p,4f,p,4g,p,4a,p,4g,p,4g6,d6,g,4p,4d,p,4f,p,4g,p,4a,p,4g,p,4g6,d6,g,4p,4d,p,4f,p,4g,p,d6,16p.,d6,2p.,4a,a,4g6

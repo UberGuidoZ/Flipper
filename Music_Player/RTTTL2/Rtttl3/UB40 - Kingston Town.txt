@@ -1,0 +1,1 @@
+Kingston:d=4,o=5,b=225:2g.,p,g.,a.,b,2f#.,p,f#.,g.,a,2e.,p,e.,f#.,g,1b,1a,2g.,p,g.,a.,b,2f#.,p,f#.,g.,a,2e.,p,e.,f#.,g,1b,1a

@@ -1,0 +1,1 @@
+SickAndT:d=8,o=5,b=100:b,4b,b,c6,4b,a,p,a,d6,c6,b,4c6,b,a,a,p,d6,c6,4b,a,p,a,d6,c6,b,4c6,4b,b,p,b,c6,4b,a,p,a,d6,c6,b,2c.6,b,a,2b.,a,g,4a,e,g.,16e,16p,16e,16e,16e,4g,p,f#,a.,16f#,16p,16f#,16f#,16f#,4a,p,e,g.,16e,16p,16e,16e,16e,4g,p,f#,a.,16f#,16p,16f#,16f#,16f#,4a

@@ -1,0 +1,1 @@
+FemaleOf:b=160,o=5,d=4:32p,a,a,a,a,g,8g,a#,g,16p,a,a,a,a,g,8g,a#,g,16p,8g,d6,d6,a,8f#,a#,8a#,8a,8g,8g,8a,8a,8f#,g

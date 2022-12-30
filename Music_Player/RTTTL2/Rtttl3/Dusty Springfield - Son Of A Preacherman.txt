@@ -1,0 +1,1 @@
+SonOfAPr:d=4,o=7,b=160:8c,8c,8c,8c,8c,d#.,c,8a#6,8c,8c,f,8f,f,8f,8f,8f,e.,c,2c.,8g6,8g6,8g6,8g6,g6,a#6,g6,f6,g6,8g6,8g6,8g6,g6,g6,a#6,g6,f6,g6,8g6,8g6,8g6,g6,g6,a#6,g6,f6,2g6,d,d,d,g,g,d.,8c,c,c,c,8c,8c,d#,c,a#6,2c,8f,8f,8f,8f,f,e,c,c.,8c,c,c,c,8c,8c,d#,c,a#6,2c,8f,8f,8f,8f,f,e,c,2c

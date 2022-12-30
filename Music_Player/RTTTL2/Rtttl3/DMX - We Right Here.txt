@@ -1,0 +1,1 @@
+WeRightH:d=4,o=5,b=180:d6,d6,d6,2p,d,2a#,2a,2p,a,a,a,c6,d6,f6,2d6,p,d,2a#,2a,2p,a,a,a,c6,d6,d6,d6,2p,d,2a#,2a,2p,a,a,a,c6,d6,f6,2d6,p,d,2a#,2a

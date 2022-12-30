@@ -1,0 +1,1 @@
+Silence:d=16,o=5,b=140:c6,p,b,p,e,p,c6,p,b,p,a,p,8e,8p,c6,p,b,p,a,b,c6,c6,b,p,e,p,f,p,g,p,c6,p,b,p,d,p,c6,p,b,p,g,p,8d,8p,c6,p,b,p,a,b,c6,c6,4g.

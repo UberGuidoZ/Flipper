@@ -1,0 +1,1 @@
+Leave:d=4,o=6,b=160:8d5,p,f,e.,8c5,p,8d,8c5,c.,g5,8d,8d,8g5,8c,8p,e.,c,2a5,8d5,8p,8f,8f,8d5,e.,8c5,8p,8d,8d,8c5,8c,8p,8c,b5,8p,8c,8g5,8c,8p,c.,8c,8c,8d,8e,p,8d5,p,f,e.,8c5,p,8d,8c5,c.,g5,8d,8d,8g5,8c,8p,e.,c,2a5,8d5,8p,8f,8f,8d5,e.,8c5,8p,8d,8d,8c5,8c,8p,8c,b5,8p,8c,8g5,8c,8p,c.,8c,8c,8d,8e,p,8d5

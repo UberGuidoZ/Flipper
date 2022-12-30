@@ -1,0 +1,1 @@
+SomeoneL:d=16,o=6,b=80:4c.5,c,d,8e.,8d.,8c,4a5,8e,c,8d.,4g.5,4c.5,c7,d7,8e.7,8d.7,8c7,2a,4f.5,8d5,c5,c,e,g,8g,e,8d,8c,8c,g5,a5,g5,8c,a5,8c,d,8e,4c.5,8b4,a4,c,e,g,8a,e,8d,8c,8c,a4,a4,g,8a,g,8g,e,4g,4a4,8b4,4c5

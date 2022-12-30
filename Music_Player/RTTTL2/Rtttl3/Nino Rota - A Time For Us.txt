@@ -1,0 +1,1 @@
+ATimeFor:d=8,o=6,b=60:g,a#,a,4d.,d,f,d,4g.,g,f,d#,4f.,f,d#,d,4c.,16d,16c,a#5,c,4d.,g,a#,a,4d.,d,f,d,2g,4g,2c7.,2a.,d,4a#.,a,g,f,a#,a,4g,4f,2g.,g,a#,a,4d.,d,f,d,4g.,g,f,d#,4f.,f,d#,d,4c.,16d,16c,a#5,c,4d.,g,a#,a,4d.,d,f,d,2g,4g,2c7.,2a.,d,4a#.,a,g,f,a#,a,4g,4f,2g.

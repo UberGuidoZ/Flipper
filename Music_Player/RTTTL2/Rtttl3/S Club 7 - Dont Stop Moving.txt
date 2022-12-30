@@ -1,0 +1,1 @@
+DontStop:d=8,o=6,b=125:4g,4a#,d,f,p,4g,f,d,c,d,c,a#5,g5,4c,4c,c,a#5,c,4d.,d,4f#,4a,p,4g,4a#,d,4f,4g,f,d,c,d,c,a#5,g5,4c,4c,c,a#5,c,d,p,d,p,f#,p,4a.

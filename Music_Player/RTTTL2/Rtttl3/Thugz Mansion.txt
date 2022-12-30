@@ -1,0 +1,1 @@
+ThugzMan:d=4,o=6,b=180:8a,8a,16a_,8a,8a,16a_,d,c,8a,8a,16a_,8a,8a,16a_,d,c

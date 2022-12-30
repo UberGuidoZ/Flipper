@@ -1,0 +1,1 @@
+StepRigh:d=4,o=5,b=125:8c,8c,8p,16d,2e,8e,e,d,e.,8c,8c,8p,d#,8d,8c,8a,8p,8d#,8d,c.,p,8c,8c,b,c,c,8c,8c,g,c,c,8c,8c,f,8e,d,8c,1d

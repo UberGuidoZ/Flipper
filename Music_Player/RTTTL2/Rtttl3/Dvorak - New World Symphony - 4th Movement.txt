@@ -1,0 +1,1 @@
+NewWorld:d=16,o=5,b=35:8f,g,g#,g.,32f,8f,8f,d#,32c,32d#,4f

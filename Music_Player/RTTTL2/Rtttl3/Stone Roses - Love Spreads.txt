@@ -1,0 +1,1 @@
+LoveSpre:d=8,o=6,b=120:4d,d,16p,16a#,16p,4a#,d,d,d,16c,d,16c,16p,a#,d,16p.,g,4p,16g,c,16d,16a#,16p,a#,a#,16d,16c,16d,a#,d,16p,d,c,d,a#,16d,a#,4d,g,16d,16a#,16p,a#,16a,a#,d

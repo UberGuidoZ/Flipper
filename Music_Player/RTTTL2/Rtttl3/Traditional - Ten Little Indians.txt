@@ -1,0 +1,1 @@
+TenLittl:d=16,o=5,b=125:8f,f,f,8f,f,f,8a,c6,c6,a,a,8f,8g,g,g,8g,g,g,8e,g,g,e,e,8c,8f,f,f,8f,f,f,8a,c6,c6,a,a,8f,8c6,c6,c6,c,c,8c,2f

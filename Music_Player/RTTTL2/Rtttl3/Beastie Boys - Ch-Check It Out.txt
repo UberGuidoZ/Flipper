@@ -1,0 +1,1 @@
+Ch-Check:d=16,o=6,b=112:8g.,g,c5,8g,g,c5,f,f,f,8g,8p,8g.,g,c5,8g,g,c5,f,f,f,8g,8p,8g.,g,c5,8g,g,c5,f,f,f,8g,f,f,8g,f,g,c5,f,f,f,8g,f,g,4f,8a#5,8p,8a#5,8a#5,8p,8a#5,8a#5,8p,4a#5

@@ -1,0 +1,1 @@
+ThongSon:d=16,o=5,b=125:8c,8p,8d,8p,4d#,8a#,8p,4g#,4g,2f,8g#,g#,g#,g#,g,8f,d#,c,8p,8g,8p,4g,g,f,d#,8g,4p,8d#,4g,8d#,8f,2c

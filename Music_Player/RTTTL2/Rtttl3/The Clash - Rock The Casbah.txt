@@ -1,0 +1,1 @@
+RockTheC:d=4,o=5,b=140:8e6,8f6,8e6,8d6,8c6,e6,8d6,c6,2p,e6,8g,a,a.,e6,8g,a,a.,8e6,8f6,8e6,8d6,8c6,e6,8d6,c6,2p,e6,8g,a,a.,e6,8g,a,a.,8p,8a,8a,8a,8a,8a,8c6,a,a.,2p,8c6,8a,8a,8a,8a,8a,8a,8p,e6,8a,2p,8p,8a,8a,8a,8a,8a,8c6,8a,8a,8g,a,2p,8a,8g,8a,8a,8a,8a,8p,d6,8c6,a

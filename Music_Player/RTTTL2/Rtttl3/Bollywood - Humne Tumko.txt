@@ -1,0 +1,1 @@
+HumneTum:d=4,o=6,b=180:e5,8e5,8c,b5,a5,8b5,8a5,8a5,a5,8a5,a5,e5,8f5,8g5,g5,8f5,8e5,8d5,8e5,8c5,8f5,2e5,e,8e,8c7,b,a,8b,8a,8a,a,8a,a,e,8f,8g,g,8f,8e,8d,8e,8c,8f,2e

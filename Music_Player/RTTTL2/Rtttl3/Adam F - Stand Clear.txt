@@ -1,0 +1,1 @@
+StandCle:d=8,o=6,b=90:e5,f#5,f#,f#,f#,f#,f#,f#,e5,f#5,f#,f#,f#,f#,16f#,c#.,e5,f#5,f#,f#,f#,f#,f#,f#,b5,p,a5,p,c,p,b5,p,e5,f#5,f#,f#,f#,f#,f#,f#,e5,f#5,f#,f#,f#,f#,f#,f#,e5,f#5,f#,f#,f#,f#,f#,f#,b5,p,a5,p,c,p,b5,p,e5,f#5

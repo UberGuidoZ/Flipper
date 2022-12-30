@@ -1,0 +1,1 @@
+AManNeed:d=8,o=5,b=160:f#,g#,b,b,g#,4b,4d#6,2p.,p,f#,g#,b,b,g#,4b,4g#,2p.,p,f#,g#,b,b,g#,4b,4d#6,2p.,p,f#,g#,b,b,g#,4b,4g#,2p.,p,f#,g#,b,b,g#,4b,4d#6,2p.,p,f#,g#,b,b,g#,4b,4g#,2p.,p,f#,g#,b,b,g#,4b,4d#6,2p.,p,f#,g#,b,b,g#,4b,4g#

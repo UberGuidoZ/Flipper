@@ -1,0 +1,1 @@
+FedUp:d=4,o=5,b=180:c,d6,c6,8p,8c,8p,8c6,8p,a#.,p,8f,8g,8p,a.,8c6,8a#,8p,8a,8p,f.,p,c,d6,c6,8p,f6,8e6,8p,c.6,p,8a,8c6,8p,a#.,a,g,8f,2f,8p,c,d6,c6,8p,8c,8p,8c6,8p,a#.,p,8f,8g,8p,a.,8c6,8a#,8p,8a,8p,f.,2p,p,a,8p,8d,f,8d,2f,8p,f,d6,c6,8p,8c6,a#,8p,8a,8g,2f.,8c6,8c6,8d6,8f6,8g6,8f6,8d6,8c6,8a,8g,8f,g,a,f

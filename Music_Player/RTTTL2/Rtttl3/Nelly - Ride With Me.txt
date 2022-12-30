@@ -1,0 +1,1 @@
+RideWith:d=16,o=5,b=100:b,b,b,b,b,b,b,b,8a,a,8a.,a,a,8g,g,g,8g,g,g,8a,8a,8p,8g,4g,8d,8d,4d,4a,8g,8g

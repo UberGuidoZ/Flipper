@@ -1,0 +1,1 @@
+Songbird:d=8,o=6,b=140:32b,16p.,32b,16p.,32b,16p.,b,4d7,4b,4a,32g,16p.,2g,p,32b,16p.,32b,16p.,32b,16p.,b,4a,g,p,4g,a,2e,p,a,g,a,g,a.,16p,a,g,4a,4d7,4b,4p,a,g,a,g,a,p,a,p,4a,16g,16p,16b.,p,32p,a,4g,32b,16p.,32b,16p.,32b,16p.,b,4d7,4b,4a,32g,16p.,2g,p,32b,16p.,32b,16p.,32b,16p.,b,4a,16g.,p,32p,4g,4a,2e,a,g,a,g,a,p,a,g,4a,4d7,4b,4p,a,g,a,g,16a.,p,32p,a,p,a,p,g,b,p,16a.,32p,4g

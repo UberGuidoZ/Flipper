@@ -1,0 +1,1 @@
+HowDoYou:d=16,o=6,b=100:d#,a#,a#,a#,a#,a#,8g#,g#,f#,f#,8e#,8p,e#,8f#,f#,8f#,f#,a#,a#,a#,a#,a#,8g#,g#,g#,f#,f#,8e#,8f#,f#,8f#

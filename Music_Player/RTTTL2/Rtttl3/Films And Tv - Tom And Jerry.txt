@@ -1,0 +1,1 @@
+TomAndJe:d=8,o=6,b=160:d,e,b5,4d.,p,4d,e,b5,4d.,p,c,b5,c,d,1e.,32p,d,e,f#,g,f#.,16g,a,4d.,p,4d,e,b5,2d,4f#,g#,d#,2f#,4f#,g#,e,f#,d#,e,c#,d#,b5.,16a5,b5,4d.,p,4d,e,b5,2d,4c,d,a5,4c,c#,4d,2a5,1g5

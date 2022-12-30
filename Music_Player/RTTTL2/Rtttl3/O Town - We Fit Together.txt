@@ -1,0 +1,1 @@
+WeFitTog:d=8,o=6,b=100:16g5,16a5,16g5,a5,4c,c.,a5,c,c,16c,16c,16c,a5,16c,c,c,a5,p,16g5,16a5,16g5,a5,4c,c.,a5,c,c,16c,16c,16c,d,16e,d,c,c,p,16g5,16a5,16g5,a5,p,c,c,16p,16c,16a5,16c,16c,16c,c,16c,a5,c,c,c,a5,p,16g5,a5,a5,4c,c,16c,a5,c,c,16c,16c,16a5,c,c,c,16a5,e,d,16c,e,d,4c

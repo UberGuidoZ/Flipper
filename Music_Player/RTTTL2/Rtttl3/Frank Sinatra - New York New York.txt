@@ -1,0 +1,1 @@
+NewYorkN:d=4,o=5,b=125:c,8b.4,8c,a4,1g4,p,c,8b.4,8c,a4,1g4,8p,b.4,c,d,e,8d#.,16e,8p,16d#,e.,8p,g.,e,16p,8e.,1d.,p,c,b4,c,a4,1g4,p,c,d,b4,a4,1g4,8p

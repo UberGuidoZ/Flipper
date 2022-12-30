@@ -1,0 +1,1 @@
+Auto,Vli:d=4,o=6,b=180:g5,1c,p,8a5,8c,1c,2p,p,a_5,2a_5,a5,1g5,2p,g5,1c,p,8a5,8c,1c,p,2p,a_5,2a_5,a5,1g5,2p,g5,f5,g5,8a5,g.5,f5,1d5,2p,g5,f5,g5,a5,g5,f5,1d5,2p,1f5

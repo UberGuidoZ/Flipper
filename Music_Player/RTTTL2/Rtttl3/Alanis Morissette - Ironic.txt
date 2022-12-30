@@ -1,0 +1,1 @@
+Ironic:d=16,o=5,b=40:32p,32g,g,c6,32b,4g,32g,32e,32g,8g,8a,32g,g,c6,32b,a,32a#,a,4g,32g,32e,a,g,a,8e,32g,g,c6,32b,4g,32g,32e,g,g,g,4a,32g,a#,a,g,8a,f,32a,4g

@@ -1,0 +1,1 @@
+Prisoner:d=8,o=6,b=125:a#,a#,a#,4a#,4g,4g.,g,g,g#,g,f,d#,a#,a#,a#,4a#,4g,4g.,g,g,g#,g,f,d#,a#,a#,a#,4a#,4g#,4f#,4f,4g#.,a#,a#,a#,a#,a#,4a#.

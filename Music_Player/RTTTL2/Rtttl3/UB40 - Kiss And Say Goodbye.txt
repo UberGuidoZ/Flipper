@@ -1,0 +1,1 @@
+KissAndS:d=4,o=6,b=160:f5,8f5,8f5,a_5,a_5,c,a_5,2d.,p,8p,8c,8d,8c,2a_.5,p,8f,8f,8f,8f,f,d,8c,d.,8c,d.,8c,2a5,8p,8a5,8g5,2f.5,2p,8c,8d,f,8f,8d,8p,8c,8d,8c,e,d,c,a5,g5,e5,8p,2c.5,8p,8c,f,8c,e,p,8p,f.5,g5,f5,d5,2f.5

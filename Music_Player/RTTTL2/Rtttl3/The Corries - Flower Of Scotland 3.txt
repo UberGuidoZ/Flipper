@@ -1,0 +1,1 @@
+FlowerOf:d=8,o=5,b=90:a,4a,g,4f,p,2c,p,f,4f,a,2g,p,g,4f,g,2a,2p,a,a#,a,a#,4c6,p,2f,p,c,4g,g,g,f,g,4a

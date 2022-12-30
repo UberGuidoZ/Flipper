@@ -1,0 +1,1 @@
+WalkingA:d=16,o=5,b=40:a,a,a,a,32g,f,8d,32p,d,f,32d,8g.,p,32g,32a,32g,32f,f.,8d.,32p,e,e,32e,4f

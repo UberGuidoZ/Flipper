@@ -1,0 +1,1 @@
+UnGiorno:d=4,o=6,b=100:8f,8g,a,8g,8f,g,8e,c7,8b,8c7,d7,8c7,8b,c7,8b,p,8a,8b,c7,8d7,8c7,c7,a,p,8g,8a,8b,8e7,b,p

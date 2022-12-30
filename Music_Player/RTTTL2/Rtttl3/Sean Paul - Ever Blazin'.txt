@@ -1,0 +1,1 @@
+EverBlaz:d=4,o=5,b=180:8d,8d,e,8p,8e,8p,8e,f#,g,8p,8g,8p,8g,8a,8b,c6,b,a,8b,g,8e,p,b,8b,8b,8b,8b,d6,b,8b,8b,8b,8b,b,b,8b,8b,c6,b,a,8b,g.,2p,8d,8d,e,8p,8e,8p,8e,f#,g,8p,8g,8p,8g,8a,8b,c6,b,a,8b,g,8e,p,b,8b,8b,8b,8b,d6,b,8b,8b,8b,8b,b,b,8b,8b,c6

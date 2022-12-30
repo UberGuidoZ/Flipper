@@ -1,0 +1,1 @@
+ImReal:d=16,o=5,b=100:8c,c,c,c,8c.,8d,4e,8c,c,c,c,8c.,8f#,4e,8c,c,c,c,8c.,8d,4e,8c,c,c,c,8c.,e,4d,8e,8c,c,c,c,8c.,8d,4e,8c,c,c,c,8c.,8f#,4e,8c,c,c,c,8c.,8d,4e,8c,c,c,c,8c.,e,4d,4e,2d

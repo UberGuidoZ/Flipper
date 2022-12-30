@@ -1,0 +1,1 @@
+NoGood4M:d=4,o=6,b=140:d5,f5,8a5,16g5,8a5,16p,a5,8a_5,8a5,8g5,g5,8f5,8p,d5,f5,8a.5,a5,8p,a5,c,8d,16c,8d,p,d,f,8a,16g,8a,16p,a,8a_,8a,8g,g,8f,8p,d,f,8a.,a,8p,a,c7,8d7,16c7,8d7

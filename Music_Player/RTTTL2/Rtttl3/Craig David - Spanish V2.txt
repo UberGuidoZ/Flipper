@@ -1,0 +1,1 @@
+SpanishV:d=4,o=5,b=200:8g#6,8g6,8f6,8d#6,c6,g6,2g6,8c,p,8c,p,8c,8p,8c,p,8c,p,8c,8p,8c,p,8c,8g6,8f6,8d#6,8d6,8g,8p,f6,2f6,8g,p,8g,p,8g,8p,8g,p,8g,p,8g,8p,8g,p,8g,8g#6,8g6,8f6,8d#6,c6,g6,2g6,8c,p,8c,p,8c,8p,8c,p,8c,p,8c,8p,8c,p,8c,8g6,8f6,8d#6,8d6,8g,8p,f6,2f6,8g,p,8g,p,8g,8p,8g,p,8g,p,8g,8p,8g,p,8g,p,8g,8p,c

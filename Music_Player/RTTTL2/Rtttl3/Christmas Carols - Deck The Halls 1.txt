@@ -1,0 +1,1 @@
+DeckTheH:d=4,o=5,b=200:c.,8a#,a,g,f,g,a,f,8g,8a,8a#,8g,a.,8g,f,e,2f,c.,8a#,a,g,f,g,a,f,8g,8a,8a#,8g,a.,8g,f,e,2f,g.,8a,a#,g,a.,8a#,c6,g,8a,8b,c6,8d6,8e6,f6,e6,d6,2c6,c.,8a#,a,g,f,g,a,f,8g,8a,8a#,8g,a.,8g,f,e,2f

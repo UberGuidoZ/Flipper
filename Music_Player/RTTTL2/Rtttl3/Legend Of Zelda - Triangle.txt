@@ -1,0 +1,1 @@
+Triangle:d=16,o=6,b=125:2g.5,g5,a5,b5,c,2d.,d.,d,d.,2g.,g,a,b,c7,2d.7

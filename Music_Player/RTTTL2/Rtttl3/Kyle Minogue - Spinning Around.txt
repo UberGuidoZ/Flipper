@@ -1,0 +1,1 @@
+Spinning:d=4,o=6,b=112:d,p,8d,8e,8f,8e,p,8d,8e,8f,8g,8f.,p,8d,8f,8d,8a,8p,8g,8g,8f,8g,8f,8g,8d,d,p,8d,8e,8f,8e,p,8d,8e,8f,8g,8f.,p,8d,8f,8d,8a,8p,8g,8g,8f,8g,8f,8g,8d

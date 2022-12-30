@@ -1,0 +1,1 @@
+TomsDine:d=4,o=5,b=200:d,e,f,a,d,8e,f.,a,d,a,g,f,g,8f,g.,f,d,e,f,a,d,8e,f.,a,d,a,g,f,g,8f,c6.,f,d,e,f,a,d,8e,f.,a,d,a,g,f,g,8f,g.,f.,8f,d,c,a,a,8a,a.,g,f,d,c,a,a,g,a#,a,f,g,a,8a#,f.,g,a,2a#,f,a#,a,a,8g,2a.

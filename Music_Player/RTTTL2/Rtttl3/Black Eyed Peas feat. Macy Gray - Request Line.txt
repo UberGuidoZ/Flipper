@@ -1,0 +1,1 @@
+RequestL:d=8,o=5,b=112:f#,f#,f#,a,e,e,d,e,e,e,2e,4p,e,e,d,e,e,e,d,e,4e,4e,f#,f#,16g,g#.,4e,4p,f#,f#,16g,g#.,4e,2p.,f#,f#,f#,a,e,e,d,e,e,e,2e,4p,e,e,d,e,e,e,d,e,4e,4e,f#,f#,16g,g#.,4e,4p,f#,f#,16g,g#.,4e

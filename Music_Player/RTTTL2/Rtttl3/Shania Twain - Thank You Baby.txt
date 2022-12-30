@@ -1,0 +1,1 @@
+ThankYou:d=4,o=6,b=180:2a,8p,b.,8p,8e5,p,8e5,p,8e5,8p,8b,b.,8g,8p,g,8p,8d,8g5,8p,2e,8a5,p,a,8b,8a5,8p,c.7,8p,b,8p,a,8g,8c5,8p,2e,8c5,8p,2d,8c5,p,8e5,p,8e5,p,8e5,p,8e5,8p,8b,b.,8g,8p,8g,8g5,8p,8d,8g5,8p,2e,8a5,p,a,8b,8a5,8p,c.7,8p,8b,p,a,8g,8c5,8p,2e,8c5,8p,2d,8c5,p,8e5

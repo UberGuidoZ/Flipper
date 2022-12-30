@@ -1,0 +1,1 @@
+GetUpSta:d=8,o=5,b=125:4d6,4g,4d6,4g,16c,16p,d6,16c,16p,d6,d6,g,16c,p.,16c,16p,4b,c6,b,a,a,b,16e,16p,b,16e,16p,c6,b,a,4b,4d6,4g,4d6,4g,16c,16p,d6,16c,16p,d6,d6,g,16c,p.,16c,16p,b,16e,16p,c6,b,a,a,b,16e,16p,b,16e,16p,c6,b,a,4b,16e,p.,e

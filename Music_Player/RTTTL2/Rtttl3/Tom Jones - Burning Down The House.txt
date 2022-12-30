@@ -1,0 +1,1 @@
+BurningD:d=16,o=4,b=112:a,a,c5,a,d5,a,a,a,c5,a,d5,a,a,a,c5,a,a,a,c5,a,d5,a,a,a,c5,a,d5,a,g5,f5,d5,c5,a,a,c5,a,d5,a,a,a,c5,a,d5,a,a,a,c5,a,a,a,c5,a,d5,a,a,a,c5,a,c5,a,g5,f5,d5,c5

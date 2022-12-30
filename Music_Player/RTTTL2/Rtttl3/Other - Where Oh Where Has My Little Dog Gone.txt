@@ -1,0 +1,1 @@
+WhereOhW:d=4,o=5,b=125:32p,d6,8b,8g,8f#,8g,8a,8a,8f#,d,8d6,e6,8d6,8c6,8b,8a,2d6,8b,8c6,d6,8b,8g,8f#,8g,8a,8a,8f#,d,8d6,e6,8d6,8c6,8b,8a,2g

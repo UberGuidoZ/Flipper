@@ -1,0 +1,1 @@
+NiceToKn:d=16,o=5,b=90:g,f#,f#,8d.,d,e,e,f#,f#,p,e,f#,f#,8d.,d,e,e,f#,f#,f#,f#,f#,8a,e,f#,f#,8d.,d,e,e,f#,f#,p,e,f#,f#,8d.,d,e,e,f#,f#,f#,f#,f#,8a,e,f#,f#,8d.,d,e,e,f#,f#,p,e,f#,f#,8d.,d,e,e,f#,f#

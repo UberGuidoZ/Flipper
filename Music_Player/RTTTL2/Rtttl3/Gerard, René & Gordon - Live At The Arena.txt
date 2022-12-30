@@ -1,0 +1,1 @@
+LiveAtTh:d=4,o=6,b=225:2d,2d,d,b5,1e,8p,16p,32p,b5,2a5,2b5,c,d,2c,2g.5,a5,2a.5,g5,a5,b5,2c.5,a5,b5,c_,e,8d,1d,8c_,e.,8f_,2d.,f_,2f_,2g,e,d,f_,1e,d,c_,2e,2d,c_,f_5,1g5,p,d,2d,2c_,b5,d,2d,1c_,e,1d,c_,e,1d,p,f_,2e.,d,c_,1d

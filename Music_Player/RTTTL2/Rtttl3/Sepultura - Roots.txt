@@ -1,0 +1,1 @@
+Roots:d=8,o=5,b=125:2c.,c,c,2c.,4p,2c.,c,c,2c.,4p,2c.,c,c,2c.,4p,2c.,c,c,2c.,4p,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,c,2c.,c,c,2c.,4p,2c.,c,c,2c.,4p,2c.,c,c,2c.,4p,2c.,c,c,2c.

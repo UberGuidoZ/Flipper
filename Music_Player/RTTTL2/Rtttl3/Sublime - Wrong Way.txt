@@ -1,0 +1,1 @@
+WrongWay:d=8,o=5,b=112:32p,g#,g#,g#,a,4b,b,c#6,d6,e6,d6,c#6,4b,b,c#6,d6,e6,d6,c#6,b,b,b,g#,4c#6,g#,2f#,4p,g#,g#,a,4b,b,c#6,d6,e6,d6,c#6,4b,b,c#6,d6,e6,d6,c#6,b,b,b,g#,4c#6,g#,4f#.

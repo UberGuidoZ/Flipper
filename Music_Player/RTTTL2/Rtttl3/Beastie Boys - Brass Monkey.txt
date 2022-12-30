@@ -1,0 +1,1 @@
+BrassMon:d=8,o=5,b=125:32p,4f,e,16f,4p,f,e,f,g#,16f,2p,4f,e,f,e,16f,4p,f,e,f,g#,16f,32p

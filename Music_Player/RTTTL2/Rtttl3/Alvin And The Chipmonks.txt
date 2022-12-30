@@ -1,0 +1,1 @@
+AlvinAnd:d=4,o=5,b=320:g,p,c,c,a,c,c,c,p,b,b,c6,c6,p,c,c,p,a,g,d,2g,d,2p,a,g,d,2g,a,p,g,p,c,c,a,c,c,c,p,b,b,c6,c6,p,c,c,p,a,g,d,2g,d,2p,a,a,g,2a,g,p,2a,b,2a,g,p,c,c,c,c,c,e,e,e,e,2a,g,2a,2g,2a,a,2g,2g.,p,2a,g,2a,g,p,c,c,c,c,c,e,e,e,e,2a,g,2a,2g,2c6,b,2b,1b,2c6

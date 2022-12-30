@@ -1,0 +1,1 @@
+GloryGlo:d=16,o=5,b=125:2g,4p,8p,4f,4e,p,4g,4c6,p,4d6,1e6,1c6,2a,4p,8p,4b,4c6,p,4b,4c6,p,4a,1g,1e,2g,4p,8p,4f,4e,p,4g,4c6,p,4d6,1e6,2c6,4c6,p,4c6,2d6,2d6,2c6,2b,1c6

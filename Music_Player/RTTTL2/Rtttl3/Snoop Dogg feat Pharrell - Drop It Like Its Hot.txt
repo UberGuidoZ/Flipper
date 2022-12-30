@@ -1,0 +1,1 @@
+DropItLi:d=32,o=5,b=90:c6,p,c6,p,16c.6,p,c6,p,c6,p,c6,p,c6,p,c6,p,16c6,c#,p,c#,p,c#,p,c#,p,8c#.,16p,c#,p,c#,p,c#,p,c#,p,4c#,c#,p,c#,p,c#,p,c#,p,16c#.,p,c#6,p,c#6

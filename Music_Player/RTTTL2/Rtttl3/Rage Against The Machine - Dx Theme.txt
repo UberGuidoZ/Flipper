@@ -1,0 +1,1 @@
+DxTheme:d=4,o=5,b=140:8e,8e,8e,8d6,p,16p,8e,8p,8e,d6,8e6,8e6,8e6,8e,8e,8e,8d6,p,16p,8e,8p,8e,8b,8b,8c6,8c6,b,e,8e6,8d6,e.6,b.,c6,f,8g,8f,e,8e6,8d6,e6,8p,c.6,b,2g,16f,e,8e6,8d6,e.

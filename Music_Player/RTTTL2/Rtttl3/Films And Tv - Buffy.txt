@@ -1,0 +1,1 @@
+Buffy:d=4,o=5,b=200:1e,f#,g,1d,p,8d,1d,e,f#,1d,p,1e,f#,e,1d,p,8d,1d,e,f#,1d,p,1a,b,a,1g.,p,g,1f#,p,1e,f#,g,1d,8p,e,f#,1d

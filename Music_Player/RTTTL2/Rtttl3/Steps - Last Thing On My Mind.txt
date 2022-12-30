@@ -1,0 +1,1 @@
+LastThin:d=4,o=6,b=225:g,g,g,8f#,8f#,8f#,e,e,e,d,g,g,8f#,8f#,8f#,e,f#,d,16p,b5,c,b5,f#,f#,f#,g,g,8d,e,16p,g,32p,g,32p,a,32p,g,32p,f#,e,f#,2g

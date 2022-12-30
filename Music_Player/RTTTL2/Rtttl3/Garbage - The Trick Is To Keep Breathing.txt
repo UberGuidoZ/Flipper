@@ -1,0 +1,1 @@
+TheTrick:d=32,o=6,b=250:2b.5,p,8b5,p,4d,p,4e,p,4f#,p,1d,p,8b5,p,4d,p,4e,p,1f#,p,2b.5,p,8b5,p,4d,p,4e,p,4f#,p,1d,p,8b5,p,4d,p,4e,p,1f#,p

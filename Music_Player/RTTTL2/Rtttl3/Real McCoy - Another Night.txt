@@ -1,0 +1,1 @@
+AnotherN:d=32,o=5,b=140:a,8p,e6,8p,d6,16p,e6,8p,a,8p,a,16p,e6,8p,d6,8p,e6,8p,g,8p,d6,8p,c6,16p,d6,8p,g,8p,g,16p,d6,8p,c6,8p,b,8p,a,8p,e6,8p,d6,16p,e6,8p,a,8p,a,16p,e6,8p,d6,8p,e6,8p,g,8p,d6,8p,c6,16p,d6,8p,g,8p,g,16p,d6,8p,c6,8p,b,8p

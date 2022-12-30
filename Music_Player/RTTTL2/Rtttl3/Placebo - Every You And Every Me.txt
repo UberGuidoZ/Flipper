@@ -1,0 +1,1 @@
+EveryYou:d=8,o=6,b=140:32p,d,d,d,16d,16d,d,d,d,d,a#5,a#5,a#5,16a#5,16a#5,c,c,c,c,d,a5,f#5,d,a5,f#5,d,a5,a#5,f5,d5,c,g5,e5,c,g5,d,a5,f#5,d,a5,f#5,d,a5,a#5,f5,d5,c,g5,e5,c,g5,4d.

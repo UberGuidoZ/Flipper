@@ -1,0 +1,1 @@
+GoorianO:d=8,o=6,b=180:a,a,a,b,b,c7,c7,c7,4c7,4a,b,c7,4c7,b,a,g,g,g,a,a,a,2a,4d7,4d7,4d7,4d7,4c7,4e7,e7,d7,4c7,c7,4f7,e7,d7,c7,4b,4a,2c7,4p,b,a,4g,4g,4b,1d7,4c7,4b,4a,1a

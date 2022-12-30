@@ -1,0 +1,1 @@
+DukeNuke:d=16,o=5,b=180:8c,8d#,8p,8f,4p,8c,8f,8p,8g,4p,8c,8g,8p,8g#,8p,8c,8g#,8f,8d#,4c,8p,4d#,8p,8g,8c,8p

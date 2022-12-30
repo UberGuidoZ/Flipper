@@ -1,0 +1,1 @@
+LoseYour:d=8,o=5,b=225:4a6,p,d,4p,d,4p,d,4p,d,4p,d,4p,d,4p,d,4p,4f6,p,d,4p,d,4p,d,4p,4g6,p,d,4p,4c7,a#6,4a6,g6,4a6,p,d,4p,d,4p,d,4p,d,4p,d,4p,d,4p,d,4p,4f6,p,d,4p,d,4p,d,4p,4g6,p,d,4p,4c7,a#6,4a6,g6,4a6
