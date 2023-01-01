@@ -8,7 +8,7 @@ Unleashed Firmware: [Main](https://github.com/Eng1n33r/flipperzero-firmware) | [
 
 RogueMaster Firmware: [Main](https://github.com/RogueMaster/flipperzero-firmware-wPlugins) | [Release](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/releases) *Fork of Unleashed*
 
-ClaraCrazy Firmware [Main](https://github.com/ClaraCrazy/Flipper-Xtreme) | [Release](https://github.com/ClaraCrazy/Flipper-Xtreme/releases) *Fork of RogueMaster*
+ClaraCrazy Firmware [Main](https://github.com/ClaraCrazy/Flipper-Xtreme) | [Release](https://github.com/ClaraCrazy/Flipper-Xtreme/releases) *Fork of Official*
 
 SquachWare Firmware: [Main](https://github.com/skizzophrenic/SquachWare-CFW) | [Release](https://github.com/skizzophrenic/SquachWare-CFW/releases) *Fork of Official*
 
