@@ -14,7 +14,7 @@ Thank you [xMasterX](https://github.com/xMasterX) for compiling and maintaining 
 
 ## Thank you to the authors!
 
-The Flipper and its community wouldn't be as rich as it is without your contributions and support. Thank you for all you have done.
+The Flipper and its community wouldn't be as rich as it is without your contributions and support. Thank you for all you have done. [MORE HERE](https://github.com/DarkFlippers/unleashed-firmware#community-apps-included)
 
 ## Games
 - [2048 (By OlegSchwann)](https://github.com/OlegSchwann/flipperzero-firmware/tree/hackaton/game_2048/applications/game-2048) [(Score By DevMilanIan)](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/pull/186)
