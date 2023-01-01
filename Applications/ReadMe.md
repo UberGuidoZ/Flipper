@@ -1,6 +1,6 @@
 # Flipper Application Packages (FAPs)
 
-## [(Some links to authors and descriptions here)](https://github.com/UberGuidoZ/Flipper/blob/main/Applications/Unleashed%20(and%20RogueMaster)/ReadMe.md)
+## [(Some links to authors and descriptions here)](https://github.com/UberGuidoZ/Flipper/tree/main/Applications/Custom%20(UL%2C%20RM%2C%20XFW)#readme)
 
 The long-awaited addition of loading plugins (applications) from the SD card is here thanks to some hard work by the Official Flipper devteam. Anna/hedger released a FAP pack with some pre-built plugins, ready to go. Check out the [Official documentation](https://github.com/flipperdevices/flipperzero-firmware/blob/dev/documentation/AppsOnSDCard.md) for more info.
 
