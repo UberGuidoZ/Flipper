@@ -6,9 +6,9 @@ Official Firmware: [Main](https://github.com/flipperdevices/flipperzero-firmware
 
 Unleashed Firmware: [Main](https://github.com/Eng1n33r/flipperzero-firmware) | [Release](https://github.com/Eng1n33r/flipperzero-firmware/releases) *Fork of Official, unlocks many things*
 
-RogueMaster Firmware: [Main](https://github.com/RogueMaster/flipperzero-firmware-wPlugins) | [Release](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/releases) *Fork of Unleashed*
+Xtreme (ClaraCrazy) Firmware [Main](https://github.com/ClaraCrazy/Flipper-Xtreme) | [Release](https://github.com/ClaraCrazy/Flipper-Xtreme/releases) *Fork of Official, Features of Unleashed*
 
-ClaraCrazy (Xtreme) Firmware [Main](https://github.com/ClaraCrazy/Flipper-Xtreme) | [Release](https://github.com/ClaraCrazy/Flipper-Xtreme/releases) *Fork of Official, Features of Unleashed*
+RogueMaster Firmware: [Main](https://github.com/RogueMaster/flipperzero-firmware-wPlugins) | [Release](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/releases) *Fork of Unleashed* (NOTE: Current builds behind Patreon subscription)
 
 SquachWare Firmware: [Main](https://github.com/skizzophrenic/SquachWare-CFW) | [Release](https://github.com/skizzophrenic/SquachWare-CFW/releases) *Fork of Official, remains locked*
 
