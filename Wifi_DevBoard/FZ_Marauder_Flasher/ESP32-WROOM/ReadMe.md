@@ -2,13 +2,13 @@
 
 Looking for a Linux/OS X version? [Check out SkeletonMan's Python edition!](https://github.com/SkeletonMan03/FZEasyMarauderFlash)
 
-Flasher_1
+![Flasher_1](https://user-images.githubusercontent.com/57457139/210445500-c0ef079e-6d5e-4157-b61f-2c4f8bc83820.png)
 
 ## Now it's as easy as 1, 2, 3 to install or update Marauder on Windows.
 
 1. Download and extract [the ZIP file](https://github.com/UberGuidoZ/Flipper/tree/main/Wifi_DevBoard/FZ_Marauder_Flasher/ESP32-WROOM) above to the same directory.<br>
 2. Plug in your ESP32-WROOM or v4 OEM Marauder directly into your PC directly via USB.<br>
-3. Double-click `Flash-WROOM_v1.10.bat` from the extracted files then choose `Flash` or `Update`.
+3. Double-click `Flash-WROOM.bat` from the extracted files then choose `Flash` or `Update`.
 
 * If you choose `Flash Marauder` the script will locate your board and flash Marauder automatically!<br>
 * If you choose `Update Marauder` you'll be taken to the Marauder download location to grab a new version.<br>
