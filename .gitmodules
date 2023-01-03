@@ -34,3 +34,6 @@
 [submodule "Graphics/Kuronons"]
 	path = Graphics/Kuronons
 	url = https://github.com/Kuronons/FZ_graphics.git
+[submodule "BadUSB/UNC0V3R3D-BadUSB"]
+	path = BadUSB/UNC0V3R3D-BadUSB
+	url = https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb
