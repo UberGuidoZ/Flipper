@@ -40,3 +40,6 @@
 [submodule "BadUSB/atomiczsec-BadUSB"]
 	path = BadUSB/atomiczsec-BadUSB
 	url = https://github.com/atomiczsec/My-Payloads
+[submodule "Graphics/Haseosama"]
+	path = Graphics/Haseosama
+	url = https://github.com/Haseosama/FZ_Animations
