@@ -6,7 +6,7 @@ Looking for a Linux/OS X version? [Check out SkeletonMan's Python edition!](http
 
 ## Now it's as easy as 1, 2, 3 to install or update Marauder on Windows.
 
-1. Download and extract [the ZIP file](https://github.com/UberGuidoZ/Flipper/tree/main/Wifi_DevBoard/FZ_Marauder_Flasher/ESP32-WROOM) above to the same directory.<br>
+1. Download and extract [the ZIP file](https://github.com/UberGuidoZ/Flipper/raw/main/Wifi_DevBoard/FZ_Marauder_Flasher/ESP32-WROOM/Marauder_WROOM_v1.10.zip) above to the same directory.<br>
 2. Plug in your ESP32-WROOM or v4 OEM Marauder directly into your PC directly via USB.<br>
 3. Double-click `Flash-WROOM.bat` from the extracted files then choose `Flash` or `Update`.
 
@@ -19,7 +19,7 @@ Current Marauder version included in the ZIP: v0.10.0.20221222 (current release 
 
 **Once the install has completed, [head over here](https://github.com/justcallmekoko/ESP32Marauder/wiki) to learn more about what Marauder can do!**
 
-The [batch file](https://github.com/UberGuidoZ/Flipper/blob/main/Wifi_DevBoard/FZ_Marauder_Flasher/ESP32-WROOM/Flash-WROOM_v1.10.bat) is also included above for review and to track changes.
+The [batch file](https://github.com/UberGuidoZ/Flipper/blob/main/Wifi_DevBoard/FZ_Marauder_Flasher/ESP32-WROOM/Flash-WROOM.bat) is also included above for review and to track changes.
 
 Acknowledgements:<br>
 * [justcallmekoko](https://github.com/justcallmekoko/ESP32Marauder) for the AWESOME work in developing Marauder and porting it to the Flipper.
