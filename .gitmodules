@@ -43,3 +43,6 @@
 [submodule "Graphics/Haseosama"]
 	path = Graphics/Haseosama
 	url = https://github.com/Haseosama/FZ_Animations
+[submodule "BadUSB/FalsePhilosopher"]
+	path = BadUSB/FalsePhilosopher
+	url = https://github.com/FalsePhilosopher/badusb
