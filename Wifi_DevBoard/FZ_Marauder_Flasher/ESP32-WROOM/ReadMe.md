@@ -1,4 +1,6 @@
-# Quick and easy flasher/updater for [Marauder](https://github.com/justcallmekoko/ESP32Marauder) v4 OEM or ESP32-WROOM chips!
+# Quick and easy flasher/updater for [Marauder](https://github.com/justcallmekoko/ESP32Marauder) ESP32-WROOM!
+
+## This flasher/updater will work for any ESP32-WROOM chip or the v4 OEM Marauder.
 
 Looking for a Linux/OS X version? [Check out SkeletonMan's Python edition!](https://github.com/SkeletonMan03/FZEasyMarauderFlash)
 
