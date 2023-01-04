@@ -49,7 +49,8 @@ NRF24: 9 or 10 (VCC) to FZ 9 (3v3)
 
 ![ESP32-WROOM](https://user-images.githubusercontent.com/57457139/182290985-54d00e1e-dd3f-4efd-a66f-4d6b8e8c2ed2.jpg)
 
-NOTE: Use `old_hardware.bin` if flashing Marauder onto the ESP32-WROOM (thanks wyldgoat!)
+NOTE: Use `old_hardware.bin` if flashing Marauder onto the ESP32-WROOM (thanks wyldgoat!)<br>
+[Easy Flasher (Windows / Linux / Mac) available here](https://github.com/UberGuidoZ/Flipper/tree/main/Wifi_DevBoard/FZ_Marauder_Flasher/ESP32-WROOM).
 
 ![wyldgoat](https://user-images.githubusercontent.com/57457139/182552144-46abf993-160e-42e2-8dde-466da146b16d.png)<br>
 ![bobo_dudu](https://user-images.githubusercontent.com/57457139/182552153-9c50f817-8b8c-4d31-8d62-3fe8fca7a48b.png)
