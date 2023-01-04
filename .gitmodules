@@ -46,3 +46,6 @@
 [submodule "BadUSB/FalsePhilosopher"]
 	path = BadUSB/FalsePhilosopher
 	url = https://github.com/FalsePhilosopher/badusb
+[submodule "Graphics/SynthetikSpace"]
+	path = Graphics/SynthetikSpace
+	url = https://github.com/synthetikspace/SynthetikSpace-FZ-Animations
