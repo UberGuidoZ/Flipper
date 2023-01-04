@@ -1,0 +1,1 @@
+around_the_corner:d=4,o=5,b=125:b6,e6,f6,c7,b6,e6,f6,c7,b6,e6,f6,c7,b6,e6,f6

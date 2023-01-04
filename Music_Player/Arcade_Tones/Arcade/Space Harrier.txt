@@ -1,0 +1,1 @@
+spaceharrier:d=4,o=5,b=160:f6,8e6,1e6,g,a,f6,8e6,1e.6,f6,8e6,1e6,d6,e6,1f6,g#6,2g6,f6,f6,8e6,1e6,g,a,f6,8e6,1e.6,f6,8e6,1e6,d6,e6,1f6,g#6,2g6,f6,1e6,e,g,d6,2c#6,a#,2a,8g,8f,e,8f,1d,8d,8e,f,8g,2a,g#,2f6,2d6,1e6,e,g,d6,1c#6,8e6,8c#6,8a#,8a,8g,8f,8e,2d,e,8f,8e,8f,8g,8f,8g,2a,8g,2g6

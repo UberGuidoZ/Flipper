@@ -1,0 +1,1 @@
+neogeo:d=4,o=5,b=90:g,e,8b.,2a,8p,c6,b,8g.,2a
