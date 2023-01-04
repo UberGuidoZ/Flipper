@@ -1,7 +1,9 @@
 Filetype: IR library file
 Version: 1
-# Last Updated 26th Dec, 2022
-# Last Checked 26th Dec, 2022
+# Last Updated 4th Jan, 2023
+# Last Checked 4th Jan, 2023
+#
+# Brand Unknown
 #
 # ON
 name: POWER
@@ -641,3 +643,54 @@ protocol: NEC
 address: 02 00 00 00
 command: 18 00 00 00
 #
+# StereoBoomm: MMP250
+#
+name: POWER
+type: parsed
+protocol: NECext
+address: B8 57 00 00
+command: 0C F3 00 00
+#
+name: MUTE
+type: parsed
+protocol: NECext
+address: B8 57 00 00
+command: 0D F2 00 00
+#
+name: VOL-
+type: parsed
+protocol: NECext
+address: B8 57 00 00
+command: 1E E1 00 00
+# 
+name: VOL+
+type: parsed
+protocol: NECext
+address: B8 57 00 00
+command: 1F E0 00 00
+#
+# Optoma DH 1011 DLP Projector
+#
+name: POWER
+type: parsed
+protocol: NEC
+address: 32 00 00 00
+command: 81 00 00 00
+#
+name: VOL-
+type: parsed
+protocol: NEC
+address: 32 00 00 00
+command: 8F 00 00 00
+# 
+name: VOL+
+type: parsed
+protocol: NEC
+address: 32 00 00 00
+command: 8C 00 00 00
+# 
+name: MUTE
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 9066 4428 608 507 609 1622 609 507 609 507 609 1623 608 1623 609 507 609 506 610 1623 609 507 609 1622 610 1623 608 507 609 506 610 1622 609 1623 609 506 610 1622 610 506 610 1623 637 478 690 425 638 478 637 1594 637 1594 664 451 636 1594 610 506 610 1621 611 1621 610 1621 610 505 611 40183 9065 2156 637 95953 9037 2185 608
