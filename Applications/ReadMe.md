@@ -31,21 +31,25 @@ To exit and/or load something else, simply use the BACK button.
 # Building applications
 ## Here are some resources on getting started creating and building FAPS.
 
-### official documentation
+### Official documentation
 https://github.com/flipperdevices/flipperzero-firmware/blob/dev/documentation/AppsOnSDCard.md
 
-### Flipper plugin tutorial
-https://github.com/DroomOne/Flipper-Plugin-Tutorial
+### Dev documentation by at-manos
+https://flipper.atmanos.com/docs/category/overview
 
-### Flipper plugin how to
-https://github.com/csBlueChip/FlipperZero_plugin_howto
+### Flipper plugin tutorial
+By DroomOne: https://github.com/DroomOne/Flipper-Plugin-Tutorial
+
+By giolaq: https://blog.giolaq.dev/hello-world-of-flipper-zero <br>
+The repo that goes with giolaq's blog: https://github.com/giolaq/helloflipper
+
+By csBlueChip: https://github.com/csBlueChip/FlipperZero_plugin_howto
 
 ## Hello world examples
-https://github.com/zmactep/flipperzero-hello-world
-https://github.com/ASoldo/hello_world
-https://github.com/giolaq/helloflipper
-https://github.com/baakeydow/flipper0-rust-hello-world
-https://github.com/mervburger/flipper_helloworld
+By zmactep: https://github.com/zmactep/flipperzero-hello-world <br>
+By ASoldo: https://github.com/ASoldo/hello_world <br>
+By mervburger: https://github.com/mervburger/flipper_helloworld <br>
+A rust implimentation by baakeydow: https://github.com/baakeydow/flipper0-rust-hello-world <br>
 
 -----
 
