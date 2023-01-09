@@ -1,6 +1,6 @@
 # Blank SUB files for pausing playlists
 
-While using the [SubGHz Playlist](https://github.com/darmiel/flipper-playlist) included in most custom firmware, it's been a common question as to how to pause the playlist to wait for something to finish before continuing. While you could record raw data for the needed time, you might pick up other signals that you don't wish to reply. (Plus, then you're sitting there recording a long RAW or chaining together a bunch of short ones.)
+While using the [SubGHz Playlist](https://github.com/darmiel/flipper-playlist) included in most custom firmware, it's been a common question as to how to pause the playlist to wait for something to finish before continuing. While you could record raw data for the needed time, you might pick up other signals that you don't wish to replay. Plus, then you're sitting there recording a long RAW or chaining together a bunch of short ones.
 
 Thanks to [darmiel](https://github.com/darmiel) (creator of SubGHz Playlist), the issue is solved! I've confirmed via a pulse plotter and a HackRF these files send "nothing" when played back. They are manually generated, not recorded, and are designed to "pause" playlists by filling the space with nothing. I've sorted the files into `Seconds`, `Minutes`, and `Hours` for ease of finding what you need.
 
@@ -15,7 +15,7 @@ RAW_Data: 1000 -9999000
 ```
 The very last number, or `-9999000` in the above example, is the amount of time in microseconds. This should be just under the time you want by 1/1000 of a second as the first `1000` counts as one. In the above example, [this is 9.999 seconds](https://www.google.com/search?q=9999000+microseconds), which is 10 seconds when you add the first 1000 pulse.
 
-So, to set your own, it's the same as adding 6 zeros, then subtracting 1/1000. For example, 45 seconds would be `-45000000` minus 1/1000 which is `-44999000` and the full file would be
+So, to set your own, it's the same as adding 6 zeros to the amount of time in seconds, then subtracting 1/1000. For example, 45 seconds would be `-45000000` minus 1/1000 which is `-44999000` and the full file would be:
 ```
 Filetype: Flipper SubGhz RAW File
 Version: 1
@@ -24,6 +24,8 @@ Preset: FuriHalSubGhzPresetOok650Async
 Protocol: RAW
 RAW_Data: 1000 -44999000
 ```
+To use these, simply put the SUB file in the spot of your playlist where you need it to pause. The Flipper will still appear to be sending something, but in fact it's sending a blank signal for the specified time.
+
 -----
 
 ## Donation Information
