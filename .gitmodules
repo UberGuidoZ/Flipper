@@ -49,3 +49,6 @@
 [submodule "Graphics/SynthetikSpace"]
 	path = Graphics/SynthetikSpace
 	url = https://github.com/synthetikspace/SynthetikSpace-FZ-Animations
+[submodule "Graphics/HexxedBitHeadz"]
+	path = Graphics/HexxedBitHeadz
+	url = https://github.com/HexxedBitHeadz/FlipperZeroWallpaper
