@@ -52,3 +52,6 @@
 [submodule "Graphics/HexxedBitHeadz"]
 	path = Graphics/HexxedBitHeadz
 	url = https://github.com/HexxedBitHeadz/FlipperZeroWallpaper
+[submodule "Sub-GHz/Customer_Assistance_Buttons/Jimi-Cust-Buttons"]
+	path = Sub-GHz/Customer_Assistance_Buttons/Jimi-Cust-Buttons
+	url = https://github.com/jimilinuxguy/customer-assistance-buttons-sdr
