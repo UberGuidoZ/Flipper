@@ -55,3 +55,6 @@
 [submodule "Sub-GHz/Customer_Assistance_Buttons/Jimi-Cust-Buttons"]
 	path = Sub-GHz/Customer_Assistance_Buttons/Jimi-Cust-Buttons
 	url = https://github.com/jimilinuxguy/customer-assistance-buttons-sdr
+[submodule "Sub-GHz/Vehicles/TPMS-Flipper"]
+	path = Sub-GHz/Vehicles/TPMS-Flipper
+	url = https://github.com/Crsarmv7l/TPMS-Flipper
