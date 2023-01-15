@@ -1,0 +1,14 @@
+Filetype: IR signals file
+Version: 1
+# 
+name: Neo_on
+type: parsed
+protocol: NECext
+address: 00 EF 00 00
+command: 03 FC 00 00
+# 
+name: Neo_off
+type: parsed
+protocol: NECext
+address: 00 EF 00 00
+command: 02 FD 00 00
