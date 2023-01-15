@@ -58,3 +58,6 @@
 [submodule "Sub-GHz/Vehicles/TPMS-Flipper"]
 	path = Sub-GHz/Vehicles/TPMS-Flipper
 	url = https://github.com/Crsarmv7l/TPMS-Flipper
+[submodule "Sub-GHz/Restaurant_Pagers/Pagger-Generator"]
+	path = Sub-GHz/Restaurant_Pagers/Pagger-Generator
+	url = https://github.com/meoker/pagger
