@@ -61,3 +61,6 @@
 [submodule "Sub-GHz/Restaurant_Pagers/Pagger-Generator"]
 	path = Sub-GHz/Restaurant_Pagers/Pagger-Generator
 	url = https://github.com/meoker/pagger
+[submodule "BadUSB/Kavitate-BadUSB"]
+	path = BadUSB/Kavitate-BadUSB
+	url = https://github.com/Kavitate/FlipperZeroBadUSB
