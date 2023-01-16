@@ -1,6 +1,6 @@
 # WARNING ABOUT JAMMING - This is probably illegal to do.
 
- These files are for educational use to determine ways the Flipper can work, how jamming works, and reviewing preventative actions.<br>
+ These files are for educational use to determine ways the Flipper can work, how jamming works, and reviewing preventative actions[.](https://github.com/SHUR1K-N/Flipper-Zero-Sub-GHz-Jamming)<br>
 Files are UNTESTED and may cause magic smoke. Generated with a HackRF and recorded with the Flipper. *(Credit: dandri#6962 on Discord)*
 
 -----
