@@ -1,0 +1,13 @@
+App(
+    appid="fbp",
+    name="Flipper BP",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="fbp_app",
+    stack_size=1 * 1024,
+    requires=[
+        "bt",
+        "gui",
+    ],
+    fap_category="Misc_Extra",
+    fap_icon="uart_10px.png",
+)

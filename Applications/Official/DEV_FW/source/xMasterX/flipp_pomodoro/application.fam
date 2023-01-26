@@ -1,0 +1,11 @@
+App(
+    appid="flipp_pomodoro",
+    name="Flipp Pomodoro",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="flipp_pomodoro_app",
+    requires=["gui", "notification", "dolphin"],
+    stack_size=1 * 1024,
+    fap_category="Misc_Extra",
+    fap_icon_assets="images",
+    fap_icon="flipp_pomodoro_10.png",
+)

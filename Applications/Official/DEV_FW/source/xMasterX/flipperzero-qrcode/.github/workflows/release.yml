@@ -1,0 +1,30 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - 'v[0-9]+.[0-9]+.[0-9]+'
+
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Flipper Zero Firmware
+        uses: actions/checkout@v3
+        with:
+          repository: 'flipperdevices/flipperzero-firmware'
+          ref: '0.74.2'
+          submodules: true
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          path: 'applications_user/qrcode_app'
+      - name: Build
+        run: ./fbt fap_qrcode
+      - name: Publish
+        uses: softprops/action-gh-release@v1
+        with:
+          files: build/f7-firmware-D/.extapps/qrcode.fap
+          generate_release_notes: true
+          fail_on_unmatched_files: true

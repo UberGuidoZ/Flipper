@@ -1,0 +1,12 @@
+App(
+    appid="dcf77",
+    name="DCF77 Transmitter",
+    apptype=FlipperAppType.PLUGIN,
+    entry_point="dcf77_app_main",
+    cdefines=["APP_DCF77"],
+    requires=["gui"],
+    stack_size=1 * 1024,
+    order=10,
+    fap_icon="icons/app.png",
+    fap_category="Misc_Extra",
+)

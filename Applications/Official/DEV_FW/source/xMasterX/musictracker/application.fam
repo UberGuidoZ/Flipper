@@ -1,0 +1,14 @@
+App(
+    appid="zero_tracker",
+    name="Zero Tracker",
+    apptype=FlipperAppType.PLUGIN,
+    entry_point="zero_tracker_app",
+    requires=[
+        "gui",
+    ],
+    stack_size=4 * 1024,
+    order=20,
+    fap_icon="zero_tracker.png",
+    fap_category="Music_Extra",
+    fap_icon_assets="icons",
+)

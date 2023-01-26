@@ -1,0 +1,20 @@
+Core improvements
+=================
+
+- Detection of non Manchester and non RZ encoded signals. Not sure if there are any signals that are not self clocked widely used in RF. Note that the current approach already detects encodings using short high + long low and long high + short low to encode 0 and 1. In addition to the current classifier, it is possible to add one that checks for a sequence of pulses that are all multiples of some base length. This should detect, for instance, even NRZ encodings where 1 and 0 are just clocked as they are.
+
+- Views on-enter on-exit.
+
+Features
+========
+
+- Help screen (with press ok for next page).
+- Detect the line code used and try to decode the message as hex dump.
+- Pressing right/left you browse different modes:
+  * Current best signal pulse classes.
+  * Raw square wave display. Central button freezes and resumes (toggle). When frozen we display "paused" (inverted) on the low part of the screen.
+
+Screens sequence (user can navigate with <- and ->):
+
+                            (default)
+[settings] <> [freq] <> [pulses view] <> [raw square view] <> [signal info]

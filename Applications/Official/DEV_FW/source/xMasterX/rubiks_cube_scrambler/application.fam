@@ -1,0 +1,20 @@
+# COMPILE ISTRUCTIONS:
+
+# Clean the code and remove old binaries/compilation artefact 
+# ./fbt -c fap_rubiks_cube_scrambler
+
+# Compile FAP
+# ./fbt fap_rubiks_cube_scrambler
+
+# Run application directly inside the Flip.x0
+# ./fbt launch_app APPSRC=rubiks_cube_scrambler
+
+App(
+    appid="rubiks_cube_scrambler",
+    name="Rubik's Cube Scrambler",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="rubiks_cube_scrambler_main",
+    stack_size=1 * 1024,
+    fap_category="Misc_Extra",
+    fap_icon="cube.png",
+)

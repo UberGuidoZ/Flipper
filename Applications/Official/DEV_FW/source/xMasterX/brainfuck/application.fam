@@ -1,0 +1,14 @@
+App(
+    appid="Brainfuck",
+    name="Brainfuck",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="brainfuck_app",
+    requires=[
+        "storage",
+        "gui",
+    ],
+    stack_size=8 * 1024,
+    fap_icon="bfico.png",
+    fap_category="Misc_Extra",
+    fap_icon_assets="icons",
+)

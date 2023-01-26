@@ -1,0 +1,12 @@
+App(
+    appid="passgen",
+    name="Password Generator",
+    apptype=FlipperAppType.PLUGIN,
+    entry_point="passgenapp",
+    requires=[
+        "gui",
+    ],
+    fap_category="Misc_Extra",
+    fap_icon="icons/passgen_icon.png",
+    fap_icon_assets="icons",
+)

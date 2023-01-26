@@ -1,0 +1,34 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+#
+# VB Lab Migration Assistant for Flipper Zero
+# Copyright (C) 2022  cyanic
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+App(
+    appid="vb_migrate",
+    name="VB Migration Assistant",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="vb_migrate_app",
+    requires=["gui", "storage"],
+    stack_size=2 * 1024,
+    fap_version=(1,0),
+    fap_libs=["nfc", "misc", "mbedtls", "ST25RFAL002", "gcc", "toolbox"],
+    fap_icon="vb_migrate_10px.png",
+    fap_category="Misc_Extra",
+    fap_description="Makes transferring characters with VB Lab less cumbersome",
+    fap_author="cyanic",
+    fap_weburl="https://github.com/GMMan/flipperzero-vb-migrate",
+    fap_icon_assets="icons",
+)

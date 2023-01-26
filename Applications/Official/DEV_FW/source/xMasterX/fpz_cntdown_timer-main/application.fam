@@ -1,0 +1,16 @@
+# qv. https://github.com/flipperdevices/flipperzero-firmware/blob/dev/documentation/AppManifests.md
+
+App(
+    appid="cntdown_tim",
+    name="Count Down Timer",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="app_main",
+    cdefines=["APP_COUNT_DOWN_TIMER"],
+    requires=[
+        "gui",
+    ],
+    stack_size=2 * 1024,
+    order=20,
+    fap_icon="cntdown_timer.png",
+    fap_category="Misc_Extra",
+)

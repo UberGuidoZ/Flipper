@@ -1,0 +1,6 @@
+ADD_SCENE(brainfuck, start, Start)
+ADD_SCENE(brainfuck, file_select, FileSelect)
+ADD_SCENE(brainfuck, file_create, FileCreate)
+ADD_SCENE(brainfuck, dev_env, DevEnv)
+ADD_SCENE(brainfuck, exec_env, ExecEnv)
+ADD_SCENE(brainfuck, set_input, SetInput)
