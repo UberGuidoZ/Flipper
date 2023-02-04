@@ -1,0 +1,8 @@
+UP: /ext/subghz/LED/BeamZ/ShowBar_Laser/Auto.sub
+DOWN: /ext/subghz/LED/BeamZ/ShowBar_Laser/Black_out.sub
+LEFT:/ext/subghz/LED/BeamZ/ShowBar_Laser/Colour.sub
+RIGHT: /ext/subghz/LED/BeamZ/ShowBar_Laser/Sound.sub
+ULABEL: Auto Mode
+DLABEL: Black Out / Stop
+LLABEL: Change Color
+RLABEL: Sound Mode
