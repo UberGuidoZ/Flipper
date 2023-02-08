@@ -1,0 +1,9 @@
+# Cancel the Call to the Waiter
+Filetype: Flipper SubGhz Key File
+Version: 1
+Frequency: 434075000
+Preset: FuriHalSubGhzPresetOok650Async
+Protocol: Princeton
+Bit: 24
+Key: 00 00 00 00 00 56 28 A1
+TE: 597
