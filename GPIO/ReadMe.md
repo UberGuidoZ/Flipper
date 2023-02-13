@@ -113,7 +113,7 @@ Switch between UART Pins 13/14 and 15/16 setting in FlipperZero<br>
 
 Picture includes wiring pinout for the SD card mod too!
 
-# ESP32-CAM (Camera)
+# ESP32-CAM (Camera) - [FAP FILE HERE](https://github.com/Z4urce/flipperzero-camera/)!
 
 ![ESP32-CAM](https://user-images.githubusercontent.com/57457139/182571081-81df66a8-a536-426f-9ee0-ee277da5ef0a.png)
 
