@@ -224,12 +224,12 @@ https://github.com/quen0n/FipperZero-DHT-Monitor
 # Custom PCB's
 ## Here's some repo's with designs for custom PCB's you can order or build using a prototype board.
 
-https://github.com/DrB0rk/Flipper-Zero-Boards
-https://github.com/Speexvocon/FlipperZeroHeaderExtender
-https://github.com/krolchonok/flipper-board
-https://github.com/AWOK559/Flipper_Zero_Boards
-https://github.com/TheOtherLonestar/RS-232-UART-Flipper
-https://github.com/oleksiikutuzov/flipperzero-flasher-board
+[DrB0rk](https://github.com/DrB0rk/Flipper-Zero-Boards)<br>
+[AWOK](https://github.com/AWOK559/Flipper_Zero_Boards)<br>
+[Speexvocon](https://github.com/Speexvocon/FlipperZeroHeaderExtender)<br>
+[ushastoe](https://github.com/krolchonok/flipper-board)<br>
+[TheOtherLonestar](https://github.com/TheOtherLonestar/RS-232-UART-Flipper)<br>
+[Oleksii Kutuzov](https://github.com/oleksiikutuzov/flipperzero-flasher-board)
 
 -----
 
