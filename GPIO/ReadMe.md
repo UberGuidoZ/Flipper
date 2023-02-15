@@ -226,7 +226,7 @@ https://github.com/quen0n/FipperZero-DHT-Monitor
 
 [DrB0rk](https://github.com/DrB0rk/Flipper-Zero-Boards)<br>
 [AWOK](https://github.com/AWOK559/Flipper_Zero_Boards)<br>
-[Speexvocon](https://github.com/Speexvocon/FlipperZeroHeaderExtender)<br>
+[Speexvocon](https://github.com/Speexvocon/) ([ESP Expansion](https://github.com/Speexvocon/FlipperZeroESPexpansion) and [Header Extender](https://github.com/Speexvocon/FlipperZeroHeaderExtender)<br>
 [ushastoe](https://github.com/krolchonok/flipper-board)<br>
 [TheOtherLonestar](https://github.com/TheOtherLonestar/RS-232-UART-Flipper)<br>
 [Oleksii Kutuzov](https://github.com/oleksiikutuzov/flipperzero-flasher-board)
