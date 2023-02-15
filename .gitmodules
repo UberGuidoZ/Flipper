@@ -64,3 +64,6 @@
 [submodule "BadUSB/Kavitate-BadUSB"]
 	path = BadUSB/Kavitate-BadUSB
 	url = https://github.com/Kavitate/FlipperZeroBadUSB
+[submodule "NFC/Toys/FlipperSkylanders"]
+	path = NFC/Toys/FlipperSkylanders
+	url = https://github.com/sealldeveloper/FlipperSkylanders
