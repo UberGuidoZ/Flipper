@@ -64,3 +64,6 @@
 [submodule "BadUSB/Kavitate-BadUSB"]
 	path = BadUSB/Kavitate-BadUSB
 	url = https://github.com/Kavitate/FlipperZeroBadUSB
+[submodule "NFC/Amiibo/Lanjelin-Converter"]
+	path = NFC/Amiibo/Lanjelin-Converter
+	url = https://github.com/Lanjelin/AmiiboConverter
