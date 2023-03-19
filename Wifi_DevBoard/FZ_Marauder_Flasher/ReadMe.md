@@ -19,7 +19,7 @@ Or if you'd rather have a quick rundown of using the Flipper Application, check 
 * If you choose `Save Flipper Blackmagic WiFi settings` your current Blackmagic configuration will be saved.<br>
 * If you choose `Flash Flipper Blackmagic` the script will flash the original Blackmagic firmware it shipped with.
 
-Current Marauder version included in the ZIP: v0.10.0.20221222 (current release as of Dec 22, 2022)
+Current Marauder version included in the ZIP: v0.10.2.20230315 (current release as of Mar 15, 2023)
 
 **Once the install has completed, [head over here](https://github.com/UberGuidoZ/Flipper/tree/main/Wifi_DevBoard#marauder-install-information) to learn more about what Marauder can do!**
 

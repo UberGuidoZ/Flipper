@@ -3,7 +3,7 @@ setlocal enabledelayedexpansion
 cls
 echo.
 echo #########################################
-echo #    Marauder WROOM Flasher v1.10       #
+echo #    Marauder WROOM Flasher v1.20       #
 echo #    By UberGuidoZ and SkeletonMan      #
 echo #########################################
 echo. 
@@ -26,7 +26,7 @@ echo.
 echo Which action would you like to perform?
 echo.
 echo 1. Flash Marauder WROOM (including older v4 OEM).
-echo 2. Update Marauder (v0.10.0 included).
+echo 2. Update Marauder (v0.10.2 included).
 echo 3. Download USB UART Drivers (Silicon Labs).
 echo.
 set choice=
@@ -43,7 +43,7 @@ GOTO CHOOSE
 cls
 echo.
 echo #########################################
-echo #    Marauder WROOM Flasher v1.10       #
+echo #    Marauder WROOM Flasher v1.20       #
 echo #    By UberGuidoZ and SkeletonMan      #
 echo #########################################
 echo. 
@@ -60,7 +60,7 @@ GOTO DONE
 cls
 echo.
 echo #########################################
-echo #    Marauder WROOM Flasher v1.10       #
+echo #    Marauder WROOM Flasher v1.20       #
 echo #    By UberGuidoZ and SkeletonMan      #
 echo #########################################
 echo.
@@ -75,7 +75,7 @@ GOTO ERREXIT
 cls
 echo.
 echo #########################################
-echo #    Marauder WROOM Flasher v1.10       #
+echo #    Marauder WROOM Flasher v1.20       #
 echo #    By UberGuidoZ and SkeletonMan      #
 echo #########################################
 echo.

@@ -19,7 +19,7 @@ Looking for a Linux/OS X version? [Check out SkeletonMan's Python edition!](http
 (Simply download the OLD_HARDWARE BIN file, stick it in the WROOM subfolder by the batch file, and delete the old BIN.)<br>
 * If you choose `Download USB UART` the script will open the Silicon Labs driver download.
 
-Current Marauder version included in the ZIP: v0.10.0.20221222 (current release as of Dec 22, 2022)
+Current Marauder version included in the ZIP: v0.10.2.20230315 (current release as of Mar 15, 2023)
 
 **Once the install has completed, [head over here](https://github.com/justcallmekoko/ESP32Marauder/wiki) to learn more about what Marauder can do!**
 
