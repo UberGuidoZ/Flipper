@@ -5,7 +5,8 @@ See the [official documentation](https://github.com/flipperdevices/flipperzero-f
 ## A humble thank you to [Alexei Humeniy](https://github.com/ahumeniy) for maintaining the FAPs for Official firmware!
 Missing or outdated FAPs may be found from [kyhwana](https://github.com/kyhwana/latest_flipper_zero_apps) or [grnch](https://github.com/grinchdubs/latest_flipper_zero_apps), plus [Aleksandr Zhytnyk](https://github.com/OperKH) has also contributed a number of updates.
 
-They have been compiled for the current API version (11.x), but if you run across any not here, please PR them in! (Or tag me in Discord...)<br>
+They have been compiled for the API version compatible with 0.78.1 - authors will need to update for 0.79.x due to the `ValueMutex` being changed<br>
+If you run across any not here, or wish to contirbute updates, please PR them in! (Or tag me in Discord...)<br>
 **NOTE: Some apps which use audio won't work due to a new pattern for audio access.** ([More info](https://github.com/UberGuidoZ/Flipper/pull/257))
 
 [Links to full application name and authors](https://github.com/UberGuidoZ/Flipper/tree/main/Applications/Unleashed%20(and%20RogueMaster))
