@@ -8,5 +8,5 @@ GUI SPACE
 STRING terminal
 ENTER
 DELAY 2000
-STRING curl https://parrot.live &
+STRING curl https://ascii.live/parrot &
 ENTER
