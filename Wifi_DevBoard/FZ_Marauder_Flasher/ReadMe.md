@@ -9,7 +9,7 @@ Or if you'd rather have a quick rundown of using the Flipper Application, check 
 
 ## Now it's as easy as 1, 2, 3 to install or update Marauder on Windows.
 
-1. Download and extract [the ZIP file](https://github.com/UberGuidoZ/Flipper/raw/main/Wifi_DevBoard/FZ_Marauder_Flasher/FZ_Marauder_v2.0.zip) above to the same directory.<br>
+1. Download and extract [the ZIP file](https://github.com/UberGuidoZ/Flipper/raw/main/Wifi_DevBoard/FZ_Marauder_Flasher/FZ_Marauder_v2.1.zip) above to the same directory.<br>
 2. Hold `BOOT` on the devboard and plug it into your PC directly via USB.<br>
 3. Double-click `flash.bat` from the extracted files then choose `Flash` or `Update`.
 
