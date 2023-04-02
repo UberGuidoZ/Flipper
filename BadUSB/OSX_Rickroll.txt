@@ -17,7 +17,7 @@ DELAY 1000
 STRING open 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'
 ENTER
 DELAY 1000
-COMMAND TAB
+GUI TAB
 DELAY 100
 STRING osascript -e 'set volume 7' && killall Terminal
 ENTER
