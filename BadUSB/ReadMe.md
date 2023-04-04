@@ -13,6 +13,8 @@ Protip: Change the VID/PID to further trust of your device. [Great searchable li
 
 Don't forget to check out some other friends too! [I-Am-Jakoby](https://github.com/I-Am-Jakoby) | [Øiphori3](https://github.com/0iphor13) | [Hak5](https://hak5.org/blogs/payloads)
 
+Some others I've found but can't vouch for (but worth exploring!) [SIGUrger](https://github.com/SIGUrger/FlipperZeroBadusb)
+
 Thirsty for more? Here's some light reading (lol) about the [USB HID spec](https://usb.org/sites/default/files/hut1_3_0.pdf).
 
 -----
