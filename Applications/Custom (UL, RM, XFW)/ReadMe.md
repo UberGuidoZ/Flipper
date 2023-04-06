@@ -28,6 +28,7 @@ The Flipper and its community wouldn't be as rich as it is without your contribu
 - [Scorched Tanks (By jasniec)](https://github.com/jasniec/flipper-scorched-tanks-game)
 - [Blackjack (By teeebor)](https://github.com/teeebor/flipper_games)
 - [Logic Game 15 (By x27)](https://github.com/x27/flipperzero-game15)
+- [Color Guess (By Leedave)](https://github.com/leedave/Leeds-Flipper-Zero-Applications/tree/main/Games/color_guess)
 
 ## Music
 - [Software Automatic Mouth aka SAM (By ctoth)](https://github.com/ctoth/SAM)
@@ -47,6 +48,7 @@ The Flipper and its community wouldn't be as rich as it is without your contribu
 - [Calculator (By n-o-T-I-n-s-a-n-e)](https://github.com/n-o-T-I-n-s-a-n-e)
 - [Ceasar Cipher (By panki27)](https://github.com/panki27/caesar-cipher)
 - [Pomodoro Timer (By sbrin)](https://github.com/sbrin/flipperzero_pomodoro)
+- [Cross Remote (By Leedave)](https://github.com/leedave/Leeds-Flipper-Zero-Applications/tree/main/Tools/xremote)  (features in development)
 
 -----
 
