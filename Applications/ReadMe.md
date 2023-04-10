@@ -2,7 +2,10 @@
 
 ## [Some links to authors and descriptions here](https://github.com/UberGuidoZ/Flipper/tree/main/Applications/Custom%20(UL%2C%20RM%2C%20XFW)#readme)
 
-## *** Unofficial FAP Store is here! [You gotta check it out: FlipC.org](https://flipc.org/) ***
+---
+*** **Unofficial FAP Store is here! [You gotta check it out at FlipC.org](https://flipc.org/)** ***<br>
+From [Aleksey Korolev](https://github.com/playmean) comes a quick and easy way to install FAP files.
+---
 
 The long-awaited addition of loading plugins (applications) from the SD card is here thanks to some hard work by the Official Flipper devteam. Anna/hedger released a FAP pack with some pre-built plugins, ready to go. Check out the [Official documentation](https://github.com/flipperdevices/flipperzero-firmware/blob/dev/documentation/AppsOnSDCard.md) for more info.
 
