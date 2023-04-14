@@ -1,4 +1,4 @@
-REM Author:FLIZZ3R
+REM Author: FLIZZ3R
 REM OBJECTIVE: COOL search and open flipper app android 
 GOODUSB
 DELAY 300
