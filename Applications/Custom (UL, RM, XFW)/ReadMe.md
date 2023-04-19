@@ -3,10 +3,14 @@
 * [Xtreme (ClaraCrazy)](https://github.com/ClaraCrazy/Flipper-Xtreme/)
 * [RogueMaster](https://github.com/RogueMaster/flipperzero-firmware-wPlugins)
 
-## [Download all files here](https://uberguidoz.github.io/DownGit/#/home?url=https://github.com/UberGuidoZ/Flipper/tree/main/Applications/Custom%20(UL%2C%20RM%2C%20XFW)) (may not include [bundled apps](https://github.com/DarkFlippers/unleashed-firmware#community-apps-included)) or [source here](https://github.com/UberGuidoZ/Flipper/tree/main/Applications/Official/DEV_FW/source)<br>
-[They are also hosting a copy of the extra files here](https://github.com/xMasterX/unleashed-extra-pack).
+[Download all files here](https://uberguidoz.github.io/DownGit/#/home?url=https://github.com/UberGuidoZ/Flipper/tree/main/Applications/Custom%20(UL%2C%20RM%2C%20XFW)) (may not include [bundled apps](https://github.com/DarkFlippers/unleashed-firmware#community-apps-included)) or [source here](https://github.com/UberGuidoZ/Flipper/tree/main/Applications/Official/DEV_FW/source). Mirror from xMasterX [here](https://github.com/xMasterX/unleashed-extra-pack).
 
-Thank you [xMasterX](https://github.com/xMasterX) for compiling and maintaining these files. I have decided to not include the "integrated/bundled" FAP files that come with a fresh install of Unleashed. If you need to grab a copy of them for whatever reason, you can do so right from the Unleashed repo.
+---
+*** **Unofficial FAP Store is here! [You gotta check it out at FlipC.org](https://flipc.org/)** ***<br>
+From [Aleksey Korolev](https://github.com/playmean) comes a quick and easy way to install FAP files.
+---
+
+Thank you [xMasterX](https://github.com/xMasterX) for compiling and maintaining many of these files. I have decided to not include the "integrated/bundled" FAP files that come with a fresh install of Unleashed. If you need to grab a copy of them for whatever reason, you can do so right from the Unleashed repo.
 
 * Visit the [Releases page](https://github.com/DarkFlippers/unleashed-firmware) of the Unleashed repo.
 * Scroll down and download the linked ZIP file from the Assets drop down, under the big install from web link.
