@@ -13,7 +13,7 @@ RogueMaster Firmware: [Main](https://github.com/RogueMaster/flipperzero-firmware
 
 Xtreme (ClaraCrazy) Firmware [Main](https://github.com/ClaraCrazy/Flipper-Xtreme) | [Release](https://github.com/ClaraCrazy/Flipper-Xtreme/releases) *Fork of Official, Features of Unleashed, many customizations and bug fixes*
 
-Dexv Firmware: [Main](https://github.com/DXVVAY/Dexv0) | [Release](https://github.com/DXVVAY/Dexv0/releases) / [Alt](https://github.com/DXVVAY/Dexvmaster0) | [Release](https://github.com/DXVVAY/Dexvmaster0/releases) *Fork of ClaraCrazy, adds resources*
+Dexv Firmware: [Main](https://github.com/DXVVAY/Dexvmaster0) | [Release](https://github.com/DXVVAY/Dexvmaster0/releases) *Fork of ClaraCrazy, adds resources*
 
 -----
 
