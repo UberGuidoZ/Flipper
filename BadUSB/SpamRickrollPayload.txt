@@ -1,0 +1,82 @@
+REM author: Hacksaw (hack5aw)
+REM Personal Repo: https://github.com/hack5aw/Ducky-Payloads & https://github.com/hack5aw/Flipper-collection
+REM Title: Spam Rickroll Payload
+REM Description: Spam Opens youtube and plays multiple Rickrolls at the same time
+DELAY 1000
+GUI r
+DELAY 500
+STRING https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley
+ENTER
+DELAY 500 
+GUI r
+DELAY 250
+STRING https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley
+ENTER
+DELAY 500 
+GUI r
+DELAY 250
+STRING https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley
+ENTER
+DELAY 500 
+GUI r
+DELAY 250
+STRING https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley
+ENTER
+DELAY 500 
+GUI r
+DELAY 250
+STRING https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley
+ENTER
+DELAY 500 
+GUI r
+DELAY 250
+STRING https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley
+ENTER
+DELAY 500 
+GUI r
+DELAY 250
+STRING https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley
+ENTER
+DELAY 500 
+GUI r
+DELAY 250
+STRING https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley
+ENTER
+DELAY 500 
+GUI r
+DELAY 250
+STRING https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley
+ENTER
+DELAY 500 
+GUI r
+DELAY 250
+STRING https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley
+ENTER
+DELAY 500 
+GUI r
+DELAY 250
+STRING https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley
+ENTER
+DELAY 500 
+GUI r
+DELAY 250
+STRING https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley
+ENTER
+DELAY 500 
+GUI r
+DELAY 250
+STRING https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley
+ENTER
+DELAY 500 
+GUI r
+DELAY 250
+STRING https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley
+ENTER
+DELAY 500 
+GUI r
+DELAY 250
+STRING https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley
+ENTER
+DELAY 900
+F11
+REM EXPLODE(im jk)
