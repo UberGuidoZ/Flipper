@@ -39,15 +39,15 @@ To exit and/or load something else, simply use the BACK button.
 ### Official documentation
 https://github.com/flipperdevices/flipperzero-firmware/blob/dev/documentation/AppsOnSDCard.md
 
-### Dev documentation by at-manos
+### uFBT - micro Flipper Build Tool
+https://github.com/flipperdevices/flipperzero-ufbt
+
+### Dev documentation by at-manos(outdated)
 https://flipper.atmanos.com/docs/category/overview
 
 ### Flipper plugin tutorial
-By DroomOne: https://github.com/DroomOne/Flipper-Plugin-Tutorial
-
-By giolaq: https://blog.giolaq.dev/hello-world-of-flipper-zero <br>
-The repo that goes with giolaq's blog: https://github.com/giolaq/helloflipper
-
+By DroomOne: https://github.com/DroomOne/Flipper-Plugin-Tutorial<br>
+By giolaq: https://blog.giolaq.dev/hello-world-of-flipper-zero (The repo that goes with giolaq's blog: https://github.com/giolaq/helloflipper )<br>
 By csBlueChip: https://github.com/csBlueChip/FlipperZero_plugin_howto
 
 ## Hello world examples
