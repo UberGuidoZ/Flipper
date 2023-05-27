@@ -1,0 +1,15 @@
+REM MADE BY HTTPS / https://github.com/httpsisbetter
+REM signs out if theres the language input bar
+REM Requirements: CHROMEOS
+
+CTRL W
+DELAY 100
+CTRL W 
+DELAY 100
+CTRL W 
+DELAY 2000
+SHIFT TAB
+DELAY 100
+ENTER   
+DELAY 500
+ENTER

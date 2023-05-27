@@ -1,0 +1,17 @@
+REM MADE BY HTTPS / https://github.com/httpsisbetter
+REM signs out
+REM Requirements: CHROMEOS
+
+CTRL W
+DELAY 100
+CTRL W 
+DELAY 100
+CTRL W 
+DELAY 2000
+SHIFT TAB
+DELAY 100
+TAB
+DELAY 100
+ENTER   
+DELAY 500
+ENTER
