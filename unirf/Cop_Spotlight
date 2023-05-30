@@ -1,0 +1,10 @@
+UP: /ext/subghz/LED/Federal_Spotlight/Up.sub
+DOWN: /ext/subghz/LED/Federal_Spotlight/Down.sub
+LEFT: /ext/subghz/LED/Federal_Spotlight/Left.sub
+RIGHT: /ext/subghz/LED/Federal_Spotlight/Right.sub
+OK: /ext/subghz/LED/Federal_Spotlight/Center_button.sub
+ULABEL: Up
+DLABEL: Down
+LLABEL: Left
+RLABEL: Right
+OKLABEL: Center Button

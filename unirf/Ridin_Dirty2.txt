@@ -1,0 +1,10 @@
+UP: /ext/subghz/Misc/Sextoy/LoveBox_Vibrating_Egg/Lovebox_on.sub
+DOWN: /ext/subghz/Misc/Sextoy/LoveBox_Vibrating_Egg/Lovebox_up.sub
+LEFT: /ext/subghz/Misc/Sextoy/Nu_Sensuelle_Vibrating_Mini-Plug/Bp_15_4.sub
+RIGHT: /ext/subghz/Misc/Sextoy/Sway Vibes 3/Sway_vib_on_off.sub
+OK: /ext/subghz/Misc/Sextoy/Sexrabbit_Vibrator/Power_Toggle_Long_Press.sub
+ULABEL: Lovebox On
+DLABEL: LoveBox Up
+LLABEL: ButtPlug 15-4
+RLABEL: SwayVibes PWR
+OKLABEL: SexRabbit PWR
