@@ -1,0 +1,25 @@
+REM MADE BY HTTPS / https://github.com/httpsisbetter
+REM Resets brainly.com cookies for you
+REM CHROMEOS
+
+CTRL T
+DELAY 500
+STRING chrome://settings/siteData
+DELAY 500
+ENTER
+DELAY 3000
+TAB
+DELAY 2000
+STRING brainly
+DELAY 1000
+TAB
+DELAY 500
+TAB
+DELAY 500
+TAB
+DELAY 500
+TAB
+DELAY 500
+ENTER
+DELAY 1000
+CTRL W

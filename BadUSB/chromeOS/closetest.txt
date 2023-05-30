@@ -1,0 +1,10 @@
+REM MADE BY HTTPS / https://github.com/httpsisbetter
+REM Closes all tabs ( Change the amount of CTRL W you want the more the ctrl W the more tabs it closes )
+REM ChromeB
+
+CTRL W
+DELAY 100
+CTRL W 
+DELAY 100
+CTRL W 
+DELAY 100
