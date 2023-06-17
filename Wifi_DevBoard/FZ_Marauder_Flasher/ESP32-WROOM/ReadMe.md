@@ -8,7 +8,7 @@ Looking for a Linux/OS X version? [Check out SkeletonMan's Python edition!](http
 
 ## Now it's as easy as 1, 2, 3 to install or update Marauder on Windows.
 
-1. Download and extract [the ZIP file](https://github.com/UberGuidoZ/Flipper/raw/main/Wifi_DevBoard/FZ_Marauder_Flasher/ESP32-WROOM/Marauder_WROOM_v1.10.zip) above to the same directory.<br>
+1. Download and extract [the ZIP file](https://github.com/UberGuidoZ/Flipper/raw/main/Wifi_DevBoard/FZ_Marauder_Flasher/ESP32-WROOM/Marauder_WROOM_v1.30.zip) above to the same directory.<br>
 2. Plug in your ESP32-WROOM or v4 OEM Marauder directly into your PC via USB.<br>
 3. Double-click `Flash-WROOM.bat` from the extracted files then choose `Flash` or `Update`.
 
@@ -19,7 +19,7 @@ Looking for a Linux/OS X version? [Check out SkeletonMan's Python edition!](http
 (Simply download the OLD_HARDWARE BIN file, stick it in the WROOM subfolder by the batch file, and delete the old BIN.)<br>
 * If you choose `Download USB UART` the script will open the Silicon Labs driver download.
 
-Current Marauder version included in the ZIP: v0.10.2.20230315 (current release as of Mar 15, 2023)
+Current Marauder version included in the ZIP: v0.10.7.20230609 (current release as of June 9, 2023)
 
 **Once the install has completed, [head over here](https://github.com/justcallmekoko/ESP32Marauder/wiki) to learn more about what Marauder can do!**
 
