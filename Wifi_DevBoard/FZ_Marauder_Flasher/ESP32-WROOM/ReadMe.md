@@ -1,14 +1,10 @@
-# Quick and easy flasher/updater for [Marauder](https://github.com/justcallmekoko/ESP32Marauder) ESP32-WROOM!
-
-## This flasher/updater will work for any ESP32-WROOM chip or the v4 OEM Marauder.
+## ARCHIVED - [USE THE UNIVERSAL INSTEAD](https://github.com/UberGuidoZ/Flipper/tree/main/Wifi_DevBoard/FZ_Marauder_Flasher)
+## ARCHIVED - [USE THE UNIVERSAL INSTEAD](https://github.com/UberGuidoZ/Flipper/tree/main/Wifi_DevBoard/FZ_Marauder_Flasher)
+## ARCHIVED - [USE THE UNIVERSAL INSTEAD](https://github.com/UberGuidoZ/Flipper/tree/main/Wifi_DevBoard/FZ_Marauder_Flasher)
+## ARCHIVED - [USE THE UNIVERSAL INSTEAD](https://github.com/UberGuidoZ/Flipper/tree/main/Wifi_DevBoard/FZ_Marauder_Flasher)
+## ARCHIVED - [USE THE UNIVERSAL INSTEAD](https://github.com/UberGuidoZ/Flipper/tree/main/Wifi_DevBoard/FZ_Marauder_Flasher)
 
 Looking for a Linux/OS X version? [Check out SkeletonMan's Python edition!](https://github.com/SkeletonMan03/FZEasyMarauderFlash)
-
-## ARCHIVED - [USE THE UNIVERSAL INSTEAD](https://github.com/UberGuidoZ/Flipper/tree/main/Wifi_DevBoard/FZ_Marauder_Flasher)
-## ARCHIVED - [USE THE UNIVERSAL INSTEAD](https://github.com/UberGuidoZ/Flipper/tree/main/Wifi_DevBoard/FZ_Marauder_Flasher)
-## ARCHIVED - [USE THE UNIVERSAL INSTEAD](https://github.com/UberGuidoZ/Flipper/tree/main/Wifi_DevBoard/FZ_Marauder_Flasher)
-## ARCHIVED - [USE THE UNIVERSAL INSTEAD](https://github.com/UberGuidoZ/Flipper/tree/main/Wifi_DevBoard/FZ_Marauder_Flasher)
-## ARCHIVED - [USE THE UNIVERSAL INSTEAD](https://github.com/UberGuidoZ/Flipper/tree/main/Wifi_DevBoard/FZ_Marauder_Flasher)
 
 -----
 
