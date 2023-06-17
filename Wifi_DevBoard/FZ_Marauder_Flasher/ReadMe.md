@@ -1,11 +1,11 @@
-# Quick and easy flasher/updater for [Marauder](https://github.com/justcallmekoko/ESP32Marauder) on the Wifi Devboard!
+# Quick and easy flasher/updater for [Marauder](https://github.com/justcallmekoko/ESP32Marauder) (Devboard/WROOM)!
 
 Looking for a Linux/Mac version? [Check out SkeletonMan's Python edition!](https://github.com/SkeletonMan03/FZEasyMarauderFlash) (WIP for Windows too including full automated downloads.)
 
 Looking for a quick video walkthrough on how to use this flasher? [Thanks to Lab401.com, you're in luck](https://www.youtube.com/watch?v=um_acrDaBK4)!<br>
 Or if you'd rather have a quick rundown of using the Flipper Application, check out [this summary from haxez.org](https://haxez.org/2022/11/marauding-wi-fi-networks-with-the-flipper-zero/).
 
-![Flasher_SS](https://user-images.githubusercontent.com/57457139/195889709-cd8086f2-dbd3-4ca2-9965-75be64fab4da.png)
+![Flasher_SS](https://github.com/UberGuidoZ/Flipper/assets/57457139/b6069d3b-856a-4d64-928e-82810d402803)
 
 ## Now it's as easy as 1, 2, 3 to install or update Marauder on Windows.
 
