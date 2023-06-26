@@ -1,9 +1,7 @@
 REM: AUTHOR-FLIZZ3R
-REM: OBJECTIVE-CUSTOM HID AUTO FIRE
-W/GUI FOR ANDROID 
-REM: NOT FOR ILLEGAL USE OR USE 
-WITHOUT CONSENT 
-#____________________________
+REM: OBJECTIVE-CUSTOM HID AUTO FIRE W/GUI FOR ANDROID 
+REM: NOT FOR ILLEGAL USE OR USE WITHOUT CONSENT 
+REM: ____________________________
 DELAY 2500
 GUI s
 DELAY 5000 
@@ -2005,53 +2003,51 @@ STRING exit, outie, toodles, dipset exitexitexit
 DELAY 2500
 GUI x 
 DELAY 1500
-GUI x                 
+GUI 
 DELAY 1500
-GUI x                 
+GUI 
 DELAY 1500
-GUI x                 
+GUI 
 DELAY 1500
-GUI x                 
+GUI 
 DELAY 1500
-GUI x                 
-DELAY 1500
-GUI x                
-DELAY 1500
-GUI x                 
-DELAY 1500
-GUI x                 
-DELAY 1500
-GUI x                 
-DELAY 1500
-GUI x                 
-DELAY 1500
-GUI x                 
-DELAY 1500
-GUI x                 
-DELAY 1500
-GUI x                 
-DELAY 1500
-GUI x                 
-DELAY 1500
-GUI x                 
-DELAY 1500
-GUI x                 
-DELAY 1500
-GUI x                 
-DELAY 1500
-GUI x                 
-DELAY 1500
-GUI x                 
-DELAY 1500
-GUI x                 
+GUI 
 DELAY 1500
 GUI x                
 DELAY 1500
-GUI x                 
+GUI 
 DELAY 1500
-GUI x                 
+GUI 
 DELAY 1500
-GUI x                 
+GUI 
 DELAY 1500
-
-
+GUI 
+DELAY 1500
+GUI 
+DELAY 1500
+GUI 
+DELAY 1500
+GUI 
+DELAY 1500
+GUI 
+DELAY 1500
+GUI 
+DELAY 1500
+GUI 
+DELAY 1500
+GUI 
+DELAY 1500
+GUI 
+DELAY 1500
+GUI 
+DELAY 1500
+GUI 
+DELAY 1500
+GUI x                
+DELAY 1500
+GUI 
+DELAY 1500
+GUI 
+DELAY 1500
+GUI 
+DELAY 1500
