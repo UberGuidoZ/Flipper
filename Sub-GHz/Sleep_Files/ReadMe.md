@@ -13,7 +13,7 @@ Preset: FuriHalSubGhzPresetOok650Async
 Protocol: RAW
 RAW_Data: 1000 -9999000
 ```
-The very last number, or `-9999000` in the above example, is the amount of time in microseconds. This should be just under the time you want by 1/1000 of a second as the first `1000` counts as one. In the above example, [this is 9.999 seconds](https://www.google.com/search?q=9999000+microseconds), which is 10 seconds when you add the first 1000 pulse.
+The very last number, or `-9999000` in the above example, is the amount of time in microseconds. This should be just under the time you want by 1/1000 of a second as the first `1000` counts as one. In the above example, [this is 9.999 seconds](https://www.google.com/search?q=9999000+microseconds+to+seconds), which is 10 seconds when you add the first 1000 pulse.
 
 So, to set your own, it's the same as adding 6 zeros to the amount of time in seconds, then subtracting 1/1000. For example, 45 seconds would be `-45000000` minus 1/1000 which is `-44999000` and the full file would be:
 ```

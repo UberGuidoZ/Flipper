@@ -67,3 +67,9 @@
 [submodule "NFC/Amiibo/Lanjelin-Converter"]
 	path = NFC/Amiibo/Lanjelin-Converter
 	url = https://github.com/Lanjelin/AmiiboConverter
+[submodule "BadUSB/MacOS-47LeCoste"]
+	path = BadUSB/MacOS-47LeCoste
+	url = https://github.com/grugnoymeme/flipperzero-badUSB
+[submodule "BadUSB/MacOS-narstybits"]
+	path = BadUSB/MacOS-narstybits
+	url = https://github.com/narstybits/MacOS-DuckyScripts

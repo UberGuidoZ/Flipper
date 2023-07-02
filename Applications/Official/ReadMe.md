@@ -14,7 +14,7 @@ Currently compiled for API versions compatible with 0.78.1 - authors will need t
 If you run across any not here, or wish to contirbute updates, please PR them in! (Or tag me in Discord...)<br>
 **NOTE: Some apps which use audio won't work due to a new pattern for audio access.** ([More info](https://github.com/UberGuidoZ/Flipper/pull/257))
 
-[Links to full application name and authors](https://github.com/UberGuidoZ/Flipper/tree/main/Applications/Unleashed%20(and%20RogueMaster))
+[Links to full application name and authors](https://github.com/UberGuidoZ/Flipper/tree/main/Applications/Custom%20(UL%2C%20RM%2C%20XFW))
 
 -----
 
