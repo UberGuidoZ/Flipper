@@ -1,9 +1,7 @@
 REM MADE BY HTTPS / https://github.com/httpsisbetter
 REM Resets brainly.com cookies for you
 REM CHROMEOS
-
 DEFAULTDELAY 500
-
 CTRL T
 STRING chrome://settings/siteData
 ENTER
