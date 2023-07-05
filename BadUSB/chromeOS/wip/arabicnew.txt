@@ -1,0 +1,36 @@
+REM MADE BY HTTPS / https://github.com/httpsisbetter
+REM Changes language in settings to arabic ( It will still have the language input bar in the bottom )
+REM Requirements: CHROMEOS
+DEFAULTDELAY 100
+CTRL W
+REPEAT 2
+TAB
+ENTER
+DELAY 500
+STRING add input methods
+DELAY 1000
+ENTER 
+REM -----
+DELAY 3000
+ENTER
+DELAY 700
+STRING arabic
+DELAY 500
+ENTER
+TAB
+TAB
+ENTER 
+TAB
+TAB
+ENTER
+REM -----
+DELAY 500
+SHIFT TAB
+DELAY 70
+SHIFT TAB
+DELAY 70
+SHIFT TAB
+DELAY 70
+ENTER
+CTRL W
+REPEAT 2
