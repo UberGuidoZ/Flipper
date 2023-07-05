@@ -2,11 +2,7 @@ REM MADE BY HTTPS / https://github.com/httpsisbetter
 REM Will commit a update rollback/powerwash
 REM Might not work with enterprise enrolled devices
 REM Requirement: CHROMEOS
-
-
 DEFAULTDELAY 100
-
-
 CTRL W
 REPEAT 2
 DELAY 2000
