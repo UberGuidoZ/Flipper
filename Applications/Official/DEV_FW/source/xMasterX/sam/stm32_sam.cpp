@@ -3045,7 +3045,7 @@ void STM32SAM::Render() {
                 //pos47908:
                 while(1) //while No. 3
                 {
-                    A = Read(mem47, Y) + mem53; //carry alway cleared
+                    A = Read(mem47, Y) + mem53; //carry always cleared
 
                     mem48 = A;
                     Y++;
