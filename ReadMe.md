@@ -3,7 +3,7 @@
 
 ## If you're new to github in general, check out [this great guide](https://github.com/wrenchathome/flipperfiles/blob/main/_Guides/How2Flipper.pdf) from Wr3nch!
 
-Other great spots for help can be found at the [Official Discord](https://discord.com/invite/flipper), [Official Docs](https://docs.flipperzero.one/), or the [Official Forum](https://forum.flipperzero.one/).
+Other great spots for help can be found at the [Official Discord](https://discord.com/invite/flipper), [Official Docs](https://docs.flipperzero.one/), [Awesome Flipper](https://github.com/djsime1/awesome-flipperzero), or the [Official Forum](https://forum.flipperzero.one/).
 
 -----
 
