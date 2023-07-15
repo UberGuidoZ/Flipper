@@ -2,6 +2,10 @@
 
 Official [GPIO layout](https://miro.com/app/board/uXjVO_LaYYI=/) created by [Aleksandr Kutuzov](https://discord.com/channels/740930220399525928/765282833744265246/993107060172542012). Official documentation [is here](https://docs.flipperzero.one/gpio-and-modules)!<br>
 
+# Connect an external CC1101 to your Flipper
+
+Check out [this excellent guide](https://github.com/quen0n/flipperzero-ext-cc1101) from quen0n on the hardware and configurations needed to increase your SubGHz range!
+
 # Sentry Safe plugin pinout
 
 Plugin by [H4ckd4ddy](https://github.com/H4ckd4ddy/flipperzero-sentry-safe-plugin)
