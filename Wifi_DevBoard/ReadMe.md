@@ -6,6 +6,11 @@ Quick start: Connect to the SSID `blackmagic` using the password `iamwitcher` or
 
 [Official schematics](https://docs.flipperzero.one/development/hardware/wifi-debugger-module/schematics) can be found in the Official Flipper docs. A [PDF version](https://github.com/UberGuidoZ/Flipper/blob/main/Wifi_DevBoard/Flipper_Zero_WI-FI_Module_V1_Schematic.PDF) is also available.
 
+# ESP32 Flasher (from Flipper)
+
+You can flash from the Flipper without a computer at all thanks to [Cococode's (aka 0xchocolate) utility](https://github.com/0xchocolate/flipperzero-esp-flasher).<br>
+The files you'll need can be [found here](https://github.com/UberGuidoZ/Flipper/tree/main/Wifi_DevBoard/apps_data/esp_flasher) with a [vid walkthrough here](https://youtu.be/Kme-yWL14N8) (thanks TalkingSasquach!)
+
 # ESP32 Wi-Fi Pentest Tool
 
 Check out [Frog's write-up](https://github.com/FroggMaster/ESP32-Wi-Fi-Penetration-Tool) and build for quick and easy flashing! Seriously, it's basically just a double-click now thanks to some error checking and automation. ([You're welcome!](https://github.com/FroggMaster/ESP32-Wi-Fi-Penetration-Tool/compare/v1.0...v1.1)).
