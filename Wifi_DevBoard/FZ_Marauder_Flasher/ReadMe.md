@@ -2,7 +2,8 @@
 
 Looking for a Linux/Mac version? [Check out SkeletonMan's Python edition!](https://github.com/SkeletonMan03/FZEasyMarauderFlash) (WIP for Windows too including full automated downloads.)
 
-Or do you want to flash from the Flipper without a computer at all? [Cococode (aka 0xchocolate) has you covered](https://github.com/0xchocolate/flipperzero-esp-flasher).
+Or do you want to flash from the Flipper without a computer at all? [Cococode (aka 0xchocolate) has you covered](https://github.com/0xchocolate/flipperzero-esp-flasher).<br>
+Looking for the files you need or a video walkthrough? [TalkingSasquach has you covered](https://github.com/UberGuidoZ/Flipper/blob/main/Wifi_DevBoard/ReadMe.md#esp32-flasher-from-flipper)...
 
 Looking for a quick video walkthrough on how to use this flasher? [Thanks to Lab401.com, you're in luck](https://www.youtube.com/watch?v=um_acrDaBK4)!<br>
 Or if you'd rather have a quick rundown of using the Flipper Application, check out [this summary from haxez.org](https://haxez.org/2022/11/marauding-wi-fi-networks-with-the-flipper-zero/).
