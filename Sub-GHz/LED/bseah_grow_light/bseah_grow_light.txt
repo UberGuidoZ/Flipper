@@ -1,0 +1,12 @@
+Filetype: Flipper SubGhz RAW File  
+Version: 1  
+UP: /any/subghz/bseah_grow_light/bseah_brighten.sub  
+DOWN: /any/subghz/bseah_grow_light/bseah_dim.sub  
+LEFT: /any/subghz/bseah_grow_light/bseah_off.sub  
+RIGHT: /any/subghz/bseah_grow_light/bseah_on.sub  
+OK: /any/subghz/bseah_grow_light/bseah_cycle_spectrum.sub  
+ULABEL: Brighten  
+DLABEL: Dim  
+LLABEL: Off  
+RLABEL: On  
+OKLABEL: Cycle
