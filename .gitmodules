@@ -1,9 +1,6 @@
 [submodule "flipper_toolbox"]
 	path = flipper_toolbox
 	url = https://github.com/evilpete/flipper_toolbox
-[submodule "Sub-GHz/flipperzero-bruteforce"]
-	path = Sub-GHz/flipperzero-bruteforce
-	url = https://github.com/tobiabocchi/flipperzero-bruteforce
 [submodule "BadUSB/Jakoby_BadUSB"]
 	path = BadUSB/Jakoby_BadUSB
 	url = https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB
