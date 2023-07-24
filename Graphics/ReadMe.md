@@ -5,6 +5,7 @@ So you want to make your own animations? Thankfully, TalkingSasquach has [an exc
 Are you more the type that just wants to grab some pre-made and tinker with how they work?<br>
 - Then you'll want to check out [Kuronons's repo](https://github.com/Kuronons/FZ_graphics)!
 - If you like beards, run your fingers though [Talking Sasquach's repo](https://github.com/skizzophrenic/Talking-Sasquach).
+- Looking for a massive collection of BM files? [Check out mnenkov repo](https://github.com/mnenkov/flipper-zero-animations)!
 - Still need more? Well then [stopoxy](https://github.com/stopoxy/FZAnimations) has you covered.
 - BUT WAIT, there's more... from [HexxedBitHeadz](https://github.com/HexxedBitHeadz/FlipperZeroWallpaper).
 
