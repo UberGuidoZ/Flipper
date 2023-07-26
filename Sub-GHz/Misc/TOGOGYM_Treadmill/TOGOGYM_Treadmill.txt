@@ -1,0 +1,12 @@
+Filetype: Flipper SubRem Map file
+Version: 1
+UP: /ext/subghz/Misc/TOGOGYM_Treadmill/TreadStop.sub
+DOWN: /ext/subghz/Misc/TOGOGYM_Treadmill/TreadStart.sub
+LEFT: /ext/subghz/Misc/TOGOGYM_Treadmill/TreadDown.sub
+RIGHT: /ext/subghz/Misc/TOGOGYM_Treadmill/TreadUp.sub
+OK: /ext/subghz/Misc/TOGOGYM_Treadmill/TreadM.sub
+ULABEL: Stop
+DLABEL: Go
+LLABEL: -
+RLABEL: +
+OKLABEL: M
