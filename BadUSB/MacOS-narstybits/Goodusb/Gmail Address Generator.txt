@@ -1,0 +1,23 @@
+REM This script generates a random Gmail address and checks its availability.
+REM It displays the generated email and whether it's available or not.
+
+REM While this method can provide a reasonable indication of email availability, it's not guaranteed to be 100% accurate.
+
+REM Author: Narsty
+REM Title: Gmail Address Generator
+REM Category: GOODUSB
+REM Version: 2.0
+
+
+
+ID 05ac:021e Apple:Keyboard
+DELAY 500
+GUI SPACE
+DELAY 500
+STRING Terminal
+DELAY 1000
+ENTER
+DELAY 1000
+STRING EMAIL=$(cat /dev/urandom | LC_ALL=C tr -dc 'a-zA-Z0-9' | fold -w 10 | head -n 1)@gmail.com; clear; echo "Generated email: $EMAIL"; echo "Checking email availability..."; RESPONSE=$(curl -s "https://mail.google.com/verify?email=$EMAIL"); if [[ $RESPONSE == *"The email address you entered is not available."* ]]; then echo "Email is not available"; else echo "Email is available"; fi
+DELAY 1000
+ENTER

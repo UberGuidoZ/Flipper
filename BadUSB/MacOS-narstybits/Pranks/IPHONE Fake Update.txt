@@ -1,0 +1,19 @@
+REM Author: Narsty
+REM Description: Open Fake update on an iPhone.
+REM Version: 1.0
+REM Category: iPhone
+
+
+ID 05ac:021e Apple:Keyboard
+DELAY 1000
+GUI SPACE
+DELAY 500
+STRING safari
+DELAY 2000
+ENTER
+DELAY 500
+GUI-CTRL f
+DELAY 500
+STRING www.fakeupdate.net
+DELAY 500
+ENTER

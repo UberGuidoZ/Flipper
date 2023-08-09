@@ -1,0 +1,29 @@
+REM Returns your wifi network back to normal.
+REM Must use the Kill command with the PID number to end tor 'Kill PID#'
+
+
+REM You can use the ps command in the terminal to check if the Shadowsocks 
+REM and Tor processes are running.
+REM Command to check Shadowsocks: 'ps -ef | grep shadowsocks'
+REM Command to check Tor: 'ps -ef | grep tor'
+
+
+REM Author: Narsty
+REM Title: Shadowsocks Tor Proxy Reverse
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: Obscurity
+
+ID 05ac:021e Apple:Keyboard
+DELAY 500
+GUI SPACE
+DELAY 500
+STRING Terminal
+DELAY 1000
+ENTER
+DELAY 1000
+STRING networksetup -setsocksfirewallproxystate Wi-Fi off
+ENTER
+
+
+

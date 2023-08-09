@@ -1,0 +1,24 @@
+REM Title: Ejcect Disk Utility
+REM Author: NARSTY
+REM Description: Opens Disk Utility and Ejects The Second Order Disk.  
+REM Will NOT work if programs are open during execution, please use responsibly
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: Execution
+
+ID 05ac:021e Apple:Keyboard
+DELAY 1000
+GUI SPACE
+DELAY 200
+STRING Disk Utility
+DELAY 1000
+ENTER
+DELAY 1000
+GUI DOWNARROW
+DELAY 500
+ENTER
+DELAY 500
+GUI E
+DELAY 500
+ENTER
+GUI q

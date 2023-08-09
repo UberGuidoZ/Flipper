@@ -1,0 +1,33 @@
+REM Organizes files on the desktop into separate folders based on their file extensions.
+REM Creates "Documents", "Images", "Music", and "Video" folders 
+REM and moves corresponding files into them.
+REM Run the script to organize the desktop effortlessly.
+
+REM Title: Desktop Organizer +
+REM Author: Narsty
+REM Version 1.0 MacOs
+REM Category: GOODUSB
+
+
+DELAY 1000
+GUI SPACE
+DELAY 200
+STRING terminal
+DELAY 200
+ENTER
+DELAY 1000
+STRING mkdir -p ~/Desktop/Documents
+DELAY 200
+ENTER
+STRING mkdir -p ~/Desktop/Images
+DELAY 200
+ENTER
+STRING mkdir -p ~/Desktop/Music
+DELAY 200
+ENTER
+STRING mkdir -p ~/Desktop/Videos
+DELAY 200
+ENTER
+STRING find ~/Desktop -maxdepth 1 -type f -exec sh -c 'FILE="{}"; EXTENSION="${FILE##*.}"; case "$EXTENSION" in doc*|xls*|ppt*|pdf) mv "$FILE" ~/Desktop/Documents/ ;; jpg*|jpeg*|png*|gif*) mv "$FILE" ~/Desktop/Images/ ;; mp3*|wav*|flac*|aac*) mv "$FILE" ~/Desktop/Music/ ;; mp4*|mov*|avi*|mkv*) mv "$FILE" ~/Desktop/Videos/ ;; *) ;; esac' \;
+DELAY 200
+ENTER

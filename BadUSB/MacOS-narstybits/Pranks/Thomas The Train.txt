@@ -1,0 +1,35 @@
+REM Run Terminal Train Animation
+REM Required Apps: Terminal, sl (installed via Homebrew)
+REM Run Terminal Train Animation
+
+
+REM Title: Thomas The Train 
+REM Author: Narsty
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: Prank
+
+
+
+ID 05ac:021e Apple:Keyboard
+GUI SPACE
+DELAY 100
+STRING terminal.app
+DELAY 100
+ENTER
+DELAY 1000
+CTRL c
+DELAY 100
+STRING cd ~
+DELAY 100
+ENTER
+DELAY 100
+GUI CTRL f
+DELAY 700
+STRING brew install sl
+DELAY 100
+ENTER
+DELAY 2000
+STRING sl
+DELAY 100
+ENTER

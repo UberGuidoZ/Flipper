@@ -1,0 +1,41 @@
+REM This script sets up a network padding technique.
+REM Using Scapy to send padded IP packets with random payload length.
+REM Each packet is padded with a random number of 'A' characters to obfuscate the payload.
+REM This helps to add padding to the network traffic and increase the overall packet size.
+REM Keep in mind that while network padding can add some level of privacy,
+REM it doesn't guarantee complete anonymity or security.
+
+REM By default, it sends 600 packets with random payload length and padding.
+REM Current script runs for about 5 minutes 
+REM Change the range value in the 'send([packet] * 600)' line 33
+REM For example, changing it to 'send([packet] * 1200)' will last about 10 minutes.
+REM Adjust the inter parameter to control the delay between each packet.
+REM The current value is set to 0.5 seconds, but you can modify it as needed for your testing purposes.
+
+REM Requirements: Python 3 and Scapy. You can install Scapy using the command 'pip3 install scapy'.
+REM warnings can be ignored as they indicate that no IPv4 address is currently assigned to those interfaces. 
+REM The script will continue to function as intended
+
+REM Author: Narsty
+REM Title: Network Padding Fury
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: Obscurity
+
+ID 05ac:021e Apple:Keyboard
+DELAY 500
+GUI SPACE
+DELAY 500
+STRING Terminal
+DELAY 1000
+ENTER
+DELAY 500
+STRING python3 -c 'import random, time; from scapy.all import *; packet = IP() / Padding(load="A" * random.randint(100, 200)); send([packet] * 600, inter=0.5)'
+ENTER
+
+
+
+
+
+
+

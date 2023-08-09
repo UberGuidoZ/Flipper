@@ -1,0 +1,33 @@
+REM This script sets up a Shadowsocks Tor Proxy on your Mac 
+REM Encrypts your network traffic and routes it through the Tor network.
+REM By combining the encryption of Shadowsocks with the anonymity of Tor. 
+REM This setup enhances your online privacy and security.
+
+REM Requirements: Install Shadowsocks by running 'brew install shadowsocks-libev' 
+REM Requirements: Install Tor by running 'brew install tor'
+
+REM You can use the ps command in the terminal to check if the Shadowsocks 
+REM and Tor processes are running.
+REM Command to check Shadowsocks: 'ps -ef | grep shadowsocks'
+REM Command to check Tor: 'ps -ef | grep tor'
+
+
+
+REM Author: Narsty
+REM Title: Shadowsocks Tor Proxy 
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: Obscurity
+
+ID 05ac:021e Apple:Keyboard
+DELAY 500
+GUI SPACE
+DELAY 500
+STRING Terminal
+DELAY 1000
+ENTER
+DELAY 1000
+STRING networksetup -setsocksfirewallproxy Wi-Fi 127.0.0.1 9050
+ENTER
+DELAY 250
+

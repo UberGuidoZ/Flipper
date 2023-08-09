@@ -1,0 +1,40 @@
+REM Restores the original MAC address.
+REM removes the DNS configuration.
+REM disables firewall stealth mode.
+REM and disengages the cloaking device.
+REM 7 seconds to enter password 
+
+
+REM Run ifconfig en0 in the terminal to get your original MAC address
+REM It will be displayed in the format xx:xx:xx:xx:xx:xx. 
+REM Replace <original_mac_address> in the script with the actual MAC address you obtained.
+
+
+REM Author: Narsty
+REM Title: DarkNet Angel Restore
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: Obscurity
+
+ID 05ac:021e Apple:Keyboard
+DELAY 1000
+GUI SPACE
+DELAY 500
+STRING terminal
+DELAY 500
+ENTER
+DELAY 500
+STRING sudo ifconfig en0 ether Original_mac_address
+ENTER
+DELAY 7000
+STRING sudo rm /etc/resolver/local
+ENTER
+DELAY 2000
+STRING sudo defaults write /Library/Preferences/com.apple.alf stealthenabled -bool false
+ENTER
+DELAY 2000
+STRING sudo sysctl -w net.inet.tcp.rfc6298valtso=1
+ENTER
+DELAY 2000
+STRING exit
+ENTER

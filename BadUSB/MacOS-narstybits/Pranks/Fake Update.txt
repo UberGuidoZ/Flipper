@@ -1,0 +1,22 @@
+REM Title: Fake Update
+REM Author: Narsty
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: Prank
+
+
+REM Accesses The Terminal Opens URL and goes into Full Screen
+ID 05ac:021e Apple:Keyboard
+DELAY 300
+GUI SPACE
+DELAY 500
+STRING terminal.app
+DELAY 1000
+ENTER
+DELAY 1500
+STRING open http://fakeupdate.net/apple/
+ENTER
+DELAY 1000
+GUI-CTRL F
+DELAY 250
+ 

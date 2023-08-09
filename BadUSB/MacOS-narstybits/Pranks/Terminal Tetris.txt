@@ -1,0 +1,40 @@
+REM you'll be able to play a Tetris-like game right in your terminal.
+REM you may need to adjust the delays based on your internet connection speed and system performance.
+
+REM Title: Terminal Tetris
+REM Author: Narsty
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: Prank
+
+
+
+ID 05ac:021e Apple:Keyboard
+DELAY 1000
+GUI SPACE
+DELAY 500
+STRING Terminal
+DELAY 500
+ENTER
+DELAY 500
+GUI-CTRL f
+DELAY 2000
+STRING clear
+ENTER
+DELAY 500
+STRING brew install bastet
+ENTER
+DELAY 18000
+STRING bastet
+GUI +
+DELAY 250
+GUI +
+DELAY 250
+GUI +
+DELAY 250
+GUI +
+DELAY 250
+GUI +
+DELAY 500
+ENTER
+

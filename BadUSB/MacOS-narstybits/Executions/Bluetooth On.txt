@@ -1,0 +1,26 @@
+REM Title: BLUETOOTH ON
+REM Author: NARSTY
+REM Description: Opens spotlight, searches for bluetooth file exchange  
+REM and turns bluetooth on
+REM using the Macs built in bluetooth File Exchange
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: Execution
+
+
+ID 05ac:021e Apple:Keyboard
+DELAY 1000
+GUI SPACE
+DELAY 1000
+STRING bluetooth File Exchange 
+DELAY 1000
+ENTER
+DELAY 1000
+ENTER
+DELAY 2000
+TAB
+DELAY 2000
+SPACE
+DELAY 1000
+GUI W
+

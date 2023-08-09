@@ -1,0 +1,35 @@
+REM Runs the curl command to download pipes
+REM a fun colorful temrinal screensaver like the old windows Pipes
+
+
+REM Title: pipeseroni
+REM Author: Narsty
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: Prank
+
+
+
+ID 05ac:021e Apple:Keyboard
+DELAY 1000
+GUI SPACE
+DELAY 500
+STRING Terminal
+DELAY 500
+ENTER
+DELAY 500
+GUI-CTRL f
+DELAY 2000
+STRING clear
+ENTER
+DELAY 500
+STRING curl -L https://raw.githubusercontent.com/pipeseroni/pipes.sh/master/pipes.sh -o pipes.sh
+ENTER
+DELAY 5000
+STRING chmod +x pipes.sh
+ENTER
+DELAY 500
+STRING ./pipes.sh
+ENTER
+
+

@@ -1,0 +1,21 @@
+REM Deletes the hidden folder ~/.copypasta
+REM To be used with copy pasta script
+
+
+REM Author: Narsty
+REM Title: Delete Copy Pasta
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: Executions
+
+ID 05ac:021e Apple:Keyboard
+DELAY 1000
+GUI SPACE
+DELAY 500
+STRING terminal
+DELAY 500
+ENTER
+DELAY 1000
+STRING rm -rf ~/.copypasta
+DELAY 500
+ENTER

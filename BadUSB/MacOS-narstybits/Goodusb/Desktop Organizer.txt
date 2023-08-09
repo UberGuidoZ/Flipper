@@ -1,0 +1,27 @@
+REM Organizes files on the desktop into separate folders based on their file extensions.
+REM Creates "Documents" and "Images" folders and moves corresponding files into them.
+REM Run the script to organize the desktop effortlessly.
+
+REM Title: Desktop Organizer 
+REM Author: Narsty
+REM Version 1.0 MacOs
+REM Category: GOODUSB
+
+ID 05ac:021e Apple:Keyboard
+GUI SPACE
+DELAY 500
+STRING Terminal
+DELAY 500
+ENTER
+DELAY 1000
+STRING cd ~/Desktop
+ENTER
+STRING mkdir -p Documents Images
+ENTER
+STRING mv *.txt *.docx *.pdf Documents/
+ENTER
+STRING mv *.jpg *.png Images/
+ENTER
+DELAY 5000
+STRING osascript -e 'tell application "Terminal" to close first window'
+ENTER

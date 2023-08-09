@@ -1,0 +1,31 @@
+REM Runs ASCII Aquarium Animation in Terminal 
+REM Required Apps: Terminal, asciiquarium (installed via Homebrew)
+
+
+REM Title: ASCII Aquarium 
+REM Author: Narsty
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: Prank
+
+
+
+ID 05ac:021e Apple:Keyboard
+GUI SPACE
+DELAY 100
+STRING terminal.app
+DELAY 500
+ENTER
+DELAY 1000
+CTRL c
+DELAY 250
+GUI CTRL f
+DELAY 700
+STRING brew install asciiquarium
+DELAY 500
+ENTER
+DELAY 16000
+STRING asciiquarium
+DELAY 250
+ENTER
+

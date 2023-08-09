@@ -1,0 +1,30 @@
+REM This script auto updates your git repo.
+REM Replace '/path/to/your/' with the path to your repository.
+REM Replace 'repository' with the name of your repository you want to update. 
+
+REM Title: Git Repository Updater
+REM Author: Narsty
+REM Version: 1.0
+REM Category: GOODUSB
+
+
+DELAY 500
+GUI SPACE
+DELAY 500
+STRING Terminal
+DELAY 1000
+ENTER
+DELAY 500
+STRING cd /path/to/your/repository
+ENTER
+DELAY 500
+STRING git add .
+ENTER
+DELAY 2000
+STRING git commit -am "Auto-updated repository"
+ENTER
+DELAY 1000
+STRING git push
+ENTER
+DELAY 4000
+GUI w

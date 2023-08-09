@@ -1,0 +1,46 @@
+REM Use responsibly and with proper permissions.
+
+REM This script initiates a network reconnaissance by scanning for live hosts, 
+REM performing a port scan on live hosts, 
+
+
+REM Author: Narsty
+REM Title: Network Reconnaissance
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: Recon 
+
+REM Replace (15.151.298.31) with your targets I.P. address 
+
+REM can insert multiple I.p.'s if needed 
+
+
+ID 05ac:021e Apple:Keyboard
+DELAY 500
+GUI SPACE
+DELAY 500
+STRING terminal
+DELAY 500
+ENTER
+DELAY 1000
+STRING echo "Network Reconnaissance:"
+STRING && echo "------------------------------"
+STRING && echo "Scan Date: $(date)"
+STRING && echo "------------------------------"
+STRING && echo "Scanning for Live Hosts..."
+STRING && echo "------------------------------"
+STRING && ping -c 3 15.151.298.31
+STRING && ping -c 3 15.151.298.31
+REM Add more IP addresses to ping as needed
+STRING && echo "------------------------------"
+STRING && echo "Performing ARP Scan..."
+STRING && echo "------------------------------"
+STRING && arp -a
+ENTER
+
+
+
+
+
+
+

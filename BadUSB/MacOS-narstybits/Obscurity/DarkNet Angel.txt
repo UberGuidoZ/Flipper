@@ -1,0 +1,40 @@
+REM spoofs the MAC address
+REM randomizes DNS requests
+REM enables firewall stealth mode
+REM and engages the cloaking device
+REM 7 seconds to enter password 
+
+
+REM Open the Terminal application on your macOS.
+REM Run the following command: sudo mkdir /etc/resolver
+REM This will create the /etc/resolver directory needed to randomize DNS request.
+
+REM Author: Narsty
+REM Title: DarkNet Angel
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: Obscurity
+
+
+ID 05ac:021e Apple:Keyboard
+DELAY 1000
+GUI SPACE
+DELAY 500
+STRING terminal
+DELAY 500
+ENTER
+DELAY 1000
+STRING sudo ifconfig en0 ether 00:11:22:33:44:55
+ENTER
+DELAY 7000
+STRING sudo sh -c 'echo "nameserver 127.0.0.1" > /etc/resolver/local'
+ENTER
+DELAY 2000
+STRING sudo defaults write /Library/Preferences/com.apple.alf stealthenabled -bool true
+ENTER
+DELAY 2000
+STRING sudo sysctl -w net.inet.tcp.rfc6298valtso=0
+ENTER
+DELAY 2000
+STRING exit
+ENTER

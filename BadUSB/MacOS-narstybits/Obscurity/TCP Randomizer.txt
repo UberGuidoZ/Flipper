@@ -1,0 +1,42 @@
+REM This script sets up a TCP randomization technique 
+REM Using Scapy to randomize the TCP packets by introducing random delays 
+REM between sending each packet. 
+REM This helps to obfuscate the packet timing.
+REM Also adds an element of randomness to the network traffic. 
+REM Keep in mind that while it adds some level of randomness, 
+REM it doesn't guarantee complete anonymity or security.
+
+
+REM This runs 1000 randomized TCP packets which last about 5 minutes.
+REM You can change the 'send_packet(packet) for _ in range(1000)' parameter to extend the time.
+REM For example if you change to 2000 this will last about 10 minutes.
+REM Adjust the values of min_delay and max_delay as per your requirement.
+
+REM Requirements:Python 3, and Scapy can install using the command 'pip3 install scapy'
+REM warnings can be ignored as they indicate that no IPv4 address is currently assigned to those interfaces. 
+REM The script will continue to function as intended
+
+
+REM Author: Narsty
+REM Title: TCP Randomizer 
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: Obscurity
+
+ID 05ac:021e Apple:Keyboard
+DELAY 500
+GUI SPACE
+DELAY 500
+STRING Terminal
+DELAY 1000
+ENTER
+DELAY 500
+STRING python3 -c 'import random, time; from scapy.all import *; min_delay = 0.1; max_delay = 0.5; packet = IP() / TCP(); send_packet = lambda pkt: (time.sleep(random.uniform(min_delay, max_delay)), send(pkt)); [send_packet(packet) for _ in range(1000)]'
+DELAY 1000
+ENTER
+
+
+
+
+
+

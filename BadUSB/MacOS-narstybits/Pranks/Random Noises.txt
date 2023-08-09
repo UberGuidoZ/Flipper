@@ -1,0 +1,203 @@
+REM Plays 40 random nosies in 20 seconds 
+
+REM Author: Narsty
+REM Title: Random Noises 
+REM Version 1.0 MacOs
+REM Category: Prank
+
+ID 05ac:021e Apple:Keyboard
+DELAY 1000
+
+GUI SPACE
+DELAY 500
+STRING Terminal
+DELAY 500
+ENTER
+DELAY 2000
+
+STRING start_time=$(date +%s)
+ENTER
+DELAY 1000
+
+STRING afplay /System/Library/Sounds/Ping.aiff
+ENTER
+DELAY 500
+STRING sleep 1
+ENTER
+DELAY 500
+STRING afplay /System/Library/Sounds/Glass.aiff
+ENTER
+DELAY 500
+STRING sleep 1
+ENTER
+DELAY 500
+STRING afplay /System/Library/Sounds/Submarine.aiff
+ENTER
+DELAY 500
+STRING sleep 1
+ENTER
+DELAY 500
+STRING afplay /System/Library/Sounds/Funk.aiff
+ENTER
+DELAY 500
+STRING sleep 1
+ENTER
+DELAY 500
+STRING afplay /System/Library/Sounds/Hero.aiff
+ENTER
+DELAY 500
+STRING sleep 1
+ENTER
+DELAY 500
+STRING afplay /System/Library/Sounds/Pop.aiff
+ENTER
+DELAY 500
+STRING sleep 1
+ENTER
+DELAY 500
+STRING afplay /System/Library/Sounds/Basso.aiff
+ENTER
+DELAY 500
+STRING sleep 1
+ENTER
+DELAY 500
+STRING afplay /System/Library/Sounds/Blow.aiff
+ENTER
+DELAY 500
+STRING sleep 1
+ENTER
+DELAY 500
+STRING afplay /System/Library/Sounds/Bottle.aiff
+ENTER
+DELAY 500
+STRING sleep 1
+ENTER
+DELAY 500
+STRING afplay /System/Library/Sounds/Frog.aiff
+ENTER
+DELAY 500
+STRING sleep 1
+ENTER
+DELAY 500
+STRING afplay /System/Library/Sounds/Ping.aiff
+ENTER
+DELAY 500
+STRING sleep 1
+ENTER
+DELAY 500
+STRING afplay /System/Library/Sounds/Glass.aiff
+ENTER
+DELAY 500
+STRING sleep 1
+ENTER
+DELAY 500
+STRING afplay /System/Library/Sounds/Submarine.aiff
+ENTER
+DELAY 500
+STRING sleep 1
+ENTER
+DELAY 500
+STRING afplay /System/Library/Sounds/Funk.aiff
+ENTER
+DELAY 500
+STRING sleep 1
+ENTER
+DELAY 500
+STRING afplay /System/Library/Sounds/Hero.aiff
+ENTER
+DELAY 500
+STRING sleep 1
+ENTER
+DELAY 500
+STRING afplay /System/Library/Sounds/Pop.aiff
+ENTER
+DELAY 500
+STRING sleep 1
+ENTER
+DELAY 500
+STRING afplay /System/Library/Sounds/Basso.aiff
+ENTER
+DELAY 1000
+STRING sleep 1
+ENTER
+DELAY 500
+STRING afplay /System/Library/Sounds/Blow.aiff
+ENTER
+DELAY 500
+STRING sleep 1
+ENTER
+DELAY 500
+STRING afplay /System/Library/Sounds/Bottle.aiff
+ENTER
+DELAY 500
+STRING sleep 1
+ENTER
+DELAY 500
+STRING afplay /System/Library/Sounds/Frog.aiff
+ENTER
+DELAY 500
+STRING sleep 1
+ENTER
+DELAY 500
+STRING afplay /System/Library/Sounds/Ping.aiff
+ENTER
+DELAY 500
+STRING sleep 1
+ENTER
+DELAY 500
+STRING afplay /System/Library/Sounds/Glass.aiff
+ENTER
+DELAY 500
+STRING sleep 1
+ENTER
+DELAY 500
+STRING afplay /System/Library/Sounds/Submarine.aiff
+ENTER
+DELAY 500
+STRING sleep 1
+ENTER
+DELAY 500
+STRING afplay /System/Library/Sounds/Funk.aiff
+ENTER
+DELAY 500
+STRING sleep 1
+ENTER
+DELAY 500
+STRING afplay /System/Library/Sounds/Hero.aiff
+ENTER
+DELAY 500
+STRING sleep 1
+ENTER
+DELAY 500
+STRING afplay /System/Library/Sounds/Pop.aiff
+ENTER
+DELAY 500
+STRING sleep 1
+ENTER
+DELAY 500
+STRING afplay /System/Library/Sounds/Basso.aiff
+ENTER
+DELAY 500
+STRING sleep 1
+ENTER
+DELAY 500
+STRING afplay /System/Library/Sounds/Blow.aiff
+ENTER
+DELAY 500
+STRING sleep 1
+ENTER
+DELAY 500
+STRING afplay /System/Library/Sounds/Bottle.aiff
+ENTER
+DELAY 500
+STRING sleep 1
+ENTER
+DELAY 500
+STRING afplay /System/Library/Sounds/Frog.aiff
+ENTER
+DELAY 500
+STRING sleep 1
+ENTER
+DELAY 1000
+
+GUI q

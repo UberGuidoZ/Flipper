@@ -1,0 +1,20 @@
+REM Description: Opens Terminal and redirects to URL of choice  
+REM You must enter the desired website in the Url String DO NOT remove single Quotes!
+
+REM Title: Website Redirect
+REM Author: NARSTY
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: Execution
+
+ID 05ac:021e Apple:Keyboard
+DELAY 1000
+GUI SPACE
+DELAY 200
+STRING terminal
+DELAY 1000
+ENTER
+DELAY 1000
+STRING open -a Safari 'Enter URL/Website here' 
+DELAY 1000
+ENTER

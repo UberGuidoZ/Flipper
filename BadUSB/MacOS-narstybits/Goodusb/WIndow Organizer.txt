@@ -1,0 +1,28 @@
+REM Ducky Script to resize and arrange windows on macOS
+
+REM Title: WIndow Organizer
+REM Author: Narsty
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: GOODUSB
+
+
+ID 05ac:021e Apple:Keyboard
+DELAY 2000
+GUI SPACE
+DELAY 500
+STRING Terminal
+DELAY 500
+ENTER
+DELAY 1000
+STRING osascript -e 'tell application "Terminal" to set bounds of window 1 to {0, 0, 600, 400}'
+ENTER
+DELAY 1000
+STRING osascript -e 'tell application "Google Chrome" to set bounds of window 1 to {600, 0, 1200, 400}'
+ENTER
+DELAY 1000
+STRING osascript -e 'tell application "Finder" to set bounds of window 1 to {0, 400, 600, 800}'
+ENTER
+DELAY 1000
+STRING osascript -e 'tell application "TextEdit" to set bounds of window 1 to {600, 400, 1200, 800}'
+ENTER

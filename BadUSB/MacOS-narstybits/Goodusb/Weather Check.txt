@@ -1,0 +1,23 @@
+REM Easily check the weather with the click of a button 
+REM Can change the location by replacing "NETHERLANDS" with your location
+
+
+REM TITLE: Weather Check
+REM Author: Narsty 
+REM Version:1.0
+REM Category: GOODUSB
+
+
+DELAY 500
+GUI SPACE 
+DELAY 500
+STRING TERMINAL 
+DELAY 1000
+ENTER
+DELAY 500
+STRING CURL WTTR.IN/NETHERLANDS 
+DELAY 500
+ENTER 
+DELAY 500
+GUI-CTRL F
+

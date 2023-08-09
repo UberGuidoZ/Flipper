@@ -1,0 +1,32 @@
+REM Shadowsocks encrypts your network traffic and routes it through the proxy server
+REM making it difficult for third parties to analyze or decipher your data. 
+REM This can help protect your network traffic from being easily monitored or intercepted.
+
+REM Requirements: Shadowsocks can be installed using command 'brew install shadowsocks-libev'
+
+REM you can use the ps command in the terminal to check if the Shadowsocks process is running.
+REM command 'ps -ef | grep shadowsocks' 
+
+
+
+REM Author: Narsty
+REM Title: Shadowsocks Proxy Ninja
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: Obscurity
+
+ID 05ac:021e Apple:Keyboard
+DELAY 500
+GUI SPACE
+DELAY 500
+STRING Terminal
+DELAY 1000
+ENTER
+DELAY 1000
+STRING brew services start shadowsocks-libev
+ENTER
+DELAY 5000
+STRING networksetup -setsocksfirewallproxy Wi-Fi 127.0.0.1 1080
+ENTER
+DELAY 250
+

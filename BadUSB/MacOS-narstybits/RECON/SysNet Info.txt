@@ -1,0 +1,21 @@
+REM User Information: Includes the username, home directory, and user ID.
+REM System Information: Displays details about the operating system.
+REM Network Information: Shows network interface information IP address.
+REM File and Directory Permissions: Provides permissions and ownership details of files and directories. 
+
+REM Author: Narsty
+REM Title: SysNet Info
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: Recon
+
+ID 05ac:021e Apple:Keyboard
+DELAY 500
+GUI SPACE
+DELAY 1000
+STRING terminal
+DELAY 500
+ENTER
+DELAY 1000
+STRING echo "User Information:" && echo "Username: $(whoami)" && echo "Home Directory: $HOME" && echo "User ID: $(id -u)" && echo && echo "System Information:" && uname -a && echo && echo "Network Information:" && ifconfig && echo && echo "File and Directory Permissions:" && ls -l
+

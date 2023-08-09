@@ -1,0 +1,32 @@
+REM Disabling Shadowsocks and Proxy Server
+REM These commands disable the system-level proxy settings & stop the Shadowsocks service
+REM Adjust this command based on how you started the service
+
+REM you can use the ps command in the terminal to check if the Shadowsocks process is running.
+REM command 'ps -ef | grep shadowsocks' 
+REM you can also kill the PID to end the Shadowsocks Process
+
+
+
+REM Author: Narsty
+REM Title: Shadowsocks Proxy Ninja Reverse
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: Obscurity
+
+ID 05ac:021e Apple:Keyboard
+DELAY 500
+GUI SPACE
+DELAY 500
+STRING Terminal
+DELAY 500
+ENTER
+DELAY 1000
+STRING brew services stop shadowsocks-libev
+ENTER
+DELAY 3000
+STRING networksetup -setsocksfirewallproxystate Wi-Fi off
+ENTER
+DELAY 3000
+
+

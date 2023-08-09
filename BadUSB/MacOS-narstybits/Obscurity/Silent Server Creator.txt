@@ -1,0 +1,37 @@
+REM Script that uses obfuscation to stealthily create a local HTTP server
+REM hosting a simple web page on the machine. 
+REM access the server by opening a web browser and navigating to localhost:9090 
+
+
+
+REM Creates a new directory in the tmp folder named "ghost_server" 
+REM Creates a new HTML file named "index.html" with the message "Hello, this is the Silent Server!".
+REM Starts a http.server server using Python's built-in SimpleHTTPServer module on port 9090. 
+REM The nohup command allows the server to continue running even after the terminal is closed
+REM the output is redirected to /dev/null so that it doesn't appear in the terminal.
+
+REM Author: Narsty
+REM Title: Silent Server Creator
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: Obscurity
+
+ID 05ac:021e Apple:Keyboard
+DELAY 500
+GUI SPACE
+DELAY 500
+STRING Terminal
+DELAY 500
+ENTER
+DELAY 500
+STRING mkdir /tmp/ghost_server && cd /tmp/ghost_server
+ENTER
+DELAY 500
+STRING echo '<h1>Hello, this is the Phantom Server!</h1>' > index.html
+ENTER
+DELAY 500
+STRING nohup python3 -m http.server 9090 > /dev/null 2>&1 &
+ENTER
+DELAY 500 
+
+

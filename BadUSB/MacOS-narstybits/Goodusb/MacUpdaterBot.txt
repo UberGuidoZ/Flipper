@@ -1,0 +1,28 @@
+REM Checks for and installs available updates on the MacOs system
+REM Very handy if you do not enjoy manually updating your system often!
+
+REM Note that running software updates with administrative privileges 
+REM can affect system files, so exercise caution 
+REM ensure that you have the necessary permissions to perform the updates. 
+
+REM Author: Narsty
+REM Title: MacUpdaterBot
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: GOODUSB
+
+
+ID 05ac:021e Apple:Keyboard
+DELAY 500
+GUI SPACE
+DELAY 500
+STRING terminal
+DELAY 500
+ENTER
+DELAY 1000
+STRING sudo softwareupdate -ia --verbose
+DELAY 1000
+ENTER
+
+
+

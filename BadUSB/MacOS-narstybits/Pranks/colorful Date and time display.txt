@@ -1,0 +1,35 @@
+REM The command date | figlet | lolcat generates a large.
+REM colorful representation of the current date and time in the terminal window. 
+REM To stop the animation, you can interrupt the script by pressing CTRL+C.
+
+
+REM Title: colorful Date and time display
+REM Author: Narsty
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: Prank
+
+
+
+ID 05ac:021e Apple:Keyboard
+DELAY 1000
+GUI SPACE
+DELAY 500
+STRING Terminal
+DELAY 500
+ENTER
+DELAY 500
+GUI-CTRL f
+DELAY 2000
+STRING clear
+ENTER
+DELAY 500
+STRING brew install figlet lolcat
+ENTER
+DELAY 15000
+STRING while true; do date | figlet | lolcat; sleep 1; clear; done
+DELAY 1000
+ENTER
+
+
+

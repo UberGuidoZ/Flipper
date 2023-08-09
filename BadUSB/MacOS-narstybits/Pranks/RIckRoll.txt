@@ -1,0 +1,62 @@
+REM Description: Opens Safari and redirects to YouTube rickroll vid  
+REM Volume is turned up and proceeds to be pressed so you cannot turn the Vol down
+
+
+REM Title: Rick Roll 
+REM Author: NARSTY
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: Prank
+
+ID 05ac:021e Apple:Keyboard
+DELAY 1000
+GUI SPACE
+DELAY 200
+STRING terminal
+DELAY 1000
+ENTER
+DELAY 1000
+STRING open -a Safari 'https://www.youtube.com/watch?v=dQw4w9WgXcQ' 
+DELAY 1000
+ENTER
+DELAY 1000
+F12
+DELAY 500
+F12
+DELAY 500
+F12
+DELAY 500
+F12
+DELAY 500
+F12
+DELAY 500
+F12
+DELAY 500
+F12
+DELAY 500
+F12
+DELAY 500
+F12
+DELAY 500
+F12
+DELAY 500
+F12
+DELAY 500
+F12
+DELAY 500
+F12
+DELAY 500
+F12
+DELAY 500
+F12
+DELAY 500
+F12
+DELAY 500
+F12
+DELAY 500
+F12
+DELAY 500
+F12
+DELAY 500
+F12
+DELAY 500

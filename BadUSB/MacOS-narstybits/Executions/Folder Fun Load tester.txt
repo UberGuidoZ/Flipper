@@ -1,0 +1,22 @@
+REM Creates 400 Folders on the Desktop 
+REM Can adjust the number "400" to change the numbers of folders created
+
+REM please be EXTREMELY careful with load testing scripts as they can damage your system
+
+REM Author: Narsty
+REM Title: Folder Fun 
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: Executions
+
+ID 05ac:021e Apple:Keyboard
+DELAY 1000
+GUI SPACE
+DELAY 500
+STRING terminal
+DELAY 500
+ENTER
+DELAY 1000
+STRING mkdir ~/Desktop/FunFolders{1..400} 
+DELAY 500
+ENTER

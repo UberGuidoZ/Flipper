@@ -1,0 +1,55 @@
+REM The script will open the Terminal, 
+REM execute the nmap command to scan for open ports, 
+REM run nikto for web server vulnerability scanning.
+REM Runs Zap to test for Network vulerabilities, prints report to Desktop. You can change location to your flipper on line 48.
+REM Tshark command-line tool for capturing and analyzing network traffic. Will create a new file named capture.pcap on your desktop
+REM You can change location to your flipper on line 51.
+REM Finally the script performs directory and file brute-forcing with gobuster and password files
+REM Must store password file on Desktop and name it "common.txt"
+
+
+
+REM nmap, nikto, and gobuster can all be downloaded using homebrew/terminal
+REM command 'brew install nmap && brew install nikto && brew install gobuster'
+
+REM Download wireshark to use the terminal Tshark command
+REM Download the OWASP ZAP.app file from the official OWASP ZAP website
+
+
+REM nikto command will not execute if you don't have the correct port assigned! 
+REM verify that the web server is indeed running on an open port  
+REM as indicated by the Nmap scan, before using the code!
+REM Line 45 should look like this after port # is inserted "STRING nikto -h 13.371.118.34 -p 73" 
+REM To use this script, replace <13.371.118.34 with target_ip>  
+
+
+
+REM Author: Narsty
+REM Title: DarkStorm bruteforce
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: Execution
+
+
+ID 05ac:021e Apple:Keyboard
+DELAY 1000
+GUI SPACE
+DELAY 500
+STRING terminal
+DELAY 500
+ENTER
+DELAY 1000
+STRING nmap -p 1-1000 -T4 -Pn 13.371.118.34
+ENTER
+DELAY 7000
+STRING nikto -h 13.371.118.34 -p <Open port # goes here>
+ENTER
+DELAY 7000
+STRING /Applications/OWASP\ ZAP.app/Contents/Java/zap.sh -cmd -quickurl http://13.371.118.34 -quickout ~/Desktop/quick_scan_results.html
+ENTER
+DELAY 7000
+STRING tshark -i en0 -w ~/Desktop/capture.pcap
+ENTER
+DELAY 7000
+STRING gobuster dir -u http://13.371.118.34 -w ~/Desktop/common.txt -t 50 -q
+ENTER

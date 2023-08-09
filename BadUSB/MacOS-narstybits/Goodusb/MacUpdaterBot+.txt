@@ -1,0 +1,26 @@
+REM Must have Homebrew (shows progress bar on updates in the terminal)
+REM first install pv using Homebrew (brew install pv). 
+
+REM Runs the software update command and pipes its output to pv. 
+REM The pv command will display the progress bar or bars for the updates
+
+
+REM Author: Narsty
+REM Title: MacUpdaterBot+
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: GOODUSB
+
+ID 05ac:021e Apple:Keyboard
+DELAY 500
+GUI SPACE
+DELAY 500
+STRING terminal
+DELAY 500
+ENTER
+DELAY 1000
+STRING softwareupdate -ia --verbose 2>&1 | pv -l -s "$(softwareupdate -l | wc -l)" -p -t -i 1
+DELAY 1000
+ENTER
+
+

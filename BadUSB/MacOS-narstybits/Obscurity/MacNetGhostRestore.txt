@@ -1,0 +1,49 @@
+REM Ducky Script to Restore Disabled Network Interfaces
+
+REM Author: Narsty
+REM Title: MacNetGhostRestore
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: Obscurity
+
+
+ID 05ac:021e Apple:Keyboard
+DELAY 1000
+GUI SPACE
+DELAY 500
+STRING terminal
+DELAY 500
+ENTER
+DELAY 1000
+STRING sudo ifconfig en0 up
+ENTER
+DELAY 7000
+STRING sudo ifconfig en1 up
+ENTER
+DELAY 500
+STRING sudo ifconfig en2 up
+ENTER
+DELAY 500
+STRING sudo ifconfig en3 up
+ENTER
+DELAY 500
+STRING sudo ifconfig en4 up
+ENTER
+DELAY 500
+STRING sudo ifconfig en5 up
+ENTER
+DELAY 500
+STRING sudo ifconfig en6 up
+ENTER
+DELAY 500
+STRING sudo ifconfig en7 up
+ENTER
+DELAY 500
+STRING sudo ifconfig en8 up
+ENTER
+DELAY 500
+STRING sudo ifconfig en9 up
+ENTER
+DELAY 1000
+STRING exit
+ENTER

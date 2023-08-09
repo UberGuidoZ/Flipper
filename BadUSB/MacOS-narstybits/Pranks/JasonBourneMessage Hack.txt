@@ -1,0 +1,34 @@
+REM Title: Message Hack
+REM Author: NARSTY
+REM Description: Opens Messages and types "Ive been hacked please help!" To the first contact   
+REM Will close and repeat but the second message will be "Jesus Christ... It's Jason Bourne!" 
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: Prank
+
+ID 05ac:021e Apple:Keyboard
+DELAY 1000
+GUI SPACE
+DELAY 200
+STRING Messages
+DELAY 1000
+ENTER
+DELAY 3000
+STRING Ive been hacked please help!
+DELAY 500
+ENTER
+DELAY 200
+GUI w
+DELAY 1000
+GUI SPACE
+DELAY 200
+STRING Messages
+DELAY 1000
+ENTER
+DELAY 3000
+STRING Jesus Christ... It's Jason Bourne!
+DELAY 500
+ENTER
+DELAY 200
+GUI w
+

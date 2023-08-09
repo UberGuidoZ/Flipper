@@ -1,0 +1,48 @@
+REM Title: MacWildRide V2
+REM Author: Narsty & Ecto-1A 
+REM Description: Opens terminal and runs the "top' command to display Cur processes 
+REM It then builds a fake terminal window saying the computer is being encrypted.
+REM Target: MacOS
+REM Version: 1.0
+REM Category: Prank
+
+
+ID 05ac:021e Apple:Keyboard
+DELAY 500
+GUI SPACE
+DELAY 1000
+STRING Terminal
+DELAY 250
+ENTER
+DELAY 500
+STRING top
+DELAY 250
+ENTER
+GUI-CTRL F
+DELAY 8000
+ENTER
+DELAY 1000
+CONTROL C
+DELAY 250
+ENTER
+DELAY 550
+STRING echo -e "\e[101;30;5m ENCRYPTING DATA ON SYSTEM"
+DELAY 250
+ENTER
+DELAY 250
+STRING '
+DELAY 250
+ENTER
+STRING PASSWORDS: ......10%......50%......100% SUCCESS!
+DELAY 1000
+ENTER
+DELAY 250
+STRING BANK ACCOUNTS: ......10%......50%......100% SUCCESS!
+DELAY 1000
+ENTER
+DELAY 250
+STRING PHOTOS: ......10%......50%......100% SUCCESS!
+DELAY 1000
+ENTER
+DELAY 250
+STRING ~ALL FILES SUCCESSFULLY ENCRYPTED~

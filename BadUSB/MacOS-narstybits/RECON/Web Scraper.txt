@@ -1,0 +1,45 @@
+REM Web Scraping and Output to Desktop.
+REM This script performs web scraping on a target website and saves the extracted data to a text file on the desktop.
+REM Make sure to replace the target website URL and adjust the delay timings as needed for optimal performance.
+
+
+REM Please note that web scraping may have legal and ethical implications, 
+REM script should only be performed on websites you have permission to access and scrape data from.
+REM Replace 'https://www.example.com' with the target website URL.
+
+
+
+REM Author: Narsty
+REM Title: Web Scraper
+REM Version: 1.0 
+REM Target: MacOs
+REM Category: Recon
+
+
+DELAY 500
+GUI SPACE
+DELAY 500
+STRING terminal
+DELAY 500
+ENTER
+DELAY 1000
+STRING cd ~/Desktop
+DELAY 500
+ENTER
+DELAY 500
+STRING touch output.txt
+DELAY 500
+ENTER
+DELAY 500
+STRING curl -s https://www.example.com > output.txt  
+DELAY 1000
+ENTER
+DELAY 500
+STRING open -e output.txt
+DELAY 1000
+ENTER
+
+
+
+
+

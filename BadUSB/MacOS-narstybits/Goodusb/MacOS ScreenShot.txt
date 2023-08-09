@@ -1,0 +1,36 @@
+REM Takes a Screenshot and saves the image to the desktop
+
+REM Title: MacOS ScreenShot
+REM Author: Narsty
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: GOODUSB
+
+
+ID 05ac:021e Apple:Keyboard
+DELAY 2000
+GUI SPACE
+DELAY 500
+STRING terminal
+DELAY 500
+ENTER
+DELAY 500
+STRING echo "USB Script Utility"
+ENTER
+DELAY 500
+STRING echo "-------------------"
+ENTER
+DELAY 500
+STRING echo "Capturing Screenshot..."
+ENTER
+DELAY 500
+STRING screencapture -W ~/Desktop/screenshot.png
+ENTER
+DELAY 1000
+STRING echo "Screenshot captured and saved to Desktop!"
+ENTER
+DELAY 500
+STRING echo "-------------------"
+ENTER
+DELAY 2000
+GUI q

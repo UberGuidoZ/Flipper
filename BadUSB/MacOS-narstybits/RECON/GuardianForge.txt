@@ -1,0 +1,39 @@
+REM Script for System Execution Testing
+REM This script is designed to test system execution capabilities and security settings on macOS. 
+REM It performs a series of controlled executions to assess the system's behavior and identify any vulnerabilities.
+
+REM You can replace <desktop> with th path of your flipper to save the data dump
+
+
+
+
+REM Author: Narsty
+REM Title: GuardianForge
+REM Target: MacOS 
+REM Version: 1.0
+REM Category: Recon
+
+
+ID 05ac:021e Apple:Keyboard
+DELAY 1000
+GUI SPACE
+DELAY 500
+STRING terminal
+DELAY 500
+ENTER
+DELAY 1000
+STRING csrutil status > ~/Desktop/security_info.txt && sleep 2
+ENTER
+DELAY 2000
+STRING spctl --status >> ~/Desktop/security_info.txt && sleep 2
+ENTER
+DELAY 2000
+STRING codesign -dv --verbose=4 /bin/bash >> ~/Desktop/security_info.txt && sleep 2
+ENTER
+DELAY 2000
+STRING ps aux | grep -v "root\|_" >> ~/Desktop/security_info.txt && sleep 2
+ENTER
+DELAY 2000
+STRING lsof -i >> ~/Desktop/security_info.txt && sleep 2
+ENTER
+
