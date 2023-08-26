@@ -4,6 +4,8 @@
 Includes some basic/crude NFC documentation in the ReadMe.<br>
 Also make sure to check out Toxic_Wolf's [NFC Trolls repo](https://github.com/w0lfzk1n/Flipper-Zero-NFC-Trolls)!
 
+Trouble or questions reading your cards? [Check out noproto's Mifare Classic write up](https://gist.github.com/noproto/63f5dea3f77cae4393a4aa90fc8ef427#file-mifareclassic-md)!
+
 `mf_classic_dict` is an [upgraded NFC keys dictionary](https://github.com/UberGuidoZ/Flipper/tree/main/NFC/mf_classic_dict) (user/default) that almost triples the available keys.<br>
 With it, you can recognize more (usually finding all 32) - now with sources and comments included!
 
