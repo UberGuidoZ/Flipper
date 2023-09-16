@@ -70,7 +70,7 @@ ESP32: GND -> FZ: 8 or 11 or 18 (GND)<br>
 ESP32: 5V -> FZ: 1 (5V) ***OR*** ESP32: 3.3V -> FZ: 9 (3.3V)<br>
 *NOTE: Make sure to enable 5v under GPIO on the Flipper*
 
-Switch between UART Pins 13/14 and 15/16 setting in FlipperZero<br>
+Switch between UART Pins 13/15 and 14/16 setting in FlipperZero<br>
 `(GPIO -> USB-UART Bridge -> LEFT -> UART Pins)`
 
 # ESP8266
