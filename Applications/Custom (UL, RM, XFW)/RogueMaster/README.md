@@ -137,6 +137,7 @@
 - [HEX Viewer (By QtRoS)](https://github.com/QtRoS/flipperzero-firmware)
 - [i2c Tools v1.1 (By NaejEL)](https://github.com/NaejEL/flipperzero-i2ctools)
 - [iButton Fuzzer (By gid9798)](https://github.com/DarkFlippers/unleashed-firmware/pull/507) [(Original By xMasterX)](https://github.com/DarkFlippers/unleashed-firmware)
+- [ID Card v1.0 (By alanretgue)](https://github.com/alanretgue/Flipper_Zero-id_card)
 - [IFTTT Button (By Ferrazzi)](https://github.com/Ferrazzi/FlipperZero_IFTTT_Virtual_Button) `Req: ESP8266 w/ IFTTT FW Flashed`
 - [Intravelometer (By theageoflove)](https://github.com/theageoflove/flipperzero-zeitraffer)
 - [IR Intervalometer for Sony Cameras (By Nitepone)](https://github.com/Nitepone/flipper-intervalometer) `works for Sony cameras`
