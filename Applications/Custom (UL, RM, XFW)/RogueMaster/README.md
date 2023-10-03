@@ -246,7 +246,7 @@
 - [Wifi Mapping (By carvilsi)](https://github.com/carvilsi/flipper0-wifi-map/tree/main) `Req: ESP32`
 - [Wii EC Analyzer v1.1 (By csBlueChip)](https://github.com/csBlueChip/FlipperZero_WiiEC)
 - [Wire Tester v1.1 (By unixispower)](https://gitlab.com/unixispower/flipper-wire-tester)
-- [XRemote (By kala13x)](https://github.com/kala13x/flipper-xremote)
+- [XRemote v1.0 (By kala13x)](https://github.com/kala13x/flipper-xremote)
 
 ## COMMENTED OUT / NOT COMPILED DUE TO ISSUES
 
@@ -264,4 +264,4 @@
 - [Desktop Favorite Binds To Allow Opening Custom Game Menu. Whomever can complete this gets 3 months of subscriber builds. Patrons can DM me to add their monthly towards this bounty.](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/pull/756)
 - `Bluetooth Audio` APP to allow flipper to pair to external speaker or headphones for wav/mp3 playback ($200 USD in ETH or BTC) (Don't think this is possible)
 
-# Install GitHub Version With [WEB INSTALLER](https://lab.flipper.net/?url=https%3A%2F%2Frogue-master.net%2F%3Ffile%3DRM0926-1820-0.92.3-55b093a.tgz&channel=RM0926-1820-0.92.3-55b093a&version=0.92.3) OR  [WITHOUT ANIMATIONS](https://lab.flipper.net/?url=https%3A%2F%2Frogue-master.net%2F%3Ffile%3DRM0926-1820-0.92.3-55b093a-NoAnim.tgz&channel=RM0926-1820-0.92.3-55b093a-NoAnim&version=0.92.3)
+# Install GitHub Version With [WEB INSTALLER](https://lab.flipper.net/?url=https%3A%2F%2Frogue-master.net%2F%3Ffile%3DRM1003-0047-0.92.3-0f6cbde.tgz&channel=RM1003-0047-0.92.3-0f6cbde&version=0.92.3) OR  [WITHOUT ANIMATIONS](https://lab.flipper.net/?url=https%3A%2F%2Frogue-master.net%2F%3Ffile%3DRM1003-0047-0.92.3-0f6cbde-NoAnim.tgz&channel=RM1003-0047-0.92.3-0f6cbde-NoAnim&version=0.92.3)
