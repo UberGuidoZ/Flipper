@@ -1,6 +1,6 @@
 # Shopping cart wheel unlock/lock files
 
-Credits to jdmoore#4658 for modifying the files to work on the FZ<br>
+Credits to jdmoore#4658 and casimirextreme for modifying the files to work on the FZ<br>
 Original files from: https://www.begaydocrime.com/#
 
 ## How it works

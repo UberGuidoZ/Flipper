@@ -1,0 +1,9 @@
+REM Title: You are an idiot web version
+REM Author: FalsePhilosopher
+REM Description: Opens a you are an idiot remake website
+REM Target:	Windows 10+ tested on win 11
+REM
+DELAY 300
+GUI r
+DELAY 1000
+REM STRINGLN msedge.exe --kiosk https://ygev.github.io/Trojan.JS.YouAreAnIdiot --edge-kiosk-type=fullscreen

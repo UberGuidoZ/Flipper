@@ -1,0 +1,1 @@
+DBGT:d=4,o=6,b=180:g5p,g5p,e5,f5,g5,a5,g5p,f5p,e5p,d5p,e5p,e5p,c5,d5,e5,f5,e5p,d5p,c5p,b4p,b4p,a4p,c5p,a5p,g5p,g5p,e5,c5p,d5,e5,f5p,d5p,c5p,d5p,d5p,c5,b4,c5,c5p,c5p,c5p,c5p,d5p,d5p,d5p,d5p,c5p,c5p,c5p,c5p

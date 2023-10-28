@@ -1,0 +1,1 @@
+Daft_Punk_Aerodynamic_Riff:d=4,o=5,b=500:d5,f#4,b4,f#4,d5,f#4,b4,f#4,d5,f#4,b4,f#4,d5,f#4,b4,f#4,d5,g#4,b4,g#4,d5,g#4,b4,g#4,d5,g#4,b4,g#4,d5,g#4,b4,g#4,g5,b4,e5,b4,g5,b4,e5,b4,g5,b4,e5,b4,g5,b4,e5,b4,e5,a4,c#5,a4,e5,a4,c#5,a4,e5,a4,c#5,a4,e5,a4,c#5,a4
