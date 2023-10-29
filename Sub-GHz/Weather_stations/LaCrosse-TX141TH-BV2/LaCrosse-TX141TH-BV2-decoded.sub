@@ -1,0 +1,17 @@
+#LaCrosse-TX141TH-BV2
+Filetype: Flipper SubGhz Key File
+Version: 1
+Frequency: 433920000
+Preset: FuriHalSubGhzPresetOok270Async
+Latitute: nan
+Longitude: nan
+Protocol: TX141THBv2
+Id: 18
+Bit: 41
+Data: 00 00 00 24 05 2A 65 33
+Batt: 0
+Hum: 50
+Ts: 1698495207
+Ch: 1
+Btn: 0
+Temp: 16.100000
