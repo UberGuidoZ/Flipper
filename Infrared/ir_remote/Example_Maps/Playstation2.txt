@@ -1,0 +1,12 @@
+REMOTE: /ext/infrared/IRDB/Consoles/PlayStation/PlayStation_2.ir
+UP: Up
+DOWN: Down
+LEFT: Left
+RIGHT: Right
+OK: Cross
+BACK: Circle
+UPHOLD: Start
+DOWNHOLD: Select
+LEFTHOLD: Triangle
+RIGHTHOLD: Square
+OKHOLD: Power
