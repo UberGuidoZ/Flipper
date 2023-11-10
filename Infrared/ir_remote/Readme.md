@@ -9,6 +9,8 @@ FAP file is either included or can be obtained with the "extra apps" pack.
 *Unleashed*: Download [Extra Apps Pack](https://download-directory.github.io/?url=https://github.com/xMasterX/unleashed-extra-pack/tree/main/apps) then look in `Misc`<br>
 *RogueMaster*: Included under `Tools` folder.
 
+Download all of the IR remote files [with this link](https://uberguidoz.github.io/DownGit/#/home?url=https://github.com/UberGuidoZ/Flipper/tree/main/Infrared/ir_remote/Example_Maps)
+
 ## How to use
 
 The path of the actual IR file should be listed after `REMOTE:` at the top.<br>

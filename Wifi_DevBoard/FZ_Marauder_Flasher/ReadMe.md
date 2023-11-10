@@ -2,17 +2,23 @@
 
 Looking for a Linux/Mac version? [Check out SkeletonMan's Python edition!](https://github.com/SkeletonMan03/FZEasyMarauderFlash) (WIP for Windows too including full automated downloads.)
 
+*******************************************************************************************************************************************************************
+*** DO NOT MISS THIS *** There is a wonderful web-based option as well that is a bit easier to use than others. [Go give FZee Flasher a try!](https://fzeeflasher.com/)<br>
+*******************************************************************************************************************************************************************
+
 Or do you want to flash from the Flipper without a computer at all? [Cococode (aka 0xchocolate) has you covered](https://github.com/0xchocolate/flipperzero-esp-flasher).<br>
 Looking for the files you need or a video walkthrough? [TalkingSasquach has you covered](https://github.com/UberGuidoZ/Flipper/blob/main/Wifi_DevBoard/ReadMe.md#esp32-flasher-from-flipper)...
 
 Looking for a quick video walkthrough on how to use this flasher? [Thanks to Lab401.com, you're in luck](https://www.youtube.com/watch?v=um_acrDaBK4)!<br>
 Or if you'd rather have a quick rundown of using the Flipper Application, check out [this summary from haxez.org](https://haxez.org/2022/11/marauding-wi-fi-networks-with-the-flipper-zero/).
 
-![Flasher_SS](https://github.com/UberGuidoZ/Flipper/assets/57457139/b6069d3b-856a-4d64-928e-82810d402803)
+Flasher includes auto-detection and BINs for Flipper devboard, ESP32-WROOM, and SD card mod - just double-click and go!
+
+![Flasher_SS](https://github.com/UberGuidoZ/Flipper/assets/57457139/aed0c4ff-ea39-4e74-9922-4940bfc3397d)
 
 ## Now it's as easy as 1, 2, 3 to install or update Marauder on Windows.
 
-1. Download and extract [the ZIP file](https://github.com/UberGuidoZ/Flipper/raw/main/Wifi_DevBoard/FZ_Marauder_Flasher/FZ_Marauder_v2.4.zip) above to the same directory.<br>
+1. Download and extract [the ZIP file](https://github.com/UberGuidoZ/Flipper/raw/main/Wifi_DevBoard/FZ_Marauder_Flasher/FZ_Marauder_v2.5.zip) above to the same directory.<br>
 2. Hold `BOOT` on the devboard and plug it into your PC directly via USB.<br>
 3. Double-click `flash.bat` from the extracted files then choose `Flash` or `Update`.
 
@@ -22,11 +28,11 @@ Or if you'd rather have a quick rundown of using the Flipper Application, check 
 * If you choose `Save Flipper Blackmagic WiFi settings` your current Blackmagic configuration will be saved.<br>
 * If you choose `Flash Flipper Blackmagic` the script will flash the updated v0.1.1 Blackmagic firmware.
 
-Current Marauder version included in the ZIP: v0.11.0-RC3-20230727 (current release as of July 27, 2023)
+Current Marauder version included in the ZIP: v0.13.20231026 (current release as of Oct 26, 2023)
 
 **Once the install has completed, [head over here](https://github.com/UberGuidoZ/Flipper/tree/main/Wifi_DevBoard#marauder-install-information) to learn more about what Marauder can do!**
 
-The [batch file](https://github.com/UberGuidoZ/Flipper/blob/main/Wifi_DevBoard/FZ_Marauder_Flasher/Flash-v2.3.bat) is also included above for review and to track coming changes.
+The [batch file](https://github.com/UberGuidoZ/Flipper/blob/main/Wifi_DevBoard/FZ_Marauder_Flasher/Flash-v2.5.bat) is also included above for review and to track coming changes.
 
 Acknowledgements:<br>
 * [justcallmekoko](https://github.com/justcallmekoko/ESP32Marauder) for the AWESOME work in developing Marauder and porting it to the Flipper.
