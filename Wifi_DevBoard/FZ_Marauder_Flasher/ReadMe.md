@@ -1,6 +1,7 @@
 # Quick and easy flasher/updater for [Marauder](https://github.com/justcallmekoko/ESP32Marauder) (Devboard/WROOM)!
 
 Looking for a Linux/Mac version? [Check out SkeletonMan's Python edition!](https://github.com/SkeletonMan03/FZEasyMarauderFlash) (WIP for Windows too including full automated downloads.)
+*** DO NOT MISS THIS!! *** There is a wonder web-based option as well that is a bit easier to use than others. [Go to FZeeFlasher a try!](https://fzeeflasher.com/)
 
 Or do you want to flash from the Flipper without a computer at all? [Cococode (aka 0xchocolate) has you covered](https://github.com/0xchocolate/flipperzero-esp-flasher).<br>
 Looking for the files you need or a video walkthrough? [TalkingSasquach has you covered](https://github.com/UberGuidoZ/Flipper/blob/main/Wifi_DevBoard/ReadMe.md#esp32-flasher-from-flipper)...
