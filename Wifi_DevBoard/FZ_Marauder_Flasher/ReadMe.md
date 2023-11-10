@@ -3,7 +3,7 @@
 Looking for a Linux/Mac version? [Check out SkeletonMan's Python edition!](https://github.com/SkeletonMan03/FZEasyMarauderFlash) (WIP for Windows too including full automated downloads.)
 
 *******************************************************************************************************************************************************************
-*** DO NOT MISS THIS!! *** There is a wonder web-based option as well that is a bit easier to use than others. [Go to FZeeFlasher a try!](https://fzeeflasher.com/)<br>
+*** DO NOT MISS THIS *** There is a wonderful web-based option as well that is a bit easier to use than others. [Go give FZee Flasher a try!](https://fzeeflasher.com/)<br>
 *******************************************************************************************************************************************************************
 
 Or do you want to flash from the Flipper without a computer at all? [Cococode (aka 0xchocolate) has you covered](https://github.com/0xchocolate/flipperzero-esp-flasher).<br>
