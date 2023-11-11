@@ -6,7 +6,7 @@ Files are UNTESTED and may cause magic smoke. Generated with a HackRF and record
 -----
 
 **NOTE: Files have been removed because people can't be trusted. This is why we can't have nice things.**<br>
-If you hunt for them, they should not be too difficult to find[.](https://github.com/SHUR1K-N/Flipper-Zero-Sub-GHz-Jamming) (Discord is where they were found...)<br>
+If you hunt for them, they should not be too difficult to find.<br>
 
 ***Direct messaging me and asking for them will result in being ignored at best or blocked at worst! =)***
 
