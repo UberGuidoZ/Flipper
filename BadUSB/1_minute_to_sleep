@@ -10,6 +10,6 @@ STRING cmd
 ENTER
 DELAY 500
 REM Wait to ensure that the Command Prompt is open
-REM Type the scheduled shutdown command (1 minutes = 60 seconds)
+REM Type the scheduled shutdown command (1 minute = 60 seconds)
 STRING shutdown /s /t 60
 ENTER
