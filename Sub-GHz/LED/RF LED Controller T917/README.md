@@ -2,4 +2,4 @@
 
 The controller operates at the frequency of 434.39 MHz.
 
-![Remote](remote.jpeg)
+![Remote](remote.jpg)
