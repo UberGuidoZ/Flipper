@@ -14,7 +14,7 @@ Or if you'd rather have a quick rundown of using the Flipper Application, check 
 
 Flasher includes auto-detection and BINs for Flipper devboard, ESP32-WROOM, and SD card mod - just double-click and go!
 
-![Flasher_SS](https://github.com/UberGuidoZ/Flipper/assets/57457139/aed0c4ff-ea39-4e74-9922-4940bfc3397d)
+![Flasher_SS](https://github.com/UberGuidoZ/Flipper/assets/57457139/70a7c301-07c8-46e2-9fc9-4e2b7e2ab6b6)
 
 ## Now it's as easy as 1, 2, 3 to install or update Marauder on Windows.
 
