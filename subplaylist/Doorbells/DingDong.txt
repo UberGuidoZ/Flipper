@@ -1,0 +1,74 @@
+sub: /ext/subghz/Doorbells/1byone/1BYONE_ODEQH-0536.sub
+sub: /ext/subghz/Doorbells/AVANTEK/AVANTEK_CW11.sub
+sub: /ext/subghz/Doorbells/AVANTEK/AVANTEK_Mini_CB11_Repeating.sub
+sub: /ext/subghz/Doorbells/AVANTEK/AVANTEK_Mini_CB11_Single.sub
+sub: /ext/subghz/Doorbells/Action/Action_doorbell.sub
+sub: /ext/subghz/Doorbells/AreTech/AreTech_Doorbell.sub
+sub: /ext/subghz/Doorbells/Avidsen_DoorBell/Avidsen_Black_Luster_Doorbell.sub
+sub: /ext/subghz/Doorbells/Byron/Byron_DB421E.sub
+sub: /ext/subghz/Doorbells/Clas_Ohlson/SC370_SC321T/W727 1.sub
+sub: /ext/subghz/Doorbells/Clas_Ohlson/SC370_SC321T/W727 2.sub
+sub: /ext/subghz/Doorbells/Clas_Ohlson/SC370_SC321T/W727 3.sub
+sub: /ext/subghz/Doorbells/Clas_Ohlson/SC370_SC321T/W727 4.sub
+sub: /ext/subghz/Doorbells/Clas_Ohlson/SC370_SC321T/W727 5.sub
+sub: /ext/subghz/Doorbells/Clas_Ohlson/SC370_SC321T/W727 6.sub
+sub: /ext/subghz/Doorbells/Clas_Ohlson/SC370_SC321T/W727 7.sub
+sub: /ext/subghz/Doorbells/Clas_Ohlson/SC370_SC321T/W727 8.sub
+sub: /ext/subghz/Doorbells/Clas_Ohlson/SC370_SC321T/W727 9.sub
+sub: /ext/subghz/Doorbells/Construction_Market/doorbell01.sub
+sub: /ext/subghz/Doorbells/Construction_Market/doorbell02.sub
+sub: /ext/subghz/Doorbells/Construction_Market/doorbell03.sub
+sub: /ext/subghz/Doorbells/Construction_Market/doorbell04.sub
+sub: /ext/subghz/Doorbells/Construction_Market/doorbell05.sub
+sub: /ext/subghz/Doorbells/Construction_Market/doorbell06.sub
+sub: /ext/subghz/Doorbells/Construction_Market/doorbell07.sub
+sub: /ext/subghz/Doorbells/Construction_Market/doorbell08.sub
+sub: /ext/subghz/Doorbells/Construction_Market/doorbell09.sub
+sub: /ext/subghz/Doorbells/Construction_Market/doorbell10.sub
+sub: /ext/subghz/Doorbells/Construction_Market/doorbell11.sub
+sub: /ext/subghz/Doorbells/Dongguan_Smart Hero_Electronics/Doorbell999.sub
+sub: /ext/subghz/Doorbells/Doorbell0.sub
+sub: /ext/subghz/Doorbells/Doorbell1.sub
+sub: /ext/subghz/Doorbells/Doorbell2.sub
+sub: /ext/subghz/Doorbells/Doorbell3.sub
+sub: /ext/subghz/Doorbells/Doorbell4.sub
+sub: /ext/subghz/Doorbells/Doorbell5.sub
+sub: /ext/subghz/Doorbells/DoorbellFM.sub
+sub: /ext/subghz/Doorbells/Elepowstar_Doorbell/Elepowstar_doorbell.sub
+sub: /ext/subghz/Doorbells/GE_2Melody_Doorbell/GE_Doorbell_dingdong.sub
+sub: /ext/subghz/Doorbells/GE_Doorbell_19297.sub
+sub: /ext/subghz/Doorbells/Hard Head/Hard Head doorbell.sub
+sub: /ext/subghz/Doorbells/Hiemkaup/Heimkaup.sub
+sub: /ext/subghz/Doorbells/KellJ_And_Company/Cleverio/Cleverio_Kjell_o_Company_Doorbell.sub
+sub: /ext/subghz/Doorbells/KlikAanKlikUit-Doorbel(NL).sub
+sub: /ext/subghz/Doorbells/My_doorway.sub
+sub: /ext/subghz/Doorbells/Nedis/NEDIS_DOORB212BK.sub
+sub: /ext/subghz/Doorbells/Sadotech_Doorbell.sub
+sub: /ext/subghz/Doorbells/Sonnette_Maison_Doorbell.sub
+sub: /ext/subghz/Doorbells/TECKNET/TECKNET_DoorBell.sub
+sub: /ext/subghz/Doorbells/W727/W727_1.sub
+sub: /ext/subghz/Doorbells/W727/W727_2.sub
+sub: /ext/subghz/Doorbells/W727/W727_3.sub
+sub: /ext/subghz/Doorbells/W727/W727_4.sub
+sub: /ext/subghz/Doorbells/W727/W727_5.sub
+sub: /ext/subghz/Doorbells/W727/W727_6.sub
+sub: /ext/subghz/Doorbells/W727/W727_7.sub
+sub: /ext/subghz/Doorbells/W727/W727_8.sub
+sub: /ext/subghz/Doorbells/W727/W727_9.sub
+sub: /ext/subghz/Doorbells/intertechno_MLR-7100_Doorbell/A.sub
+sub: /ext/subghz/Doorbells/intertechno_MLR-7100_Doorbell/B.sub
+sub: /ext/subghz/Doorbells/intertechno_MLR-7100_Doorbell/C.sub
+sub: /ext/subghz/Doorbells/intertechno_MLR-7100_Doorbell/D.sub
+sub: /ext/subghz/Doorbells/intertechno_MLR-7100_Doorbell/E.sub
+sub: /ext/subghz/Doorbells/intertechno_MLR-7100_Doorbell/F.sub
+sub: /ext/subghz/Doorbells/intertechno_MLR-7100_Doorbell/G.sub
+sub: /ext/subghz/Doorbells/intertechno_MLR-7100_Doorbell/H.sub
+sub: /ext/subghz/Doorbells/intertechno_MLR-7100_Doorbell/I.sub
+sub: /ext/subghz/Doorbells/intertechno_MLR-7100_Doorbell/J.sub
+sub: /ext/subghz/Doorbells/intertechno_MLR-7100_Doorbell/K.sub
+sub: /ext/subghz/Doorbells/intertechno_MLR-7100_Doorbell/L.sub
+sub: /ext/subghz/Doorbells/intertechno_MLR-7100_Doorbell/M.sub
+sub: /ext/subghz/Doorbells/intertechno_MLR-7100_Doorbell/N.sub
+sub: /ext/subghz/Doorbells/intertechno_MLR-7100_Doorbell/O.sub
+sub: /ext/subghz/Doorbells/intertechno_MLR-7100_Doorbell/P.sub
+sub: /ext/subghz/Doorbells/ook650_433substack.sub
