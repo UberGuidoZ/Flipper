@@ -3,7 +3,7 @@
 
 ## If you're new to github in general, check out [this great guide](https://github.com/wrenchathome/flipperfiles/blob/main/_Guides/How2Flipper.pdf) from Wr3nch!
 
-Just want the files easily? Talking Sasquach has you covered. [Check out the video](https://www.youtube.com/watch?v=12M_oHmxcCQ) or [just head to the repo](https://squach.zip/flipper).
+Just want the files easily? Talking Sasquach has you covered. [Check out the video](https://www.youtube.com/watch?v=12M_oHmxcCQ) or [just head to the repo](https://squach.zip/flipper) (might be out of date).
 
 -----
 
