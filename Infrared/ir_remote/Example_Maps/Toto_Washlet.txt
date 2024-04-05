@@ -1,0 +1,12 @@
+REMOTE: /ext/infrared/Toto.ir
+UP: Stop
+DOWN: Rear
+LEFT: Front
+RIGHT: Pos_up
+OK: Pos_down
+BACK: Pressure_up
+UPHOLD: Pressure_down
+DOWNHOLD:
+LEFTHOLD:
+RIGHTHOLD:
+OKHOLD:
