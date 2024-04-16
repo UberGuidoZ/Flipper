@@ -1,4 +1,4 @@
-REMOTE: /ext/infrared/biobidet_bb2000.ir
+REMOTE: /ext/infrared/IRDB/Bidet/BioBidet/BioBidet_BB-2000.ir
 UP: STOP
 DOWN: Posterior Wash
 LEFT: F Wash
