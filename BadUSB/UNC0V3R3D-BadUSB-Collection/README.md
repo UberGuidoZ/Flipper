@@ -1,15 +1,9 @@
 
 # The Ultimate Flipper Zero Badusb Collection
-<img src="https://github.com/UNC0V3R3D/ressources/blob/main/badusbpicnew.png" height="380" width="1050" >
 
-![GitHub all releases](https://img.shields.io/github/downloads/UNC0V3R3D/Flipper_Zero-BadUsb/total?logo=GitHub) ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/UNC0V3R3D/Flipper_Zero-BadUsb) ![GitHub repo size](https://img.shields.io/github/repo-size/UNC0V3R3D/Flipper_Zero-BadUsb) ![GitHub release (release name instead of tag name)](https://img.shields.io/github/v/release/UNC0V3R3D/Flipper_Zero-BadUsb?include_prereleases)
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=jo.112.nas@gmail.com&lc=US&no_note=0&item_name=Thank+you+for+supporting+UNC0V3R3D's+Github+Project.&cn=&curency_code=EUR&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted)
-
+NOTE: This is an archived version with some dead links/pics removed.
 
 # Before you start!
-
-Join the Discord-Community: https://discord.gg/WWQETvS8Vv <br>
-Flipper Related Forum: ----
 
 In order to begin, you ``must read and accept`` the usage agreement. **This project is for educational purposes only**! Please seek permission before running any of the scripts provided by me. I cannot be held responsible for any damage that may occur as a result of your use of these scripts.
 If you want to purchase a completely unique and personalized script contact me on discord.
@@ -20,9 +14,9 @@ If you want to purchase a completely unique and personalized script contact me o
 Windows:
 
 ```sh
-1. git clone https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb.git
+1. git clone the repo
 
-2. Use the qFlipper app to drag the files into the "BadUsb" folder on your Flipper.
+2. Use the qFlipper app to drag the files into the folder onto your Flipper.
 ```
 
 ## Usage example
@@ -141,33 +135,19 @@ First of all, you have to identify the problem. Then you can look at the list be
 * I hope that you find a a solution for your problem. If you need help feel free to always contact me via Discord or Email.
 
 [PowerShell-Guide]: https://www.youtube.com/watch?v=IABNJEl2ZWk
-[Documentation]: https://web.archive.org/web/20220816200129/http://github.com/hak5darren/USB-Rubber-Ducky/wiki/Duckyscript
-[script]: https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb/blob/main/BadUsb-Collection/ASCII/Selfwriting/SimpleTroll.txt
+[Documentation]: http://github.com/hak5darren/USB-Rubber-Ducky/wiki/Duckyscript
+[script]: https://github.com/UberGuidoZ/Flipper/blob/main/BadUSB/UNC0V3R3D-BadUSB-Collection/Windows_Badusb/ASCII/Selfwriting/SimpleTroll.txt
 [qFlipper]: https://flipperzero.one/update
-[Patreon]: https://patreon.com/user?u=33918929&utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link
-
-## Sponsoring
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q5HIDDD)
 
 ## Meta
 
-If you have any idea on how to make this Instruction to BadUsb scripts better, feel free to open an Issue or contact me via Discord. :)
-
-UNC0V3R3D – [@GitHub](https://github.com/UNC0V3R3D) – unc0v3r3d@proton.me
-
 Distributed under the ``Attribution-NonCommercial-ShareAlike 4.0 International`` license. See ``LICENSE.md`` for more information. 
-
-[https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb](https://github.com/UNC0V3R3D/)
-
 
 ## Credits
 
 * [UberGuidoZ] , [FalsePhilosopher] and [I-am-Jakoby]
 * Make sure to check them out! They are the reason this repository exists. When I started learning how to create badusb scripts i learnt from them.
 
-
-[release]: https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb/releases
 [UberGuidoZ]: https://github.com/UberGuidoZ
 [FalsePhilosopher]: https://github.com/FalsePhilosopher
 [I-am-Jakoby]: https://github.com/I-Am-Jakoby
