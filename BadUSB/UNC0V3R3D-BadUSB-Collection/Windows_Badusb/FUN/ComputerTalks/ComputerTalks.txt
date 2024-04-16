@@ -1,0 +1,12 @@
+REM Author: UNC0V3R3D (UNC0V3R3D#8662 on Discord)
+REM Description: Makes the computer speak
+REM Version: 1.0
+REM Category: FUN
+DELAY 750
+WINDOWS d
+DELAY 950
+WINDOWS r
+DELAY 650
+STRING powershell.exe -nop -win hidden -c "Add-Type -AssemblyName System.speech; $synth = New-Object System.Speech.Synthesis.SpeechSynthesizer; $synth.Speak('Hello you behind the Screen, I am inside your PC.')"
+DELAY 100
+ENTER

