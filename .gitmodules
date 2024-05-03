@@ -70,6 +70,3 @@
 [submodule "BadUSB/BadGPT"]
 	path = BadUSB/BadGPT
 	url = https://github.com/ooovenenoso/BadUSB-GPT
-[submodule "NFC/Infinity"]
-	path = NFC/Infinity
-	url = https://github.com/FalsePhilosopher/Flipper-Infinity
