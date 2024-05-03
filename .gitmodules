@@ -73,3 +73,6 @@
 [submodule "NFC/Infinity"]
 	path = NFC/Infinity
 	url = https://github.com/FalsePhilosopher/Flipper-Infinity
+[submodule "NFC/Amiibo/Infinity-FalsePhilosopher"]
+	path = NFC/Amiibo/Infinity-FalsePhilosopher
+	url = https://github.com/FalsePhilosopher/Flipper-Infinity
