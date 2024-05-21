@@ -59,3 +59,4 @@ DELAY 4000
 STRING exit
 DELAY 1000
 ENTER
+REM Check out github.com/MarkCyber for more badusb scripts, malware and pen testing stuff
