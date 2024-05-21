@@ -1,0 +1,62 @@
+REM %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+REM %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+REM %%%%%%%%%%%%%                           This script was created by github.com/MarkCyber                          %%%%%%%%%%%%%%
+REM %%%%%%%%%%%%%                        This is a follow-up script to the RansomwareSimulation                      %%%%%%%%%%%%%%
+REM %%%%%%%%%%%%%       Running this renames all extensions back to their original, full path- making them usable    %%%%%%%%%%%%%%
+REM %%%%%%%%%%%%%                              This can be ran multiple times if necessary                           %%%%%%%%%%%%%%
+REM %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+REM %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+DELAY 1000
+GUI r
+DELAY 2000
+STRING powershell
+ENTER
+REM increased delays to make sure each command can go through even on slower computers
+DELAY 6000
+REM Define the locations using correct SpecialFolder enumerations
+STRING $folders = @(
+DELAY 1000
+ENTER
+DELAY 1000
+STRING [System.Environment+SpecialFolder]::Desktop,
+DELAY 1000
+ENTER
+DELAY 2000
+STRING [System.Environment+SpecialFolder]::MyPictures,
+DELAY 1000
+ENTER
+DELAY 2000
+STRING [System.Environment+SpecialFolder]::MyMusic,
+DELAY 1000
+ENTER
+DELAY 2000
+STRING [System.Environment+SpecialFolder]::Downloads
+DELAY 1000
+ENTER
+DELAY 2000
+STRING )
+DELAY 1000
+ENTER
+DELAY 3000
+REM Iterate over each location
+STRING foreach ($folder in $folders) {
+DELAY 1000
+ENTER
+DELAY 1000
+STRING $path = [Environment]::GetFolderPath($folder)
+DELAY 1000
+ENTER
+DELAY 4000
+REM Get all .locked files in the path and rename them back
+STRING Get-ChildItem -Path $path -File | Where-Object { $_.Name.EndsWith('.locked') } | ForEach-Object { Rename-Item -Path $_.FullName -NewName ($_.Name -replace '\.locked$', '') }
+DELAY 2000
+ENTER
+DELAY 5000
+STRING }
+DELAY 1000
+ENTER
+DELAY 4000
+STRING exit
+DELAY 1000
+ENTER
+REM Check out github.com/MarkCyber for more badusb scripts, malware and pen testing stuff
