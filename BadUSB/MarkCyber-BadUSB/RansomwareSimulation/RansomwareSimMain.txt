@@ -88,4 +88,4 @@ DELAY 2000
 STRING exit
 DELAY 500
 ENTER
-REM check out my github at github.com/markcyber for more badusb tools
+REM check out my github at github.com/markcyber for more badusb & hacking type tools
