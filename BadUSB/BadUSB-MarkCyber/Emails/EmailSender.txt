@@ -39,3 +39,4 @@ CTRL ENTER
 DELAY 5000
 DELAY 1000
 ALT F4
+REM check out github.com/markcyber for more scripts
