@@ -1,0 +1,42 @@
+REM %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+REM %%%%%%%%%%%%                    This script was created by github.com/MarkCyber                                  %%%%%%%%%%%%
+REM %%%%%%%%%%%%        This script is intended to send an email via badUSB (into your logged in gmail on chrome)    %%%%%%%%%%%%
+REM %%%%%%%%%%%%   This script will open chrome, send an email, and then close chrome. Must be logged in to email    %%%%%%%%%%%%
+REM %%%%%%%%%%%%     You can use python to replicate this script by changing email addresses & name every time       %%%%%%%%%%%%
+REM %%%%%%%%%%%%      The python script in section 2.1 generates badusb scripts for multiple emails if need be       %%%%%%%%%%%%
+REM %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+DELAY 1000
+GUI r
+DELAY 500
+STRING chrome
+ENTER
+DELAY 1000
+STRING https://mail.google.com/mail/u/0/#inbox?compose=new
+ENTER
+DELAY 5000
+DELAY 1000
+STRING {EMAIL ADDRESS YOU WANT TO SEND EMAIL TO}
+DELAY 500
+TAB
+TAB
+STRING {YOUR SUBJECT NAME}
+TAB
+STRING Hi {THEIR NAME}
+ENTER
+ENTER
+STRING {CONTENTS OF THE EMAIL}
+ENTER
+ENTER
+STRING {IF YOU WANT A SECOND PARAGRAPH, THIS IS WHAT DOUBLE-ENTER ABOVE DOES}
+ENTER
+ENTER
+STRING Respectfully,
+ENTER
+ENTER
+STRING {YOUR NAME}
+ENTER
+CTRL ENTER
+DELAY 5000
+DELAY 1000
+ALT F4
+REM check out github.com/markcyber for more scripts
