@@ -1,0 +1,12 @@
+REMOTE: /ext/infrared/IRDB/Bidet/BioBidet/BioBidet_BB-2000.ir
+UP: STOP
+DOWN: Posterior Wash
+LEFT: F Wash
+RIGHT: Dry wash area
+OK: Vortex wash
+BACK: Retract_Nozzle shower
+UPHOLD: Oscillate during posterior wash
+DOWNHOLD: Oscillate during fem wash
+LEFTHOLD: Oscillate during vortex
+RIGHTHOLD: SAVE
+OKHOLD: Seat Temp
