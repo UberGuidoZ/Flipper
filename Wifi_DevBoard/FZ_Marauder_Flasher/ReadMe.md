@@ -18,7 +18,7 @@ Flasher includes auto-detection and BINs for Flipper devboard, ESP32-WROOM, and 
 
 ## Now it's as easy as 1, 2, 3 to install or update Marauder on Windows.
 
-1. Download and extract [the ZIP file](https://github.com/UberGuidoZ/Flipper/raw/main/Wifi_DevBoard/FZ_Marauder_Flasher/FZ_Marauder_v2.6.zip) above to the same directory.<br>
+1. Download and extract [the ZIP file](https://github.com/UberGuidoZ/Flipper/raw/main/Wifi_DevBoard/FZ_Marauder_Flasher/FZ_Marauder_v2.7.zip) above to the same directory.<br>
 2. Hold `BOOT` on the devboard and plug it into your PC directly via USB.<br>
 3. Double-click `flash.bat` from the extracted files then choose `Flash` or `Update`.
 
@@ -31,11 +31,11 @@ Flasher includes auto-detection and BINs for Flipper devboard, ESP32-WROOM, and 
 
 * If you have a WROOM device, this will be detected automatically and you'll be presented with a similar menu, but for WROOM!
 
-Current Marauder version included in the ZIP: v0.13.20231214 (current release as of Dec 14, 2023)
+Current Marauder version included in the ZIP: v0.13.10.20240425 (current release as of Apr 25, 2024)
 
 **Once the install has completed, [head over here](https://github.com/UberGuidoZ/Flipper/tree/main/Wifi_DevBoard#marauder-install-information) to learn more about what Marauder can do!**
 
-The [batch file](https://github.com/UberGuidoZ/Flipper/blob/main/Wifi_DevBoard/FZ_Marauder_Flasher/Flash-v2.6.bat) is also included above for review and to track coming changes.
+The [batch file](https://github.com/UberGuidoZ/Flipper/blob/main/Wifi_DevBoard/FZ_Marauder_Flasher/Flash-v2.7.bat) is also included above for review and to track coming changes.
 
 Acknowledgements:<br>
 * [justcallmekoko](https://github.com/justcallmekoko/ESP32Marauder) for the AWESOME work in developing Marauder and porting it to the Flipper.
