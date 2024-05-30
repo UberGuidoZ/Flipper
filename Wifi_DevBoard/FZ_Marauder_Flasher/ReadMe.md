@@ -19,7 +19,7 @@ Flasher includes auto-detection and BINs for Flipper devboard, ESP32-WROOM, and 
 ## Now it's as easy as 1, 2, 3 to install or update Marauder on Windows.
 
 1. Download and extract [the ZIP file](https://github.com/UberGuidoZ/Flipper/raw/main/Wifi_DevBoard/FZ_Marauder_Flasher/FZ_Marauder_v2.7.zip) above to the same directory.<br>
-2. Hold `BOOT` on the devboard and plug it into your PC directly via USB.<br>
+2. Hold `BOOT` on the devboard and plug it into your PC directly via USB. ([If issues, see here](https://github.com/FZEEFlasher/fzeeflasher.github.io/wiki/How-To-Flash).)<br>
 3. Double-click `flash.bat` from the extracted files then choose `Flash` or `Update`.
 
 * If you choose `Flash Marauder (no SD mod)` the script will locate your board and flash Marauder automatically!<br>
