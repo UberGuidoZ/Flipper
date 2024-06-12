@@ -8,5 +8,5 @@ GUI SPACE
 STRING terminal
 ENTER
 DELAY 2000
-STRING curl https://ascii.live/rick &
+STRING curl ascii.live/rick &
 ENTER
