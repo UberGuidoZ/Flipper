@@ -8,6 +8,8 @@ If your flipper is having issues, such as the common battery issue (only works w
 
 [Official Hardware Schematic](https://docs.flipperzero.one/development/hardware/schematic). May be out of date slightly.
 
+[Fix for a possible charging issue](https://old.reddit.com/r/flipperzero/comments/101mkls/charging_and_blinking_redgreen_possible_fix/). Slow charging or blinking red/green? Check this out.
+
 [FCC Filing](https://fccid.io/2A2V6-FZ) which includes many hardware and specifications, including pictures.
 
 Issues with stripped screws appears to be common. Be careful and use a quality screwdriver and/or bits!<br>
