@@ -1,0 +1,146 @@
+REM Author: ooovenenoso
+REM Open PowerShell
+DELAY 500
+GUI x
+DELAY 2000
+STRING a
+DELAY 2000
+LEFTARROW
+DELAY 2000
+ENTER
+REM Create PowerShell script to gather system information
+DELAY 500
+STRING $system_info = @{
+ENTER
+DELAY 500
+STRING 'OS' = $(Get-CimInstance Win32_OperatingSystem).Caption;
+ENTER
+DELAY 500
+STRING 'Version' = $(Get-CimInstance Win32_OperatingSystem).Version;
+ENTER
+DELAY 500
+STRING 'Architecture' = $(Get-CimInstance Win32_OperatingSystem).OSArchitecture;
+ENTER
+DELAY 500
+STRING 'ComputerName' = $(Get-CimInstance Win32_OperatingSystem).CSName;
+ENTER
+DELAY 500
+STRING 'LastBootTime' = $(Get-CimInstance Win32_OperatingSystem).LastBootUpTime;
+ENTER
+DELAY 500
+STRING 'InstalledUpdates' = $(Get-HotFix | Sort-Object -Property InstalledOn -Descending | Select-Object -First 5).Description;
+ENTER
+DELAY 500
+STRING 'NetworkInfo' = $(Get-CimInstance Win32_NetworkAdapterConfiguration | Where-Object {$_.IPEnabled -eq $true}).IPAddress;
+ENTER
+DELAY 500
+STRING 'FirewallStatus' = $(Get-NetFirewallProfile | Where-Object { $_.Enabled -eq $true }).Name;
+ENTER
+DELAY 500
+STRING 'UserAccounts' = $(Get-LocalUser | Where-Object { $_.Enabled -eq $true }).Name;
+ENTER
+DELAY 500
+STRING 'RunningProcesses' = $(Get-Process | Sort-Object -Property CPU -Descending | Select-Object -First 5).Name;
+ENTER
+DELAY 500
+STRING }
+ENTER
+
+REM Requesting GPT to format response in HTML
+DELAY 500
+STRING $prompt_text = "Given the detailed system information: OS: $($system_info.OS), Version: $($system_info.Version), Architecture: $($system_info.Architecture), Computer Name: COMPUTER_NAME_PLACEHOLDER, Last Boot Time: $($system_info.LastBootTime), Installed Updates: $($system_info.InstalledUpdates), Network Info: NETWORK_INFO_PLACEHOLDER, Firewall Status: $($system_info.FirewallStatus), User Accounts: USER_ACCOUNTS_PLACEHOLDER, Running Processes: $($system_info.RunningProcesses), provide a pentesting report identifying potential vulnerabilities in English, formatted in HTML with headers and bullet points for recommendations."
+ENTER
+DELAY 500
+STRING $messages = @(
+ENTER
+DELAY 1000
+STRING @{ 'role' = 'system'; 'content' = 'You are analyzing detailed system information for potential vulnerabilities.' },
+ENTER
+DELAY 1000
+STRING @{ 'role' = 'user'; 'content' = $prompt_text }
+ENTER
+DELAY 1000
+STRING )
+ENTER
+DELAY 500
+STRING $headers = @{ 'Authorization' = 'Bearer YOUR_HUGGINGFACE_API_KEY'; 'Content-Type' = 'application/json' }
+ENTER
+DELAY 500
+STRING $body = @{
+ENTER
+DELAY 500
+STRING 'inputs' = $prompt_text
+ENTER
+DELAY 500
+STRING 'options' = @{
+ENTER
+DELAY 500
+STRING 'wait_for_model' = $true
+ENTER
+DELAY 500
+STRING }
+ENTER
+DELAY 500
+STRING } | ConvertTo-Json
+ENTER
+DELAY 500
+STRING $response = Invoke-RestMethod -Uri 'https://api-inference.huggingface.co/models/apple/OpenELM-3B-Instruct' -Method POST -Headers $headers -Body $body
+ENTER
+DELAY 500
+STRING $htmlContent = @"
+ENTER
+DELAY 500
+STRING <html>
+ENTER
+DELAY 500
+STRING <head>
+ENTER
+DELAY 500
+STRING <title>Pentesting Report BadUSB-GPT</title>
+ENTER
+DELAY 500
+STRING <style>
+ENTER
+DELAY 500
+STRING body {font-family: Arial, sans-serif; margin: 40px;}
+ENTER
+DELAY 500
+STRING h2 {color: #333; border-bottom: 2px solid #eee; padding-bottom: 10px;}
+ENTER
+DELAY 500
+STRING h3 {color: #555; margin-top: 20px;}
+ENTER
+DELAY 500
+STRING p, ul {margin-bottom: 20px;}
+ENTER
+DELAY 500
+STRING </style>
+ENTER
+DELAY 500
+STRING </head>
+ENTER
+DELAY 500
+STRING <body>
+ENTER
+DELAY 500
+STRING <h2>Pentesting Report</h2>
+ENTER
+DELAY 500
+STRING $($response.generated_text)
+ENTER
+DELAY 500
+STRING </body>
+ENTER
+DELAY 500
+STRING </html>
+ENTER
+DELAY 500
+STRING "@
+ENTER
+DELAY 500
+STRING Set-Content -Path $env:USERPROFILE\Desktop\Pentesting_Report.html -Value $htmlContent
+ENTER
+REM Replacing placeholders with actual values in the local report
+DELAY 500
+STRING (Get-Content $env:USERPROFILE\Desktop\Pentesting_Report.html).Replace('COMPUTER_NAME_PLACEHOLDER', $system_info.ComputerName).Replace('NETWORK_INFO_PLACEHOLDER', ($system_info.NetworkInfo -join ', ')).Replace('USER_ACCOUNTS_PLACEHOLDER', ($system_info.UserAccounts -join ', ')) | Set-Content $env:USERPROFILE\Desktop\Pentesting_Report.html
+ENTER
