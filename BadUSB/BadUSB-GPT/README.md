@@ -1,5 +1,8 @@
 # BadUSB-GPT: Rubber Ducky Meets OpenAI's GPT
-
+ ```
+Original auth: ooovenenoso 
+Modified by: HTTPS
+```
 ![BadUSB x GPT](https://github.com/ooovenenoso/BadUSB-GPT/blob/main/banner.png)
 
 **Description**: This repository houses scripts for Rubber Ducky integrated with OpenAI's GPT. It's a powerful tool designed specifically for ethical hackers and researchers. It blends the swift execution of Rubber Ducky with the advanced intelligence of GPT.
@@ -14,3 +17,8 @@ To show our appreciation, the profile picture of each donor along with their Git
 To make a donation, please send your GitHub username along with the donation amount to the following link: [Buy Me a Coffee](https://www.buymeacoffee.com/ooovenenoso).
 
 Thank you for fueling our efforts and being a part of this journey!
+
+## Modifications !
+Originally made by [ooovenenoso](https://github.com/ooovenenoso)
+ 
+I modified the original `PentestGPT.txt` script to work with huggingface API that utilizes the OpenELM and Meta Llama models but also made a version to support MacOS with the openAI API.
