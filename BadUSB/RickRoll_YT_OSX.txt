@@ -1,6 +1,6 @@
-REM Title: RickRoll
-REM Author: Jeffrey Koopman | JKCTech
-REM Description: Opens default browser and puts up RickRoll without ads
+REM Title: Awesome Flippers
+REM Author: xepexted
+REM Description: Opens default browser and redirects you to Awesome Flippers Github
 REM Target: macOS 11.0+
 REM
 GUI SPACE
@@ -8,5 +8,5 @@ DELAY 500
 STRING terminal
 ENTER
 DELAY 1000
-STRING open 'https://www.youtube.com/watch?v=xvFZjo5PgG0'; exit
+STRING open 'https://github.com/djsime1/awesome-flipperzero'; exit
 ENTER
