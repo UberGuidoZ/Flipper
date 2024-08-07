@@ -1,6 +1,6 @@
 # Flipper Application Files (FAPs) for custom firmwares
 * [RogueMaster](https://github.com/RogueMaster/flipperzero-firmware-wPlugins)
-* [Unleashed](https://github.com/DarkFlippers/unleashed-firmware) (FAPs Outdated 1YR+)
+* [Unleashed](https://github.com/DarkFlippers/unleashed-firmware)
 
 [Download all files here](https://uberguidoz.github.io/DownGit/#/home?url=https://github.com/UberGuidoZ/Flipper/tree/main/Applications/Custom%20(UL%2C%20RM%2C%20XFW)) (may not include [bundled apps](https://github.com/DarkFlippers/unleashed-firmware#community-apps-included)) or [source here](https://github.com/UberGuidoZ/Flipper/tree/main/Applications/Official/DEV_FW/source). Mirror from xMasterX [here](https://github.com/xMasterX/unleashed-extra-pack).
 
