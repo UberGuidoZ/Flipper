@@ -1,13 +1,8 @@
 # Flipper Application Files (FAPs) for Official firmware
 
-## FAP FILES REMOVED - Use [FlipC.org](https://flipc.org/) or the Official FAP Store within the mobile app!
+## FAP FILES REMOVED - Use the [Official FAP Store](https://lab.flipper.net/apps), [FlipC.org](https://flipc.org/), or within the mobile Flipper app!
 
 See the [official documentation](https://github.com/flipperdevices/flipperzero-firmware/blob/dev/documentation/AppsOnSDCard.md) 
-
----
-*** **Unofficial FAP Store is here! [You gotta check it out at FlipC.org](https://flipc.org/)** ***<br>
-From [Aleksey Korolev](https://github.com/playmean) comes a quick and easy way to install FAP files.
----
 
 A humble thank you to [Alexei Humeniy](https://github.com/ahumeniy) for previously maintaining the FAPs for Official firmware!<br>
 Missing or outdated FAPs may be found from [kyhwana](https://github.com/kyhwana/latest_flipper_zero_apps) or [grnch](https://github.com/grinchdubs/latest_flipper_zero_apps), plus [Aleksandr Zhytnyk](https://github.com/OperKH) has also contributed a number of updates.
