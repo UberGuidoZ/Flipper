@@ -9,7 +9,7 @@
 From [Aleksey Korolev](https://github.com/playmean) comes a quick and easy way to install FAP files.
 ---
 
-Thank you [xMasterX](https://github.com/xMasterX) for compiling and maintaining many of these files. I have decided to not include the "integrated/bundled" FAP files that come with a fresh install of Unleashed. If you need to grab a copy of them for whatever reason, you can do so right from the Unleashed repo.
+Thank you [RogueMaster](https://github.com/RogueMaster) and [xMasterX](https://github.com/xMasterX) for compiling and maintaining many of these files. I have decided to not include the "integrated/bundled" FAP files that come with a fresh install of Unleashed. If you need to grab a copy of them for whatever reason, you can do so right from the Unleashed repo.
 
 * Visit the [Releases page](https://github.com/DarkFlippers/unleashed-firmware) of the Unleashed repo.
 * Scroll down and download the linked ZIP file from the Assets drop down, under the big install from web link.
