@@ -73,3 +73,6 @@
 [submodule "NFC/Amiibo/Infinity-FalsePhilosopher"]
 	path = NFC/Amiibo/Infinity-FalsePhilosopher
 	url = https://github.com/FalsePhilosopher/Flipper-Infinity
+[submodule "BadUSB/CounterCrowdStrike"]
+	path = BadUSB/CounterCrowdStrike
+	url = https://github.com/ooovenenoso/CounterCrowdStrike
