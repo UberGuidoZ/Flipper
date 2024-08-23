@@ -1,5 +1,5 @@
 # bracelet_subfiles
-.sub files for the LED bracelets distributed at DEFCON
+.sub files for the LED bracelets distributed at DEFCON ([Original source here](https://github.com/freewili/bracelet_subfiles))
 
 # Uploading the .sub files to FREE-WILi
 
