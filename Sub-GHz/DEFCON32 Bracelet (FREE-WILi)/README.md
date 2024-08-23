@@ -1,6 +1,10 @@
 # bracelet_subfiles
 .sub files for the LED bracelets distributed at DEFCON ([Original source here](https://github.com/freewili/bracelet_subfiles))
 
+# Adding SUB files to Flipper Zero
+
+* Copy folder to SD card like any other SUB file(S) then execute via SubGHz menu or any SubGHz apps.
+  
 # Uploading the .sub files to FREE-WILi
 
 * Use Python 3.11+
