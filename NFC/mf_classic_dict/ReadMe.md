@@ -4,7 +4,7 @@ Official firmware has introduced a user dict file option which will allow you to
 
 -----
 
-Unleashed / RogueMaster have already merged this into their default dict file so no need to grab it!
+Unleashed, Momentum, and RogueMaster have already merged a version of this into their default dict file so no need to grab it!
 
 -----
 
