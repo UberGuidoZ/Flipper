@@ -4,7 +4,8 @@ Proper credit is always provided; I simply request the same. Check out [this lis
 
 -----
 
-Looking to defend against BadUSB? [Check out this nifty tool](https://github.com/8yr/No-BadUSB-thanks) from [8yr](https://github.com/8yr).
+Looking to defend against BadUSB? [Check out this nifty tool](https://github.com/8yr/No-BadUSB-thanks) from [8yr](https://github.com/8yr).<br>
+Note this won't be perfect and may have some exploits of its own, but worth a look/test!
 
 -----
 
