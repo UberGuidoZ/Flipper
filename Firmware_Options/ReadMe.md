@@ -20,7 +20,7 @@
   
 - ❌ Xtreme Firmware (ClaraCrazy): [Github](https://github.com/ClaraCrazy/Flipper-Xtreme) [***archived / abandoned***] | Discord server closed in Summer 2024
   
-- ❌ Xvirus Firmware (Dexv): [github](https://github.com/DXVVAY/xvirus-firmware) [***outdated / unactive***] | [Discord](https://discord.gg/bmfvcN79Gg)
+- ❌ Xvirus Firmware (Dexv): [github](https://github.com/DXVVAY/xvirus-firmware) [***outdated / unactive***] | [Discord](https://discord.gg/jEZYmyKH5n)
 
 -----
 
