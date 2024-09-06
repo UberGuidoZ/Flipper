@@ -1,0 +1,12 @@
+Filetype: Flipper SubRem Map file
+Version: 1
+UP: /ext/subghz/ATI_Wonder_II/Vol+.sub
+DOWN: /ext/subghz/ATI_Wonder_II/Vol-.sub
+LEFT: /ext/subghz/ATI_Wonder_II/Rew.sub
+RIGHT: /ext/subghz/ATI_Wonder_II/Ff.sub
+OK: /ext/subghz/ATI_Wonder_II/Pause.sub
+ULABEL: Vol+
+DLABEL: Vol-
+LLABEL: Rew
+RLABEL: Ff
+OKLABEL: Play

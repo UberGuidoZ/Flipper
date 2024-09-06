@@ -1,0 +1,8 @@
+Filetype: Flipper SubRem Map file
+Version: 1
+DOWN: /ext/subghz/WEN_3410_remote/Off.sub 
+RIGHT: /ext/subghz/WEN_3410_remote/Time.sub 
+OK: /ext/subghz/WEN_3410_remote/On_speed.sub 
+DLABEL: 0ff 
+RLABEL: Time 
+OKLABEL: On-Speed

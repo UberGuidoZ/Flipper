@@ -1,0 +1,12 @@
+Filetype: Flipper SubRem Map file
+Version: 1
+UP: /ext/subghz/ATI_Wonder_II/Up.sub
+DOWN: /ext/subghz/ATI_Wonder_II/Down.sub
+LEFT: /ext/subghz/ATI_Wonder_II/Left.sub
+RIGHT: /ext/subghz/ATI_Wonder_II/Right.sub
+OK: /ext/subghz/ATI_Wonder_II/Ok.sub
+ULABEL: Up
+DLABEL: Down
+LLABEL: Left
+RLABEL: Right
+OKLABEL: Ok

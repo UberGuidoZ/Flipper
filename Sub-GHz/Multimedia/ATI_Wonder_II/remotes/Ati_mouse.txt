@@ -1,0 +1,12 @@
+Filetype: Flipper SubRem Map file
+Version: 1
+UP: /ext/subghz/ATI_Wonder_II/Mouse_up.sub
+DOWN: /ext/subghz/ATI_Wonder_II/Mouse_down.sub
+LEFT: /ext/subghz/ATI_Wonder_II/Mouse_left.sub
+RIGHT: /ext/subghz/ATI_Wonder_II/Mouse_right.sub
+OK: /ext/subghz/ATI_Wonder_II/Click.sub
+ULABEL: Up
+DLABEL: Down
+LLABEL: Left
+RLABEL: Right
+OKLABEL: Click
