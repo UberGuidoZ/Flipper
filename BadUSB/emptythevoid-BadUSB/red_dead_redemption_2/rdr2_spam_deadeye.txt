@@ -1,0 +1,3245 @@
+REM Spam dead eye to avoid reload
+REM Works best with shotguns
+REM To use, map Aim to have a secondary bind to the key '
+REM Map Attack to a secondary bind to the key K
+REM Ready up your weapon and when you're ready to let loose, start the script
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300
+
+REM Aim (mapped to ')
+HOLD ' 
+DELAY 100
+
+REM Enter Deadeye
+HOLD CAPSLOCK
+DELAY 100
+RELEASE CAPSLOCK
+
+REM Shoot while in Deadeye (mapped to K)
+HOLD K
+DELAY 300
+RELEASE K
+
+REM Release aim and dead eye
+RELEASE '
+DELAY 300

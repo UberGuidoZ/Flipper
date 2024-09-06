@@ -1,0 +1,8 @@
+REM Power off Linux from terminal
+
+DELAY 500
+CTRL-ALT T
+DELAY 1000
+STRING poweroff
+ENTER
+

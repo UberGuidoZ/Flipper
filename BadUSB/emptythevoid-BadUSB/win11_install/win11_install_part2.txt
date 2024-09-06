@@ -1,0 +1,171 @@
+REM Win11 Install part 2  23H2
+
+REM Author: emptythevoid
+
+REM If your device uses wifi, don't join it to any network and it should work properly
+REM This script will release DHCP so that it won't try to check for updates and
+REM attempt to use a Microsoft account
+REM The script will pause after privacy settings are entered.
+REM Wait until you're safely at the Windows desktop and press the OK button to renew DHCP
+
+REM Release DHCP
+SHIFT F10
+DELAY 1000
+
+REM HOLD ALT
+REM DELAY 1000
+REM TAB
+REM DELAY 100
+REM TAB
+REM DELAY 100
+REM RELEASE ALT
+
+CTRL-ALT TAB
+
+DELAY 1000
+RIGHT ARROW
+DELAY 100
+ENTER
+
+DELAY 1000
+STRING ipconfig /release
+ENTER
+DELAY 5000
+STRING EXIT
+ENTER
+DELAY 500
+
+CTRL-ALT TAB
+DELAY 100
+ENTER
+DELAY 100
+
+REM are we still defaulted to Enter->YES ? NO.
+TAB
+TAB
+
+
+REM Country or Region
+ENTER
+DELAY 5000
+
+REM Keyboard layout
+ENTER
+DELAY 5000
+
+REM Skip second keyboard layout
+ENTER
+DELAY 5000
+
+REM Connect to Wifi - Choose I don't have Internet
+SHIFT TAB
+SPACE
+DELAY 5000
+
+REM Continue with limited setup
+SHIFT TAB
+SPACE
+DELAY 5000
+
+REM who is going to use this device
+STRING <yourusername>
+ENTER
+DELAY 500
+
+REM Password
+STRING <your password>
+ENTER
+DELAY 500
+STRING <your password>
+ENTER
+DELAY 500
+
+REM Security Questions
+DOWN
+TAB
+STRING <security 1>
+ENTER
+DELAY 200
+DOWN
+TAB
+STRING <security 2>
+ENTER
+DELAY 200
+DOWN
+TAB
+STRING <security 3>
+ENTER
+DELAY 5000
+
+REM Choose privacy settings
+REM CANNOT tab forward, because it may break depending on if there is a sound icon or not
+REM use SHIFT TAB to back up to the top
+REM how many times? 7
+
+SHIFT TAB
+DELAY 100
+SHIFT TAB
+DELAY 100
+SHIFT TAB
+DELAY 100
+SHIFT TAB
+DELAY 100
+SHIFT TAB
+DELAY 100
+SHIFT TAB
+DELAY 100
+SHIFT TAB
+DELAY 100
+
+REM TAB
+REM DELAY 1000
+REM TAB
+REM DELAY 1000
+
+SPACE
+
+DELAY 1000
+TAB
+SPACE
+
+DELAY 1000
+TAB
+SPACE
+
+DELAY 1000
+TAB
+SPACE
+
+DELAY 1000
+TAB
+SPACE
+
+DELAY 1000
+TAB
+SPACE
+
+DELAY 1000
+TAB
+DELAY 100
+TAB
+DELAY 1000
+ENTER
+
+REM Wait for button press to re-enable DHCP
+REM This should be run when we're at the windows Desktop
+WAIT_FOR_BUTTON_PRESS
+GUI r
+DELAY 200
+STRING cmd
+DELAY 100
+ENTER
+DELAY 1000
+STRING ipconfig /renew
+DELAY 100
+ENTER
+
+REM Wait 10 seconds for DHCP to renew before attempting to close terminal
+DELAY 10000
+STRING exit
+DELAY 100
+ENTER

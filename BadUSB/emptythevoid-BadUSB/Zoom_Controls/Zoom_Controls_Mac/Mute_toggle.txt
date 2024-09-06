@@ -1,0 +1,4 @@
+REM Demo Zoom Mute toggle for MacOS
+REM Recommend setting Enable Global Shortcut so that this button works even when Zoom is minimized
+
+GUI-SHIFT A

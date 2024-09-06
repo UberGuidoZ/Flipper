@@ -1,0 +1,18 @@
+REM Using an Ubuntu Mate Desktop bootable flash drive booted as a Live USB
+REM this script will run the shred command on the first nvme drive the system is aware of (change as needed)
+
+REM Run this once you're at the Install prompt
+
+REM Press Try Ubuntu Mate and then wait for manual button press on Flipper
+DELAY 500
+TAB
+DELAY 100
+ENTER
+WAIT_FOR_BUTTON_PRESS
+
+REM Run this only after the desktop has fully booted
+DELAY 500
+CTRL-ALT T
+DELAY 1000
+STRING sudo shred -vn1 /dev/nvme0n1
+ENTER

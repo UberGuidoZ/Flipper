@@ -1,0 +1,156 @@
+REM Automate second half of Windows 10 install
+
+REM Target: Windows 10 Pro 22H2
+
+REM Run this at the "Let's start with the region" screen
+
+REM FLIPPER DOESN'T SUPPORT VARIABLES??
+REM Enter in variables here for local user, password, and 3 security answers
+REM VAR $USER = 
+REM VAR $PASSWORD = 
+REM VAR $RANDOM1 = 
+REM VAR $RANDOM2 = 
+REM VAR $RANDOM3 = 
+
+REM Defaults to United States
+ENTER
+DELAY 5000
+
+REM Defaults to US keyboard layout
+ENTER
+DELAY 5000
+
+REM Add second keyboard layout. Defaults to Skip
+ENTER
+DELAY 5000
+
+REM No internet available, but assume wifi works and detects at least one access point
+REM Need to insert a long delay in case it enumerates Wifi networks
+DELAY 15000
+TAB
+DELAY 100
+TAB
+DELAY 100
+TAB
+DELAY 100
+REM Should be on "I don't have internet"
+ENTER
+DELAY 5000
+
+
+REM No Internet Available, no wifi at all
+REM TAB
+REM ENTER
+REM DELAY 5000
+
+REM Continue with limited setup. Defaults to Connect Now
+TAB
+DELAY 100
+TAB
+DELAY 100
+TAB
+DELAY 100
+TAB
+DELAY 100
+TAB
+DELAY 100
+ENTER
+DELAY 5000
+
+REM Who's going to use this PC?
+STRING 
+ENTER
+DELAY 5000
+
+REM Create a super memorable password
+STRING 
+ENTER
+DELAY 5000
+
+REM Confirm password
+STRING 
+ENTER
+DELAY 5000
+
+REM Security question 1
+DOWN
+TAB
+STRING 
+ENTER
+DELAY 5000
+
+REM Security question 2
+DOWN
+TAB
+STRING 
+ENTER
+DELAY 5000
+
+REM Security question 3
+DOWN
+TAB
+STRING 
+ENTER
+DELAY 5000
+
+REM Skip face sign-in
+TAB
+DELAY 100
+TAB
+DELAY 100
+TAB
+DELAY 100
+ENTER
+DELAY 5000
+
+REM disable all privacy defaults
+TAB
+DELAY 100
+TAB
+DELAY 100
+TAB
+DELAY 100
+TAB
+DELAY 100
+TAB
+DELAY 100
+SPACE
+DELAY 100
+TAB
+DELAY 100
+SPACE
+DELAY 100
+TAB
+DELAY 100
+SPACE
+DELAY 100
+TAB
+DELAY 100
+SPACE
+DELAY 100
+TAB
+DELAY 100
+SPACE
+DELAY 100
+TAB
+DELAY 100
+SPACE
+DELAY 100
+ENTER
+DELAY 5000
+
+REM Just say No to Cortana
+TAB
+DELAY 100
+TAB
+DELAY 100
+TAB
+DELAY 100
+TAB
+DELAY 100
+TAB
+DELAY 100
+ENTER
+
+
+

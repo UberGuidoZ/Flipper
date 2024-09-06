@@ -1,0 +1,4 @@
+REM Keyboard shortcut to toggle the Video Camera
+REM Recommend setting Enable Global Shortcut so that this button works even when Zoom is minimized
+
+ALT V

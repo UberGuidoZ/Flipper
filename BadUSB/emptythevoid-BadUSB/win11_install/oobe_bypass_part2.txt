@@ -1,0 +1,33 @@
+REM enable the OOBE bypass to allow local account on windows 11
+REM This is an optional second step, that will release DHCP addresses.
+REM Use this after the computer has rebooted from part 1
+
+SHIFT F10
+DELAY 1000
+HOLD ALT
+DELAY 1000
+HOLD TAB
+DELAY 500
+RIGHT
+DELAY 200
+RELEASE TAB
+DELAY 500
+RELEASE ALT
+DELAY 1000
+SHIFT F10
+DELAY 1000
+HOLD ALT
+DELAY 1000
+HOLD TAB
+DELAY 500
+RIGHT
+DELAY 200
+RELEASE TAB
+DELAY 500
+RELEASE ALT
+DELAY 1000
+STRING ipconfig /release
+ENTER
+DELAY 5000
+STRING EXIT
+ENTER

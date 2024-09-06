@@ -1,0 +1,12 @@
+DELAY 500
+GUI R
+DELAY 500
+REM STRING shutdown /s /t 0
+STRING shutdown /p
+DELAY 100
+ENTER
+
+REM Handle apps preventing computer from shutting down
+DELAY 20000
+SHIFT TAB
+ENTER

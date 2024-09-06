@@ -1,0 +1,4 @@
+REM Use BadUSB to hold down the button (Enter) to make split bullets in RDR2 for 500 seconds (a little over 8 minutes)
+
+HOLD ENTER
+DELAY 500000

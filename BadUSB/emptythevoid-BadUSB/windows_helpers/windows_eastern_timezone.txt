@@ -1,0 +1,16 @@
+REM set timezone to Eastern
+DELAY 500
+GUI R
+DELAY 500
+STRING cmd
+DELAY 100
+ENTER
+DELAY 2000
+
+ALTSTRING tzutil /s "Eastern Standard Time"
+ENTER
+
+DELAY 300
+
+ALTSTRING exit
+ENTER
