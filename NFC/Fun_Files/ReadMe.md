@@ -88,7 +88,7 @@ Value&nbsp;&nbsp;&nbsp;&nbsp;Protocol &nbsp;&nbsp;&nbsp;&nbsp;([SOURCE](https://
 
 -----
 
-Acknowledgements: [RogueMaster](https://github.com/RogueMaster/) | cyanic | Null Silvry | [Equip](https://github.com/equipter/) | DDVL (for discussions, testing, and any files.)
+Acknowledgements: [RogueMaster](https://github.com/RogueMaster/) | [bettse](https://gitlab.com/bettse) | cyanic | Null Silvry | [Equip](https://github.com/equipter/) | DDVL (for discussions, testing, and any files.)
 
 -----
 

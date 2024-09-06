@@ -19,6 +19,8 @@ Plugin by [mothball187](https://github.com/mothball187/flipperzero-nrf24)  |  Af
 
 More info from [RogueMaster](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/tree/unleashed/applications/mousejacker) and [Unleashed](https://github.com/Eng1n33r/flipperzero-firmware/blob/dev/documentation/NRF24.md). (Both include the plugin in their firmware releases.)
 
+[Firmware and instructions](https://github.com/emptythevoid/flipperzero/tree/main/nrf24) to downgrade a receiver (thanks emptythevoid!)
+
 2/A7 on FZ goes to MOSI/6 on NRF24<br>
 3/A6 on FZ goes to MISO/7 on NRF24<br>
 4/A4 on FZ goes to CSN/4 on NRF24<br>
