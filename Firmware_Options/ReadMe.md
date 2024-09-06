@@ -2,18 +2,25 @@
 
 ## [Firmware differences](https://github.com/djsime1/awesome-flipperzero/blob/main/Firmwares.md) | [More firmware options](https://github.com/djsime1/awesome-flipperzero#firmwares--tweaks)
 
-Official Firmware: [Main](https://github.com/flipperdevices/flipperzero-firmware) | [Release](https://github.com/flipperdevices/flipperzero-firmware/releases)
+- ✅ Flipper Firmware (Official): [Github](https://github.com/flipperdevices/flipperzero-firmware) | [Release](https://github.com/flipperdevices/flipperzero-firmware/releases) | [Discord](https://discord.gg/flipper)
 
-SquachWare Firmware: [Main](https://github.com/skizzophrenic/SquachWare-CFW) | [Release](https://github.com/skizzophrenic/SquachWare-CFW/releases) *Fork of Official, remains locked*
+- ✅ Unleashed Firmware (DarkFlippers): [Github](https://github.com/Eng1n33r/flipperzero-firmware) | [Release](https://github.com/Eng1n33r/flipperzero-firmware/releases) | [Discord](https://discord.unleashedflip.com/) *(Fork of Official, unlocks many things)*
 
-Unleashed Firmware: [Main](https://github.com/Eng1n33r/flipperzero-firmware) | [Release](https://github.com/Eng1n33r/flipperzero-firmware/releases) *Fork of Official, unlocks many things*
+- ✅ Momentum Firmware: [Github](https://github.com/Next-Flip/Momentum-Firmware) | [Release](https://github.com/Next-Flip/Momentum-Firmware/releases) | [Discord](https://discord.gg/momentum) *(Fork of Official, Features of Unleashed, most customizable)*
+  
+- ✅ RogueMaster Firmware: [Github](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/releases) | [Release](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/releases) | [Discord](https://discord.gg/s5hM5XgSKb) *(Fork of Official, Features of Unleashed, many customizations)*
 
-RogueMaster Firmware: [Main](https://github.com/RogueMaster/flipperzero-firmware-wPlugins) | [Release](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/releases) *Fork of Official, Features of Unleashed, many customizations*<br>
-*- (NOTE: Current builds available with Patreon subscription, weekly builds released on Github)*
+- ❌ MuddleBox Firmware: [Github](https://github.com/MuddledBox/flipperzero-firmware) [***outdated / abandoned***] | No known Discord *(Fork of Official, First unlocked firmware)*
+  
+- ❌ SquachWare Firmware: [Github](https://github.com/skizzophrenic/SquachWare-CFW) [***outdated / abandoned***] | [Discord](https://discord.gg/squachtopia)
 
-Xtreme (ClaraCrazy) Firmware [Main](https://github.com/ClaraCrazy/Flipper-Xtreme) | [Release](https://github.com/ClaraCrazy/Flipper-Xtreme/releases) *Fork of Official, Features of Unleashed, many customizations and bug fixes*
-
-Dexv Firmware: [Main](https://github.com/DXVVAY/Dexvmaster0) | [Release](https://github.com/DXVVAY/Dexvmaster0/releases) *Fork of ClaraCrazy, adds resources*
+- ❌ v1nc Firmware: [Github](https://github.com/v1nc/flipperzero-firmware) [***outdated / abandoned***] | No known Discord
+  
+- ❌ Wetox Firmware: [Github](https://github.com/wetox-team/flipperzero-firmware) [***outdated / abandoned***] | No known Discord
+  
+- ❌ Xtreme Firmware (ClaraCrazy): [Github](https://github.com/ClaraCrazy/Flipper-Xtreme) [***archived / abandoned***] | Discord server closed in Summer 2024
+  
+- ❌ Xvirus Firmware (Dexv): [github](https://github.com/DXVVAY/xvirus-firmware) [***outdated / unactive***] | [Discord](https://discord.gg/bmfvcN79Gg)
 
 -----
 
