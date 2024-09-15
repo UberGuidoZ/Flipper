@@ -179,7 +179,7 @@ if (script.length > 0) {
   delay(1000);
   let data = storage.read("/mnt/" + resultFolder + "/" + resultFileName);
   textbox.setConfig("start", "text");
-  textbox.emptyText();
+  textbox.clearText();
   let data_view = Uint8Array(data);
   for (let i = 0; i < data_view.length; i++) {
     textbox.addText(chr(data_view[i]));
@@ -193,7 +193,7 @@ if (script.length > 0) {
   while (textbox.isOpen()) {
     delay(1000);
   }
-  textbox.emptyText();
+  textbox.clearText();
   storage.virtualQuit();
 }
 
