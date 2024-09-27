@@ -1,6 +1,6 @@
 # Quick and easy flasher/updater for [Marauder](https://github.com/justcallmekoko/ESP32Marauder) (Devboard/WROOM)!
 
-Looking for a Linux/Mac version? [Check out SkeletonMan's Python edition!](https://github.com/SkeletonMan03/FZEasyMarauderFlash) (WIP for Windows too including full automated downloads.)
+Looking for a Linux/Mac version? [Check out SkeletonMan's Python edition!](https://github.com/SkeletonMan03/FZEasyMarauderFlash) (Works on Windows too!)
 
 *******************************************************************************************************************************************************************
 *** DO NOT MISS THIS *** There is a wonderful web-based option as well that is a bit easier to use than others. [Go give FZee Flasher a try!](https://fzeeflasher.com/)<br>
