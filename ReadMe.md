@@ -7,6 +7,8 @@
 
 Other great spots for help can be found at the [Official Discord](https://discord.com/invite/flipper), [Official Docs](https://docs.flipperzero.one/), [Awesome Flipper](https://github.com/djsime1/awesome-flipperzero), or the [Official Forum](https://forum.flipperzero.one/).
 
+Also mak sure to check out codeallnight's [Flipper Zero Tutorials](https://github.com/jamisonderek/flipper-zero-tutorials) for tons of useful info and insight.
+
 -----
 
 ## Donation Information
