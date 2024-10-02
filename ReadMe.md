@@ -9,6 +9,8 @@ Other great spots for help can be found at the [Official Discord](https://discor
 
 Also make sure to check out codeallnight's [Flipper Zero Tutorials](https://github.com/jamisonderek/flipper-zero-tutorials) for tons of useful info and insight.
 
+If you see MannyGoldstein around your fav place (Discord, socials, etc.) give them a fist bump from me!
+
 -----
 
 ## Donation Information
