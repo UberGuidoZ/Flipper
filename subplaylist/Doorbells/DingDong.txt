@@ -35,11 +35,10 @@ sub: /ext/subghz/Doorbells/Doorbell3.sub
 sub: /ext/subghz/Doorbells/Doorbell4.sub
 sub: /ext/subghz/Doorbells/Doorbell5.sub
 sub: /ext/subghz/Doorbells/DoorbellFM.sub
-sub: /ext/subghz/Doorbells/Elepowstar_Doorbell/Elepowstar_doorbell.sub
 sub: /ext/subghz/Doorbells/GE_2Melody_Doorbell/GE_Doorbell_dingdong.sub
 sub: /ext/subghz/Doorbells/GE_Doorbell_19297.sub
 sub: /ext/subghz/Doorbells/Hampton_Bay.sub
-sub: /ext/subghz/Doorbells/Hard Head/Hard Head doorbell.sub
+sub: /ext/subghz/Doorbells/Hard_Head/Hard_Head_doorbell.sub
 sub: /ext/subghz/Doorbells/Hiemkaup/Heimkaup.sub
 sub: /ext/subghz/Doorbells/KellJ_And_Company/Cleverio/Cleverio_Kjell_o_Company_Doorbell.sub
 sub: /ext/subghz/Doorbells/KlikAanKlikUit-Doorbel(NL).sub
