@@ -1,3 +1,4 @@
+sub: /ext/subghz/Door_Entry_Motion_Sensor_Chimes/KoreanBBQ_DoorChime.sub
 sub: /ext/subghz/Doorbells/1byone/1BYONE_ODEQH-0536.sub
 sub: /ext/subghz/Doorbells/AVANTEK/AVANTEK_CW11.sub
 sub: /ext/subghz/Doorbells/AVANTEK/AVANTEK_Mini_CB11_Repeating.sub
@@ -27,7 +28,7 @@ sub: /ext/subghz/Doorbells/Construction_Market/doorbell09.sub
 sub: /ext/subghz/Doorbells/Construction_Market/doorbell10.sub
 sub: /ext/subghz/Doorbells/Construction_Market/doorbell11.sub
 sub: /ext/subghz/Doorbells/Dollar_General_Pro_Essentials/Doorbell.sub
-sub: /ext/subghz/Doorbells/Dongguan_Smart Hero_Electronics/Doorbell999.sub
+sub: /ext/subghz/Doorbells/Dongguan_Smart_Hero_Electronics/Doorbell999.sub
 sub: /ext/subghz/Doorbells/Doorbell0.sub
 sub: /ext/subghz/Doorbells/Doorbell1.sub
 sub: /ext/subghz/Doorbells/Doorbell2.sub
