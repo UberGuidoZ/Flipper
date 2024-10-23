@@ -1,0 +1,8 @@
+sub: /ext/subghz/Misc/KeyFinder/Green_keyfinder.sub
+sub: /ext/subghz/Misc/KeyFinder/Red_key_finder.sub
+sub: /ext/subghz/eFamily_Key_Finder/Tag1.sub
+sub: /ext/subghz/eFamily_Key_Finder/Tag2.sub
+sub: /ext/subghz/eFamily_Key_Finder/Tag3.sub
+sub: /ext/subghz/eFamily_Key_Finder/Tag4.sub
+sub: /ext/subghz/eFamily_Key_Finder/Tag5.sub
+sub: /ext/subghz/eFamily_Key_Finder/Tag6.sub
