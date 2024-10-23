@@ -1,0 +1,11 @@
+sub: /ext/subghz/Misc/Sextoy/Egg_Vibrator/Egg_vib_power.sub
+sub: /ext/subghz/Misc/Sextoy/LoveBox_Vibrating_Egg/Lovebox_on.sub
+sub: /ext/subghz/Misc/Sextoy/Nu_Sensuelle_Vibrating_Mini-Plug/Bp_01_4.sub
+sub: /ext/subghz/Misc/Sextoy/other_Egg_Vibrator/Vib_Toy_ON_and_Mode.sub
+sub: /ext/subghz/Misc/Sextoy/Sexrabbit_Vibrator/Power_Toggle_Long_Press.sub
+sub: /ext/subghz/Misc/Sextoy/Sextoy1.sub
+sub: /ext/subghz/Misc/Sextoy/Sextoy1.sub
+sub: /ext/subghz/Misc/Sextoy/Sextoy1.sub
+sub: /ext/subghz/Misc/Sextoy/Sextoy1.sub
+sub: /ext/subghz/Misc/Sextoy/Sinful_Bullet_Vibrator/Sinful_power.sub
+sub: /ext/subghz/Misc/Sextoy/Sway_Vibes_3/Sway_vib_on_off.sub
