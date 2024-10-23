@@ -36,6 +36,7 @@ sub: /ext/subghz/Doorbells/Doorbell3.sub
 sub: /ext/subghz/Doorbells/Doorbell4.sub
 sub: /ext/subghz/Doorbells/Doorbell5.sub
 sub: /ext/subghz/Doorbells/DoorbellFM.sub
+sub: /ext/subghz/Doorbells/Elepowstar_Doorbell/Elepowstar_doorbell.sub
 sub: /ext/subghz/Doorbells/GE_2Melody_Doorbell/GE_Doorbell_dingdong.sub
 sub: /ext/subghz/Doorbells/GE_Doorbell_19297.sub
 sub: /ext/subghz/Doorbells/Hampton_Bay.sub
