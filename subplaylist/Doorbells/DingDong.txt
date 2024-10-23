@@ -1,3 +1,4 @@
+sub: /ext/subghz/Door_Entry_Motion_Sensor_Chimes/KoreanBBQ_DoorChime.sub
 sub: /ext/subghz/Doorbells/1byone/1BYONE_ODEQH-0536.sub
 sub: /ext/subghz/Doorbells/AVANTEK/AVANTEK_CW11.sub
 sub: /ext/subghz/Doorbells/AVANTEK/AVANTEK_Mini_CB11_Repeating.sub
@@ -26,7 +27,8 @@ sub: /ext/subghz/Doorbells/Construction_Market/doorbell08.sub
 sub: /ext/subghz/Doorbells/Construction_Market/doorbell09.sub
 sub: /ext/subghz/Doorbells/Construction_Market/doorbell10.sub
 sub: /ext/subghz/Doorbells/Construction_Market/doorbell11.sub
-sub: /ext/subghz/Doorbells/Dongguan_Smart Hero_Electronics/Doorbell999.sub
+sub: /ext/subghz/Doorbells/Dollar_General_Pro_Essentials/Doorbell.sub
+sub: /ext/subghz/Doorbells/Dongguan_Smart_Hero_Electronics/Doorbell999.sub
 sub: /ext/subghz/Doorbells/Doorbell0.sub
 sub: /ext/subghz/Doorbells/Doorbell1.sub
 sub: /ext/subghz/Doorbells/Doorbell2.sub
@@ -34,17 +36,22 @@ sub: /ext/subghz/Doorbells/Doorbell3.sub
 sub: /ext/subghz/Doorbells/Doorbell4.sub
 sub: /ext/subghz/Doorbells/Doorbell5.sub
 sub: /ext/subghz/Doorbells/DoorbellFM.sub
-sub: /ext/subghz/Doorbells/Elepowstar_Doorbell/Elepowstar_doorbell.sub
 sub: /ext/subghz/Doorbells/GE_2Melody_Doorbell/GE_Doorbell_dingdong.sub
 sub: /ext/subghz/Doorbells/GE_Doorbell_19297.sub
-sub: /ext/subghz/Doorbells/Hard Head/Hard Head doorbell.sub
+sub: /ext/subghz/Doorbells/Hampton_Bay.sub
+sub: /ext/subghz/Doorbells/Hard_Head/Hard_Head_doorbell.sub
 sub: /ext/subghz/Doorbells/Hiemkaup/Heimkaup.sub
 sub: /ext/subghz/Doorbells/KellJ_And_Company/Cleverio/Cleverio_Kjell_o_Company_Doorbell.sub
 sub: /ext/subghz/Doorbells/KlikAanKlikUit-Doorbel(NL).sub
 sub: /ext/subghz/Doorbells/My_doorway.sub
+sub: /ext/subghz/Doorbells/M520_Wireless_Doorbell_Receiver/doorbell_438022.sub
+sub: /ext/subghz/Doorbells/M520_Wireless_Doorbell_Receiver/doorbell_47B132.sub
 sub: /ext/subghz/Doorbells/Nedis/NEDIS_DOORB212BK.sub
 sub: /ext/subghz/Doorbells/Sadotech_Doorbell.sub
 sub: /ext/subghz/Doorbells/Sonnette_Maison_Doorbell.sub
+sub: /ext/subghz/Doorbells/STI-3353_Doorbell/STI_3353_doorbell.sub
+sub: /ext/subghz/Doorbells/STI-3353_Doorbell/STI_3353_doorbell_2.sub
+sub: /ext/subghz/Doorbells/Surfou/Surfou_wireless_doorbell.sub
 sub: /ext/subghz/Doorbells/TECKNET/TECKNET_DoorBell.sub
 sub: /ext/subghz/Doorbells/W727/W727_1.sub
 sub: /ext/subghz/Doorbells/W727/W727_2.sub
