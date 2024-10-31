@@ -1,49 +1,6 @@
 sub: /ext/subghz/Remote_Outlet_Switches/Capstone_WRCO-RM/button_1.sub
 sub: /ext/subghz/Remote_Outlet_Switches/Capstone_WRCO-RM/button_2.sub
 sub: /ext/subghz/Remote_Outlet_Switches/Capstone_WRCO-RM/button_3.sub
-sub: /ext/subghz/Remote_Outlet_Switches/Dewenwils/J_1.sub
-sub: /ext/subghz/Remote_Outlet_Switches/Dewenwils/J_2.sub
-sub: /ext/subghz/Remote_Outlet_Switches/Dewenwils/J_3.sub
-sub: /ext/subghz/Remote_Outlet_Switches/Dewenwils/J_4.sub
-sub: /ext/subghz/Remote_Outlet_Switches/Dewenwils/J_5.sub
-sub: /ext/subghz/Remote_Outlet_Switches/Telefunken/T_1.sub
-sub: /ext/subghz/Remote_Outlet_Switches/Telefunken/T_2.sub
-sub: /ext/subghz/Remote_Outlet_Switches/Telefunken/T_3.sub
-sub: /ext/subghz/Remote_Outlet_Switches/Vivanco/V_1.sub
-sub: /ext/subghz/Remote_Outlet_Switches/Vivanco/V_2.sub
-sub: /ext/subghz/Remote_Outlet_Switches/Vivanco/V_3.sub
-sub: /ext/subghz/Remote_Outlet_Switches/Vivanco/V_4.sub
-sub: /ext/subghz/Remote_Outlet_Switches/KaKu/1_OFF_kaku.sub
-sub: /ext/subghz/Remote_Outlet_Switches/Etekcity_Zap_3VX/1_off.sub
-sub: /ext/subghz/Remote_Outlet_Switches/EverFlourish/1_OFF.sub
-sub: /ext/subghz/Remote_Outlet_Switches/Powerfix_RCB-I_3600R/1_OFF.sub
-sub: /ext/subghz/Remote_Outlet_Switches/Voltman_DIO041050/1_off.sub
-sub: /ext/subghz/Remote_Outlet_Switches/KaKu/2_OFF_kaku.sub
-sub: /ext/subghz/Remote_Outlet_Switches/Etekcity_Zap_3VX/2_off.sub
-sub: /ext/subghz/Remote_Outlet_Switches/EverFlourish/2_OFF.sub
-sub: /ext/subghz/Remote_Outlet_Switches/Powerfix_RCB-I_3600R/2_OFF.sub
-sub: /ext/subghz/Remote_Outlet_Switches/Voltman_DIO041050/2_off.sub
-sub: /ext/subghz/Remote_Outlet_Switches/KaKu/3_OFF_kaku.sub
-sub: /ext/subghz/Remote_Outlet_Switches/Etekcity_Zap_3VX/3_off.sub
-sub: /ext/subghz/Remote_Outlet_Switches/EverFlourish/3_OFF.sub
-sub: /ext/subghz/Remote_Outlet_Switches/Powerfix_RCB-I_3600R/3_OFF.sub
-sub: /ext/subghz/Remote_Outlet_Switches/Voltman_DIO041050/3_off.sub
-sub: /ext/subghz/Remote_Outlet_Switches/Etekcity_Zap_3VX/4_off.sub
-sub: /ext/subghz/Remote_Outlet_Switches/Powerfix_RCB-I_3600R/4_OFF.sub
-sub: /ext/subghz/Remote_Outlet_Switches/Voltman_DIO041050/4_off.sub
-sub: /ext/subghz/Remote_Outlet_Switches/Voltman_DIO041050/5_off.sub
-sub: /ext/subghz/Remote_Outlet_Switches/Etekcity_Zap_3VX/All_off.sub
-sub: /ext/subghz/Remote_Outlet_Switches/Nexa_PE3-1500/All_off.sub
-sub: /ext/subghz/Remote_Outlet_Switches/Powerfix_RCB-I_3600R/ALL_OFF.sub
-sub: /ext/subghz/Remote_Outlet_Switches/Intertek_ES1513U/Button1_off.sub
-sub: /ext/subghz/Remote_Outlet_Switches/Intertek_ES1513U/Button2_off.sub
-sub: /ext/subghz/Remote_Outlet_Switches/Intertek_ES1513U/Button3_off.sub
-sub: /ext/subghz/Remote_Outlet_Switches/Kab/TR-016/channel_C_1_off.sub
-sub: /ext/subghz/Remote_Outlet_Switches/Kab/TR-016/channel_C_2_off.sub
-sub: /ext/subghz/Remote_Outlet_Switches/Kab/TR-016/channel_C_3_off.sub
-sub: /ext/subghz/Remote_Outlet_Switches/Kab/TR-011/channel_D_1_off.sub
-sub: /ext/subghz/Remote_Outlet_Switches/Kab/TR-011/channel_D_2_off.sub
-sub: /ext/subghz/Remote_Outlet_Switches/Kab/TR-011/channel_D_3_off.sub
 sub: /ext/subghz/Remote_Outlet_Switches/Chacon_54647TX/I_1_off.sub
 sub: /ext/subghz/Remote_Outlet_Switches/Chacon_54647TX/I_2_off.sub
 sub: /ext/subghz/Remote_Outlet_Switches/Chacon_54647TX/I_3_off.sub
@@ -60,14 +17,74 @@ sub: /ext/subghz/Remote_Outlet_Switches/Chacon_54647TX/IV_1_off.sub
 sub: /ext/subghz/Remote_Outlet_Switches/Chacon_54647TX/IV_2_off.sub
 sub: /ext/subghz/Remote_Outlet_Switches/Chacon_54647TX/IV_3_off.sub
 sub: /ext/subghz/Remote_Outlet_Switches/Chacon_54647TX/IV_4_off.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Chacon_54893/1 off.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Chacon_54893/2 off.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Chacon_54893/3 off.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Chacon_54893/4 off.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Chacon_54893/5 off.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Chacon_54893/6 off.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Chacon_54893/7 off.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Chacon_54893/8 off.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Chacon_54893/9 off.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Chacon_54893/10 off.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Chacon_54893/11 off.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Chacon_54893/12 off.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Chacon_54893/13 off.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Chacon_54893/14 off.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Chacon_54893/15 off.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Chacon_54893/16 off.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Chacon_54893/ALL off.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Defiant_Outlet/Off_1.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Defiant_Outlet/Off_2.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Defiant_Outlet/Off_3.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Dewenwils/J_1.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Dewenwils/J_2.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Dewenwils/J_3.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Dewenwils/J_4.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Dewenwils/J_5.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Etekcity_Zap_3VX/1_off.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Etekcity_Zap_3VX/2_off.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Etekcity_Zap_3VX/3_off.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Etekcity_Zap_3VX/4_off.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Etekcity_Zap_3VX/All_off.sub
+sub: /ext/subghz/Remote_Outlet_Switches/EverFlourish/1_OFF.sub
+sub: /ext/subghz/Remote_Outlet_Switches/EverFlourish/2_OFF.sub
+sub: /ext/subghz/Remote_Outlet_Switches/EverFlourish/3_OFF.sub
+sub: /ext/subghz/Remote_Outlet_Switches/First_Alert-FA200/Off.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Intertek_ES1513U/Button1_off.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Intertek_ES1513U/Button2_off.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Intertek_ES1513U/Button3_off.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Kab/TR-016/channel_C_1_off.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Kab/TR-016/channel_C_2_off.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Kab/TR-016/channel_C_3_off.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Kab/TR-011/channel_D_1_off.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Kab/TR-011/channel_D_2_off.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Kab/TR-011/channel_D_3_off.sub
+sub: /ext/subghz/Remote_Outlet_Switches/KaKu/1_OFF_kaku.sub
+sub: /ext/subghz/Remote_Outlet_Switches/KaKu/2_OFF_kaku.sub
+sub: /ext/subghz/Remote_Outlet_Switches/KaKu/3_OFF_kaku.sub
+sub: /ext/subghz/Remote_Outlet_Switches/MasterElectrician_TR-026A/Off.sub
 sub: /ext/subghz/Remote_Outlet_Switches/Mumbi_Remote_Outlets_432.92MHz/Mumbi_all_off.sub
 sub: /ext/subghz/Remote_Outlet_Switches/Mumbi_Remote_Outlets_432.92MHz/Mumbi_ChA_off.sub
 sub: /ext/subghz/Remote_Outlet_Switches/Mumbi_Remote_Outlets_432.92MHz/Mumbi_ChB_off.sub
 sub: /ext/subghz/Remote_Outlet_Switches/Mumbi_Remote_Outlets_432.92MHz/Mumbi_ChC_off.sub
 sub: /ext/subghz/Remote_Outlet_Switches/Mumbi_Remote_Outlets_432.92MHz/Mumbi_ChD_off.sub
-sub: /ext/subghz/Remote_Outlet_Switches/Defiant_Outlet/Off_1.sub
-sub: /ext/subghz/Remote_Outlet_Switches/Defiant_Outlet/Off_2.sub
-sub: /ext/subghz/Remote_Outlet_Switches/Defiant_Outlet/Off_3.sub
-sub: /ext/subghz/Remote_Outlet_Switches/First_Alert-FA200/Off.sub
-sub: /ext/subghz/Remote_Outlet_Switches/MasterElectrician_TR-026A/Off.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Nexa_PE3-1500/All_off.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Powerfix_RCB-I_3600R/1_OFF.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Powerfix_RCB-I_3600R/2_OFF.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Powerfix_RCB-I_3600R/3_OFF.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Powerfix_RCB-I_3600R/4_OFF.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Powerfix_RCB-I_3600R/ALL_OFF.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Telefunken/T_1.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Telefunken/T_2.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Telefunken/T_3.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Vivanco/V_1.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Vivanco/V_2.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Vivanco/V_3.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Vivanco/V_4.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Voltman_DIO041050/1_off.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Voltman_DIO041050/2_off.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Voltman_DIO041050/3_off.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Voltman_DIO041050/4_off.sub
+sub: /ext/subghz/Remote_Outlet_Switches/Voltman_DIO041050/5_off.sub
 sub: /ext/subghz/Remote_Outlet_Switches/Woods_Remote_Outlet/Off.sub
