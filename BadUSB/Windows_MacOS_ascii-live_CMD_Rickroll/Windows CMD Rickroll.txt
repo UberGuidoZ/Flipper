@@ -1,0 +1,16 @@
+REM This is BadUSB CMD Rickroll script for Windows Made by: PhoenixGod101 (https://github.com/PhoenixGod101)
+
+REM Open windows cmd
+DELAY 1000
+GUI r
+DELAY 500
+STRING cmd
+DELAY 500
+ENTER
+DELAY 1000
+
+REM Play rickroll (https://github.com/hugomd/ascii-live)
+STRING curl ascii.live/rick
+DELAY 500
+ENTER
+DEFAULT_DELAY 50
