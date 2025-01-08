@@ -1,6 +1,6 @@
 PLEASE READ
 
-ME (PhoenixGod101), hugomd OR UberGuidoZ WILL BE HELD RESPONSIBLE FOR ANY DAMAGES, THESE FILES ARE SAFE AND ANY HARM WILL BE THE USERS FAULT!!!
+ME (PhoenixGod101), hugomd OR UberGuidoZ WILL NOT BE HELD RESPONSIBLE FOR ANY DAMAGES, THESE FILES ARE SAFE AND ANY HARM WILL BE THE USERS FAULT!!!
 
 These two rickroll BadUSB files were created by PhoenixGod101 on GitHub
 (https://github.com/PhoenixGod101)
