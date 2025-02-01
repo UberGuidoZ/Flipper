@@ -8,7 +8,6 @@
 - [99 Bottles (By bolknote)](https://github.com/bolknote/99-Flipper)
 - [Air Arkanoid  v1.1 (By DrZlo13)](https://github.com/flipperdevices/flipperzero-good-faps/pull/141) `Req: Video Game Module By Flipper Devices`
 - [Air Labyrinth v0.1 (By jamisonderek)](https://github.com/jamisonderek/flipper-zero-tutorials/tree/main/vgm/apps/air_labyrinth) `Req: Video Game Module By Flipper Devices`
-- [Air Level v1.0 (By jamisonderek)](https://github.com/jamisonderek/flipper-zero-tutorials/tree/main/vgm/air_level) `Req: Video Game Module By Flipper Devices`
 - [Apple Grabber v0.1 (By d7d8)](https://github.com/d7d8/apple-grabber)
 - [Arkanoid v1.2 (By gotnull)](https://github.com/gotnull/flipperzero-firmware-wPlugins)
 - [Asteroids v1.2 (By antirez)](https://github.com/antirez/flipper-asteroids)
@@ -20,6 +19,7 @@
 - [Cells Lab v0.1 (By PilotOfAsuka)](https://github.com/PilotOfAsuka/Cells-lab-on-Flipper-Zero)
 - [Chess v1.12 (By xtruan)](https://github.com/xtruan/flipper-chess)
 - [Chess Clock (By ihatecsv)](https://github.com/ihatecsv/flipper_chess_clock)
+- [Cigarette v0.1.2 (By fuckmaz)](https://github.com/fuckmaz/flipper-cigarette)
 - [City Bloxx (By Milk-Cool)](https://github.com/Milk-Cool/fz-citybloxx)
 - [Cognizant Flipper v1.0 (By TunnelDog)](https://github.com/TunnelDog/Cognizant-Flipper)
 - [Color Guess v1.6 (By leedave)](https://github.com/leedave/Leeds-Flipper-Zero-Applications)
@@ -109,6 +109,7 @@
 
 ## Plugins
 
+- [Air Level v1.0 (By jamisonderek)](https://github.com/jamisonderek/flipper-zero-tutorials/tree/main/vgm/air_level) `Req: Video Game Module By Flipper Devices`
 - [Amusement IC v0.1 (By object-Object)](https://github.com/object-Object/flip_aic)
 - [Analog Clock v1.2 (By scrolltex)](https://github.com/scrolltex/flipper_analog_clock)
 - [Analog Output v0.1 (By jamisonderek)](https://github.com/jamisonderek/flipper-zero-tutorials/tree/main/gpio/dac)
