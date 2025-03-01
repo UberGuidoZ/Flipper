@@ -19,6 +19,7 @@ The rest of the buttons should be defined by the button `name:` listed in the or
 The first section are short press, the last with `HOLD` is long press (hold).
 
 Example of the configuration file:
+
 ```
 REMOTE: /ext/infrared/IRDB/TVs/Roku/Roku.ir
 UP: Up

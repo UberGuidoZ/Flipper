@@ -49,7 +49,7 @@ def convert(contents: bytes) -> Tuple[str, int]:
 
     page = []
     for i in range(len(contents) - 1):
-        byte = contents[i : i + 1].hex()
+        byte = contents[i: i + 1].hex()
         page.append(byte)
 
         if len(page) == 4:
@@ -58,7 +58,8 @@ def convert(contents: bytes) -> Tuple[str, int]:
             page_count += 1
 
     # we may have an unfilled page. This needs to be filled out and appended
-    logging.debug(f"We have an unfilled final page: {page} with length {len(page)}")
+    logging.debug(
+        f"We have an unfilled final page: {page} with length {len(page)}")
     if len(page) > 0:
         # pad with zeroes
         for i in range(len(page) - 1, 3):
@@ -76,10 +77,10 @@ def get_uid(contents: bytes) -> str:
     """
     page = []
     for i in range(3):
-        byte = contents[i : i + 1].hex()
+        byte = contents[i: i + 1].hex()
         page.append(byte)
     for i in range(4, 8):
-        byte = contents[i : i + 1].hex()
+        byte = contents[i: i + 1].hex()
         page.append(byte)
 
     return " ".join(page).upper()
@@ -128,12 +129,15 @@ def convert_file(input_path: str, output_path: str):
         with open(input_path, "rb") as file:
             contents = file.read()
             name = os.path.split(input_path)[1]
-            write_output(name.split(".bin")[0], assemble_code(contents), output_path)
+            write_output(name.split(".bin")[
+                         0], assemble_code(contents), output_path)
 
     elif input_extension == ".nfc":
-        logging.warning(f"Seems like {input_path} may already be Flipper-compatible!")
+        logging.warning(
+            f"Seems like {input_path} may already be Flipper-compatible!")
     else:
-        logging.info(f"{input_path} doesn't seem like a relevant file, skipping")
+        logging.info(
+            f"{input_path} doesn't seem like a relevant file, skipping")
 
 
 def process(path: str, output_path: str):
@@ -147,7 +151,8 @@ def process(path: str, output_path: str):
     else:
         for filename in os.listdir(path):
             new_path = os.path.join(path, filename)
-            logging.debug(f"Current file: {filename}; Current path: {new_path}")
+            logging.debug(
+                f"Current file: {filename}; Current path: {new_path}")
 
             if os.path.isfile(path):
                 convert_file(path, output_path)
