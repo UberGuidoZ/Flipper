@@ -1,4 +1,4 @@
-# AmiiboFlipperConverter https://github.com/Lucaslhm/AmiiboFlipperConverter
+# AmiiboFlipperConverter <https://github.com/Lucaslhm/AmiiboFlipperConverter>
 
 Also added FlipMiibo.py that was included in the Animal Crossing folder.
 
@@ -11,7 +11,6 @@ You can target a specific file by appending a path to the end of the call as suc
 You can target a directory full of amiibos by passing a path such that `amiiboconvert.py *path to directory*`
 
 You can also use the amiibos i've generated already.
-
 
 The original code was created in the Flipper Discord by Friendartiste
 
