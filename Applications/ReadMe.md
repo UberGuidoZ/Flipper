@@ -3,8 +3,9 @@
 ## [Some links to authors and descriptions here](https://github.com/UberGuidoZ/Flipper/tree/main/Applications/Custom%20(UL%2C%20RM%2C%20XFW)#readme)
 
 ---
-*** **Unofficial FAP Store is here! [You gotta check it out at FlipC.org](https://flipc.org/)** ***<br>
-From [Aleksey Korolev](https://github.com/playmean) comes a quick and easy way to install FAP files.
+
+*****Unofficial FAP Store is here! [You gotta check it out at FlipC.org](https://flipc.org/)*****<br>
+From [Aleksey Korolev](https://github.com/playmean) comes a quick and easy way to install FAP files
 ---
 
 The long-awaited addition of loading plugins (applications) from the SD card is here thanks to some hard work by the Official Flipper devteam. Anna/hedger released a FAP pack with some pre-built plugins, ready to go. Check out the [Official documentation](https://github.com/flipperdevices/flipperzero-firmware/blob/dev/documentation/AppsOnSDCard.md) for more info.
@@ -33,28 +34,32 @@ Now simply navigate to the application you'd like to load and center click it!
 To exit and/or load something else, simply use the BACK button.
 
 -----
+
 # Building applications
-## Here are some resources on getting started creating and building FAPS.
+
+## Here are some resources on getting started creating and building FAPS
 
 ### Official documentation
-https://github.com/flipperdevices/flipperzero-firmware/blob/dev/documentation/AppsOnSDCard.md
+<https://github.com/flipperdevices/flipperzero-firmware/blob/dev/documentation/AppsOnSDCard.md>
 
 ### uFBT - micro Flipper Build Tool
-https://github.com/flipperdevices/flipperzero-ufbt
+<https://github.com/flipperdevices/flipperzero-ufbt>
 
 ### Dev documentation by at-manos(outdated)
-https://flipper.atmanos.com/docs/category/overview
+<https://flipper.atmanos.com/docs/category/overview>
 
 ### Flipper plugin tutorial
-By DroomOne: https://github.com/DroomOne/Flipper-Plugin-Tutorial<br>
-By giolaq: https://blog.giolaq.dev/hello-world-of-flipper-zero (The repo that goes with giolaq's blog: https://github.com/giolaq/helloflipper )<br>
-By csBlueChip: https://github.com/csBlueChip/FlipperZero_plugin_howto
+
+By DroomOne: <https://github.com/DroomOne/Flipper-Plugin-Tutorial><br>
+By giolaq: <https://blog.giolaq.dev/hello-world-of-flipper-zero> (The repo that goes with giolaq's blog: <https://github.com/giolaq/helloflipper> )<br>
+By csBlueChip: <https://github.com/csBlueChip/FlipperZero_plugin_howto>
 
 ## Hello world examples
-By zmactep: https://github.com/zmactep/flipperzero-hello-world <br>
-By ASoldo: https://github.com/ASoldo/hello_world <br>
-By mervburger: https://github.com/mervburger/flipper_helloworld <br>
-A rust implimentation by baakeydow: https://github.com/baakeydow/flipper0-rust-hello-world <br>
+
+By zmactep: <https://github.com/zmactep/flipperzero-hello-world> <br>
+By ASoldo: <https://github.com/ASoldo/hello_world> <br>
+By mervburger: <https://github.com/mervburger/flipper_helloworld> <br>
+A rust implimentation by baakeydow: <https://github.com/baakeydow/flipper0-rust-hello-world> <br>
 
 -----
 
