@@ -1,20 +1,18 @@
 # Flipper Application Files (FAPs)
+
 ## Compare your firmware API version with API version in releases to avoid compatibility issues
 
 #### [Download .zip file by using this link, unpack, and copy only specific apps folders or specific apps onto your microSD into apps folder](https://github.com/xMasterX/all-the-plugins/releases/latest)
-
 
 ---
 
 Apps contains changes needed to compile them on latest firmware, fixes has been done by @xMasterX
 
-
-## Thank you to the authors!
+## Thank you to the authors
 
 The Flipper and its community wouldn't be as rich as it is without your contributions and support. Thank you for all you have done.
 
 ### Apps checked & updated at `27 Jul 06:07 GMT +3`
-
 
 # Default pack
 
@@ -26,7 +24,7 @@ The Flipper and its community wouldn't be as rich as it is without your contribu
   <img src="https://img.shields.io/badge/None-%23FF0000?style=flat-square"> - not in the catalog
 </details>
 
-### The default package includes all applications from [official](https://github.com/flipperdevices/flipperzero-good-faps) developers:
+### The default package includes all applications from [official](https://github.com/flipperdevices/flipperzero-good-faps) developers
 
 | Name | <div style="width:100px">Category</div> | Remark | <div style="width:70px">Catalog</div> |
 |---|:---:|---|:---:|
@@ -48,7 +46,7 @@ The Flipper and its community wouldn't be as rich as it is without your contribu
 | Air Arkanoid | ![Games Badge] | [by DrZlo13](https://github.com/flipperdevices/flipperzero-good-faps/pull/141/files) | [![Official Badge]](https://lab.flipper.net/apps/air_arkanoid) |
 | Music Player | ![Media Badge] |  | [![Official Badge]](https://lab.flipper.net/apps/music_player) |
 
-### Community and Unleashed Apps in default pack:
+### Community and Unleashed Apps in default pack
 
 | Name | <div style="width:100px">Category</div> | Author | Remark | <div style="width:70px">Catalog</div> |
 |---|:---:|---|---|:---:|
@@ -112,7 +110,9 @@ The Flipper and its community wouldn't be as rich as it is without your contribu
 | JetPack Joyride | ![Games Badge] | [by timstrasser](https://github.com/timstrasser) |  | [![Author Badge]](https://lab.flipper.net/apps/jetpack_game) |
 
 ---
+
 # Extra pack
+
 | Name | <div style="width:100px">Category</div> | Original author<br>or Source | Remark | <div style="width:70px">Catalog</div> |
 |---|:---:|---|---|:---:|
 | BT Camera Trigger | ![BT Badge] | [by Nem0oo](https://github.com/Nem0oo/flipper-zero-bluetooth-trigger) |  | [![UFW Badge]](https://lab.flipper.net/apps/bt_trigger) |
@@ -263,12 +263,12 @@ The Flipper and its community wouldn't be as rich as it is without your contribu
 | USB Consumer Control | ![USB Badge] | [by WithSecureLabs](https://github.com/WithSecureLabs/usb-consumer-control/tree/main) |  | ![None Badge] |
 | HID File Transfer | ![USB Badge] | [by Kavakuo](https://github.com/Kavakuo/HID-File-Transfer) | Get client app in [original repo](https://github.com/Kavakuo/HID-File-Transfer) | ![None Badge] |
 
-
 #### Catalog links checked at `01 Sep 16:24 GMT +3`
 
---- 
+---
 
 Useful source of files for flipper, also has apps pack:
+
 ## [UberGuidoZ Playground - Large collection of files - Github](https://github.com/UberGuidoZ/Flipper)
 
 [RFID Badge]: https://custom-icon-badges.demolab.com/badge/-RFID-rgb(255,244,147)?style=for-the-badge&logo=fz-rfid&logoColor=black
