@@ -24,25 +24,25 @@ jobs:
 
     - name: Create a temporary directory for snapshot
       run: |
-        mkdir -p /tmp/repo-snapshot
-        rsync -av --exclude='.git' --exclude='.gitmodules' --exclude='.github' ./ /tmp/repo-snapshot/
+        mkdir -p /tmp/snapshot
+        rsync -av --exclude='.git' --exclude='.gitmodules' --exclude='.github' ./ /tmp/snapshot/
         rm -rf *
 
     - name: Create tar.zst snapshot
       run: |
-        cd /tmp/repo-snapshot
-        tar -I 'zstd -T0 -19' -cvf "$GITHUB_WORKSPACE/repo-snapshot-${{ steps.date.outputs.date }}.tar.zst" *
+        cd /tmp/snapshot
+        tar -I 'zstd -T0 -19' -cvf "$GITHUB_WORKSPACE/snapshot-${{ steps.date.outputs.date }}.tar.zst" *
         
     - name: Upload snapshot artifact
       uses: actions/upload-artifact@v4
       with:
-        name: repo-snapshot
-        path: repo-snapshot-${{ steps.date.outputs.date }}.tar.zst
+        name: snapshot
+        path: snapshot-${{ steps.date.outputs.date }}.tar.zst
 
     - name: Check if archive > 2GB and split if needed
       id: check_size
       run: |
-        file="repo-snapshot-${{ steps.date.outputs.date }}.tar.zst"
+        file="snapshot-${{ steps.date.outputs.date }}.tar.zst"
         max_size=$((2 * 1024 * 1024 * 1024))  # 2GB in bytes
         actual_size=$(stat -c%s "$file")
         if [ "$actual_size" -ge "$max_size" ]; then
@@ -61,9 +61,9 @@ jobs:
           Automated snapshot for ${{ steps.date.outputs.date }}.
           Note: If archive was split due to size >2GB use cat to join them together
           ```
-          cat repo-snapshot-${{ steps.date.outputs.date }}.tar.zst.* > combined-${{ steps.date.outputs.date }}.tar.zst
+          cat snapshot-${{ steps.date.outputs.date }}.tar.zst.* > snapshot-${{ steps.date.outputs.date }}.tar.zst
           ```
         files: |
-          ${{ steps.check_size.outputs.split == 'true' && format('repo-snapshot-{0}.tar.zst.*', steps.date.outputs.date) || format('repo-snapshot-{0}.tar.zst', steps.date.outputs.date) }}
+          ${{ steps.check_size.outputs.split == 'true' && format('snapshot-{0}.tar.zst.*', steps.date.outputs.date) || format('snapshot-{0}.tar.zst', steps.date.outputs.date) }}
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
