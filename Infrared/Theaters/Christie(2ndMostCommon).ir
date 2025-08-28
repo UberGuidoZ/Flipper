@@ -1,0 +1,84 @@
+Filetype: IR signals file
+Version: 1
+
+#######################################################################################################################################
+#######################################################################################################################################
+#################                         This script was created by github.com/MarkCyber                          ####################         
+#################             Christie is the 2nd most common projector used in a movie theater/cinema             ####################
+#################                             DO NOT USE THIS SCRIPT FOR MALICIOUS PURPOSES                        ####################
+#################                I WILL NOT BE HELD RESPONSIBLE FOR YOUR ACTIONS, DONT DO STUPID SHIT              ####################
+#################                                           Thank you, enjoy :)                                    ####################
+#################                                    -  https://github.com/markcyber                               ####################
+#######################################################################################################################################
+#######################################################################################################################################
+
+# Christie Projector Control (Fully Featured)
+
+Filetype: IR signals file
+Version: 1
+
+name: Power_On
+type: parsed
+protocol: NEC
+address: 8E 71 00 00
+command: 10 EF 00 00
+
+name: Power_Off
+type: parsed
+protocol: NEC
+address: 8E 71 00 00
+command: 11 EE 00 00
+
+name: Power_Toggle
+type: parsed
+protocol: NEC
+address: 8E 71 00 00
+command: 12 ED 00 00
+
+name: Input
+type: parsed
+protocol: NEC
+address: 8E 71 00 00
+command: 58 A7 00 00
+
+name: Video_Mute
+type: parsed
+protocol: NEC
+address: 8E 71 00 00
+command: 2F D0 00 00
+
+name: Menu
+type: parsed
+protocol: NEC
+address: 8E 71 00 00
+command: 48 B7 00 00
+
+name: Enter
+type: parsed
+protocol: NEC
+address: 8E 71 00 00
+command: 4C B3 00 00
+
+name: Up
+type: parsed
+protocol: NEC
+address: 8E 71 00 00
+command: 49 B6 00 00
+
+name: Down
+type: parsed
+protocol: NEC
+address: 8E 71 00 00
+command: 4D B2 00 00
+
+name: Left
+type: parsed
+protocol: NEC
+address: 8E 71 00 00
+command: 4A B5 00 00
+
+name: Right
+type: parsed
+protocol: NEC
+address: 8E 71 00 00
+command: 4B B4 00 00
