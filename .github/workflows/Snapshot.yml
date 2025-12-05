@@ -6,6 +6,7 @@ on:
     - cron: '0 0 1 * *'  # Runs at 00:00 UTC on the 1st of every month
 
 env:
+  user: FalsePhilosopher
   repo: Flipper
 
 jobs:
@@ -61,10 +62,11 @@ jobs:
         body: |
           Automated snapshot for ${{ steps.date.outputs.date }}.
           ```
-          gh release download -p '${{ env.repo }}-*.tzst.*' -R FalsePhilosopher/${{ env.repo }}
-          cat ${{ env.repo }}-*.tzst.* > ${{ env.repo }}.tzst
+          gh release download -p '${{ env.repo }}-*.tzst.*' -R ${{ env.user }}/${{ env.repo }}
+          arc=$(ls ${{ env.repo }}-*.tzst.* | head -n 1 | sed 's/\.[^.]*$//')
+          cat ${{ env.repo }}-*.tzst.* > "$arc"
           rm ${{ env.repo }}-*.tzst.*
-          ratarmount ${{ env.repo }}.tzst
+          ratarmount "$arc"
           ```
         files: |
           ${{ steps.check_size.outputs.split == 'true' && format('{0}-{1}.tzst.*', env.repo, steps.date.outputs.date) || format('{0}-{1}.tzst', env.repo, steps.date.outputs.date) }}
