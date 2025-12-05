@@ -44,14 +44,36 @@ jobs:
     - name: Check if archive > 2GB and split if needed
       id: check_size
       run: |
-        file="${{ env.repo }}-${{ steps.date.outputs.date }}.tzst"
-        max_size=$((2 * 1024 * 1024 * 1024))  # 2GB in bytes
-        actual_size=$(stat -c%s "$file")
+        filename="${{ env.repo }}-${{ steps.date.outputs.date }}.tzst"
+        max_size=$((2 * 1024 * 1024 * 1024))
+        actual_size=$(stat -c%s "$filename")
+
         if [ "$actual_size" -ge "$max_size" ]; then
-          split -b 1996M "$file" "${file}."
-          echo "split=true" >> "$GITHUB_OUTPUT"
+          split -b 1996M "$filename" "${filename}."
+          rm "$filename"
+          echo "pattern=${filename}.*" >> "$GITHUB_OUTPUT"
+          {
+            echo 'body<<EOF'
+            echo 'Automated snapshot for ${{ steps.date.outputs.date }}.'
+            echo '```'
+            echo "gh release download -p '${filename}.*' -R ${{ env.user }}/${{ env.repo }}"
+            echo "cat ${filename}.* > \"${filename}\""
+            echo "rm ${filename}.*"
+            echo "ratarmount \"${filename}\""
+            echo '```'
+            echo 'EOF'
+          } >> "$GITHUB_OUTPUT"
         else
-          echo "split=false" >> "$GITHUB_OUTPUT"
+          echo "pattern=${filename}" >> "$GITHUB_OUTPUT"
+          {
+            echo 'body<<EOF'
+            echo 'Automated snapshot for ${{ steps.date.outputs.date }}.'
+            echo '```'
+            echo "gh release download -p '${filename}' -R ${{ env.user }}/${{ env.repo }}"
+            echo "ratarmount \"${filename}\""
+            echo '```'
+            echo 'EOF'
+          } >> "$GITHUB_OUTPUT"
         fi
 
     - name: Create GitHub Release
@@ -59,16 +81,7 @@ jobs:
       with:
         name: "Snapshot ${{ steps.date.outputs.date }}"
         tag_name: "Snapshot-${{ steps.date.outputs.date }}"
-        body: |
-          Automated snapshot for ${{ steps.date.outputs.date }}.
-          ```
-          gh release download -p '${{ env.repo }}-*.tzst.*' -R ${{ env.user }}/${{ env.repo }}
-          arc=$(ls ${{ env.repo }}-*.tzst.* | head -n 1 | sed 's/\.[^.]*$//')
-          cat ${{ env.repo }}-*.tzst.* > "$arc"
-          rm ${{ env.repo }}-*.tzst.*
-          ratarmount "$arc"
-          ```
-        files: |
-          ${{ steps.check_size.outputs.split == 'true' && format('{0}-{1}.tzst.*', env.repo, steps.date.outputs.date) || format('{0}-{1}.tzst', env.repo, steps.date.outputs.date) }}
+        body: ${{ steps.check_size.outputs.body }}
+        files: ${{ steps.check_size.outputs.pattern }}
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
