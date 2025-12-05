@@ -8,7 +8,7 @@ This script will open any website on an iPhone.
 
 ## How to use?
 
-This script is not plug and play. Insert the url that you want to open right here "STRING www.yourwebsite.com"
+This script is not plug and play. Insert the url that you want to open right here "STRING www.google.com"
 
 
 
