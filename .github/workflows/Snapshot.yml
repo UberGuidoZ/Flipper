@@ -39,12 +39,6 @@ jobs:
       run: |
         cd /tmp/snapshot
         tar -I 'zeekstd -l 19' -cvf "$GITHUB_WORKSPACE/${{ env.repo }}-${{ steps.date.outputs.date }}.tzst" *
-        
-    - name: Upload snapshot artifact
-      uses: actions/upload-artifact@v4
-      with:
-        name: snapshot
-        path: ${{ env.repo }}-${{ steps.date.outputs.date }}.tzst
 
     - name: Check if archive > 2GB and split if needed
       id: check_size
