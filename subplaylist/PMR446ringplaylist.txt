@@ -1,0 +1,16 @@
+sub: /ext/subghz/PMR446_ring_subghz/Ring_PMR_channel_1.sub
+sub: /ext/subghz/PMR446_ring_subghz/Ring_PMR_channel_2.sub
+sub: /ext/subghz/PMR446_ring_subghz/Ring_PMR_channel_3.sub
+sub: /ext/subghz/PMR446_ring_subghz/Ring_PMR_channel_4.sub
+sub: /ext/subghz/PMR446_ring_subghz/Ring_PMR_channel_5.sub
+sub: /ext/subghz/PMR446_ring_subghz/Ring_PMR_channel_6.sub
+sub: /ext/subghz/PMR446_ring_subghz/Ring_PMR_channel_7.sub
+sub: /ext/subghz/PMR446_ring_subghz/Ring_PMR_channel_8.sub
+sub: /ext/subghz/PMR446_ring_subghz/Ring_PMR_channel_9.sub
+sub: /ext/subghz/PMR446_ring_subghz/Ring_PMR_channel_10.sub
+sub: /ext/subghz/PMR446_ring_subghz/Ring_PMR_channel_11.sub
+sub: /ext/subghz/PMR446_ring_subghz/Ring_PMR_channel_12.sub
+sub: /ext/subghz/PMR446_ring_subghz/Ring_PMR_channel_13.sub
+sub: /ext/subghz/PMR446_ring_subghz/Ring_PMR_channel_14.sub
+sub: /ext/subghz/PMR446_ring_subghz/Ring_PMR_channel_15.sub
+sub: /ext/subghz/PMR446_ring_subghz/Ring_PMR_channel_16.sub
