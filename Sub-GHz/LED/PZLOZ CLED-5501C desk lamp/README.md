@@ -4,6 +4,8 @@ More info: [Amazon](https://www.amazon.com/Led-Desk-Lamp-Office-Home/dp/B0BRCJL4
 
 Captured by: [Grim1313](https://github.com/Grim1313) in Bin RAW mode with AM650 modulation
 
+/// Note: if the commands don't work, you may need to perform the remote control pairing procedure according to the device manual. ///
+
 Buttons:
 * On - off
 * Night light
