@@ -2,7 +2,7 @@
 
 By: UberGuidoZ | https://github.com/UberGuidoZ/Flipper
 
-Code: Applications/My_Creations/gpio_logic_analyzer
+Code: [Applications/UberGuidoZ/gpio_logic_analyzer/Source](https://github.com/UberGuidoZ/Flipper/tree/main/Applications/UberGuidoZ/gpio_logic_analyzer/Source)
 
 A logic analyzer that monitors all 8 exposed GPIO pins on the Flipper Zero
 18-pin header, draws live scrolling waveforms on the 128x64 OLED, and logs
@@ -12,11 +12,17 @@ every sample to a timestamped CSV file on the SD card, with instructions.
 
 ## Quick start
 
-1. Build and side-load (see Building section below) or grab from App Store.
+1. Grab FAP from [Release folder](https://github.com/UberGuidoZ/Flipper/tree/main/Applications/UberGuidoZ/gpio_logic_analyzer/Release), build and side-load (see Building section below), or download from App Store.
 2. On the Flipper, navigate to **Apps > GPIO > GPIO Logic Analyzer**.
 3. Select **Instructions** to review the voltage limits and control map.
 4. Select **Start Analyzer** to begin capture.
 5. CSV logs are written automatically to `/ext/gpio_analyzer/` while capturing.
+
+---
+
+## Screenshots
+
+Screenshots of the various screens [can be found here](https://github.com/UberGuidoZ/Flipper/tree/main/Applications/UberGuidoZ/gpio_logic_analyzer/Screenshots).
 
 ---
 
@@ -35,14 +41,14 @@ every sample to a timestamped CSV file on the SD card, with instructions.
 ```
 GPIO Analyzer         RUN 100Hz*
 ---------------------------------
-A7 [~~~~|____|~~~~]         H
-A6 [____|~~~~|____]         L
-A4 [________________]       L
-B3 [~~~~~~~~~~~~~~~~]       H
-B2 [________________]       L
-C3 [~~|___|~~~|____]        H
-C1 [__|~~~|______]          L
-C0 [~~~|___|~~]             H
+A7 [~~~~|__________|~~~~]   H
+A6 [_______|~~~~|_______]   L
+A4 [____________________]   L
+B3 [~~~~~~~~~~~~~~~~~~~~]   H
+B2 [____________________]   L
+C3 [~~~~|_____|~~~~|____]   L
+C1 [_____|~~~~~~~|______]   L
+C0 [~~~~~~|______|~~~~~~]   H
 ```
 
 - Each row is one GPIO pin.
@@ -79,14 +85,14 @@ C0 [~~~|___|~~]             H
 |  7  | C1    | PC1      |  Pin 15    | 3.3V max      |
 |  8  | C0    | PC0      |  Pin 16    | 3.3V max      |
 
-All pins are configured as digital inputs with no internal pull resistor.
+All pins are configured as digital inputs with no internal pull resistor.<br>
 They are returned to high-impedance analog mode when you exit the analyzer.
 
-**Voltage warning**: Do not connect signals above 3.3V to any pin except PA4.
-No pull-up or pull-down resistors are enabled. Add external resistors to
+**Voltage warning**: Do not connect signals above 3.3V to any pin except PA4.<br>
+No pull-up or pull-down resistors are enabled. Add external resistors to<br>
 your circuit if the signals you are probing have undefined idle states.
 
-FAILURE TO FOLLOW THIS WARNING COULD CAUSE FLIPPER TO LEAK MAGIC SMOKE!
+***FAILURE TO FOLLOW THIS WARNING COULD CAUSE FLIPPER TO LEAK MAGIC SMOKE!***
 
 ---
 
@@ -155,9 +161,7 @@ To build inside the full firmware tree instead:
 ./fbt fap_gpio_logic_analyzer
 ```
 
-To add a custom icon, drop a 10x10 pixel PNG named `gpio_analyzer_icon.png`
-into this directory and add `fap_icon="gpio_analyzer_icon.png"` to
-`application.fam`.
+To change the custom icon, drop a 10x10 pixel PNG named `gpio_analyzer_icon.png` overwriting the existing.
 
 ---
 
