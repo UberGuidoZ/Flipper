@@ -1,0 +1,10 @@
+App(
+    appid="gpio_logic_analyzer",
+    name="GPIO Logic Analyzer",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="gpio_analyzer_app",
+    requires=["gui", "storage", "notification"],
+    stack_size=3 * 1024,
+    fap_category="GPIO",
+    fap_version=(2, 0),
+)

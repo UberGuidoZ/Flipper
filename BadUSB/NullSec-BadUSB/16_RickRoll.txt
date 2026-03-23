@@ -1,0 +1,10 @@
+REM ========================================
+REM NullSec Flipper Zero BadUSB
+REM Payload: RickRoll Prank
+REM Target: Windows 10/11
+REM ========================================
+DELAY 1000
+GUI r
+DELAY 500
+STRING https://www.youtube.com/watch?v=dQw4w9WgXcQ
+ENTER

