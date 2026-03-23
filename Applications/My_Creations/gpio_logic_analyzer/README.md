@@ -1,1 +1,0 @@
-# Flipper Apps by UberGuidoZ
