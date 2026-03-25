@@ -1,0 +1,11 @@
+App(
+    appid="smart_meter_monitor",
+    name="Smart Meter Monitor",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="smart_meter_app",
+    requires=["gui", "notification"],
+    stack_size=3 * 1024,
+    fap_category="Sub-GHz",
+    fap_version=(1, 11),
+    fap_icon="smart_meter_icon.png",
+)
