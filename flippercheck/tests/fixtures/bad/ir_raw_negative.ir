@@ -1,0 +1,8 @@
+Filetype: IR signals file
+Version: 1
+#
+name: X
+type: raw
+frequency: 38000
+duty_cycle: 0.33
+data: 500 -400 500

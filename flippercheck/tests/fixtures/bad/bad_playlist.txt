@@ -1,0 +1,4 @@
+# my playlist
+sub: /ext/subghz/a.sub
+sub /ext/subghz/b.sub
+ir: /ext/remotes/x.png

@@ -1,0 +1,5 @@
+Filetype: IR signals file
+Version: 1
+#
+name: POWER
+type: bogus
