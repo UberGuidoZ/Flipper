@@ -1,0 +1,14 @@
+Filetype: IR library file
+Version: 1
+#
+name: POWER
+type: parsed
+protocol: NECext
+address: 00 7F 00 00
+command: 15 EA 00 00
+#
+name: POWER
+type: parsed
+protocol: SIRC
+address: 01 00 00 00
+command: 15 00 00 00
