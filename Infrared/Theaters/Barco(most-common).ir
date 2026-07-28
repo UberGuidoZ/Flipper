@@ -1,0 +1,81 @@
+#######################################################################################################################################
+#######################################################################################################################################
+#################                         This script was created by github.com/MarkCyber                          ####################         
+#################                   Barco is the most common projector used in a movie theater/cinema              ####################
+#################                             DO NOT USE THIS SCRIPT FOR MALICIOUS PURPOSES                        ####################
+#################                I WILL NOT BE HELD RESPONSIBLE FOR YOUR ACTIONS, DONT DO STUPID SHIT              ####################
+#################                                           Thank you, enjoy :)                                    ####################
+#################                                    -  https://github.com/markcyber                               ####################
+#######################################################################################################################################
+#######################################################################################################################################
+
+Filetype: IR signals file
+Version: 1
+
+# Barco Projector Control (Fully Featured)
+
+name: Power_On
+type: parsed
+protocol: NEC
+address: 19 00 00 00
+command: 0B F4 00 00
+
+name: Power_Off
+type: parsed
+protocol: NEC
+address: 19 00 00 00
+command: 0C F3 00 00
+
+name: Power_Toggle
+type: parsed
+protocol: NEC
+address: 19 00 00 00
+command: 0F F0 00 00
+
+name: Input
+type: parsed
+protocol: NEC
+address: 19 00 00 00
+command: 50 AF 00 00
+
+name: Video_Mute
+type: parsed
+protocol: NEC
+address: 19 00 00 00
+command: 1E E1 00 00
+
+name: Menu
+type: parsed
+protocol: NEC
+address: 19 00 00 00
+command: 40 BF 00 00
+
+name: Enter
+type: parsed
+protocol: NEC
+address: 19 00 00 00
+command: 44 BB 00 00
+
+name: Up
+type: parsed
+protocol: NEC
+address: 19 00 00 00
+command: 41 BE 00 00
+
+name: Down
+type: parsed
+protocol: NEC
+address: 19 00 00 00
+command: 45 BA 00 00
+
+name: Left
+type: parsed
+protocol: NEC
+address: 19 00 00 00
+command: 42 BD 00 00
+
+name: Right
+type: parsed
+protocol: NEC
+address: 19 00 00 00
+command: 43 BC 00 00
