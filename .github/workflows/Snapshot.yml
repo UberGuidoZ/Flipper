@@ -1,0 +1,87 @@
+name: Monthly Snapshot
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 1 * *'  # Runs at 00:00 UTC on the 1st of every month
+
+env:
+  user: FalsePhilosopher
+  repo: Flipper
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repo with submodules
+      uses: actions/checkout@v4
+      with:
+        submodules: recursive
+
+    - name: Set date variables
+      id: date
+      run: echo "date=$(date +'%Y-%m-%d')" >> "$GITHUB_OUTPUT"
+
+    - name: Install zeekstd
+      run: |
+        git clone https://github.com/rorosen/zeekstd.git /tmp/zeekstd
+        cd /tmp/zeekstd
+        cargo build -p zeekstd_cli --release
+        sudo cp ./target/release/zeekstd /usr/local/bin/
+
+    - name: Create a temporary directory for snapshot
+      run: |
+        mkdir -p /tmp/snapshot
+        rsync -av --exclude='.git' --exclude='.gitmodules' --exclude='.github' ./ /tmp/snapshot/
+        rm -rf *
+
+    - name: Create tzst snapshot
+      run: |
+        cd /tmp/snapshot
+        tar -I 'zeekstd -l 19' -cvf "$GITHUB_WORKSPACE/${{ env.repo }}-${{ steps.date.outputs.date }}.tzst" *
+
+    - name: Check if archive > 2GB and split if needed
+      id: check_size
+      run: |
+        filename="${{ env.repo }}-${{ steps.date.outputs.date }}.tzst"
+        max_size=$((2 * 1024 * 1024 * 1024))
+        actual_size=$(stat -c%s "$filename")
+
+        if [ "$actual_size" -ge "$max_size" ]; then
+          split -b 1996M "$filename" "${filename}."
+          rm "$filename"
+          echo "pattern=${filename}.*" >> "$GITHUB_OUTPUT"
+          {
+            echo 'body<<EOF'
+            echo 'Automated snapshot for ${{ steps.date.outputs.date }}.'
+            echo '```'
+            echo "gh release download -p '${filename}.*' -R ${{ env.user }}/${{ env.repo }}"
+            echo "cat ${filename}.* > \"${filename}\""
+            echo "rm ${filename}.*"
+            echo "ratarmount \"${filename}\""
+            echo '```'
+            echo 'EOF'
+          } >> "$GITHUB_OUTPUT"
+        else
+          echo "pattern=${filename}" >> "$GITHUB_OUTPUT"
+          {
+            echo 'body<<EOF'
+            echo 'Automated snapshot for ${{ steps.date.outputs.date }}.'
+            echo '```'
+            echo "gh release download -p '${filename}' -R ${{ env.user }}/${{ env.repo }}"
+            echo "ratarmount \"${filename}\""
+            echo '```'
+            echo 'EOF'
+          } >> "$GITHUB_OUTPUT"
+        fi
+
+    - name: Create GitHub Release
+      uses: softprops/action-gh-release@v2
+      with:
+        name: "Snapshot ${{ steps.date.outputs.date }}"
+        tag_name: "Snapshot-${{ steps.date.outputs.date }}"
+        body: ${{ steps.check_size.outputs.body }}
+        files: ${{ steps.check_size.outputs.pattern }}
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
