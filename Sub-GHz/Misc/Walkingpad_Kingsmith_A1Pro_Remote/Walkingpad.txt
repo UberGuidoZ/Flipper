@@ -1,0 +1,10 @@
+Filetype: Flipper SubRem Map file
+Version: 1
+UP: /ext/subghz/Walkingpad/Plus.sub
+DOWN: /ext/subghz/Walkingpad/Minus.sub
+RIGHT: /ext/subghz/Walkingpad/Mode.sub
+OK: /ext/subghz/Walkingpad/StartStop.sub
+ULABEL: Plus
+DLABEL: Minus
+RLABEL: Mode
+OKLABEL: StartStop
