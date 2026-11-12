@@ -6,7 +6,7 @@ IC: 10924A-FA0158
 Fan manufacturer: Harbor Breeze<br>
 Remote manufacturer: DawnSun Electronic Technology
 
-Tested unit: [Better Homes & Gardens 52" Pearce Black Indoor Ceiling Fan with Light](https://www.walmart.com/ip/Better-Homes-Gardens-52-Pearce-Black-Indoor-Ceiling-Fan-with-Light-Adjustable-Color-Temperature-Reverse-Airflow/1924936716)
+Tested unit: [Better Homes & Gardens 52 in Indoor Ceiling Fan with Light, 5 Blades, Remote Control & Reverse Airflow](https://www.walmart.com/ip/Better-Homes-Gardens-52-Gold-Modern-Indoor-Ceiling-Fan-with-Light-5-Blades-Remote-Reverse-Airflow/1264336583?classType=VARIANT)
 
 Captured on the default DIP switches. Captures were manually cleaned to align with the codes.
 
